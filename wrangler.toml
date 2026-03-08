@@ -1,0 +1,14 @@
+name = "thoughtfulindia"
+compatibility_date = "2024-01-01"
+
+# Cloudflare Pages static site
+# Build command  : npm run build:cf
+# Output dir     : out
+# Node version   : 20
+#
+# Images are NOT in out/ — they are served from R2 via _redirects proxy:
+#   /images/* → https://<R2_PUBLIC_URL>/images/:splat
+# See public/_redirects (update R2_PUBLIC_BASE_URL before first deploy)
+
+[site]
+bucket = "./out"

@@ -1,0 +1,23 @@
+# Cloudflare Pages _headers
+
+# Long-lived cache for hashed JS/CSS bundles
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Images proxied from R2 — cache at edge for 1 week
+/images/*
+  Cache-Control: public, max-age=604800, s-maxage=604800
+
+# HTML pages — always revalidate
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Root and clean URLs
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Security headers for all pages
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin

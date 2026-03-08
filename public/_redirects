@@ -1,0 +1,11 @@
+# Cloudflare Pages _redirects
+# Proxy /images/* to R2 bucket — transparent to the browser (200 status, no URL change)
+# Replace R2_PUBLIC_BASE_URL with your actual R2 public bucket URL, e.g.:
+#   https://pub-XXXX.r2.dev  (R2 dev URL from CF dashboard)
+#   OR https://images.thoughtfulindia.com  (custom domain on bucket)
+#
+# IMPORTANT: R2 bucket must have Public Access enabled.
+# Files in R2 are stored at: images/YYYY/MM/filename.jpg
+# So /images/2015/07/foo.jpg → R2_PUBLIC_BASE_URL/images/2015/07/foo.jpg
+
+/images/* R2_PUBLIC_BASE_URL/images/:splat 200
