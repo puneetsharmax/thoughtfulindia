@@ -1,6 +1,8 @@
 import { MetadataRoute } from 'next'
 import { getAllPosts, getAllCategories, slugifyCategory } from '@/lib/posts'
 
+export const dynamic = 'force-static'
+
 const BASE_URL = 'https://thoughtfulindia.com'
 
 export default function sitemap(): MetadataRoute.Sitemap {
