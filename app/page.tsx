@@ -1,4 +1,5 @@
 import { getAllPosts, getAllCategories, slugifyCategory } from '@/lib/posts'
+import { formatCategoryName } from '@/lib/utils'
 import PostCard from '@/components/PostCard'
 import Link from 'next/link'
 
@@ -24,7 +25,7 @@ export default function HomePage() {
             href={`/category/${slugifyCategory(cat.name)}/`}
             className="text-xs font-semibold uppercase tracking-widest text-stone-600 hover:text-red-700 transition-colors"
           >
-            {cat.name}
+            {formatCategoryName(cat.name)}
           </Link>
         ))}
       </div>

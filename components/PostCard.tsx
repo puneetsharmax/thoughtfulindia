@@ -3,7 +3,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import type { Post } from '@/lib/posts'
-import { slugifyCategory } from '@/lib/utils'
+import { slugifyCategory, formatCategoryName } from '@/lib/utils'
 import { useState } from 'react'
 
 interface PostCardProps {
@@ -70,7 +70,7 @@ export default function PostCard({ post, variant = 'default' }: PostCardProps) {
             <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
               {categorySlug && firstCat && (
                 <span className="mb-2 inline-block bg-red-700 px-2 py-0.5 text-xs font-semibold uppercase tracking-widest">
-                  {firstCat}
+                  {formatCategoryName(firstCat)}
                 </span>
               )}
               <h2 className="mt-2 font-serif text-2xl font-bold leading-tight md:text-3xl group-hover:underline decoration-1 underline-offset-2">
@@ -99,7 +99,7 @@ export default function PostCard({ post, variant = 'default' }: PostCardProps) {
               href={`/category/${categorySlug}`}
               className="text-xs font-semibold uppercase tracking-widest text-red-700 hover:text-red-900"
             >
-              {firstCat}
+              {formatCategoryName(firstCat)}
             </Link>
           )}
           <Link href={`/post/${post.slug}`}>
@@ -121,7 +121,7 @@ export default function PostCard({ post, variant = 'default' }: PostCardProps) {
             href={`/category/${categorySlug}`}
             className="text-xs font-semibold uppercase tracking-widest text-red-700 hover:text-red-900"
           >
-            {firstCat}
+            {formatCategoryName(firstCat)}
           </Link>
         )}
         <Link href={`/post/${post.slug}`}>
@@ -144,7 +144,7 @@ export default function PostCard({ post, variant = 'default' }: PostCardProps) {
             href={`/category/${categorySlug}`}
             className="text-xs font-semibold uppercase tracking-widest text-red-700 hover:text-red-900"
           >
-            {firstCat}
+            {formatCategoryName(firstCat)}
           </Link>
         )}
         <Link href={`/post/${post.slug}`}>

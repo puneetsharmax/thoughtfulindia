@@ -1,4 +1,5 @@
 import { getAllPosts, getPostContent, slugifyCategory } from '@/lib/posts'
+import { formatCategoryName } from '@/lib/utils'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import PostCard from '@/components/PostCard'
@@ -69,7 +70,7 @@ export default async function ArticlePage({ params }: Props) {
                   href={`/category/${slugifyCategory(post.categories[0])}/`}
                   className="hover:text-red-700"
                 >
-                  {post.categories[0]}
+                  {formatCategoryName(post.categories[0])}
                 </Link>
               </>
             )}
@@ -80,7 +81,7 @@ export default async function ArticlePage({ params }: Props) {
               href={`/category/${slugifyCategory(post.categories[0])}/`}
               className="mb-3 inline-block bg-red-700 px-2 py-0.5 text-xs font-semibold uppercase tracking-widest text-white hover:bg-red-800"
             >
-              {post.categories[0]}
+              {formatCategoryName(post.categories[0])}
             </Link>
           )}
 

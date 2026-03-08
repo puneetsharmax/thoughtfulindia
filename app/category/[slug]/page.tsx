@@ -1,4 +1,5 @@
 import { getAllPosts, getAllCategories, slugifyCategory } from '@/lib/posts'
+import { formatCategoryName } from '@/lib/utils'
 import { notFound } from 'next/navigation'
 import PostCard from '@/components/PostCard'
 import Link from 'next/link'
@@ -26,8 +27,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const catName = slugToCategory(slug, cats)
   if (!catName) return { title: 'Not Found' }
   return {
-    title: catName,
-    description: `Read all ${catName} articles on Thoughtful India.`,
+    title: formatCategoryName(catName),
+    description: `Read all ${formatCategoryName(catName)} articles on Thoughtful India.`,
   }
 }
 
@@ -52,9 +53,9 @@ export default async function CategoryPage({ params }: Props) {
         <nav className="mb-2 text-xs text-stone-500">
           <Link href="/" className="hover:text-red-700">Home</Link>
           <span className="mx-2">›</span>
-          <span>{catName}</span>
+          <span>{formatCategoryName(catName)}</span>
         </nav>
-        <h1 className="font-serif text-4xl font-black text-stone-900">{catName}</h1>
+        <h1 className="font-serif text-4xl font-black text-stone-900">{formatCategoryName(catName)}</h1>
         <p className="mt-1 text-sm text-stone-500">{posts.length} articles</p>
       </div>
 
@@ -90,7 +91,7 @@ export default async function CategoryPage({ params }: Props) {
                         href={`/category/${slugifyCategory(cat.name)}/`}
                         className="flex items-center justify-between text-sm text-stone-700 hover:text-red-700"
                       >
-                        <span>{cat.name}</span>
+                        <span>{formatCategoryName(cat.name)}</span>
                         <span className="text-xs text-stone-400">{cat.count}</span>
                       </Link>
                     </li>

@@ -12,3 +12,21 @@ export function slugifyCategory(name: string): string {
     .replace(/-{2,}/g, '-')     // collapse double-dashes (e.g. from "Health & Spirituality")
     .replace(/^-|-$/g, '')      // trim leading/trailing dashes
 }
+
+/**
+ * Convert category names from ALL CAPS (frontmatter) to Title Case for display.
+ * E.g. "FEATURED STORIES" → "Featured Stories", "HEALTH & SPIRITUALITY" → "Health & Spirituality"
+ * Mixed-case names (e.g. "Children Corner") are returned as-is.
+ */
+export function formatCategoryName(name: string): string {
+  const letters = name.replace(/[^a-zA-Z]/g, '')
+  if (!letters.length) return name
+  const upperRatio = (name.match(/[A-Z]/g) || []).length / letters.length
+  if (upperRatio > 0.7) {
+    // Convert ALL CAPS to Title Case
+    return name
+      .toLowerCase()
+      .replace(/\b\w/g, (c) => c.toUpperCase())
+  }
+  return name
+}
