@@ -1,0 +1,44 @@
+---
+title: "Retro Reel by Sreepathy, Volume 19"
+date: "2013-05-28"
+slug: "retro-reel-by-sreepathy-volume-19"
+categories: ["BOLLYWOOD", "ENTERTAINMENT", "FEATURED STORIES", "LIFESTYLE"]
+tags: ["hyderabad Abids", "life", "movies", "naperville", "naperville diary", "Retro Reel", "sreepathy", "time"]
+featured_image: "/images/2013/05/RetroReel.jpg"
+draft: false
+---
+
+[caption id="attachment_9837" align="alignleft" width="180"][*](https://www.thoughtfulindia.com/2013/05/retro-reel-by-sreepathy-volume-18/retroreel-17/) Retro Reel is a column about movies, but not about the latest box-office releases. There will be aspects of review, but the column is intended more as a recommendation of good movies of different genres, with the sense of a retrospective – hence, the ‘Retro’ in the name. In a day and age when movies are projected digitally, the word “reel” may seem retrograde and outdated. Yet, no other word captures the imagery of a movie as “Reel”…Sreepathy is an unabashed movie buff who loves a well-told onscreen story. He has a list of about 450 must-watch movies, and Retro Reel is an attempt to share with friends of a similar bent of mind, some of the best movie-watching experiences he has had. He lives in Naperville with his wife and two sons.[/caption]
+
+*** * ***
+
+
+**Real to Reel to Real Life (Part 1 of 2)**
+
+**Art mirrors life, but when life portends art…***
+
+To twist things a bit, let me tell you the story ***about*** a movie before I tell you the story ***of  ***the movie. What follows though, is a true story.
+
+…It was a hot Saturday morning in June, 1996, when we were living in Hyderabad. We lived in the suburbs, rather far from *Abids*, which is one of the busiest and happening places in the city. That morning, I wanted to pick up a couple of books by PG Wodehouse – my all-time favorite humorist – from one of the few bookshops in *Abids *that carried those kinds of books in the city. I set out from home on my tan-colored LML-Vespa around 9:45 in the morning and reached the bookshop around 10:15, only to be told by the shop owner that his supplier was expected to deliver him the books after a couple of hours. I didn’t want to go home and come back again, and so there I was, in *Abids, *with a couple of hours to kill.
+
+I wandered about lazily and aimlessly, from one shop to the other, till the words “Morning Show” struck me…If you are familiar with Hyderabad, you would doubtless remember the twin-cinema-theatre complex of *Santosh-Sapna,* right in the middle of *Abids*. I don’t know if those cinema-halls still exist today, but growing up in the 1970s and 80s, it was a special treat watching a movie in those theatres – they were fancy, the ticket-prices were higher, and the air-conditioning actually worked! But that 1996 Saturday morning, ticket-price was not an issue since I had a wallet of my own money (not pocket-money rationed out by my mother) and I was particularly looking for a good air-conditioned place to pass my two hours.
+
+I arrived at the theatre complex, parked my scooter near those huge movie billboards, and looked around to see what was showing. I was in time for the morning shows that usually started around 11 o’clock, and my eye caught a small movie-poster with a rather unusual name for a Hindi film showing at *Sapna*. I checked to see if I was familiar with the movie’s director, cast of actors, or music director. None of them rang a bell; all were completely unknown. I looked at the poster more carefully. One of its corners read, “Released only in Morning Shows”.  Now, that could only mean that the movie didn’t get a proper release either because it was a complete dud or an artsy, offbeat one made on a shoestring budget. Nevertheless, I decided to check it out – if nothing else, I could at least catch forty winks in a dark, cool place away from the sweltering heat.
+
+I parked my Vespa in the theater’s regular scooter-stand, and went to buy a ticket. There were hardly three or four people in the ticket-line, which only raised more suspicion that the flick was a dud. The short ticket-line disappeared quickly, and before long, it was my turn to buy the ticket at the counter. I put my hand into my back-pocket, pulled out my wallet, and was counting the money, when this guy appeared out of nowhere, walked past me, thrust his hand into the small window, and asked for a ticket...
+
+Life is a string of mostly humdrum moments and events – millions upon millions of them. That day was no different. The hot *Hyderabadi* morning, my scooter-ride into the city, the delayed arrival of the books, the aimless wandering about, the decision about the morning show, and even this man who jumped the ticket-line in front of me – all were humdrum. Yet, into those millions of humdrum moments, life has a way of sneaking in one that is pregnant with the nasty variety of the dramatic and of hurtling you against something that’s not in your grain. A pregnant moment that you can neither recognize nor be ready for…
+
+It was one such moment when that man thrust his hand into the window and asked for a ticket. It all happened so fast, but I sized him up quickly in that flash of a moment – he was not a youth, but a young man, maybe a couple of years younger than me. He was about my height, but much slighter – lean and wiry is how I’d describe him. He didn’t seem too educated or polished, but was wearing fairly decent clothes. But in that flash, I did notice a kind of steeliness about him – not the steeliness of character, but the hard-boiled roughness of the street. That very limited input should’ve been enough for me to ignore the man’s minor lapse in public etiquette and let the moment be a humdrum one. But no! Cursed as I am with the streak of not taking nonsense dished out to me, how could I suppress it in that instant?
+
+And so, I asked him, in Hyderabad’s typical *Dakhni* dialect, *“Kya karrein aap, main dikhayi nai deraun?”* (“What are you doing, can’t you see me?”). The man removed his hand from the ticket-window and gave me a long stare for what seemed an eternity – the fact that there was no one else near the window, except for the ticket-seller behind it, gave him all the time in the world to stare me down. Something about the sheer rage in that stare told me faintly that the dreaded pregnant moment was about to deliver badly. Very quietly, he said, *“Kaun hai miyaan tu? Main kaun hoon maaloom?” *(“Who do you think you are? Do you know who I am?”). So saying, he grabbed my hand and put it on top of his pants, near where he had worn a big belt covered by his untucked shirt. My hand cupped a small metallic object – what, I couldn’t imagine in that instant, but soon realized was a gun. He kept my hand there for what seemed another eternity, and let it go. He put his hand back into the ticket-window, took his ticket, and went away after giving me another stare. What went through me was a mix of anger, defeat, frustration and fear as I felt cold sweat trickle down my back…And the sweat had nothing to do with the *Hyderabadi* heat...Sometimes, a whiff of violence carries more terror than actual violence itself.
+
+As I bought my ticket, the man behind the counter tried to placate me saying that he was relieved nothing untoward happened. Sagely, he told me that a *‘padha-likha aadmi’ *(educated man) like me shouldn’t get mixed up with that kind of a man – he was a local hoodlum, a *goonda* with quite a few open charges of assault and attempted murder against him in the nearby police stations. He was, the ticket-seller told me, someone who collected ‘*hafta’ *(protection money) from over 100 small-time businesses in and around the area, often at gun-point.
+
+I walked into the cinema-hall, not sure if I wanted either to avoid running into that man or to see him and tell him precisely what I thought about him and his ilk. I was just in time for the movie’s start; settling into my seat, I saw the beginning credits appear, and caught the words, *“Based on a true story”.* The quality of the background song starting to play convinced me that this movie was no pushover, and if it was any indication, then I was in for an interesting two hours ahead. For the next fifteen minutes or so, I was absorbed by the movie’s unfolding story – that of a middle-class man going about his humdrum life; coming back from his humdrum office, having a humdrum fight with his wife, and going out into the night for a humdrum drink to give himself a break…
+
+My tryst with the thug at the ticket-window was all but forgotten till I saw what happened next onscreen. I froze, and a trickle of sweat rolled down my back. Again. This time, despite *Sapna’s* efficient air-conditioners…
+
+*To be continued in Part 2…*
+
+*PS: Write to me at *[*sreepathys@gmail.com*](mailto:sreepathys@gmail.com)* if you can guess what Hindi movie I am talking about.*

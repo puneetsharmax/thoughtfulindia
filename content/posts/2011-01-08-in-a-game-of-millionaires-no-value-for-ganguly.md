@@ -1,0 +1,30 @@
+---
+title: "In a game of millionaires no value for Ganguly"
+date: "2011-01-08"
+slug: "in-a-game-of-millionaires-no-value-for-ganguly"
+categories: ["INTERESTING", "LIFESTYLE"]
+tags: ["cricket", "india", "IPL", "SRK"]
+featured_image: ""
+draft: false
+---
+
+**Hot topic on Twitter that nobody is willing to pay for Dada.**
+
+[caption id="attachment_1272" align="aligncenter" width="310" caption="Gautam Gambhir was the most expensive player in the 2011 IPL auction, going to Kolkata Knight Riders for $2.4m"][![gambir](/images/2011/01/gambhir.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/gambhir.jpg)[/caption]
+
+Shaking off months of controversy, litigation and uncertainty, cricket's biggest, richest and most brassy domestic event, the Indian Premier League, sprang to life again, breaking records and banks on the first day of auction weekend in Bangalore.
+From the 88 players auctioned today, 15 new millionaires were created by the ten IPL franchises that will compete in season four, but there was another sorry bunch of 16 players who were left unsold when the auction finally ended at 6 pm.
+Minutes after his name was the first to be randomly pulled out from a list of 'marquee players' at 11 am on Saturday morning, Gautam Gambhir earned the highest playing contract in cricket, $2.4m for two years with the Kolkata Knight Riders.
+The Kolkata franchise then made its intentions clear by first winning allrounder Yusuf Pathan with the second highest bid for the day, $2.1m and spending another $1.1m on South Africa allrounder Jacques Kallis by lunchtime. As the only team to have three millionaires on their payroll, Kolkata spent more than half of its $9m salary cap on three players in the early phase of the auction.
+The day was marked by big spends on Indian players, with seven of the 15 millonaires being home grown. The highest earning overseas player was Sri Lanka's Mahela Jayawardene, who was signed on for $1.5m by Kochi, one of the two new franchises that will compete in the ten-team competition starting on April 8. The other new entrant, Pune Warriors, spent $2.1m on Robin Uthappa for its highest purchase, and would probably think of $1.8m on Yuvraj Singh as one of the bargain buys.
+Most of the teams used the auction to completely overhaul their personnel in an attempt to avoid the mistakes of the previous three seasons. Going against that grain, Chennai Super Kings, the current IPL Champions as well as the Champions League T20 winners, retained as many as eight players from its successful campaigns. Four of those were retained before the auction, which cut their salary cap by half, but by the end of the day Chennai, which was perhaps the most infrequent bidder, had managed to both sign on key members of their old squad and stick to their restricted budget.
+The IPL, which has broad-based and transformed cricket's entire economy, once again produced unexpected and unorthodox changes of course. Sets of established senior cricketers like Brian Lara and Sourav Ganguly and current performers Chris Gayle, Mark Boucher, Luke Wright, Graeme Swann, James Anderson, (the last three were members of the England World Twenty20 winning team) Matt Prior, Ajantha Mendis and Tamim Iqbal all went unsold.
+Shaking off months of controversy, litigation and uncertainty, cricket's biggest, richest and most brassy domestic event, the Indian Premier League, sprang to life again, breaking records and banks on the first day of auction weekend in Bangalore.
+From the 88 players auctioned today, 15 new millionaires were created by the ten IPL franchises that will compete in season four, but there was another sorry bunch of 16 players who were left unsold when the auction finally ended at 6 pm.
+Minutes after his name was the first to be randomly pulled out from a list of 'marquee players' at 11 am on Saturday morning, Gautam Gambhir earned the highest playing contract in cricket, $2.4m for two years with the Kolkata Knight Riders.
+The Kolkata franchise then made its intentions clear by first winning allrounder Yusuf Pathan with the second highest bid for the day, $2.1m and spending another $1.1m on South Africa allrounder Jacques Kallis by lunchtime. As the only team to have three millionaires on their payroll, Kolkata spent more than half of its $9m salary cap on three players in the early phase of the auction.
+The day was marked by big spends on Indian players, with seven of the 15 millonaires being home grown. The highest earning overseas player was Sri Lanka's Mahela Jayawardene, who was signed on for $1.5m by Kochi, one of the two new franchises that will compete in the ten-team competition starting on April 8. The other new entrant, Pune Warriors, spent $2.1m on Robin Uthappa for its highest purchase, and would probably think of $1.8m on Yuvraj Singh as one of the bargain buys.
+Most of the teams used the auction to completely overhaul their personnel in an attempt to avoid the mistakes of the previous three seasons. Going against that grain, Chennai Super Kings, the current IPL Champions as well as the Champions League T20 winners, retained as many as eight players from its successful campaigns. Four of those were retained before the auction, which cut their salary cap by half, but by the end of the day Chennai, which was perhaps the most infrequent bidder, had managed to both sign on key members of their old squad and stick to their restricted budget.
+The IPL, which has broad-based and transformed cricket's entire economy, once again produced unexpected and unorthodox changes of course. Sets of established senior cricketers like Brian Lara and Sourav Ganguly and current performers Chris Gayle, Mark Boucher, Luke Wright, Graeme Swann, James Anderson, (the last three were members of the England World Twenty20 winning team) Matt Prior, Ajantha Mendis and Tamim Iqbal all went unsold.
+
+[Source](http://www.espncricinfo.com/indian-premier-league-2011/content/story/495956.html?wrappertype=print)

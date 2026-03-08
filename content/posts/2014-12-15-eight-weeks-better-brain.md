@@ -1,0 +1,29 @@
+---
+title: "Eight weeks to a better brain"
+date: "2014-12-15"
+slug: "eight-weeks-better-brain"
+categories: ["INTERESTING", "LIFESTYLE"]
+tags: ["change", "MR", "spending", "time"]
+featured_image: "/images/2014/12/brahmin.jpg"
+draft: false
+---
+
+Participating in an eight-week mindfulness meditation program appears to make measurable changes in brain regions associated with memory, sense of self, empathy, and stress. In a study that will appear in the Jan. 30 issue of [Psychiatry Research: Neuroimaging](http://www.elsevier.com/wps/find/journaldescription.cws_home/522789/description#description), a team led by Harvard-affiliated researchers at [Massachusetts General Hospital](http://www.massgeneral.org/) (MGH) reported the results of their study, the first to document meditation-produced changes over time in the brain’s gray matter.
+
+“Although the practice of meditation is associated with a sense of peacefulness and physical relaxation, practitioners have long claimed that meditation also provides cognitive and psychological benefits that persist throughout the day,” says study senior author [Sara Lazar](http://connects.catalyst.harvard.edu/profiles/profile/person/12961) of the MGH [Psychiatric Neuroimaging Research Program](http://www2.massgeneral.org/allpsych/psychneuro/psychneuroimaging.asp) and a [Harvard Medical School](http://hms.harvard.edu/hms/home.asp) instructor in psychology. “This study demonstrates that changes in brain structure may underlie some of these reported improvements and that people are not just feeling better because they are spending time relaxing.”
+
+Previous studies from Lazar’s group and others found structural differences between the brains of experienced meditation practitioners and individuals with no history of meditation, observing thickening of the cerebral cortex in areas associated with attention and emotional integration. But those investigations could not document that those differences were actually produced by meditation.
+
+For the current study, magnetic resonance (MR) images were taken of the brain structure of 16 study participants two weeks before and after they took part in the eight-week [Mindfulness-Based Stress Reduction (MBSR) Program](http://www.umassmed.edu/cfm/stress/index.aspx) at the[University of Massachusetts Center for Mindfulness](http://www.umassmed.edu/content.aspx?id=41252). In addition to weekly meetings that included practice of mindfulness meditation — which focuses on nonjudgmental awareness of sensations, feelings, and state of mind — participants received audio recordings for guided meditation practice and were asked to keep track of how much time they practiced each day. A set of MR brain images was also taken of a control group of nonmeditators over a similar time interval.
+
+Meditation group participants reported spending an average of 27 minutes each day practicing mindfulness exercises, and their responses to a mindfulness questionnaire indicated significant improvements compared with pre-participation responses. The analysis of MR images, which focused on areas where meditation-associated differences were seen in earlier studies, found increased gray-matter density in the hippocampus, known to be important for learning and memory, and in structures associated with self-awareness, compassion, and introspection.
+
+Participant-reported reductions in stress also were correlated with decreased gray-matter density in the amygdala, which is known to play an important role in anxiety and stress. Although no change was seen in a self-awareness-associated structure called the insula, which had been identified in earlier studies, the authors suggest that longer-term meditation practice might be needed to produce changes in that area. None of these changes were seen in the control group, indicating that they had not resulted merely from the passage of time.
+
+“It is fascinating to see the brain’s plasticity and that, by practicing meditation, we can play an active role in changing the brain and can increase our well-being and quality of life,” says [Britta Hölzel](http://www.nmr.mgh.harvard.edu/~britta/), first author of the paper and a research fellow at MGH and [Giessen University](http://www.uni-giessen.de/cms/target-groups/welcome/view%3fset_language=en) in Germany. “Other studies in different patient populations have shown that meditation can make significant improvements in a variety of symptoms, and we are now investigating the underlying mechanisms in the brain that facilitate this change.”
+
+[Amishi Jha](http://www.amishi.com/lab/people/), a [University of Miami](http://www.miami.edu/) neuroscientist who investigates mindfulness-training’s effects on individuals in high-stress situations, says, “These results shed light on the mechanisms of action of mindfulness-based training. They demonstrate that the first-person experience of stress can not only be reduced with an eight-week mindfulness training program but that this experiential change corresponds with structural changes in the amygdala, a finding that opens doors to many possibilities for further research on MBSR’s potential to protect against stress-related disorders, such as post-traumatic stress disorder.” Jha was not one of the study investigators.
+
+[James Carmody](http://www.umassmed.edu/behavmed/faculty/carmody.cfm) of the Center for Mindfulness at University of Massachusetts Medical School is one of the co-authors of the study, which was supported by the[National Institutes of Health](http://www.nih.gov/), the [British Broadcasting Company](http://www.bbc.co.uk/), and the [Mind and Life Institute](http://www.mindandlife.org/). For [more information](http://www.nmr.mgh.harvard.edu/~lazar/) on the work of Lazar’s team.
+
+[Source @harvard.edu](http://news.harvard.edu/gazette/story/2011/01/eight-weeks-to-a-better-brain/)

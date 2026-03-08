@@ -1,0 +1,39 @@
+---
+title: "Turmeric lowers the risk of heart attack after surgery"
+date: "2012-04-17"
+slug: "turmeric-lowers-the-risk-of-heart-attack-after-surgery"
+categories: ["FOOD", "HEALTH &amp; SPIRITUALITY", "INTERESTING", "LIFESTYLE"]
+tags: ["attacks", "Bharat Aggarwal", "Jawahar Mehta", "people"]
+featured_image: "/images/2012/04/turmeric-powder.jpg"
+draft: false
+---
+
+[![](/images/2012/04/turmeric-powder-246x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/turmeric-powder.jpg)Extracts from turmeric spice, known for their antioxidant and anti-inflammatory properties, may help ward off heart attacks in people who have had recent bypass surgery, according to a study from Thailand.
+
+During bypass surgery the heart muscle can be damaged by prolonged lack of blood flow, increasing the patient's risk of heart attack. But the new findings, published in the peer-reviewed American Journal of Cardiology, suggest that curcumins - the yellow pigment in turmeric - may ease those risks when added to traditional drug treatment.
+
+The conclusions are based on a relatively small group of subjects and needs to be confirmed in larger studies, said researchers led by Wanwarang Wongcharoen from Chiang Mai University. Turmeric extracts have long been used in traditional Chinese and Indian medicine.
+
+Research has suggested inflammation plays an important role in the development of a range of diseases, including heart disease, and curcumins could have an effect on those pathways, said Bharat Aggarwal, who studies the use of curcumins in cancer therapy at the MD Anderson Cancer Center in Houston, Texas.
+
+"It's very, very encouraging," said Aggarwal of the study, which he did not take part in.
+
+The researchers studied 121 patients who had non-emergency bypass surgery at their hospital between 2009 and 2011.
+
+Half of those patients were given one-gram curcumin capsules to take four times a day, starting three days before their surgery and continuing for five days afterwards. The other half took the same number of drug-free placebo capsules.
+
+The researchers found that during their post-bypass hospital stays, 13 percent of patients who'd been taking curcumins had a heart attack, compared to 30 percent in the placebo group.
+
+After accounting for any initial pre-surgery differences, Wongcharoen and his colleagues calculated that people on curcumins had a 65 percent lower chance of heart attack.
+
+Researchers said it's likely that the antioxidant and anti-inflammatory properties of curcumins may have helped limit heart damage in the patients.
+
+"Curcumin has for many years now been shown to reduce inflammation and to reduce oxygen toxicity or damage caused by free radicals in a number of experimental settings," said Jawahar Mehta, a cardiologist at the University of Arkansas for Medical Sciences in Little Rock, who didn't work on the study.
+
+"But that doesn't mean that this is a substitute for medication," he said, noting that drugs like aspirin, statins and beta blockers have been proven to help heart patients and people in the current study were taking those as well.
+
+One limitation was that the study was relatively small. Another is that while curcumins are thought to be safe, there could be side effects at very large doses.
+
+"Taken in moderation or used in cooking, (curcumins) are quite useful. But I wouldn't go to a health food store and start taking four grams of curcumin a day, as was done in this study," Mehta said.
+
+[Source://www.foxnews.com/](http://www.foxnews.com/health/2012/04/16/turmeric-extract-may-protect-heart-after-surgery-study/#ixzz1sK205L56)

@@ -1,0 +1,31 @@
+---
+title: "The Five Must Guys to Have Before Settling Down"
+date: "2011-07-11"
+slug: "the-five-must-guys-to-have-before-settling-down"
+categories: ["FEATURED STORIES", "RELATIONSHIPS"]
+tags: []
+featured_image: "/images/2011/07/5friends1.jpg"
+draft: false
+---
+
+I have always believed that Draupadi was lucky. After all, she was legalized as the wife of five men. She really didn't need to fake a headache when it got boring with the same guy. Moreover, I am sure none of them doubted her integrity when she waved goodbye to one and went off into the sunset with another. If we all had our way, we would have five guys at any given point of time. However, since we are not Draupadi, we should at least have five before we settle down with one.
+
+ 
+
+**[![](/images/2011/07/5friends.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/5friends.jpg)1. The Best Friend **- You would have known this guy for a very long time. He might even have had a crush on you at some point. But somewhere, you've never been attracted to him in that way and you don't want to lose him for a silly reason like sex. Your guy best friend is the one you turn to when you really don't want to tell your girlfriends exactly what you are thinking. He's the one who admires your black humour and praises your stupidity. He can take you out for ice cream when you're feeling low and buy you a drink when you want to get smashed. But he will always bring you home safely and still love you in the morning. Your guy best friend will cheer you up because he's always there. You need him because he's the one who will "complete" you. But he's the one you can't ever be in love with. Because that is not something, you feel from your heart.
+
+ 
+
+**[![](/images/2011/07/5friends1-300x206.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/5friends1.jpg)2. The Bad Boy **- Whether it is a biker or a commitment phobic, a smoker or an alcoholic, the bad boy is someone who cries out to women to look after him. His compulsive need to be different attracts women so much to him that they feel they are the only ones who can reform these men. The nurturing quality of women makes them vulnerable to these bad boys. And the men do reform. They stop their bad habits for a bit. They convince the women that they have changed, that they cannot live without these women and they will die if these women leave. Soon enough they pick up another bad habit even if they have given up an old one. Their need to be different, stand out, and seek attention makes them compulsively rebel. The bad boy makes a woman discover that no man can ever change. And even after she gets married, instead of getting frustrated with attempting to change her husband, she will remember this lesson and try another day.
+
+ 
+
+**3. The Ex **- This man came and swept you off your feet. He was charming, attractive, intelligent, and funny. Everything that you wanted and loved. There was a brief romance where you felt he loved you and everything was hunky dory. Then all of a sudden, it was over. After repeated calls, text messages and stalking on social networking sites, the dialogue ended and there was silence. It took you months to figure out if you had been the problem. You spend nights in analyzing the things you could have done to change his mind. And weekends are spent crying and watching re-runs at home since you have no place to go and you don't want sympathetic glances from your friends. The Ex is the Unrequited Love you feel was your True Love. The one that got away, the one that should have been your "soulmate." But it's not meant to be. The Ex was a part of your life because it was supposed to fill you up with something to do. It was a distraction to your boredom. It was a necessary relationship to make you understand that men will come and go but you need to be strong for yourself. The Ex always needs to happen. Only then can you have a Current.
+
+ 
+
+**4. The Love Buddy **- Fact: Dating has become difficult. By the time you ask people to set you up, you get ready, go on a date, enjoy the other person's company, and decide he is worth spending time with; a few years would have passed. In the meantime, hot showers and bubble baths are getting boring. You need more. You need a Man. That is when the love buddy comes in handy. This is a person who is very discreet. He has as much to lose as you do. He needs you to keep his secret as much as you never want this relationship getting out. He is the man who you can call just to fulfill your base need and continue with your life. He might not be a great conversationalist, or a great looker but he is awesome in bed. In fact, he should be so good that you don't need him for anything else. You don't need to go out for dinner and movies or take long walks and discuss books. This man is purely there for lust. You know you will never marry him and he knows you'll never ask for a commitment. He is the one who knows your body and you do not care whether he doesn't know your mind or soul. However, the joy of this relationship will last only until the time you have no emotional attachment. As soon as you feel you're getting entangled, it needs to stop and his number to be deleted permanently. It must never be spoken about. This is one skeleton you must take to your grave!
+
+**5. The Husband Variety **- Indian Moms always know the husband variety. That is why they are excellent at picking up the right boy for an arranged marriage. He is the one who is stable with a good career and a level head. In comparison to your flighty goals and loud laughter, this man will indulge you and tell you the pros and cons of what you're planning or even give you suggestions on what you should be planning. He will be caring with the parents, bond with your siblings and drive your drunken friends home at night. He will have conversation that makes sense and support you for the right reasons. The husband is the man who everyone will love. And you will love him back. He will be the one you should settle down with. The husband might not seem right "for now," but he will be the right one, forever.
+
+[Source://ibnlive.in.com](http://ibnlive.in.com/blogs/madhuribanerjee/2956/62470/the-5-guys-every-woman-should-have.html)

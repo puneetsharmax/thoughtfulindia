@@ -1,0 +1,30 @@
+---
+title: "Chai, Chat With Books"
+date: "2013-02-14"
+slug: "chai-chat-with-books-4"
+categories: ["BOOKS", "FEATURED STORIES", "LIFESTYLE", "NAPERVILLE DIARY"]
+tags: ["Aravind Adiga", "india", "life", "reading"]
+featured_image: "/images/2013/02/chai.jpg"
+draft: false
+---
+
+[caption id="attachment_9122" align="alignleft" width="150"]* “Chai, Chat with Books” is a small group of eight ladies who share their passion for reading over a cup of tea and lots of chaat/snacks. Our book club meeting is a time away from the daily grind of life – more like a “me-time”. All of us live in the Naperville area, and look forward to the monthly meetings. Keep reading ![/caption]
+
+ 
+
+***Book Of The Month : “The White Tiger” by Aravind Adiga
+***
+
+“Go to Old Delhi, and look at the way they keep chickens there in the market. Hundreds of pale hens and brightly colored roosters, stuffed tightly into wire-mesh cages. They see the organs of their brothers lying around them. They know they are next, yet they cannot rebel. They do not try to get out of the coop. The very same thing is done with humans in this country.”
+
+Aravind Adiga uses harsh words when he describes the servile attitude that the vast majority of poor Indians ![aravind_adiga](/images/2013/02/aravind_adiga-201x300.jpg)have towards the affluent elite class. He feels that centuries of exploitation have resulted in a society where the lower strata has assimilated submission into their very existence and allowed it to calcify and harden their weary bones. As Indians, it’s hard to come to terms with a book that portrays an unflattering picture of India. Our protective instincts surge forth and we try to smother the negativity with our protests and justifications. We sometimes ascribe ulterior motives to the author’s intentions and express indignation and outcry at the ugly light our heritage and culture is presented in. The above excerpt from ‘The White Tiger’ provides a sample from the book, which probes the underbelly of the Indian society and exposes a fairly grotesque view of its decaying entrails – the caste system that still thrives and flourishes in modern India.
+
+January’s Book Club meeting was hosted by me and as is customary, I had to provide the thought behind my book choice. When Aravind Adiga was awarded the Man Booker Prize for his debut novel, ‘The White Tiger’, I expected an erudite and urbane story from an alumnus of Columbia University and Oxford. However, I was surprised by the story that recounts a tale of class-struggle in the parallel feudal society which still exists in the interior recesses of India. It revolves around its protagonist, Balram Halwai, a low-caste villager who inherits the burden of the ‘have-nots’ in Indian society. The book is essentially about the journey of Balram from being an impoverished son of a rickshaw-puller to a successful entrepreneur in Bangalore, the cyber megalopolis of India. After reading the book, I had mixed feelings about it; I wasn’t sure whether to applaud its daring but eccentric voice or condemn it for its ‘ends-justify-the-means’ message. I picked the book because I felt that it would spark a lively discussion. And I was not disappointed.
+
+![caste-india-tech-support-cartoon](/images/2013/02/caste-india-tech-support-cartoon-264x300.jpg)At the beginning of the meeting, there was a clear division of the members into three groups: ‘Interesting-book-but-not-likeable’, ‘Neutral’ and ‘Loved-it!’ The first category’s response was based partly on the book’s India-bashing content and also for its focus on caste-war, rather than education, to achieve progress. Some of us felt that based on our experiences, especially in the southern states of India, caste is not a major barrier any more. The situation has almost reversed there, in that being a member of a higher caste sometimes reduces the opportunities for progress. Some of us could not identify with the central character as he was crude, eccentric, and pompous. The neutral group appreciated the story but felt that at some level the story was too simplistic in its second half where Balram pulls off a coup of sorts by bluffing to the police and getting away with murdering an industrialist. He goes on to become a prosperous entrepreneur based on his street-smart streak. A minority of our group loved the book and expressed their admiration for the way the character of Balram was developed from an intelligent youngster, who is identified as ‘the white tiger’ by the schoolmaster, to a helpless but ambitious youth left with no other option except aggression to break the social and economic ceiling that bars his progress. It is obvious from the well analyzed content that the author has painstakingly researched the Indian psyche. The class, and caste, differences are described very eloquently and the author has used powerful metaphors like ‘light’ and ‘darkness’ to label the lives of the haves and the have-nots.
+
+At the end of the meeting, the feelings of the group were fairly unanimous – Adiga had succeeded in creating a story that touches a raw nerve in the readers and makes them think about the plight of the impoverished people who do not have many alternatives to break out of the mold they were born into. To succeed, they sometimes have to use unethical and aggressive means and their life’s experiences often harden them up so much that they are past caring about the means they use.
+
+White tigers are a mutant species but the protagonist of the book, Balram, is the ‘white tiger’ that stands out in a dark world and manages to emerge out of it. To escape captivity, he has to spill the blood of his master, but Aravind Adiga’s tale tells us that it is a necessary evil – for the tiger is not meant to live trapped in the boundaries of a cage but to take its rightful place in the jungle. Alas, in nature, the white ![white-tiger-cover](/images/2013/02/white-tiger-cover-300x300.jpg)tiger is a very rare and elusive creature often confined to cages in zoological parks; it can take decades or even centuries before it can manage to break free of its shackles.
+
+Written by Archana Sharma*

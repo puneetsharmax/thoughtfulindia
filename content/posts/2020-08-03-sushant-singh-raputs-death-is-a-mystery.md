@@ -1,0 +1,25 @@
+---
+title: "Sushant Singh Raput's Death is a Mystery"
+date: "2020-08-03"
+slug: "sushant-singh-raputs-death-is-a-mystery"
+categories: ["FEATURED STORIES"]
+tags: []
+featured_image: ""
+draft: false
+---
+
+Sushant Singh’s Rajput’s murder/suicide which was once dismissed as a case of nepotism, now remains a puzzle. Various online social groups, discussions in closed circles, Arnab’s Republic World, and recently SSR’s family lodging a case against the deceased actor’s girlfriend Rhea Chakraborty is leaving the whole world puzzled.
+
+Disha Salian, SSR’s ex manager allegedly committed a suicide by jumping from the 14th floor, a week before SSR’s death. She could have been pushed from the 14th floor too.  There are claims from people involved with SSR’s life that a thorough investigation into Salian’s death will lead to the right inquiry and possibly solving SSR’s death puzzle. Simi Garewal had tweeted “#DishaSalian death must be investigated.Why was it ignored?? It will reveal the truth of the conspiracy linked to the murder of #SSR.” The Mumbai police quickly attribute Salian’s death to a suicide, but later went on to say it could have been an accidental death. Point to be noted here is that in case of a suspected suicide or accidental death a thorough investigation is a must, before the police can shut the case. This was not done. Her case was an open-shut case within hours of the tragedy.
+
+![](/images/2020/08/maxresdefault-2-1024x576.jpg)Image from Republic World: Arnab Goswami is doing the job of the police and crime investigators.
+
+Disha Salian was at a party at Suraj Pancholi’s house on June 9. Several politicians were also at the party. ( And remember it’s the covid times when supposedly Mumbai is in a lockdown). Right now nothing is proven, but something happened at the party, which completely rocked Disha Salian and led her to die. ![](https://lh3.googleusercontent.com/bKFMa8yj6HNRWo6H1KMN7daFfyqwaIuvLgsaJ-lMwq7Y7FvhbPFRHh38IuGjGLx1bMsxofe5q_CehZPgV0r2yj0Mk0nEVeMyUqz15zYVT_XmxNZJxkguVyWxNqDERKUNJH5aG2nn)
+
+It is believed by Arnab Goswami and team that Disha Salian’s probe is at a halt because of Aditya Thackeray. It is the Maharashtra government and the Chief Minister’s Uddhav Thackeray who are obstructing justice and expostulations of protests.  It is believed that because of Aditya Thackeray the Maharashtra Police shut the case of both Disha Salian and Sushant Singh Rajput. Sushant Singh Rajput was aware of what happened with Salian, and he wanted to reveal the facts of Salian’s case to the media.
+
+![](/images/2020/08/maxresdefault-1024x576.jpg)
+
+Now, there is yet another angle to SSR’s death. Rhea Chakraborty, his girlfriend allegedly abetted him to commit suicide. SSR’s family has lodged a case against her. She had come into SSR’s life recently but supposedly had manipulated him to a complete isolation from his friends and family. He was no longer in the company of his friends after Rhea entered his life. His past friends are confident that he did not have any mental ailment, but it’s believed that Rhea got him to take psych drugs. Rhea Chakraborty incidentally is close to Mahesh Bhatt. SSR’s brother in law Vishal Kriti writes in a [lengthy post](https://everythingabouteducation.net/2020/08/02/barkha-sushant-is-not-the-opportunity-to-spread-awareness-about-mental-health-i-explain-why/) : My fourth point is **questioning Rhea’s role in the matter. **I am not using any special information and I am quoting everything available in the public domain. The FIR claims that Sushant was perhaps given psychotropic drugs by Rhea (maybe even without his knowledge). Covert/Surreptitious medication is also perhaps illegal in the 21st century. There could be many explanations of this sudden onset of mental health issues in October/November of 2019. This could be a result of covert medication and withdrawal of psychotropic drugs (perhaps the covert medication stopped during their Europe trip in October 2019 [perhaps because of eating out mostly so no opportunity to covertly medicate him with food? or perhaps intentionally not medicating?], which led to withdrawal symptoms).  And then, he was perhaps taken to the psychotherapist under the pretext of care. Another surprising thing is that setting up appointments and being present at the appointments (both done by Rhea) could be a sign of keeping a tab on Sushant’s conversations with the psychotherapist and keeping evidence of mental health issues so that it can be used later for blackmail or to justify the firm control on his resources. If what was bothering him was Rhea’s gaslighting and blackmail, Sushant probably was not given that privacy to discuss.
+
+Will SSR’s death’s mystery be solved?
