@@ -2,17 +2,12 @@
 
 import Link from 'next/link'
 import Image from 'next/image'
-import { Post } from '@/lib/posts'
+import { Post, slugifyCategory } from '@/lib/posts'
 import { useState } from 'react'
 
 interface PostCardProps {
   post: Post
   variant?: 'default' | 'featured' | 'compact' | 'horizontal'
-}
-
-function toCatSlug(name: string | undefined | null): string | null {
-  if (!name || typeof name !== 'string') return null
-  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '') || null
 }
 
 function PostImage({
@@ -54,7 +49,7 @@ export default function PostCard({ post, variant = 'default' }: PostCardProps) {
   })
 
   const firstCat = Array.isArray(post.categories) ? post.categories.find(c => typeof c === 'string') : undefined
-  const categorySlug = toCatSlug(firstCat)
+  const categorySlug = firstCat ? slugifyCategory(firstCat) : null
 
   if (variant === 'featured') {
     return (
