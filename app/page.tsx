@@ -77,7 +77,7 @@ export default function HomePage() {
           {/* View more */}
           <div className="mt-10 text-center">
             <Link
-              href="/category/featured-stories"
+              href="/category/featured-stories/"
               className="inline-block border border-stone-800 px-8 py-2.5 text-sm font-semibold uppercase tracking-widest text-stone-800 transition hover:bg-stone-800 hover:text-white"
             >
               View All Stories

@@ -1,16 +1,10 @@
 import Link from 'next/link'
+import { slugifyCategory } from '@/lib/posts'
 
-const FOOTER_CATEGORIES = [
-  { name: 'Featured Stories', slug: 'featured-stories' },
-  { name: 'Politics', slug: 'politics' },
-  { name: 'World Politics', slug: 'world-politics' },
-  { name: 'Business', slug: 'business' },
-  { name: 'Lifestyle', slug: 'lifestyle' },
-  { name: 'Health & Spirituality', slug: 'health-spirituality' },
-  { name: 'Entertainment', slug: 'entertainment' },
-  { name: 'Food', slug: 'food' },
-  { name: 'Interesting', slug: 'interesting' },
-  { name: 'Education', slug: 'education' },
+const FOOTER_CATEGORY_NAMES = [
+  'Featured Stories', 'Politics', 'World Politics', 'Business',
+  'Lifestyle', 'Health & Spirituality', 'Entertainment', 'Food',
+  'Interesting', 'Education',
 ]
 
 export default function Footer() {
@@ -43,13 +37,13 @@ export default function Footer() {
               Sections
             </h3>
             <ul className="grid grid-cols-2 gap-x-4 gap-y-2">
-              {FOOTER_CATEGORIES.map((cat) => (
-                <li key={cat.slug}>
+              {FOOTER_CATEGORY_NAMES.map((name) => (
+                <li key={name}>
                   <Link
-                    href={`/category/${cat.slug}`}
+                    href={`/category/${slugifyCategory(name)}/`}
                     className="text-sm text-stone-300 hover:text-white transition-colors"
                   >
-                    {cat.name}
+                    {name}
                   </Link>
                 </li>
               ))}
@@ -68,12 +62,12 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/category/featured-stories" className="text-sm text-stone-300 hover:text-white transition-colors">
+                <Link href="/category/featured-stories/" className="text-sm text-stone-300 hover:text-white transition-colors">
                   Featured Stories
                 </Link>
               </li>
               <li>
-                <Link href="/category/interesting" className="text-sm text-stone-300 hover:text-white transition-colors">
+                <Link href="/category/interesting/" className="text-sm text-stone-300 hover:text-white transition-colors">
                   Interesting Reads
                 </Link>
               </li>
