@@ -1,7 +1,7 @@
 'use client'
 import Link from 'next/link'
 import { useState } from 'react'
-import { slugifyCategory } from '@/lib/posts'
+import { slugifyCategory } from '@/lib/utils'
 
 const NAV_CATEGORIES = [
   'Featured Stories', 'Politics', 'World Politics', 'Business',

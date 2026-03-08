@@ -1,0 +1,163 @@
+Fetching CDX manifest from Wayback (this is the FULL list of what they have)...
+  thoughtfulindia.com/wp-content/uploads/*: fetched 523 so far...
+  www.thoughtfulindia.com/wp-content/uploads/*: fetched 523 so far...
+Manifest saved: 504 confirmed Wayback images
+
+Scanning posts for image references...
+Posts need:       2990 unique images
+Already have:     6
+Still missing:    2984
+
+In Wayback manifest:  115
+NOT in Wayback:       2869
+
+Top 20 NOT in Wayback (permanently lost):
+  LOST: 1289535973787_1289535973787_r.jpg
+  LOST: 2010/10/womenbiharpoll630.jpg
+  LOST: 2010/11/07/weekinreview/YARDLEYcov/YARDLEYcov-articleLarge.jpg
+  LOST: 2010/11/196.jpg
+  LOST: 2010/11/201.jpg
+  LOST: 2010/11/21/magazine/21epilepsy-span/21epilepsy-span-articleLarge.jpg
+  LOST: 2010/11/221.jpg
+  LOST: 2010/11/236.jpg
+  LOST: 2010/11/254.jpg
+  LOST: 2010/11/266.jpg
+  LOST: 2010/11/268.jpg
+  LOST: 2010/11/272.jpg
+  LOST: 2010/11/280.jpg
+  LOST: 2010/11/286.jpg
+  LOST: 2010/11/288.jpg
+  LOST: 2010/11/290.jpg
+  LOST: 2010/11/292.jpg
+  LOST: 2010/11/294.jpg
+  LOST: 2010/11/302.jpg
+  LOST: 2010/11/308.jpg
+
+Downloading 115 confirmed images from Wayback...
+Using single thread + 0.5s delay to avoid rate limiting
+==================================================
+OK  [1/115] 2010/11/thoughtfulindia32.jpg (7,635b)
+OK  [2/115] 2010/11/thoughtfulindia34.jpg (52,374b)
+OK  [3/115] 2010/12/thoughtfulindia24.jpg (14,871b)
+OK  [4/115] 2011/02/Black-Money-2.jpg (12,116b)
+OK  [5/115] 2011/02/FightClub_3.jpg (85,737b)
+OK  [6/115] 2011/03/child-marriage.jpg (40,961b)
+FAIL[7/115] 2011/03/steve-jobs-vs-bill-gates.jpg
+OK  [8/115] 2011/04/You-re-Fired-Trump-1.jpg (134,270b)
+OK  [9/115] 2011/04/obamas-parents1.jpg (179,613b)
+OK  [10/115] 2011/06/Food-on-Plate.jpg (120,374b)
+OK  [11/115] 2011/06/indiachina.jpg (52,581b)
+FAIL[12/115] 2011/07/stm.jpg
+FAIL[13/115] 2011/09/arup.jpg
+FAIL[14/115] 2011/09/shubhli-150x150.jpg
+FAIL[15/115] 2011/09/us-sec-260x300.png
+OK  [16/115] 2011/10/Mustache.jpg (21,329b)
+OK  [17/115] 2011/10/crookedteeth.jpg (19,293b)
+FAIL[18/115] 2012/01/dt.common.streams.StreamServer-200x300.jpg
+FAIL[19/115] 2012/01/excentmedia-300x225.jpg
+FAIL[20/115] 2012/01/excentmedia.jpg
+OK  [21/115] 2012/03/Sachin-Tendulkar-Pictures-Latest-2-258x300.jpg (25,157b)
+OK  [22/115] 2012/04/Aarushi-Talwar.jpg (11,209b)
+FAIL[23/115] 2012/04/volunteer-abroad-feelings.jpg
+FAIL[24/115] 2012/09/retroreel.jpeg
+OK  [25/115] 2013/01/srk.jpg (142,682b)
+FAIL[26/115] 2013/05/RetroReel.jpg
+OK  [27/115] 2013/05/lake-effect-6143.jpg (20,517b)
+FAIL[28/115] 2013/05/retroreel.jpeg
+OK  [29/115] 2013/11/r-mcbride.png (83,731b)
+OK  [30/115] 2014/01/Arvind-Kejriwal.jpg (115,363b)
+OK  [31/115] 2014/03/AFGM-21.jpg (9,426b)
+OK  [32/115] 2014/03/AFGM-5.jpg (8,190b)
+OK  [33/115] 2014/03/Queen-2-300x216.jpg (24,301b)
+OK  [34/115] 2014/03/article-2576848-1C25805400000578-988_634x938.jpg (44,983b)
+OK  [35/115] 2014/03/images2.jpeg (11,762b)
+OK  [36/115] 2014/04/images-1.jpeg (7,637b)
+OK  [37/115] 2014/04/images-11.jpeg (1,189,031b)
+FAIL[38/115] 2014/04/o-DRUNKSHIRTGUY-570.jpg
+FAIL[39/115] 2014/05/5242697322_open_relationship_125512889544_xlarge_xlarge.jpeg
+FAIL[40/115] 2014/09/2014-09-18-18.44.26-300x225.jpg
+OK  [41/115] 2014/09/IIT-Bombay-campus-17-300x200.jpg (24,865b)
+OK  [42/115] 2014/09/thoughtfulindia3.jpeg (124,691b)
+OK  [43/115] 2014/12/keep-calm-and-learn-german.png (142,014b)
+FAIL[44/115] 2015/01/Sheldon-Silver.jpg
+FAIL[45/115] 2015/02/ekjut.jpg
+OK  [46/115] 2015/02/klein-635x3571.jpg (61,505b)
+FAIL[47/115] 2015/02/klein-635x3572.jpg
+FAIL[48/115] 2015/04/download.jpeg
+FAIL[49/115] 2015/04/ti.jpg
+FAIL[50/115] 2015/05/Holacracy.Hierarchy_to_Holarchy.jpg
+FAIL[51/115] 2015/05/Richard-Branson-quotes-on-business-e1363005930739-300x188.jpg
+OK  [52/115] 2015/05/WotNow.jpg (31,790b)
+FAIL[53/115] 2015/05/elon-musk-1-300x200.jpg
+FAIL[54/115] 2015/05/elon-musk-1.jpg
+FAIL[55/115] 2015/05/fb1-300x300.jpg
+OK  [56/115] 2015/05/fb1.jpg (165,358b)
+FAIL[57/115] 2015/05/piku1-225x300.jpg
+FAIL[58/115] 2015/05/quote-Bill-Gates-dont-compare-yourself-with-anyone-in-this-106154-300x166.png
+FAIL[59/115] 2015/05/quote-Steve-Jobs-older-people-sit-down-and-ask-what-101143_2-300x166.png
+FAIL[60/115] 2015/05/quote-Steve-Jobs-older-people-sit-down-and-ask-what-101143_2.jpg
+FAIL[61/115] 2015/05/ranbir-kapoor_640x480_51422517457.jpg
+OK  [62/115] 2015/05/ranbir-kapoor_640x480_514225174571-300x167.jpg (21,339b)
+OK  [63/115] 2015/05/ranbir-kapoor_640x480_514225174572-300x225.jpg (18,507b)
+FAIL[64/115] 2015/05/screen-shot-2015-05-26-at-7-12-05-am.jpg
+FAIL[65/115] 2015/06/TI.jpg
+OK  [66/115] 2015/06/TI4.jpg (94,326b)
+FAIL[67/115] 2015/06/wholefoods.jpg
+FAIL[68/115] 2015/07/sankara.jpg
+FAIL[69/115] 2015/07/tamil-actor-kamal-hassan-with-his-ex-wife-vani-ganapathy-rare-photos02.jpg
+OK  [70/115] 2015/07/tamil-actor-kamal-hassan-with-his-ex-wife-vani-ganapathy-rare-photos021-300x143.jpg (14,630b)
+OK  [71/115] 2015/08/FullSizeRender-1024x768.jpg (294,161b)
+FAIL[72/115] 2015/08/FullSizeRender.jpg
+FAIL[73/115] 2015/08/anjali.jpg
+FAIL[74/115] 2015/08/back-to-school1.jpeg
+OK  [75/115] 2015/08/starbucks.jpg (80,500b)
+OK  [76/115] 2015/09/image1_w.jpg (64,003b)
+FAIL[77/115] 2015/09/no-politics.jpg
+FAIL[78/115] 2015/10/FBupdate.jpg
+FAIL[79/115] 2015/10/FBupdate1.jpg
+OK  [80/115] 2016/02/parents-matter-logo11.png (29,818b)
+FAIL[81/115] 2016/02/slide_9-300x225.jpg
+FAIL[82/115] 2017/02/yoga-1.jpg
+OK  [83/115] 2017/02/yoga.jpg (24,407b)
+OK  [84/115] 2017/04/sagaseed-150x150.jpg (4,240b)
+FAIL[85/115] 2017/04/st.jpg
+FAIL[86/115] 2017/04/st2.jpg
+FAIL[87/115] 2017/04/st3.jpg
+FAIL[88/115] 2017/04/townhouse-cafe.jpg
+FAIL[89/115] 2020/04/1958FluAd-211x300.jpg
+FAIL[90/115] 2020/04/5e6bf2555b1c7.image_-1024x791.jpg
+FAIL[91/115] 2020/04/90-2-233x300.jpeg
+FAIL[92/115] 2020/04/90-300x224.jpeg
+FAIL[93/115] 2020/04/Hilleman-Walter-Reed-197x300.jpg
+FAIL[94/115] 2020/04/India-Flu-Epidemic-1957-205x300.gif
+FAIL[95/115] 2020/04/MaryMallon_615x486-300x237.jpg
+FAIL[96/115] 2020/04/contrary-view-to-the-epidemic-225x300.gif
+FAIL[97/115] 2020/04/images.jpeg
+OK  [98/115] 2020/04/yellow-fever-636x1024.jpg (133,383b)
+FAIL[99/115] 2020/04/yellowfever2.jpg
+FAIL[100/115] 2020/05/images.jpeg
+FAIL[101/115] 2020/05/main-qimg-84e1d21945433854853ec164953218db.jpeg
+FAIL[102/115] 2020/05/thappad-day-wise-collection-poster.jpg
+FAIL[103/115] 2020/06/165-WW-269B-25-police-l.jpg
+FAIL[104/115] 2020/06/img_6406.jpg
+FAIL[105/115] 2020/06/mask-3-gty-er-200513_hpMain_1x1_608.jpg
+FAIL[106/115] 2020/06/rs_634x1024-200614104835-634-Sushant-Singh-Rajput.cm_.61420.jpg
+FAIL[107/115] 2020/07/amitabh-41594493861755.jpg
+FAIL[108/115] 2020/07/law.jpg
+FAIL[109/115] 2020/08/call-center.jpg
+OK  [110/115] 2020/09/BURBERRY-LAUNCHES-FACE-MASKS_002-1d1b-e1597995546738.jpg (66,613b)
+OK  [111/115] 2020/11/119648216_3725830630795684_3413881530237722616_n.jpg (72,321b)
+FAIL[112/115] 2020/12/Chi2-1024x497.jpg
+OK  [113/115] 2020/12/Chi2.jpg (177,639b)
+OK  [114/115] 2020/12/Screen-Shot-2020-12-22-at-4.25.49-PM.png (382,148b)
+OK  [115/115] 2022/03/table.jpeg (1,069,876b)
+==================================================
+Downloaded:    47
+Failed:        68
+Permanently lost (not in Wayback): 2869
+Total in public/images: 255
+==========
+Downloaded:    47
+Failed:        68
+Permanently lost (not in Wayback): 2869
+Total in public/images: 255

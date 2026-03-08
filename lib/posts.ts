@@ -3,8 +3,28 @@ import path from 'path'
 import matter from 'gray-matter'
 import { remark } from 'remark'
 import remarkHtml from 'remark-html'
+export { slugifyCategory } from './utils'
 
 const postsDirectory = path.join(process.cwd(), 'content/posts')
+
+// ── Build a slug→filename index once at module load ──────────────────────────
+// This avoids O(N²) full-directory scans during static generation.
+let _slugIndex: Map<string, string> | null = null
+
+function getSlugIndex(): Map<string, string> {
+  if (_slugIndex) return _slugIndex
+  _slugIndex = new Map()
+  if (!fs.existsSync(postsDirectory)) return _slugIndex
+  // Derive slug purely from filename (YYYY-MM-DD-slug.md → slug)
+  // This is O(N) with zero file reads — verified to match frontmatter slugs.
+  for (const fileName of fs.readdirSync(postsDirectory)) {
+    if (!fileName.endsWith('.md')) continue
+    const slug = fileName.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace(/\.md$/, '')
+    _slugIndex.set(slug, fileName)
+  }
+  return _slugIndex
+}
+
 
 export interface Post {
   slug: string
@@ -83,17 +103,8 @@ export function getAllPosts(): Post[] {
 }
 
 export function getPostBySlug(slug: string): Post | null {
-  if (!fs.existsSync(postsDirectory)) return null
-  const fileNames = fs.readdirSync(postsDirectory)
-  const fileName = fileNames.find(f => {
-    try {
-      const filePath = path.join(postsDirectory, f)
-      const { data } = matter(fs.readFileSync(filePath, 'utf8'))
-      return safeString(data.slug) === slug
-    } catch {
-      return false
-    }
-  })
+  const index = getSlugIndex()
+  const fileName = index.get(slug)
   if (!fileName) return null
   try {
     const fullPath = path.join(postsDirectory, fileName)
@@ -127,15 +138,6 @@ export function getPostsByCategory(category: string): Post[] {
   )
 }
 
-/** Canonical category slug — must be used everywhere (Header, category page, post page) */
-export function slugifyCategory(name: string): string {
-  return name
-    .toLowerCase()
-    .replace(/\s+/g, '-')       // spaces → dashes
-    .replace(/[^a-z0-9-]/g, '') // strip non-alphanumeric (incl. &)
-    .replace(/-{2,}/g, '-')     // collapse double-dashes (e.g. from "Health & Spirituality")
-    .replace(/^-|-$/g, '')      // trim leading/trailing dashes
-}
 
 export function getAllCategories(): { name: string; count: number }[] {
   const posts = getAllPosts()

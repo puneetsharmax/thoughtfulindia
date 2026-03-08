@@ -2,7 +2,8 @@
 
 import Link from 'next/link'
 import Image from 'next/image'
-import { Post, slugifyCategory } from '@/lib/posts'
+import type { Post } from '@/lib/posts'
+import { slugifyCategory } from '@/lib/utils'
 import { useState } from 'react'
 
 interface PostCardProps {

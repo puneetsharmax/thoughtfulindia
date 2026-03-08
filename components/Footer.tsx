@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { slugifyCategory } from '@/lib/posts'
+import { slugifyCategory } from '@/lib/utils'
 
 const FOOTER_CATEGORY_NAMES = [
   'Featured Stories', 'Politics', 'World Politics', 'Business',
