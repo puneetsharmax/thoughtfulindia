@@ -1,4 +1,4 @@
-import { getAllPosts, getAllCategories } from '@/lib/posts'
+import { getAllPosts, getAllCategories, slugifyCategory } from '@/lib/posts'
 import PostCard from '@/components/PostCard'
 import Link from 'next/link'
 
@@ -21,7 +21,7 @@ export default function HomePage() {
         {categories.map((cat) => (
           <Link
             key={cat.name}
-            href={`/category/${cat.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`}
+            href={`/category/${slugifyCategory(cat.name)}/`}
             className="text-xs font-semibold uppercase tracking-widest text-stone-600 hover:text-red-700 transition-colors"
           >
             {cat.name}

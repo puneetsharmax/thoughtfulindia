@@ -1,4 +1,4 @@
-import { getAllPosts, getAllCategories } from '@/lib/posts'
+import { getAllPosts, getAllCategories, slugifyCategory } from '@/lib/posts'
 import { notFound } from 'next/navigation'
 import PostCard from '@/components/PostCard'
 import Link from 'next/link'
@@ -9,18 +9,14 @@ interface Props {
 }
 
 function slugToCategory(slug: string, allCategories: { name: string }[]): string | null {
-  const normalized = slug.toLowerCase()
-  const match = allCategories.find(
-    (cat) =>
-      cat.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '') === normalized
-  )
+  const match = allCategories.find((cat) => slugifyCategory(cat.name) === slug)
   return match ? match.name : null
 }
 
 export async function generateStaticParams() {
   const categories = getAllCategories()
   return categories.map((cat) => ({
-    slug: cat.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, ''),
+    slug: slugifyCategory(cat.name),
   }))
 }
 
@@ -91,7 +87,7 @@ export default async function CategoryPage({ params }: Props) {
                   .map((cat) => (
                     <li key={cat.name}>
                       <Link
-                        href={`/category/${cat.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`}
+                        href={`/category/${slugifyCategory(cat.name)}/`}
                         className="flex items-center justify-between text-sm text-stone-700 hover:text-red-700"
                       >
                         <span>{cat.name}</span>

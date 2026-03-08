@@ -127,6 +127,11 @@ export function getPostsByCategory(category: string): Post[] {
   )
 }
 
+/** Canonical category slug — must be used everywhere (Header, category page, post page) */
+export function slugifyCategory(name: string): string {
+  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')
+}
+
 export function getAllCategories(): { name: string; count: number }[] {
   const posts = getAllPosts()
   const map: Record<string, number> = {}

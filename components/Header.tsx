@@ -1,6 +1,7 @@
 'use client'
 import Link from 'next/link'
 import { useState } from 'react'
+import { slugifyCategory } from '@/lib/posts'
 
 const NAV_CATEGORIES = [
   'Featured Stories', 'Politics', 'World Politics', 'Business',
@@ -40,7 +41,7 @@ export default function Header() {
             {NAV_CATEGORIES.map(cat => (
               <li key={cat}>
                 <Link
-                  href={`/category/${encodeURIComponent(cat.toLowerCase().replace(/[&\s]+/g, '-'))}`}
+                  href={`/category/${slugifyCategory(cat)}/`}
                   className="block px-3 py-1.5 text-xs font-semibold uppercase tracking-wider text-gray-600 hover:text-red-700 hover:bg-gray-50 rounded transition-colors whitespace-nowrap"
                 >
                   {cat}
@@ -48,11 +49,6 @@ export default function Header() {
               </li>
             ))}
             <li><span className="hidden md:block text-gray-300 mx-1">|</span></li>
-            <li>
-              <Link href="/attribution/" className="block px-3 py-1.5 text-xs font-semibold uppercase tracking-wider text-gray-500 hover:text-red-700 hover:bg-gray-50 rounded transition-colors whitespace-nowrap">
-                Attribution
-              </Link>
-            </li>
             <li>
               <Link href="/for-students/" className="block px-3 py-1.5 text-xs font-semibold uppercase tracking-wider text-gray-500 hover:text-red-700 hover:bg-gray-50 rounded transition-colors whitespace-nowrap">
                 For Students
