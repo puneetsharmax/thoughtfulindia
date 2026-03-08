@@ -34,7 +34,7 @@ export default function Header() {
             </svg>
           </button>
         </div>
-        {/* Nav */}
+        {/* Category Nav */}
         <nav className={`${menuOpen ? 'block' : 'hidden'} md:block`}>
           <ul className="flex flex-col md:flex-row md:items-center md:justify-center gap-0 md:gap-1 py-2">
             {NAV_CATEGORIES.map(cat => (
@@ -47,6 +47,17 @@ export default function Header() {
                 </Link>
               </li>
             ))}
+            <li><span className="hidden md:block text-gray-300 mx-1">|</span></li>
+            <li>
+              <Link href="/attribution/" className="block px-3 py-1.5 text-xs font-semibold uppercase tracking-wider text-gray-500 hover:text-red-700 hover:bg-gray-50 rounded transition-colors whitespace-nowrap">
+                Attribution
+              </Link>
+            </li>
+            <li>
+              <Link href="/for-students/" className="block px-3 py-1.5 text-xs font-semibold uppercase tracking-wider text-gray-500 hover:text-red-700 hover:bg-gray-50 rounded transition-colors whitespace-nowrap">
+                For Students
+              </Link>
+            </li>
           </ul>
         </nav>
       </div>
