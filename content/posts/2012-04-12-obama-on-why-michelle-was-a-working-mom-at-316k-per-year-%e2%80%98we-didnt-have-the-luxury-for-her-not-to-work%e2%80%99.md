@@ -8,4 +8,4 @@ featured_image: "/images/2012/04/Michelle-Obama-Ann-Romney.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/Michelle-Obama-Ann-Romney-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/Michelle-Obama-Ann-Romney.jpg)Speaking Friday at what the administration called
+[![](/images/2012/04/Michelle-Obama-Ann-Romney-300x200.jpg)](/images/2012/04/Michelle-Obama-Ann-Romney.jpg)Speaking Friday at what the administration called

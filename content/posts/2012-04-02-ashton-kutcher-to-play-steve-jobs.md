@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/ashton-kutcher-steve-jobs-500x281.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/ashton-kutcher-steve-jobs-500x281-300x168.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/ashton-kutcher-steve-jobs-500x281.jpg)The King of Twitter is now the King of Apple, as "Two and a Half Men" star Ashton Kutcher is attached to play Steve Jobs in the indie pic "Jobs," which Joshua Michael Stern ("Swing Vote") will direct from a script by Matt Whiteley.
+[![](/images/2012/04/ashton-kutcher-steve-jobs-500x281-300x168.jpg)](/images/2012/04/ashton-kutcher-steve-jobs-500x281.jpg)The King of Twitter is now the King of Apple, as "Two and a Half Men" star Ashton Kutcher is attached to play Steve Jobs in the indie pic "Jobs," which Joshua Michael Stern ("Swing Vote") will direct from a script by Matt Whiteley.
 
 The film will chronicle Steve Jobs from wayward hippie to co-founder of Apple, where he became one of the most revered creative entrepreneurs of our time.
 

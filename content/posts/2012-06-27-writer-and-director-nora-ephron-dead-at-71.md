@@ -10,7 +10,7 @@ draft: false
 ---
 
 
-[![](/images/2012/06/Nora-Ephronx-large-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/Nora-Ephronx-large.jpg)Nora Ephron, the writer, producer and director of such American film classics as "When Harry Met Sally" and "Sleepless in Seattle," died today. She was 71.
+[![](/images/2012/06/Nora-Ephronx-large-300x225.jpg)](/images/2012/06/Nora-Ephronx-large.jpg)Nora Ephron, the writer, producer and director of such American film classics as "When Harry Met Sally" and "Sleepless in Seattle," died today. She was 71.
 
 Ephron died in a New York City hospital after a long battle with leukemia and taxing chemotherapy treatment, friends of hers told ABC News.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/thoughtfulindia33.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia33-238x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia33.jpg)
+[![](/images/2010/12/thoughtfulindia33-238x300.jpg)](/images/2010/12/thoughtfulindia33.jpg)
 
 **Suhas Gopinath**
 
@@ -24,7 +24,7 @@ Suhas is the youngest member ever in the World Economic Forum's history. The oth
 
 In this interview from his office in Bengaluru, Suhas Gopinath talks about his decade long journey and his dreams for the future.
 
-**Suhas Gopinath with former President APJ Abdul Kalam[![](/images/2010/12/thoughtfulindia32-300x250.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia32.jpg)**** **
+**Suhas Gopinath with former President APJ Abdul Kalam[![](/images/2010/12/thoughtfulindia32-300x250.jpg)](/images/2010/12/thoughtfulindia32.jpg)**** **
 
 ** **
 
@@ -43,7 +43,7 @@ I noticed that the shop was closed in the afternoon from 1 PM to 4 PM. So, I off
 In the bargain, he let me browse the net for free. That was the first business deal of my life and it turned out to be a successful one.
 
 **Suhas with Microsoft co-founder Bill Gates**
-[![](/images/2010/12/thoughtfulindia31-300x253.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia31.jpg)
+[![](/images/2010/12/thoughtfulindia31-300x253.jpg)](/images/2010/12/thoughtfulindia31.jpg)
 
 On building websites using open source technology:
 
@@ -201,6 +201,6 @@ When I was younger, I didn't care about money. Now that I am responsible for my 
 
 When I started my company from a net cafe in Bengaluru, I never ever imagined that one day my company would be a multi-million dollar company and I would be on the World Bank board as a member.
 
-What drives me is my passion and it has been an amazing journey so far.[![](/images/2010/12/thoughtfulindia34.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia34.jpg)
+What drives me is my passion and it has been an amazing journey so far.[![](/images/2010/12/thoughtfulindia34.jpg)](/images/2010/12/thoughtfulindia34.jpg)
 
 [*View the Source Here*](http://viki-the-techie.blogspot.com/2010/12/worlds-youngest-ceo.html)

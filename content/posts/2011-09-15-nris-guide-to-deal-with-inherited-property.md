@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/nrihousing.jpeg"
 draft: false
 ---
 
-[![](/images/2011/09/nrihousing.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/nrihousing.jpeg)Buying a [property in India](http://timesofindia.indiatimes.com/topic/property-in-India) is a decision that most [NRIs](http://timesofindia.indiatimes.com/topic/NRIs) can take after weighing the pros and cons of various [tax and regulatory](http://timesofindia.indiatimes.com/topic/tax-and-regulatory) implications. But getting a property as inheritance is often not a choice, especially for first generation [NRIs or PIOs](http://timesofindia.indiatimes.com/topic/NRIs-or-PIOs) whose parents bequeath to them, property situated in India. In such cases, NRIs must know how to deal with such inheritances.
+[![](/images/2011/09/nrihousing.jpeg)](/images/2011/09/nrihousing.jpeg)Buying a [property in India](http://timesofindia.indiatimes.com/topic/property-in-India) is a decision that most [NRIs](http://timesofindia.indiatimes.com/topic/NRIs) can take after weighing the pros and cons of various [tax and regulatory](http://timesofindia.indiatimes.com/topic/tax-and-regulatory) implications. But getting a property as inheritance is often not a choice, especially for first generation [NRIs or PIOs](http://timesofindia.indiatimes.com/topic/NRIs-or-PIOs) whose parents bequeath to them, property situated in India. In such cases, NRIs must know how to deal with such inheritances.
 
  
 
@@ -30,7 +30,7 @@ However, the person from whom the property is inherited should have acquired the
 
  
 
-**[![](/images/2011/09/fema.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/fema.jpeg)Is there tax payable in India at the time of inheriting the property? **
+**[![](/images/2011/09/fema.jpeg)](/images/2011/09/fema.jpeg)Is there tax payable in India at the time of inheriting the property? **
 
 No income tax is payable at the time of inheriting the property.
 
@@ -52,7 +52,7 @@ The question arises as to whether this includes global properties. For instance,
 
  
 
-[![](/images/2011/09/ps.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/ps.jpeg)Parizad Sirwalla, Executive Director - Tax at KPMG explains, "For an Indian citizen who qualifies as a 'Resident but Not Ordinary Resident (NOR)' or 'Non-Resident (NR)' of India (as per the Income Tax Act 1961) as well as for a foreign national, wealth tax is applicable only on the specified assets located in India. Specified assets located outside India are subject to wealth tax only in the case of Indian citizens who qualify as 'Ordinary Resident (OR)' of India as per the IT Act.
+[![](/images/2011/09/ps.jpeg)](/images/2011/09/ps.jpeg)Parizad Sirwalla, Executive Director - Tax at KPMG explains, "For an Indian citizen who qualifies as a 'Resident but Not Ordinary Resident (NOR)' or 'Non-Resident (NR)' of India (as per the Income Tax Act 1961) as well as for a foreign national, wealth tax is applicable only on the specified assets located in India. Specified assets located outside India are subject to wealth tax only in the case of Indian citizens who qualify as 'Ordinary Resident (OR)' of India as per the IT Act.
 
  
 

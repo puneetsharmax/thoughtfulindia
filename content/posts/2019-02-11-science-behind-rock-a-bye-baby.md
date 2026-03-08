@@ -8,7 +8,7 @@ featured_image: ""
 draft: false
 ---
 
-![](https://i2.wp.com/thoughtfulindia.com/wp-content/uploads/2019/02/hammock.jpg?fit=640%2C384&ssl=1)
+![](https://i2.wp.com/thoughtfulindia.com/images/2019/02/hammock.jpg?fit=640%2C384&ssl=1)
 
 .
 

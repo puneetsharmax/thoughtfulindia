@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/tax-day-2011.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/garyjpg1.bmp)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/garyjpg1.bmp)
+[![](/images/2011/03/garyjpg1.bmp)](/images/2011/03/garyjpg1.bmp)
 
 Nobody likes doing their income tax!
 

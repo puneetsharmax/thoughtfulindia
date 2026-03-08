@@ -8,4 +8,4 @@ featured_image: "/images/2011/06/john.jpg"
 draft: false
 ---
 
-[![](/images/2011/06/john-300x233.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/john.jpg)The past year has been tough on John Abraham. From his dad's severe illness and an all-time career low to a break-up with girlfriend
+[![](/images/2011/06/john-300x233.jpg)](/images/2011/06/john.jpg)The past year has been tough on John Abraham. From his dad's severe illness and an all-time career low to a break-up with girlfriend

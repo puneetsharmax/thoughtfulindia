@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/southkorea2.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/southkorea2.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/southkorea2.jpg)
+[![](/images/2011/01/southkorea2.jpg)](/images/2011/01/southkorea2.jpg)
 
 *Time reports about the the anti-foreigner attitudes getting stronger in South Korea*
 

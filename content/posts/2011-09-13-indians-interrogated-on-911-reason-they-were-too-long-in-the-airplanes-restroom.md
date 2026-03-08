@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/911.jpeg"
 draft: false
 ---
 
-[![](/images/2011/09/911.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/911.jpeg)Shoshana Hebshi will never forget where she was on the 10th anniversary of Sept. 11.
+[![](/images/2011/09/911.jpeg)](/images/2011/09/911.jpeg)Shoshana Hebshi will never forget where she was on the 10th anniversary of Sept. 11.
 
 She and two other airline passengers were handcuffed and strip-searched after flying into Detroit on Sunday.
 

@@ -8,6 +8,6 @@ featured_image: "/images/2012/06/cybercrime.jpeg"
 draft: false
 ---
 
-[![](/images/2012/06/cybercrime-300x172.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/cybercrime.jpeg)An Indian-origin student of Liverpool John Moores University in the UK has been charged with hacking into the varsity's computer system, police sources today.
+[![](/images/2012/06/cybercrime-300x172.jpeg)](/images/2012/06/cybercrime.jpeg)An Indian-origin student of Liverpool John Moores University in the UK has been charged with hacking into the varsity's computer system, police sources today.
 
 Charantoor Kultar Singh,

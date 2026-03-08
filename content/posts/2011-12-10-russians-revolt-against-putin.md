@@ -8,7 +8,7 @@ featured_image: "/images/2011/12/russia1.jpg"
 draft: false
 ---
 
-[caption id="attachment_4743" align="aligncenter" width="600" caption="Russians gather with signs for a protest in Moscow against allegedly fraudulent parliamentary elections."][![](/images/2011/12/russian.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/russian.jpg)[/caption]
+[caption id="attachment_4743" align="aligncenter" width="600" caption="Russians gather with signs for a protest in Moscow against allegedly fraudulent parliamentary elections."][![](/images/2011/12/russian.jpg)](/images/2011/12/russian.jpg)[/caption]
 
 It was not a chant that many had ever expected to hear, as up to 50,000 Russians from all walks of life stood, the snow falling steadily upon them, a few hundred yards across the Moskva river from the Kremlin.
 
@@ -18,7 +18,7 @@ Only last year beaten to within an inch of his life for writing something the au
 
 "The most powerful weapon we have," he declared, reading from a statement, "is a sense of our own dignity. We must not take it on and off like we would a velvet jacket."
 
-The crowd of up to 50,000 who had come to protest against last weekend's allegedly rigged parliamentary election filled a square directly opposite the citadel that houses Russia's authoritarian government, and its mood was both defiant and upbeat.[![](/images/2011/12/russia3-300x201.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/russia3.jpg)
+The crowd of up to 50,000 who had come to protest against last weekend's allegedly rigged parliamentary election filled a square directly opposite the citadel that houses Russia's authoritarian government, and its mood was both defiant and upbeat.[![](/images/2011/12/russia3-300x201.jpg)](/images/2011/12/russia3.jpg)
 
  
 
@@ -36,7 +36,7 @@ Boris Nemtsov, another prominent opposition leader, was there to rally the crowd
 
 Such scenes, which were repeated in dozens of Russian towns and cities (albeit on a smaller scale), were unthinkable just a week ago. Mr Putin's grip on power seemed rock solid and his ruling United Russia party's dominance unassailable.
 
-[![](/images/2011/12/russia1-300x217.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/russia1.jpg)It is true there had been many opposition protests before but they were usually poorly attended, swiftly and violently broken up by the authorities, and put precious little pressure on the Kremlin.
+[![](/images/2011/12/russia1-300x217.jpg)](/images/2011/12/russia1.jpg)It is true there had been many opposition protests before but they were usually poorly attended, swiftly and violently broken up by the authorities, and put precious little pressure on the Kremlin.
 
 This time it was different. The riot police could only stand and watch apprehensively as tens of thousands of people who had never protested before or even been particularly interested in politics took to the streets.
 
@@ -60,7 +60,7 @@ Conveniently, the head of the country's central electoral commission is a staunc
 
 But international election monitors saw things differently, reporting serious ballot stuffing and said the contest was dramatically tilted in the favour of "one player.
 
-[![](/images/2011/12/russia4-300x170.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/russia4.jpg)The opposition has since provided numerous documents and videos which it contends are incontrovertible proof that the poll was massively rigged in the ruling party's favour.
+[![](/images/2011/12/russia4-300x170.jpg)](/images/2011/12/russia4.jpg)The opposition has since provided numerous documents and videos which it contends are incontrovertible proof that the poll was massively rigged in the ruling party's favour.
 
 Officially, the United Russia party won just under 50 per cent of the vote, a result which would mean its support base had dropped by 15 per cent in the last four years, something that must have alarmed Mr Putin in itself. But the real figure, experts and the opposition say, is sharply lower.
 
@@ -78,7 +78,7 @@ The Kremlin clearly did not expect such a backlash and has implausibly blamed th
 
 Andrei Isaev, a top official in Mr Putin's party, promised the protesters' voice would be heard but was conspicuously careful not to promise any specific changes.
 
-"Of course people who protest against the election results or against how the election was held have a right to do so," he said. "We live in a democratic country and a democratic society," he added without irony.[![](/images/2011/12/russia2-300x224.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/russia2.jpg)
+"Of course people who protest against the election results or against how the election was held have a right to do so," he said. "We live in a democratic country and a democratic society," he added without irony.[![](/images/2011/12/russia2-300x224.jpg)](/images/2011/12/russia2.jpg)
 
 "Expressing such a point of view is really important and it will be heeded by the media, by society, and by the state." Some state media did report the protests, something they largely avoided doing before Saturday for fear of angering the Kremlin. One of the country's main news anchors had reportedly threatened not to go on air yesterday evening if his channel refused to report the protest. But in the end he did not have to make good his threat.
 

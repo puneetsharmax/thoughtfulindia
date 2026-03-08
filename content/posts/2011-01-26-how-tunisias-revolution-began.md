@@ -8,6 +8,6 @@ featured_image: "/images/2011/01/tunisia.jpg"
 draft: false
 ---
 
-[![Tunisia revolution](/images/2011/01/tunisia.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/tunisia.jpg)
+[![Tunisia revolution](/images/2011/01/tunisia.jpg)](/images/2011/01/tunisia.jpg)
 
 **Sidi Bouazid, Tunisia** - The people of Sidi Bouzid overcame heavy censorship and police repression to ensure that their uprising did not

@@ -8,4 +8,4 @@ featured_image: "/images/2012/03/bayer.jpg"
 draft: false
 ---
 
-[![](/images/2012/03/bayer.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/bayer.jpg)India's move to strip German drugmaker
+[![](/images/2012/03/bayer.jpg)](/images/2012/03/bayer.jpg)India's move to strip German drugmaker

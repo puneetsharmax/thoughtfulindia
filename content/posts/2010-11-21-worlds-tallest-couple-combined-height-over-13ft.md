@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia10.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia10.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia10.jpg)
+[![](/images/2010/11/thoughtfulindia10.jpg)](/images/2010/11/thoughtfulindia10.jpg)
 
 Their height made Wayne and Laurie Hallquist seem like an ideal match when they met seven years ago, and on Thursday they were matched with something else -- the title of world's tallest living married couple.
 

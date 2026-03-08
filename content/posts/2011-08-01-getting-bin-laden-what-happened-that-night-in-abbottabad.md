@@ -8,6 +8,6 @@ featured_image: "/images/2011/08/laden1.jpg"
 draft: false
 ---
 
-[caption id="attachment_3361" align="aligncenter" width="465" caption="No American was yet inside the residential part of the compound. The operatives had barely been on target for a minute, and the mission was already veering off course"][![Raid](/images/2011/08/laden1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/laden1.jpg)[/caption]
+[caption id="attachment_3361" align="aligncenter" width="465" caption="No American was yet inside the residential part of the compound. The operatives had barely been on target for a minute, and the mission was already veering off course"][![Raid](/images/2011/08/laden1.jpg)](/images/2011/08/laden1.jpg)[/caption]
 
 Shortly after eleven o

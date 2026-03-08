@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/divorcee.jpg"
 draft: false
 ---
 
-### [![](/images/2011/10/divorcee.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/divorcee.jpg)Divorcees can retain surnames
+### [![](/images/2011/10/divorcee.jpg)](/images/2011/10/divorcee.jpg)Divorcees can retain surnames
 
 Divorced women have a reason to cheer. No authority can prevent them from continuing to use, for legally valid purposes, their former married surnames.
 

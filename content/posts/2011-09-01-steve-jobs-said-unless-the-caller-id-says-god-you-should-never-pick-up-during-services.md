@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/stevejobs.jpeg"
 draft: false
 ---
 
-[![](/images/2011/09/stevejobs.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/stevejobs.jpeg)One Sunday morning, January 6th, 2008 I was attending religious services when my cell phone vibrated. As discreetly as possible, I checked the phone and noticed that my phone said "Caller ID unknown". I choose to ignore.
+[![](/images/2011/09/stevejobs.jpeg)](/images/2011/09/stevejobs.jpeg)One Sunday morning, January 6th, 2008 I was attending religious services when my cell phone vibrated. As discreetly as possible, I checked the phone and noticed that my phone said "Caller ID unknown". I choose to ignore.
 
 After services, as I was walking to my car with my family, I checked my cell phone messages. The message left was from Steve Jobs. "Vic, can you call me at home? I have something urgent to discuss" it said.
 
@@ -30,7 +30,7 @@ Since I was 11 years old and fell in love with an Apple II, I have dozens of sto
 
 But in the end, when I think about leadership, passion and attention to detail, I think back to the call I received from Steve Jobs on a Sunday morning in January. It was a lesson I'll never forget. CEOs should care about details. Even shades of yellow. On a Sunday.
 
-To one of the greatest leaders I've ever met, my prayers and hopes are with you Steve.[![](/images/2011/09/vicgundotra.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/vicgundotra.jpeg)
+To one of the greatest leaders I've ever met, my prayers and hopes are with you Steve.[![](/images/2011/09/vicgundotra.jpeg)](/images/2011/09/vicgundotra.jpeg)
 
 -Vic
 

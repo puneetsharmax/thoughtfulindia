@@ -8,6 +8,6 @@ featured_image: "/images/2012/02/salman-shahrukh-aamir.jpg"
 draft: false
 ---
 
-*[![](/images/2012/02/salman-shahrukh-aamir-300x257.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/salman-shahrukh-aamir.jpg)After Aamir in the third, Adi Chopra plans next two parts of the franchise with Sallu and SRK*
+*[![](/images/2012/02/salman-shahrukh-aamir-300x257.jpg)](/images/2012/02/salman-shahrukh-aamir.jpg)After Aamir in the third, Adi Chopra plans next two parts of the franchise with Sallu and SRK*
 
 The first film made

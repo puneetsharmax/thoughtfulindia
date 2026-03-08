@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/alix.jpg"
 draft: false
 ---
 
-[caption id="attachment_1449" align="alignleft" width="288" caption="Alix lives in Naperville with her husband and daughter."][![](/images/2011/01/alix-288x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/alix.jpg)[/caption]
+[caption id="attachment_1449" align="alignleft" width="288" caption="Alix lives in Naperville with her husband and daughter."][![](/images/2011/01/alix-288x300.jpg)](/images/2011/01/alix.jpg)[/caption]
 
 **Alix Jung- A Gifted Teacher**
 

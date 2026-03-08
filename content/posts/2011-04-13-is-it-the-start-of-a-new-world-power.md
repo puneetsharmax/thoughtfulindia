@@ -8,4 +8,4 @@ featured_image: "/images/2011/04/brics.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/brics.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/brics.jpg)Emerging economies face watershed moment at
+[![](/images/2011/04/brics.jpg)](/images/2011/04/brics.jpg)Emerging economies face watershed moment at

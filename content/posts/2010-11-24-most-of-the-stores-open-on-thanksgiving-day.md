@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia25.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia25.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia25.jpg)
+[![](/images/2010/11/thoughtfulindia25.jpg)](/images/2010/11/thoughtfulindia25.jpg)
 
 After the last of the turkey is eaten and the pumpkin pie consumed, many Americans will head for the mall to do a little shopping.
 

@@ -8,4 +8,4 @@ featured_image: "/images/2012/02/Get-your-flu-shot-at-the-airport-ABJIEV8-x-larg
 draft: false
 ---
 
-[![](/images/2012/02/Get-your-flu-shot-at-the-airport-ABJIEV8-x-large1-300x220.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/Get-your-flu-shot-at-the-airport-ABJIEV8-x-large1.jpg)WASHINGTON (AP)
+[![](/images/2012/02/Get-your-flu-shot-at-the-airport-ABJIEV8-x-large1-300x220.jpg)](/images/2012/02/Get-your-flu-shot-at-the-airport-ABJIEV8-x-large1.jpg)WASHINGTON (AP)

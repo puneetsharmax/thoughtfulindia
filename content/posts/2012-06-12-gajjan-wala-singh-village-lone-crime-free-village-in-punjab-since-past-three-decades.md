@@ -8,4 +8,4 @@ featured_image: "/images/2012/06/punjab_20447.jpg"
 draft: false
 ---
 
-[![](/images/2012/06/punjab_20447-300x198.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/punjab_20447.jpg)The canopy of a huge pipal tree in this
+[![](/images/2012/06/punjab_20447-300x198.jpg)](/images/2012/06/punjab_20447.jpg)The canopy of a huge pipal tree in this

@@ -8,5 +8,5 @@ featured_image: "/images/2011/03/saif_ali_khan.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/saif_ali_khan-240x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/saif_ali_khan.jpg)
+[![](/images/2011/03/saif_ali_khan-240x300.jpg)](/images/2011/03/saif_ali_khan.jpg)
 As an actor

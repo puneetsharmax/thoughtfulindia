@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/farhan.jpeg"
 draft: false
 ---
 
-**[![](/images/2011/09/farhan.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/farhan.jpeg)Actor-filmmaker Farhan Akhtar was bowled over when superstar **[**Shah Rukh Khan**](http://www.newkerala.com/news/2011/worldnews-71189.html#)** gave him a **[**sneak peek**](http://www.newkerala.com/news/2011/worldnews-71189.html#)** into the 3D trailer of his mega-budget project "RA.One".**
+**[![](/images/2011/09/farhan.jpeg)](/images/2011/09/farhan.jpeg)Actor-filmmaker Farhan Akhtar was bowled over when superstar **[**Shah Rukh Khan**](http://www.newkerala.com/news/2011/worldnews-71189.html#)** gave him a **[**sneak peek**](http://www.newkerala.com/news/2011/worldnews-71189.html#)** into the 3D trailer of his mega-budget project "RA.One".**
 
 
 

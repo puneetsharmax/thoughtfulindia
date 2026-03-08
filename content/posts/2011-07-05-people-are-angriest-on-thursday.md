@@ -8,4 +8,4 @@ featured_image: "/images/2011/07/angry_day.jpg"
 draft: false
 ---
 
-[![](/images/2011/07/angry_day-300x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/angry_day.jpg)Could
+[![](/images/2011/07/angry_day-300x300.jpg)](/images/2011/07/angry_day.jpg)Could

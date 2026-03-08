@@ -8,7 +8,7 @@ featured_image: "/images/2011/11/devikaroses2.jpg"
 draft: false
 ---
 
-[![](/images/2011/11/devikaroses2.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/devikaroses2.jpg)
+[![](/images/2011/11/devikaroses2.jpg)](/images/2011/11/devikaroses2.jpg)
 You have been personally invited to an evening of fun and pampering brought to you by Pearls & Petals.
 Come join us and get immersed in an experience you will remember for days to come.
 You are special and we know it :)

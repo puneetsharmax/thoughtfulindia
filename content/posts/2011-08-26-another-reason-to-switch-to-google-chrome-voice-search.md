@@ -8,4 +8,4 @@ featured_image: "/images/2011/08/google_voice_search_hunter.jpg"
 draft: false
 ---
 
-[![](/images/2011/08/google_voice_search_hunter.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/google_voice_search_hunter.jpg)Google voice search started out as a
+[![](/images/2011/08/google_voice_search_hunter.jpg)](/images/2011/08/google_voice_search_hunter.jpg)Google voice search started out as a

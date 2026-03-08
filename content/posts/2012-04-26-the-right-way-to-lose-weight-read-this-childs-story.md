@@ -8,4 +8,4 @@ featured_image: "/images/2012/04/pixel.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/pixel.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/pixel.jpg)A Child
+[![](/images/2012/04/pixel.jpg)](/images/2012/04/pixel.jpg)A Child

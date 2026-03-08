@@ -12,6 +12,6 @@ draft: false
 
 
 
-[caption id="attachment_848" align="alignleft" width="150" caption="Manika Kumari is a Fashion Designer and resides in Naperville with her husband and son."][![](/images/2010/12/thoughtfulindia29-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia29.jpg)[/caption]
+[caption id="attachment_848" align="alignleft" width="150" caption="Manika Kumari is a Fashion Designer and resides in Naperville with her husband and son."][![](/images/2010/12/thoughtfulindia29-150x150.jpg)](/images/2010/12/thoughtfulindia29.jpg)[/caption]
 
 Just the week before Diwali my friend called

@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/fat-tax-1.jpg"
 draft: false
 ---
 
-#### [![](/images/2012/05/fat-tax-1-236x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/fat-tax-1.jpg)Report: 'Fat Tax' Could Curb Nation's Obesity Problem
+#### [![](/images/2012/05/fat-tax-1-236x300.jpg)](/images/2012/05/fat-tax-1.jpg)Report: 'Fat Tax' Could Curb Nation's Obesity Problem
 
 
 #### *20 Percent Tax Would Be Placed On Unhealthy Foods*

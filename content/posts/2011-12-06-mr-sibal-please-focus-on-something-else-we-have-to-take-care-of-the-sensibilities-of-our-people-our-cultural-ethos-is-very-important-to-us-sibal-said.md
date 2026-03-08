@@ -8,7 +8,7 @@ featured_image: "/images/2011/12/kapilsibal7.gif"
 draft: false
 ---
 
-## [![](/images/2011/12/kapilsibal7.gif)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/kapilsibal7.gif)Facebook and Google asked to screen content by India
+## [![](/images/2011/12/kapilsibal7.gif)](/images/2011/12/kapilsibal7.gif)Facebook and Google asked to screen content by India
 
 
 *Delhi also warns Yahoo and Microsoft amid claims ruling party and Gandhi dynasty are simply trying to censor criticism*

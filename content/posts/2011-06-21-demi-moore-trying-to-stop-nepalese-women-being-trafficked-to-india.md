@@ -8,4 +8,4 @@ featured_image: "/images/2011/06/demi.jpg"
 draft: false
 ---
 
-[![](/images/2011/06/demi-300x168.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/demi.jpg)Actress
+[![](/images/2011/06/demi-300x168.jpg)](/images/2011/06/demi.jpg)Actress

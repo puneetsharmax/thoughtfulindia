@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/29906170001_1134479241001_0829dv-libya-latest-1
 draft: false
 ---
 
-[![](/images/2011/10/29906170001_1134479241001_0829dv-libya-latest-180x135.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/29906170001_1134479241001_0829dv-libya-latest-180x135.jpg)Former Libyan leader Muammar Gaddafi died of wounds suffered on Thursday as fighters battling to complete an eight-month-old uprising against his rule overran his hometown Sirte, Libya's interim rulers said.
+[![](/images/2011/10/29906170001_1134479241001_0829dv-libya-latest-180x135.jpg)](/images/2011/10/29906170001_1134479241001_0829dv-libya-latest-180x135.jpg)Former Libyan leader Muammar Gaddafi died of wounds suffered on Thursday as fighters battling to complete an eight-month-old uprising against his rule overran his hometown Sirte, Libya's interim rulers said.
 
 His killing, which came swiftly after his capture near Sirte, is the most dramatic single development in the Arab Spring revolts that have unseated rulers in Egypt and Tunisia and threatened the grip on power of the leaders of Syria and Yemen.
 

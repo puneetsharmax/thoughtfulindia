@@ -8,7 +8,7 @@ featured_image: "/images/2012/02/mrinalini.jpg"
 draft: false
 ---
 
-[caption id="attachment_5420" align="alignleft" width="150" caption="I love cooking and though cliched enjoy good food .I am totally fascinated by how different spices, veggies and meat come together to form a great dish. Whether its Thai , Sushi or Sandesh if its good it finds a way onto my plate :) My favorite still is Mutton Biryani! I live in Naperville with my husband and son. Let&#39;s get cooking! ..Mrinalini Sen"][![](/images/2012/02/mrinalini-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/mrinalini.jpg)[/caption]
+[caption id="attachment_5420" align="alignleft" width="150" caption="I love cooking and though cliched enjoy good food .I am totally fascinated by how different spices, veggies and meat come together to form a great dish. Whether its Thai , Sushi or Sandesh if its good it finds a way onto my plate :) My favorite still is Mutton Biryani! I live in Naperville with my husband and son. Let&#39;s get cooking! ..Mrinalini Sen"][![](/images/2012/02/mrinalini-150x150.jpg)](/images/2012/02/mrinalini.jpg)[/caption]
 
 Easy Breezy Bhindi!
 

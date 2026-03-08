@@ -10,6 +10,6 @@ draft: false
 
 ?
 
-**[![](/images/2011/01/Sweetfinale-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/Sweetfinale.jpg)*Indian Style Pastries and Cakes* **
+**[![](/images/2011/01/Sweetfinale-150x150.jpg)](/images/2011/01/Sweetfinale.jpg)*Indian Style Pastries and Cakes* **
 
 Remember the taste of the pastries and desserts from back home? Doesn

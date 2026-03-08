@@ -8,6 +8,6 @@ featured_image: "/images/2011/04/Rahman.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/Rahman-300x255.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/Rahman.jpg)
+[![](/images/2011/04/Rahman-300x255.jpg)](/images/2011/04/Rahman.jpg)
 
 Music maestro A.R. Rahman got a little nostalgic remembering his old days, during the launch of his biography

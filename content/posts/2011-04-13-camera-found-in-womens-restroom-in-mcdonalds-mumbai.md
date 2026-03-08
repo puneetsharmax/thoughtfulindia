@@ -8,4 +8,4 @@ featured_image: "/images/2011/04/shilpa.jpg"
 draft: false
 ---
 
-**[![](/images/2011/04/shilpa.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/shilpa.jpg)**
+**[![](/images/2011/04/shilpa.jpg)](/images/2011/04/shilpa.jpg)**

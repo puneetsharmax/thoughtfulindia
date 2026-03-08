@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/thoughtfulindia7.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia7.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia7.jpg)Filmmaker Sanjay Leela Bhansali, often accused of making overtly flamboyant and whimsical movies, says his films create the world he lives in and are about crossing the boundaries of mainstream cinema. 'Guzaarish', his latest offering, is about the pain and isolation he faced after 'Saawariya', he says.
+[![](/images/2010/12/thoughtfulindia7.jpg)](/images/2010/12/thoughtfulindia7.jpg)Filmmaker Sanjay Leela Bhansali, often accused of making overtly flamboyant and whimsical movies, says his films create the world he lives in and are about crossing the boundaries of mainstream cinema. 'Guzaarish', his latest offering, is about the pain and isolation he faced after 'Saawariya', he says.
 
 He also believes that Aamir Khan cares about Bhansali's films and that's why he is so critical. Here's more with the director.
 **

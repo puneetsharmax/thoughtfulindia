@@ -12,7 +12,7 @@ draft: false
 
 
 
-[caption id="attachment_9541" align="aligncenter" width="179"][*](https://www.thoughtfulindia.com/wp-content/uploads/2013/04/03smSwati_Kaushal__1380206g.jpg) Swati Kaushal, creator of Nikki Marwah. Earlier works include chicklit A Piece of Cake and Young Adult A Girl Like Me.[/caption]
+[caption id="attachment_9541" align="aligncenter" width="179"][*](/images/2013/04/03smSwati_Kaushal__1380206g.jpg) Swati Kaushal, creator of Nikki Marwah. Earlier works include chicklit A Piece of Cake and Young Adult A Girl Like Me.[/caption]
 
  
 

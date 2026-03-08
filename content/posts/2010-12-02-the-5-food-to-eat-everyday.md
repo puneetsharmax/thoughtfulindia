@@ -8,6 +8,6 @@ featured_image: "/images/2010/12/thoughtfulindia.jpg"
 draft: false
 ---
 
-#### [![](/images/2010/12/thoughtfulindia.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia.jpg)
+#### [![](/images/2010/12/thoughtfulindia.jpg)](/images/2010/12/thoughtfulindia.jpg)
 
 Ginger : The compound gingerol,

@@ -8,6 +8,6 @@ featured_image: "/images/2010/11/thoughtfulindia44.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia44.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia44.jpg)
+[![](/images/2010/11/thoughtfulindia44.jpg)](/images/2010/11/thoughtfulindia44.jpg)
 
 CHANDIGARH: At Rs 42 lakh monthly rent, the Post-Graduate Institute of Medical Education and Research boasts of having probably one of the costliest chemist shops in a medical institute in

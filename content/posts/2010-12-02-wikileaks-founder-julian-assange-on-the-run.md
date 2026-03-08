@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/thoughtfulindia1.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia1.jpg)
+[![](/images/2010/12/thoughtfulindia1.jpg)](/images/2010/12/thoughtfulindia1.jpg)
 
 He grew up constantly on the move, the son of parents who were in the theater business in Australia.
 

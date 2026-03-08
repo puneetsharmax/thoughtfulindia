@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/UID-India.jpg"
 draft: false
 ---
 
-[![](/images/2011/09/UID-India-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/UID-India.jpg)"( These) various pulls and pressures mean that when it comes to policy, the urgent wins over the important, tactic triumphs over strategy, and patronage over public good." -Nandan Nilekani in his 2008 book[Imagining India](http://economictimes.indiatimes.com/search.cms?query=Imagining%20India)
+[![](/images/2011/09/UID-India-300x225.jpg)](/images/2011/09/UID-India.jpg)"( These) various pulls and pressures mean that when it comes to policy, the urgent wins over the important, tactic triumphs over strategy, and patronage over public good." -Nandan Nilekani in his 2008 book[Imagining India](http://economictimes.indiatimes.com/search.cms?query=Imagining%20India)
 
 Nilekani had a ringside view of the workings of the government then, as a member of a few advisory panels . For the last two years, he's been in the ring as the head of a government institution whose work has import for every Indian, mostly sheltered from those pulls and pressures. But, lately, his institution and he might be feeling it more than ever before, more so considering where the opposition is coming from: other parts of the government.
 

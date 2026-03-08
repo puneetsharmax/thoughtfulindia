@@ -8,7 +8,7 @@ featured_image: "/images/2011/07/wvfc-bystander.jpg"
 draft: false
 ---
 
-[![](/images/2011/07/wvfc-bystander-300x154.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/wvfc-bystander.jpg)It wasn't her beer.
+[![](/images/2011/07/wvfc-bystander-300x154.jpg)](/images/2011/07/wvfc-bystander.jpg)It wasn't her beer.
 
 
 Monique Lawless had nothing personal at stake when she saw three men leaving a Walmart store in Alvin with three cases of beer they didn't pay for. She was a customer, not an employee, of the store.

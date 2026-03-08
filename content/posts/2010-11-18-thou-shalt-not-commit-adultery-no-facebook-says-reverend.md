@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/shlok-made-picture.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/shlok-made-picture.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/-made-picture.jpg)
+[![](/images/2010/11/shlok-made-picture.jpg)](/images/2010/11/-made-picture.jpg)
 
 Thou shalt not commit adultery. And thou also shalt not use Facebook.
 

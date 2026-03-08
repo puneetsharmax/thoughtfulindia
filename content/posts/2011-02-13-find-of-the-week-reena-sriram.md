@@ -8,6 +8,6 @@ featured_image: "/images/2011/02/reena7.jpg"
 draft: false
 ---
 
-[caption id="attachment_1704" align="alignleft" width="150" caption="Reena lives in Naperville with her husband and son."][![](/images/2011/02/reena7-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/02/reena7.jpg)[/caption]
+[caption id="attachment_1704" align="alignleft" width="150" caption="Reena lives in Naperville with her husband and son."][![](/images/2011/02/reena7-150x150.jpg)](/images/2011/02/reena7.jpg)[/caption]
 
 Reena

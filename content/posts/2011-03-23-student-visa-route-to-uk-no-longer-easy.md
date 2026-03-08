@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/fingerprint-scanner-students-uk.jpg"
 draft: false
 ---
 
-#### [![](/images/2011/03/fingerprint-scanner-students-uk-300x180.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/fingerprint-scanner-students-uk.jpg)
+#### [![](/images/2011/03/fingerprint-scanner-students-uk-300x180.jpg)](/images/2011/03/fingerprint-scanner-students-uk.jpg)
 
 
 #### Visa curbs will cut overseas students by 80,000, says Theresa May

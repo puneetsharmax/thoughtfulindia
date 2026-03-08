@@ -8,4 +8,4 @@ featured_image: "/images/2011/09/marriage.jpeg"
 draft: false
 ---
 
-[![](/images/2011/09/marriage.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/marriage.jpeg)A controversial new book suggests that interracial marriage may be a solution for middle-class African-American women who can
+[![](/images/2011/09/marriage.jpeg)](/images/2011/09/marriage.jpeg)A controversial new book suggests that interracial marriage may be a solution for middle-class African-American women who can

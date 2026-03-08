@@ -8,6 +8,6 @@ featured_image: "/images/2010/12/thoughtfulindia3.jpg"
 draft: false
 ---
 
-### [![](/images/2010/12/thoughtfulindia3.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia3.jpg)
+### [![](/images/2010/12/thoughtfulindia3.jpg)](/images/2010/12/thoughtfulindia3.jpg)
 
 Didi Contractor is living proof that we must build castles in the air. Fascinated with

@@ -8,7 +8,7 @@ featured_image: "/images/2011/11/dieting-for-someone-else.jpg"
 draft: false
 ---
 
-**[![](/images/2011/11/dieting-for-someone-else-300x252.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/dieting-for-someone-else.jpg)Just who is your lover losing the weight for? People dieting while in a relationship are preparing to break up with their other half**
+**[![](/images/2011/11/dieting-for-someone-else-300x252.jpg)](/images/2011/11/dieting-for-someone-else.jpg)Just who is your lover losing the weight for? People dieting while in a relationship are preparing to break up with their other half**
 
 Don't feel too flattered if your partner starts losing weight - it might be for somebody else.
 

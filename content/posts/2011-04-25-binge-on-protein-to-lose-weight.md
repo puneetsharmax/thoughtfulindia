@@ -8,4 +8,4 @@ featured_image: "/images/2011/04/eat-6-pm.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/eat-6-pm-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/eat-6-pm.jpg)Move over chips, pastries and chocolates and make space for these protein rich snacks to lead an active and highly energetic life, says
+[![](/images/2011/04/eat-6-pm-300x200.jpg)](/images/2011/04/eat-6-pm.jpg)Move over chips, pastries and chocolates and make space for these protein rich snacks to lead an active and highly energetic life, says

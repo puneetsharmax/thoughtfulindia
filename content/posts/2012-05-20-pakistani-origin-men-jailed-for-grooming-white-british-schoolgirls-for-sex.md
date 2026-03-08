@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/grooming.jpg"
 draft: false
 ---
 
-[caption id="attachment_6535" align="aligncenter" width="464" caption="The men plied their victims with drink and drugs so they could "pass them around" for sex"][![](/images/2012/05/grooming.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/grooming.jpg)[/caption]
+[caption id="attachment_6535" align="aligncenter" width="464" caption="The men plied their victims with drink and drugs so they could "pass them around" for sex"][![](/images/2012/05/grooming.jpg)](/images/2012/05/grooming.jpg)[/caption]
 
  
 

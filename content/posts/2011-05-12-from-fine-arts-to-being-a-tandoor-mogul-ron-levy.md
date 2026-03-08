@@ -8,6 +8,6 @@ featured_image: "/images/2011/05/ron.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/ron-300x175.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/ron.jpg)RON LEVY never intended to become a tandoor mogul.
+[![](/images/2011/05/ron-300x175.jpg)](/images/2011/05/ron.jpg)RON LEVY never intended to become a tandoor mogul.
 
 In fact, he had never heard of tandoors

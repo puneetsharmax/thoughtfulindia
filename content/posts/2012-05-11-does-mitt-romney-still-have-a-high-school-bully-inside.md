@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/la-na-tt-romney-bully-20120510-001.jpeg"
 draft: false
 ---
 
-[![](/images/2012/05/la-na-tt-romney-bully-20120510-001-300x227.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/la-na-tt-romney-bully-20120510-001.jpeg)Sure, you may know which man --
+[![](/images/2012/05/la-na-tt-romney-bully-20120510-001-300x227.jpg)](/images/2012/05/la-na-tt-romney-bully-20120510-001.jpeg)Sure, you may know which man --

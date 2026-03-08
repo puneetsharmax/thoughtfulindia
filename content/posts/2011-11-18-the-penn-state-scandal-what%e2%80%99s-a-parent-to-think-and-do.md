@@ -8,6 +8,6 @@ featured_image: "/images/2011/11/sandusky1.jpg"
 draft: false
 ---
 
-[caption id="attachment_4449" align="alignleft" width="396" caption="Ex-Penn State Coach Sandusky&#39;s Charity Reportedly Close to Folding Amid Child Sex Abuse Scandal  "][![](/images/2011/11/sandusky1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/sandusky1.jpg)[/caption]
+[caption id="attachment_4449" align="alignleft" width="396" caption="Ex-Penn State Coach Sandusky&#39;s Charity Reportedly Close to Folding Amid Child Sex Abuse Scandal  "][![](/images/2011/11/sandusky1.jpg)](/images/2011/11/sandusky1.jpg)[/caption]
 
 As the details surrounding

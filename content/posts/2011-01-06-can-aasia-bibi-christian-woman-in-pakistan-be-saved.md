@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/asia_bibi.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/asia_bibi.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/asia_bibi.jpg)
+[![](/images/2011/01/asia_bibi.jpg)](/images/2011/01/asia_bibi.jpg)
 Christian woman is on death row under blasphemy laws that Punjab governor Salmaan Taseer had condemned before his assassination.Human rights workers say they fear for the immediate safety of Aasia Bibi, the Christian woman at the heart of Pakistan's blasphemy furore, following the assassination of Punjab governor Salmaan Taseer this week.
 "None of us feel safe, least of all her," said Shahzad Kamran, a Christian charity worker who has visited Bibi in jail several times since last November when she was sentenced to hang for blasphemy.
 Bibi, a mother of four who has been sentenced to death for allegedly insulting the prophet Muhammad, has been in solitary confinement for the past month. But since Taseer was shot multiple times by his own guard in Islamabad on Tuesday, Kamran said he feared Bibi could be killed by a zealot.

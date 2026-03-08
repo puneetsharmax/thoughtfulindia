@@ -8,4 +8,4 @@ featured_image: "/images/2012/06/a-ORGANIZE-STUFFED-ANIMALS-640x468.jpeg"
 draft: false
 ---
 
-[![](/images/2012/06/a-ORGANIZE-STUFFED-ANIMALS-640x468-300x219.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/a-ORGANIZE-STUFFED-ANIMALS-640x468.jpeg)MBTA workers sprung into action on Wednesday to rescue a little girl
+[![](/images/2012/06/a-ORGANIZE-STUFFED-ANIMALS-640x468-300x219.jpg)](/images/2012/06/a-ORGANIZE-STUFFED-ANIMALS-640x468.jpeg)MBTA workers sprung into action on Wednesday to rescue a little girl

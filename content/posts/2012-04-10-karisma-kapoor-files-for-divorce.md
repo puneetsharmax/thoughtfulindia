@@ -8,4 +8,4 @@ featured_image: "/images/2012/04/ks.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/ks-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/ks.jpg)On one hand, Karisma
+[![](/images/2012/04/ks-300x225.jpg)](/images/2012/04/ks.jpg)On one hand, Karisma

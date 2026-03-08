@@ -8,7 +8,7 @@ featured_image: "/images/2011/08/5161-libya_s_colonel_muammar_al_gaddafi.jpg"
 draft: false
 ---
 
-[![](/images/2011/08/5161-libya_s_colonel_muammar_al_gaddafi-300x217.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/5161-libya_s_colonel_muammar_al_gaddafi.jpg)The Russian head of world chess says Libyan leader Muammar Gaddafi told him in a telephone call that he was in Tripoli and did not intend to leave the country despite an onslaught by rebels.
+[![](/images/2011/08/5161-libya_s_colonel_muammar_al_gaddafi-300x217.jpg)](/images/2011/08/5161-libya_s_colonel_muammar_al_gaddafi.jpg)The Russian head of world chess says Libyan leader Muammar Gaddafi told him in a telephone call that he was in Tripoli and did not intend to leave the country despite an onslaught by rebels.
 
 "I am alive and healthy, I am in Tripoli and do not intend to leave Libya. Do not believe the lying reports by Western television companies," Kirsan Ilyumzhinov quoted Gaddafi as saying in the conversation on Tuesday.
 

@@ -8,6 +8,6 @@ featured_image: "/images/2011/04/karzaigilani.jpg"
 draft: false
 ---
 
-##### [![](/images/2011/04/karzaigilani-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/karzaigilani.jpg)Pakistan Urges Afghanistan to Ally With Islamabad, Beijing
+##### [![](/images/2011/04/karzaigilani-300x200.jpg)](/images/2011/04/karzaigilani.jpg)Pakistan Urges Afghanistan to Ally With Islamabad, Beijing
 
 Pakistan is lobbying Afghanistan's president against building a long-term strategic partnership with the U.S., urging him instead to look to Pakistan

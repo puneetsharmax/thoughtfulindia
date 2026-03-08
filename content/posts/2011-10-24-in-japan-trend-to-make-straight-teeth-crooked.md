@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/crookedteeth.jpg"
 draft: false
 ---
 
-### [![](/images/2011/10/crookedteeth.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/crookedteeth.jpg)A Little Imperfection For That Smile?
+### [![](/images/2011/10/crookedteeth.jpg)](/images/2011/10/crookedteeth.jpg)A Little Imperfection For That Smile?
 
 
 

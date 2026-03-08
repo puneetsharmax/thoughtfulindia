@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/bwallah.jpg"
 draft: false
 ---
 
-**[![](/images/2012/04/bookwallah-300x223.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/bookwallah.jpeg)**
+**[![](/images/2012/04/bookwallah-300x223.jpg)](/images/2012/04/bookwallah.jpeg)**
 
 *The joy of seeing a child smile because of a book he or she receives through your generous donation!*
 

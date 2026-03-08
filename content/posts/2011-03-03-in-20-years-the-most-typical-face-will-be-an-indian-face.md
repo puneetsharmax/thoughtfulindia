@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/typical-face.png"
 draft: false
 ---
 
-### [![](/images/2011/03/typical-face-300x254.png)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/typical-face.png)
+### [![](/images/2011/03/typical-face-300x254.png)](/images/2011/03/typical-face.png)
 
 
 ### The most typical face on the planet

@@ -8,6 +8,6 @@ featured_image: "/images/2011/04/preg.jpg"
 draft: false
 ---
 
-##### [![](/images/2011/04/preg.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/preg.jpg)Exercising for Two
+##### [![](/images/2011/04/preg.jpg)](/images/2011/04/preg.jpg)Exercising for Two
 
 Almost anyone who

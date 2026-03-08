@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/Gina-Rinehart-chairwoman-007.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/Gina-Rinehart-chairwoman-007-300x180.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/Gina-Rinehart-chairwoman-007.jpg)Americans no longer hold claim to the world
+[![](/images/2012/05/Gina-Rinehart-chairwoman-007-300x180.jpg)](/images/2012/05/Gina-Rinehart-chairwoman-007.jpg)Americans no longer hold claim to the world

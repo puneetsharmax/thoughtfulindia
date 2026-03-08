@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/Final_Bhimsen_New.jpg"
 draft: false
 ---
 
-[![](/images/2011/10/Final_Bhimsen_New-791x1024.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/Final_Bhimsen_New.jpg) **Highlights of the program**:
+[![](/images/2011/10/Final_Bhimsen_New-791x1024.jpg)](/images/2011/10/Final_Bhimsen_New.jpg) **Highlights of the program**:
 
 1. Documentary depicting the life and times of Pandit Bhimsen Joshi
 2. A live musical performance by the torch-bearer of Pandit Joshi

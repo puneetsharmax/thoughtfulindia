@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/toxicre.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/toxicre-300x220.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/toxicre.jpg)
+[![](/images/2011/03/toxicre-300x220.jpg)](/images/2011/03/toxicre.jpg)
 
 **Is it love, is it hell?**
 

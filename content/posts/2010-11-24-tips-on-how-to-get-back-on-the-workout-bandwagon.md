@@ -8,6 +8,6 @@ featured_image: "/images/2010/11/thoughtfulindia23.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia23.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia23.jpg)
+[![](/images/2010/11/thoughtfulindia23.jpg)](/images/2010/11/thoughtfulindia23.jpg)
 
 So you

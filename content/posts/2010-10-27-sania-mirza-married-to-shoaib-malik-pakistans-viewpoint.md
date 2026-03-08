@@ -10,4 +10,4 @@ draft: false
 
 [Pakistan extra jubiliant over Sania's marriage with Shoaib Malik!](http://blog.dawn.com/2010/04/03/couldn%E2%80%99t-she-just-find-a-nice-indian-boy/)
 
-<img src="http://blog.dawn.com/wp-content/uploads/2010/04/shoaib_sania_290.jpg" alt="Couldn
+<img src="http://blog.dawn.com/images/2010/04/shoaib_sania_290.jpg" alt="Couldn

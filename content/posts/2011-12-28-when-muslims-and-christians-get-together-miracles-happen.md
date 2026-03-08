@@ -8,6 +8,6 @@ featured_image: "/images/2011/12/washingtontimes.jpeg"
 draft: false
 ---
 
-### [![](/images/2011/12/washingtontimes.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/washingtontimes.jpeg)Three Denver Muslims lead cheers for Tebow
+### [![](/images/2011/12/washingtontimes.jpeg)](/images/2011/12/washingtontimes.jpeg)Three Denver Muslims lead cheers for Tebow
 
 This is the story of three sports-loving Muslim brothers and how they boosted the career of the NFL

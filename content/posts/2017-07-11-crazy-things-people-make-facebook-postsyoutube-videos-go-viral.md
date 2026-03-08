@@ -17,12 +17,12 @@ Pedro Riuz was the wannabe youtuber. Along with his girlfriend, they recorded ev
 [Watch the video](https://www.youtube.com/watch?v=XAH21ibLS4o)
 
 **
-![](http://s3.india.com/wp-content/uploads/2017/06/selfie-train.jpg)
+![](http://s3.india.com/images/2017/06/selfie-train.jpg)
 **
 
 A [newly wed couple from Srilanka](http://www.dailymirror.lk/article/Tragedy-strikes-newly-wed-couple-on-railway-track-130762.html) was on their way to start their journey. Sadly, the journey now can never happen only because they wanted the perfect selfie shot against a train. While they were taking the shot, the train sped through killing the groom, and the widowed bride suffered serious injuries. What use was this unusual shot?
 
-![](https://www.wonderoftech.com/wp-content/uploads/2017/01/selfie-deaths.jpg)
+![](https://www.wonderoftech.com/images/2017/01/selfie-deaths.jpg)
 
 Selfie-deaths have risen over the years. There is a page [dedicated on Wikipedia](https://en.wikipedia.org/wiki/List_of_selfie-related_injuries_and_deaths#2017). All in the search of the perfect shot, or to increase the number of likes and popularity. 
 

@@ -8,6 +8,6 @@ featured_image: "/images/2012/03/Shapes-of-woman.png"
 draft: false
 ---
 
-### [![](/images/2012/03/Shapes-of-woman-300x204.png)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/Shapes-of-woman.png)6 Shapes of women revealed
+### [![](/images/2012/03/Shapes-of-woman-300x204.png)](/images/2012/03/Shapes-of-woman.png)6 Shapes of women revealed
 
 One in five

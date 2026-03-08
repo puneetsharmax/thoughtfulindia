@@ -8,6 +8,6 @@ featured_image: "/images/2011/09/toning-shoes-dont-work.jpeg"
 draft: false
 ---
 
-## [![](/images/2011/09/toning-shoes-dont-work.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/toning-shoes-dont-work.jpeg)Reebok to Pay $25 Million in Customer Refunds To Settle FTC Charges of Deceptive Advertising of EasyTone and RunTone Shoes
+## [![](/images/2011/09/toning-shoes-dont-work.jpeg)](/images/2011/09/toning-shoes-dont-work.jpeg)Reebok to Pay $25 Million in Customer Refunds To Settle FTC Charges of Deceptive Advertising of EasyTone and RunTone Shoes
 
 Settlement Order Prohibits Reebok from Making Unsupported Claims that

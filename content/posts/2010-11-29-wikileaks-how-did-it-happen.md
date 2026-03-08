@@ -8,5 +8,5 @@ featured_image: "/images/2010/11/private-manning.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/private-manning.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/private-manning.jpg)
+[![](/images/2010/11/private-manning.jpg)](/images/2010/11/private-manning.jpg)
 How 250,000 US embassy cables were leaked-

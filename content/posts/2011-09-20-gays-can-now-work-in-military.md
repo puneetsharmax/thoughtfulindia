@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/gaywork-.jpg"
 draft: false
 ---
 
-[![](/images/2011/09/gaywork-.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/gaywork-.jpg)After years of debate and months of final preparations, the military can no longer prevent gays from serving openly in its ranks.
+[![](/images/2011/09/gaywork-.jpg)](/images/2011/09/gaywork-.jpg)After years of debate and months of final preparations, the military can no longer prevent gays from serving openly in its ranks.
 
 Repeal of a 1993 law that allowed gays to serve only so long as they kept their sexual orientation private took effect Tuesday at 12:01 a.m. EDT.
 

@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/vegan-meal.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/vegan-meal-300x176.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/vegan-meal.jpg)There is frequent debate within the vegan community about the practice of
+[![](/images/2012/05/vegan-meal-300x176.jpg)](/images/2012/05/vegan-meal.jpg)There is frequent debate within the vegan community about the practice of

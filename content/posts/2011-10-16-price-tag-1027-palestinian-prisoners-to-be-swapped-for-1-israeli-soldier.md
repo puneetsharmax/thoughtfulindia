@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/swap.jpg"
 draft: false
 ---
 
-[caption id="attachment_4159" align="aligncenter" width="680" caption="Most prisoners due for release will return to their homes in the West Bank or the Gaza Strip"][![](/images/2011/10/swap.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/swap.jpg)[/caption]
+[caption id="attachment_4159" align="aligncenter" width="680" caption="Most prisoners due for release will return to their homes in the West Bank or the Gaza Strip"][![](/images/2011/10/swap.jpg)](/images/2011/10/swap.jpg)[/caption]
 
 Israel has published a list of 477 Palestinian prisoners to be released in the first stage of a swap deal for the captive Israeli soldier Gilad Shalit.
 

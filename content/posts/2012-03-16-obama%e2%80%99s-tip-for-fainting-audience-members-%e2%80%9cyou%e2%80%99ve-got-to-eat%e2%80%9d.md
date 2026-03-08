@@ -8,4 +8,4 @@ featured_image: "/images/2012/03/data.jpeg"
 draft: false
 ---
 
-[![](/images/2012/03/data-300x196.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/data.jpeg)Remember that little anecdote about Rick Santorum
+[![](/images/2012/03/data-300x196.jpg)](/images/2012/03/data.jpeg)Remember that little anecdote about Rick Santorum

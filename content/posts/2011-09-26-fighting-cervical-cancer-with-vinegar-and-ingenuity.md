@@ -8,4 +8,4 @@ featured_image: "/images/2011/09/20110927_cancer-slide-V1EJ-articleLarge.jpg"
 draft: false
 ---
 
-[![](/images/2011/09/20110927_cancer-slide-V1EJ-articleLarge-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/20110927_cancer-slide-V1EJ-articleLarge.jpg)POYAI,** **[Thailand](http://topics.nytimes.com/top/news/international/countriesandterritories/thailand/index.html?inline=nyt-geo)
+[![](/images/2011/09/20110927_cancer-slide-V1EJ-articleLarge-300x200.jpg)](/images/2011/09/20110927_cancer-slide-V1EJ-articleLarge.jpg)POYAI,** **[Thailand](http://topics.nytimes.com/top/news/international/countriesandterritories/thailand/index.html?inline=nyt-geo)

@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/active-commuters.jpg"
 draft: false
 ---
 
-### [![](/images/2011/10/active-commuters.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/active-commuters.jpg)Hitting the Road to Get to Work, and Back
+### [![](/images/2011/10/active-commuters.jpg)](/images/2011/10/active-commuters.jpg)Hitting the Road to Get to Work, and Back
 
 
 

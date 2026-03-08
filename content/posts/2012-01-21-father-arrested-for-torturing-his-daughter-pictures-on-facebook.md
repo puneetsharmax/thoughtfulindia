@@ -11,7 +11,7 @@ draft: false
 A father allegedly punished his 12-year-old daughter by binding her hands and feet with duct tape, shutting her in a dog cage, then threatened to electrify the crate.
 
 
-[caption id="attachment_5043" align="alignleft" width="227" caption="James Tapke, 41, was charged with punishing his 12-year-old daughter by binding her hands and feet with duct tape and sticking her in a dog cage"][![](/images/2012/01/torture-227x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/01/torture.jpg)[/caption]
+[caption id="attachment_5043" align="alignleft" width="227" caption="James Tapke, 41, was charged with punishing his 12-year-old daughter by binding her hands and feet with duct tape and sticking her in a dog cage"][![](/images/2012/01/torture-227x300.jpg)](/images/2012/01/torture.jpg)[/caption]
 
 James Tapke, 41, was charged Thursday with child endangering. His attorney, Christopher Jackson, told a judge that the incident was 'some horseplay' and a joke that 'got out of control.'
 

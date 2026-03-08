@@ -12,7 +12,7 @@ Part 1 of 4 : Poems by Sharon
 
 
 
-[caption id="attachment_737" align="alignleft" width="150" caption="Sharon Mundy is a Dental Hygienist and a fitness enthusiast. She lives in Naperville"][![](/images/2010/12/thoughtfulindia16-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia16.jpg)[/caption]
+[caption id="attachment_737" align="alignleft" width="150" caption="Sharon Mundy is a Dental Hygienist and a fitness enthusiast. She lives in Naperville"][![](/images/2010/12/thoughtfulindia16-150x150.jpg)](/images/2010/12/thoughtfulindia16.jpg)[/caption]
 
 ** **
 

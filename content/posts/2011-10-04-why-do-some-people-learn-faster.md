@@ -8,4 +8,4 @@ featured_image: "/images/2011/10/hard-work-paid-off.gif"
 draft: false
 ---
 
-[![](/images/2011/10/hard-work-paid-off-300x289.gif)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/hard-work-paid-off.gif)The physicist Niels Bohr once defined an expert as
+[![](/images/2011/10/hard-work-paid-off-300x289.gif)](/images/2011/10/hard-work-paid-off.gif)The physicist Niels Bohr once defined an expert as

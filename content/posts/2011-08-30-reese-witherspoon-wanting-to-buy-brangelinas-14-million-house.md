@@ -8,7 +8,7 @@ featured_image: "/images/2011/08/reese-angelina-paychecks.jpg"
 draft: false
 ---
 
-[![](/images/2011/08/reese-angelina-paychecks.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/reese-angelina-paychecks.jpg)35-year-old Reese Witherspoon has been spotted house hunting in California, and it seems that only the best will do for the Legally Blonde star.
+[![](/images/2011/08/reese-angelina-paychecks.jpg)](/images/2011/08/reese-angelina-paychecks.jpg)35-year-old Reese Witherspoon has been spotted house hunting in California, and it seems that only the best will do for the Legally Blonde star.
 
 
 She has her eye on a $14million Malibu home that is currently inhabited by Brad Pitt and Angelina Jolie.

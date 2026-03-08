@@ -8,6 +8,6 @@ featured_image: "/images/2010/12/thoughtfulindia47.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia47.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia47.jpg)
+[![](/images/2010/12/thoughtfulindia47.jpg)](/images/2010/12/thoughtfulindia47.jpg)
 
 Almost three decades after his near fatal injury during the filming of a fight scene for the film*Coolie*, Bollywood megastar

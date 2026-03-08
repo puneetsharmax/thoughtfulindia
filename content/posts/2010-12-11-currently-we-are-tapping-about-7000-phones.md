@@ -10,6 +10,6 @@ draft: false
 
 A great and surprisingly very frank interview by Open with Home Secretary
 
-[![Pillai](/images/2010/12/pillai-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/pillai.jpg)***I believe there are far [more] serious portions of the transcripts ... that are far more serious and of far more importance to the nation ..***
+[![Pillai](/images/2010/12/pillai-300x200.jpg)](/images/2010/12/pillai.jpg)***I believe there are far [more] serious portions of the transcripts ... that are far more serious and of far more importance to the nation ..***
 
 You go and speak to the SP, he says,

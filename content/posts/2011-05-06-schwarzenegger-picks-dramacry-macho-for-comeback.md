@@ -8,4 +8,4 @@ featured_image: "/images/2011/05/cccpp10.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/cccpp9.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/cccpp9.jpg)Arnold Schwarzenegger
+[![](/images/2011/05/cccpp9.jpg)](/images/2011/05/cccpp9.jpg)Arnold Schwarzenegger

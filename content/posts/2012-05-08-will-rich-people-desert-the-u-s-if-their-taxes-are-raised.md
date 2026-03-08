@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/article-new_ehow_images_a07_1i_rt_do-taxes-live
 draft: false
 ---
 
-[![](/images/2012/05/article-new_ehow_images_a07_1i_rt_do-taxes-live-out-country_-800x800.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/article-new_ehow_images_a07_1i_rt_do-taxes-live-out-country_-800x800.jpg)On April 30, the Treasury Department
+[![](/images/2012/05/article-new_ehow_images_a07_1i_rt_do-taxes-live-out-country_-800x800.jpg)](/images/2012/05/article-new_ehow_images_a07_1i_rt_do-taxes-live-out-country_-800x800.jpg)On April 30, the Treasury Department

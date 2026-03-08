@@ -8,4 +8,4 @@ featured_image: "/images/2010/11/thoughtfulindia47.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia47.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia47.jpg)New York
+[![](/images/2010/11/thoughtfulindia47.jpg)](/images/2010/11/thoughtfulindia47.jpg)New York

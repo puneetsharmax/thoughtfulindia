@@ -8,5 +8,5 @@ featured_image: "/images/2011/02/google.jpg"
 draft: false
 ---
 
-[![google](/images/2011/02/google.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/02/google.jpg)
+[![google](/images/2011/02/google.jpg)](/images/2011/02/google.jpg)
 PRETEND for a moment that you are Google

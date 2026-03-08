@@ -22,4 +22,4 @@ The petition is not yet complete, but it has gained support from mothers nationw
 
  
 
-[Petition · Stop Selling Kardashian Kids Clothing · Change.org](https://www.thoughtfulindia.com/wp-content/uploads/2014/11/Petition-·-Stop-Selling-Kardashian-Kids-Clothing-·-Change.org_.html)
+[Petition · Stop Selling Kardashian Kids Clothing · Change.org](/images/2014/11/Petition-·-Stop-Selling-Kardashian-Kids-Clothing-·-Change.org_.html)

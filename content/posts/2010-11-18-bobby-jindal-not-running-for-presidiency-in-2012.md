@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtful-india4.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtful-india4.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtful-india4.jpg)
+[![](/images/2010/11/thoughtful-india4.jpg)](/images/2010/11/thoughtful-india4.jpg)
 
 Bobby Jindal, the Indian origin Governor of Louisiana, has claimed that he is not interested in running for president in 2012.
 

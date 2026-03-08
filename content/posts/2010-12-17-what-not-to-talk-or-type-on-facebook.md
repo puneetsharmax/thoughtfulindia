@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/thoughtfulindia42.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia42-300x224.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia42.jpg)
+[![](/images/2010/12/thoughtfulindia42-300x224.jpg)](/images/2010/12/thoughtfulindia42.jpg)
 
 **Five Ways to Diffuse the Cyber Threats to Your Marriage**
 

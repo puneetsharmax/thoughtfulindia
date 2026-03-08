@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/ambani2.jpg"
 draft: false
 ---
 
-[![](/images/2011/10/ambani.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/ambani.jpg)The world's most expensive home is lying unused and abandoned because its billionaire owners believe moving in will bring them bad luck.
+[![](/images/2011/10/ambani.jpg)](/images/2011/10/ambani.jpg)The world's most expensive home is lying unused and abandoned because its billionaire owners believe moving in will bring them bad luck.
 
 The 27-storey, billion-dollar tower in Mumbai, called Antilia, is said to have fallen foul of vastu shastra - an obscure Hindu version of feng shui.
 
@@ -22,11 +22,11 @@ According to reports, the Ambani family is concerned the building fails to confo
 
 Film screenings have been staged in its state-of-the-art theatre and dinners held in its grand ballroom, served by staff trained by the luxury Oberoi hotel chain.
 
-[![](/images/2011/10/ambani2-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/ambani2.jpg)But its owners return at the end of each party to their former ancestral home, never staying the night.
+[![](/images/2011/10/ambani2-300x225.jpg)](/images/2011/10/ambani2.jpg)But its owners return at the end of each party to their former ancestral home, never staying the night.
 
 Vastu, a philosophy that guides Hindu temple architecture, emphasises the importance of facing the rising sun - and despite the staggering sum spent on Antilia the building's eastern side does not have enough windows or other openings to let residents receive sufficient morning light.
 
-Instead of moving into their dream home, the Ambanis continue to stay in the more modest, 14-storey apartment tower at the south end of the city that they share, on different floors, with the rest of their extended family.[![](/images/2011/10/ambani1-300x238.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/ambani1.jpg)
+Instead of moving into their dream home, the Ambanis continue to stay in the more modest, 14-storey apartment tower at the south end of the city that they share, on different floors, with the rest of their extended family.[![](/images/2011/10/ambani1-300x238.jpg)](/images/2011/10/ambani1.jpg)
 
 Tushar Pania, a spokesman for Mr Ambani's company Reliance Industries, dismissed questions about whether the family was reluctant to live at Antilia as idle gossip.
 

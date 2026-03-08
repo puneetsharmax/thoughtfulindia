@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/dad.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/dad-300x278.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/dad.jpg)Both parents and St. Petersburg Police are asking a big question of a local dad:
+[![](/images/2012/05/dad-300x278.jpg)](/images/2012/05/dad.jpg)Both parents and St. Petersburg Police are asking a big question of a local dad:

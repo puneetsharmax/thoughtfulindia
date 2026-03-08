@@ -8,7 +8,7 @@ featured_image: "/images/2011/02/men11.jpg"
 draft: false
 ---
 
-[![](/images/2011/02/men4-214x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/02/men4.jpg)
+[![](/images/2011/02/men4-214x300.jpg)](/images/2011/02/men4.jpg)
 
 Not so long ago, the average American man in his 20s had achieved most of the milestones of adulthood: a high-school diploma, financial independence, marriage and children. Today, most men in their 20s hang out in a novel sort of limbo, a hybrid state of semi-hormonal adolescence and responsible self-reliance. This "pre-adulthood" has much to recommend it, especially for the college-educated. But it's time to state what has become obvious to legions of frustrated young women: It doesn't bring out the best in men.
 

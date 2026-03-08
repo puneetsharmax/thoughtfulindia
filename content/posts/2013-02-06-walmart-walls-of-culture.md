@@ -55,4 +55,4 @@ No matter how big. No matter how broad. No matter how wealthy. There are some ba
 
 Because people here are simply not the same as people there. You can only break barriers when you bridge cultures.
 
- **Visit Anju at: [http://www.anjugattani.com](http://www.anjugattani.com/) , Facebook: Anju Gattani Author, Twitter: @Anju_Gattani and Goodreads.   **![](http://cache4.thoughtfulindia.com/wp-content/uploads/2012/12/Cover-Duty-and-Desire-150x150.jpg)
+ **Visit Anju at: [http://www.anjugattani.com](http://www.anjugattani.com/) , Facebook: Anju Gattani Author, Twitter: @Anju_Gattani and Goodreads.   **![](http://cache4.thoughtfulindia.com/images/2012/12/Cover-Duty-and-Desire-150x150.jpg)

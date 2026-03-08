@@ -8,4 +8,4 @@ featured_image: "/images/2012/04/volunteer-abroad-feelings.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/volunteer-abroad-feelings-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/volunteer-abroad-feelings.jpg)
+[![](/images/2012/04/volunteer-abroad-feelings-150x150.jpg)](/images/2012/04/volunteer-abroad-feelings.jpg)

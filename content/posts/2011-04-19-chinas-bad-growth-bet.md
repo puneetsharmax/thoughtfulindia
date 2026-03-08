@@ -8,6 +8,6 @@ featured_image: "/images/2011/04/chand1.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/chand1-300x198.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/chand1.jpg)I recently took two trips to China just as the government launched its 12th Five-Year Plan to rebalance the country's long-term growth model. My visits deepened my view that there is a potentially destabilizing contradiction between China's short- and medium-term economic performance.
+[![](/images/2011/04/chand1-300x198.jpg)](/images/2011/04/chand1.jpg)I recently took two trips to China just as the government launched its 12th Five-Year Plan to rebalance the country's long-term growth model. My visits deepened my view that there is a potentially destabilizing contradiction between China's short- and medium-term economic performance.
 
 China's economy is overheating now, but, over time, its current overinvestment will prove deflationary both domestically and globally. Once increasing fixed investment becomes impossible

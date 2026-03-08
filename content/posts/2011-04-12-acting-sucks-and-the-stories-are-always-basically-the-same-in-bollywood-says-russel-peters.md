@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/russell.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/russell-300x196.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/russell.jpg)
+[![](/images/2011/04/russell-300x196.jpg)](/images/2011/04/russell.jpg)
 
 
 Born in Canada, Anglo-Indian stand-up comic Russell Peters says he can't relate to B-Town, feels the acting is bad and the stories almost identical!

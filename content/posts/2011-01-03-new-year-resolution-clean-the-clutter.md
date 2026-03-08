@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/makeup.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/makeup.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/makeup.jpg)Don't know where to start on the "clean-the-clutter" New Year's resolution?
+[![](/images/2011/01/makeup.jpg)](/images/2011/01/makeup.jpg)Don't know where to start on the "clean-the-clutter" New Year's resolution?
 Your cosmetics case or medicine cabinet would be good, since gratification can come in minutes instead of the hours it would take to organize your closet or wade through boxes in the garage.
 Linda Wells, editor-in-chief of Allure magazine, is on board.
 "When I open my medicine cabinet, an avalanche comes out. It's nice to have a clean cabinet and not have to wear a hard hat."

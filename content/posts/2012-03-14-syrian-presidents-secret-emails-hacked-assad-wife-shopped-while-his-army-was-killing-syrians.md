@@ -40,6 +40,6 @@ Many thanks
 
 aaa
 
-[![](/images/2012/03/syria3-1024x274.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/syria3.jpg)
+[![](/images/2012/03/syria3-1024x274.jpg)](/images/2012/03/syria3.jpg)
 
 As the international community struggled to absorb the bloodiest episode yet in

@@ -8,6 +8,6 @@ featured_image: "/images/2011/07/farhan-akhtars.jpg"
 draft: false
 ---
 
-#### **[![](/images/2011/07/farhan-akhtars-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/farhan-akhtars.jpg)They'd alleged that he was romancing one of his female assistant directors**
+#### **[![](/images/2011/07/farhan-akhtars-150x150.jpg)](/images/2011/07/farhan-akhtars.jpg)They'd alleged that he was romancing one of his female assistant directors**
 
 Farhan Akhtar has sent a legal notice to all concerned at the Times Of India and Bombay Times with regards to the incorrect story published by them on April, 18, 2011. In the story,

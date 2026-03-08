@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/clothing_size_chart_conversion.png"
 draft: false
 ---
 
-[![](/images/2012/05/clothing_size_chart_conversion-300x278.png)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/clothing_size_chart_conversion.png)Fashion label Giorgio Armani
+[![](/images/2012/05/clothing_size_chart_conversion-300x278.png)](/images/2012/05/clothing_size_chart_conversion.png)Fashion label Giorgio Armani

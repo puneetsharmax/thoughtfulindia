@@ -19,7 +19,7 @@ There will be as many as two million BPO- KPO jobs for foreign nationals from Ch
 The objective of the report titled -- World's Top Global Mega Trends to 2020 and Implications to Business, Society and Cultures -- was to provide companies with special reports to focus on the evolution of these global trends to help them drive growth and innovation in a rapidly changing environment.
 
 "Frost & Sullivan defines Mega Trends as global, sustained and macroeconomic forces of development that impact business, economy, cultures, careers and personal lives, thereby defining our future world and its increasing pace of change," Frost & Sullivan Partner, Sarwant Singh said.
-[![](/images/2011/04/rising-233x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/rising.jpg)
+[![](/images/2011/04/rising-233x300.jpg)](/images/2011/04/rising.jpg)
 
 Besides, reverse brain drain, some of the other top mega trends include urbanisation as there will be emergence of 30 Mega-cities, 15 mega-regions and at least 10 mega-corridors with over 20 million people by 2020 forcing organisations to re-think their "Urban" business model.
 Second most striking trend would be e-Mobility. There would be over 40 million electric vehicles, including electric pedal cycles, scooters, four-wheelers and buses will be sold annually around the globe in 2020.

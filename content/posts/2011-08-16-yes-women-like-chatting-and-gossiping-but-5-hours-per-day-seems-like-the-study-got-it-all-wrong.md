@@ -8,4 +8,4 @@ featured_image: "/images/2011/08/two-women-gossiping.jpg"
 draft: false
 ---
 
-[![](/images/2011/08/two-women-gossiping-300x236.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/two-women-gossiping.jpg)The nattering classes! Women gossip for FIVE hours every day, claims study
+[![](/images/2011/08/two-women-gossiping-300x236.jpg)](/images/2011/08/two-women-gossiping.jpg)The nattering classes! Women gossip for FIVE hours every day, claims study

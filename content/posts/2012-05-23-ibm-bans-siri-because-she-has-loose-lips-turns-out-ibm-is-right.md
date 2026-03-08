@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/siri-banned.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/siri-banned-300x223.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/siri-banned.jpg)If you work for IBM, you can bring your iPhone to work, but forget about using the phone
+[![](/images/2012/05/siri-banned-300x223.jpg)](/images/2012/05/siri-banned.jpg)If you work for IBM, you can bring your iPhone to work, but forget about using the phone

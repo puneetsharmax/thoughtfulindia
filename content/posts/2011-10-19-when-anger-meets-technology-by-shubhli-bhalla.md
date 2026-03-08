@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/anger.jpg"
 draft: false
 ---
 
-[![](/images/2011/10/anger-300x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/anger.jpg)In the Hi-Tech world of today, revenge is but a hop , skip and a jump away. Technology has opened up many doors for us to give vent to our feelings [ I will say many windows also ]. If you are angry at someone or someone hurt your feelings – forget just bitching with friends….. No, no, no , absolutely not ….how very old fashioned of you. Defaming ones name , tarnishing ones image , public humiliations….these are the key words my dear.
+[![](/images/2011/10/anger-300x300.jpg)](/images/2011/10/anger.jpg)In the Hi-Tech world of today, revenge is but a hop , skip and a jump away. Technology has opened up many doors for us to give vent to our feelings [ I will say many windows also ]. If you are angry at someone or someone hurt your feelings – forget just bitching with friends….. No, no, no , absolutely not ….how very old fashioned of you. Defaming ones name , tarnishing ones image , public humiliations….these are the key words my dear.
 
 It is no longer a one on one fight or simply limited to ones neighborhood or friend circle …..No way man….we are going GLOBAL with this.  Now we get back at someone internationally……that’s the way even your enemies would want it – believe me ; Frankly speaking in today’s world no one wants to be insulted the old fashioned way [ just being talked about behind ones back ] horror of horrors they may rather commit Hara-Kiri .
 

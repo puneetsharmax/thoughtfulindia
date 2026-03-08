@@ -8,4 +8,4 @@ featured_image: "/images/2012/04/Asocial-Networking.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/Asocial-Networking-193x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/Asocial-Networking.jpg)The Asocial Networking is a work of non-fiction and deals with a myriad topics concerning our online social behavior,
+[![](/images/2012/04/Asocial-Networking-193x300.jpg)](/images/2012/04/Asocial-Networking.jpg)The Asocial Networking is a work of non-fiction and deals with a myriad topics concerning our online social behavior,

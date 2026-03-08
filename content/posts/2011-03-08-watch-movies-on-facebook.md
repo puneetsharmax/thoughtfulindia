@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/blackknight-facebook.png"
 draft: false
 ---
 
-[![](/images/2011/03/blackknight-facebook-243x300.png)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/blackknight-facebook.png)
+[![](/images/2011/03/blackknight-facebook-243x300.png)](/images/2011/03/blackknight-facebook.png)
 
 Warner Bros. is apparently hoping to attract new fans by offering movies for viewing on Facebook.
 

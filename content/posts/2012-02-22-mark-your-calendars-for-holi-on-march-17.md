@@ -8,4 +8,4 @@ featured_image: "/images/2012/02/holi.jpg"
 draft: false
 ---
 
-Dear Readers - If you live in the Chicago Area come and celebrate Holi at the Eola Centre in Aurora[![](/images/2012/02/holi.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/holi.jpg)
+Dear Readers - If you live in the Chicago Area come and celebrate Holi at the Eola Centre in Aurora[![](/images/2012/02/holi.jpg)](/images/2012/02/holi.jpg)

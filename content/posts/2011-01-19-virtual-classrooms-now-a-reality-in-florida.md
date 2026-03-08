@@ -8,6 +8,6 @@ featured_image: "/images/2011/01/thoughtfulindia.jpg"
 draft: false
 ---
 
-??[![](/images/2011/01/thoughtfulindia.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/thoughtfulindia.jpg)
+??[![](/images/2011/01/thoughtfulindia.jpg)](/images/2011/01/thoughtfulindia.jpg)
 
 On the first day of her senior year at North Miami Beach Senior High School, Naomi Baptiste expected to be greeted by a teacher when she walked into her precalculus class.

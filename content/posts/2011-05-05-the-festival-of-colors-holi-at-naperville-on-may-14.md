@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/Holi-191.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/Holi-191-199x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/Holi-191.jpg)FUN WITH COLORS - FOOD - MUSIC - SHOP
+[![](/images/2011/05/Holi-191-199x300.jpg)](/images/2011/05/Holi-191.jpg)FUN WITH COLORS - FOOD - MUSIC - SHOP
 
 Saturday - May 14th, 2011
 

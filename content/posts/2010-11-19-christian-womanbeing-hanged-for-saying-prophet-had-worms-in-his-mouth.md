@@ -8,6 +8,6 @@ featured_image: "/images/2010/11/thoughtfulindia1.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia1.jpg)In this village in Pakistan's Punjab province a tearful 12-year-old girl ponders if the Pakistani government will soon hang her mother
+[![](/images/2010/11/thoughtfulindia1.jpg)](/images/2010/11/thoughtfulindia1.jpg)In this village in Pakistan's Punjab province a tearful 12-year-old girl ponders if the Pakistani government will soon hang her mother
 
 [Read More](http://www.cnn.com/2010/WORLD/asiapcf/11/18/pakistan.blasphemy/index.html)

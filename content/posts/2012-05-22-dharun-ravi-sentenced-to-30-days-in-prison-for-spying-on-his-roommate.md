@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/ALT-22RUTGERS-articleLarge.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/ALT-22RUTGERS-articleLarge-300x185.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/ALT-22RUTGERS-articleLarge.jpg)A judge here sentenced
+[![](/images/2012/05/ALT-22RUTGERS-articleLarge-300x185.jpg)](/images/2012/05/ALT-22RUTGERS-articleLarge.jpg)A judge here sentenced

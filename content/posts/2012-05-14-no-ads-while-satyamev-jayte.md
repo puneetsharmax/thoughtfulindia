@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/aamir.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/aamir.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/aamir.jpg)
+[![](/images/2012/05/aamir.jpg)](/images/2012/05/aamir.jpg)
 
 EXCERPTS FROM AN INTERVIEW
 

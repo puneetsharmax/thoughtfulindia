@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/0.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/0-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/0.jpg)As 20-month-old Morgan Sherrill reached her arms out to be picked up, her mother Jackie, 26 was not expecting her to fall forward with her bottle still in her mouth.
+[![](/images/2012/05/0-300x225.jpg)](/images/2012/05/0.jpg)As 20-month-old Morgan Sherrill reached her arms out to be picked up, her mother Jackie, 26 was not expecting her to fall forward with her bottle still in her mouth.
 
 "Her foot slipped off the couch, and the bottle chipped her tooth," said the Grove City, Ohio, mother. "She was in a lot of pain because she cut her lip as well and she was bleeding.
 

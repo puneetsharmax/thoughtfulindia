@@ -8,6 +8,6 @@ featured_image: "/images/2012/05/30kids.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/30kids-300x168.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/30kids.jpg)A Tennessee man's problems paying child support aren't so surprising: He has 30 children with 11 different women.
+[![](/images/2012/05/30kids-300x168.jpg)](/images/2012/05/30kids.jpg)A Tennessee man's problems paying child support aren't so surprising: He has 30 children with 11 different women.
 
 Desmond Hatchett, 33, of Knoxville, is pleading with the state to help him pay for child support, citing the fact that he earns minimum wage. Hatchett made national news in 2009, when his tally stood at 21 children.

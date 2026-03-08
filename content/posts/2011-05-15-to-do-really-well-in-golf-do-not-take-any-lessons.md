@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/bubba.jpg"
 draft: false
 ---
 
-[caption id="attachment_2814" align="aligncenter" width="553" caption="Bubba Watson&#39;s unorthodox swing and aversion to lessons haven&#39;t prevented him from being one of the biggest stars on the PGA Tour."][![Bubba](/images/2011/05/bubba.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/bubba.jpg)[/caption]
+[caption id="attachment_2814" align="aligncenter" width="553" caption="Bubba Watson&#39;s unorthodox swing and aversion to lessons haven&#39;t prevented him from being one of the biggest stars on the PGA Tour."][![Bubba](/images/2011/05/bubba.jpg)](/images/2011/05/bubba.jpg)[/caption]
 
 Bubba Watson, with two PGA Tour wins already this year, leads the FedEx Cup points race and is second on the money list. Yet he has never had a golf lesson. "No sir, I never felt the need for it," he told me recently. "I never will take a lesson. If I start playing bad golf, I'll just have to find me a new job."
 

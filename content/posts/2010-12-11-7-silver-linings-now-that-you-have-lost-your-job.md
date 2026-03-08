@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/thoughtfulindia23.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia23-300x99.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia23.jpg)
+[![](/images/2010/12/thoughtfulindia23-300x99.jpg)](/images/2010/12/thoughtfulindia23.jpg)
 
 It was bound to happen. In this tough economy, where businesses are cutting costs everywhere, there was no reason to think your company would be immune. You'd done your best to make yourself invaluable to the corporation, but now that there've been layoffs (or singular "layoff" really, as it's apparently only you for now) you and your coworkers (again, just you mainly) will have to find some way to get by.
 

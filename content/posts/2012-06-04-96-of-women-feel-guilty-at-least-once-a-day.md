@@ -8,4 +8,4 @@ featured_image: "/images/2012/06/momsguilt.jpg"
 draft: false
 ---
 
-[![](/images/2012/06/food-choice-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/food-choice.jpg)Are you sick of reading about how an
+[![](/images/2012/06/food-choice-300x200.jpg)](/images/2012/06/food-choice.jpg)Are you sick of reading about how an

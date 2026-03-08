@@ -8,6 +8,6 @@ featured_image: "/images/2011/04/corruptindia.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/corruptindia-300x187.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/corruptindia.jpg)BAREILLY: A 23-year-old national-level sportswoman lost her leg when she was pushed out of a moving train near Bareilly by three men who attempted to rob her.
+[![](/images/2011/04/corruptindia-300x187.jpg)](/images/2011/04/corruptindia.jpg)BAREILLY: A 23-year-old national-level sportswoman lost her leg when she was pushed out of a moving train near Bareilly by three men who attempted to rob her.
 
 [Sonu Sinha](http://timesofindia.indiatimes.com/topic/search?q=Sonu%20Sinha), a national-level football and

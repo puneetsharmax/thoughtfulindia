@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia11.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia11.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia11.jpg)
+[![](/images/2010/11/thoughtfulindia11.jpg)](/images/2010/11/thoughtfulindia11.jpg)
 
 We love the sound of laughter - but only if it's spontaneous and open mouthed, a new study reveals today.
 

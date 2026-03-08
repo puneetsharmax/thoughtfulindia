@@ -9,7 +9,7 @@ draft: false
 ---
 
 [
-![osama](/images/2011/05/obama.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/obama.jpg)
+![osama](/images/2011/05/obama.jpg)](/images/2011/05/obama.jpg)
 
  
 

@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/article-2127306-12869DE2000005DC-924_634x570.jp
 draft: false
 ---
 
-[![](/images/2012/04/article-2127306-12869DE2000005DC-924_634x570-300x269.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/article-2127306-12869DE2000005DC-924_634x570.jpg)She was the United States Senator for New York for eight years and yet Hillary Rodham Clinton is guilty of committing the ultimate fashion faux pas for 'any self-respecting New York City woman.'
+[![](/images/2012/04/article-2127306-12869DE2000005DC-924_634x570-300x269.jpg)](/images/2012/04/article-2127306-12869DE2000005DC-924_634x570.jpg)She was the United States Senator for New York for eight years and yet Hillary Rodham Clinton is guilty of committing the ultimate fashion faux pas for 'any self-respecting New York City woman.'
 In spite of the claim made by Manhattan's favourite fictional fashionista, Carrie Bradshaw, that a scrunchie would never be sported by a native New Yorker, Mrs Clinton consistently ties her hair up with the Eighties hair accessory - a habit some of her staffers would like to put end to.
 
 According to one of Mrs Clinton's top aides, there is a general feeling that the scrunchie could be replaced by something more stylish.

@@ -10,6 +10,6 @@ draft: false
 
 ** **
 
-**[![](/images/2010/12/holidaythoughtfulindia-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/holidaythoughtfulindia.jpg)Findings of Naperville Diary **
+**[![](/images/2010/12/holidaythoughtfulindia-150x150.jpg)](/images/2010/12/holidaythoughtfulindia.jpg)Findings of Naperville Diary **
 
 Schools are closing, it

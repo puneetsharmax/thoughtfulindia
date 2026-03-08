@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/Romney-tries-to-win-over-female-voters-F019PQRI
 draft: false
 ---
 
-[![](/images/2012/05/Romney-tries-to-win-over-female-voters-F019PQRI-x-large-300x220.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/Romney-tries-to-win-over-female-voters-F019PQRI-x-large.jpg)President Obama
+[![](/images/2012/05/Romney-tries-to-win-over-female-voters-F019PQRI-x-large-300x220.jpg)](/images/2012/05/Romney-tries-to-win-over-female-voters-F019PQRI-x-large.jpg)President Obama

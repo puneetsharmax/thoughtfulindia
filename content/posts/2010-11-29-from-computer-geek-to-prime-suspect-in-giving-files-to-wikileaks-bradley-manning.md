@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/private-manning1.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/private-manning1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/private-manning1.jpg)
+[![](/images/2010/11/private-manning1.jpg)](/images/2010/11/private-manning1.jpg)
 Bradley Manning, 23, enlisted in the US Army in 2007 and became an intelligence analyst in Iraq, sifting through classified information at Forward Operating Base Hammer, 40 miles east of Baghdad.
 Manning was arrested in May and then charged with 'transferring classified data'
 Born in a small town in Oklahoma he went on to spend part of his childhood in Wales, attending a secondary school in his mother's home town of Haverfordwest, Pembrokeshire.

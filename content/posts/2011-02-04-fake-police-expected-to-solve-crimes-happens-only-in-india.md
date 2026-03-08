@@ -8,7 +8,7 @@ featured_image: "/images/2011/02/police.jpg"
 draft: false
 ---
 
-[![](/images/2011/02/police.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/02/police.jpg)
+[![](/images/2011/02/police.jpg)](/images/2011/02/police.jpg)
 
 **For 3 months, fake cop worked in TN police station**
 

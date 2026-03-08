@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/wikileak.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/wikileak.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/wikileak.jpg)
+[![](/images/2010/12/wikileak.jpg)](/images/2010/12/wikileak.jpg)
 
 # 
 

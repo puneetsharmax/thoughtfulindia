@@ -8,4 +8,4 @@ featured_image: "/images/2011/09/slutwalk.jpg"
 draft: false
 ---
 
-[![](/images/2011/09/slutwalk-300x199.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/slutwalk.jpg)Indonesian women stage a protest wearing miniskirts at Jakarta
+[![](/images/2011/09/slutwalk-300x199.jpg)](/images/2011/09/slutwalk.jpg)Indonesian women stage a protest wearing miniskirts at Jakarta

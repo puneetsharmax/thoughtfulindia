@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/strauss-kahn-sincl_1896145c.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/strauss-kahn-sincl_1896145c-300x187.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/strauss-kahn-sincl_1896145c.jpg)
+[![](/images/2011/05/strauss-kahn-sincl_1896145c-300x187.jpg)](/images/2011/05/strauss-kahn-sincl_1896145c.jpg)
 
  
 

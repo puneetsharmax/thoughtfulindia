@@ -8,7 +8,7 @@ featured_image: "/images/2011/06/baba.jpg"
 draft: false
 ---
 
-[caption id="attachment_3047" align="aligncenter" width="600" caption="Followers of Yoga guru Baba Ramdev at Ramlila ground in New Delhi. (IE Photo: Ravi Kanojia)"][![](/images/2011/06/baba.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/baba.jpg)[/caption]
+[caption id="attachment_3047" align="aligncenter" width="600" caption="Followers of Yoga guru Baba Ramdev at Ramlila ground in New Delhi. (IE Photo: Ravi Kanojia)"][![](/images/2011/06/baba.jpg)](/images/2011/06/baba.jpg)[/caption]
 
 With no signs of Ramdev relenting, authorities today cancelled the permission granted to his yoga camp and teams of Delhi Police stormed the Ramlila venue late tonight to bring to an end the stand-off between him and the government.
 

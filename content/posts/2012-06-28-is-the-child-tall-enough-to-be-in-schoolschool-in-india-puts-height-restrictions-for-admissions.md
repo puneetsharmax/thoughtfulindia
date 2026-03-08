@@ -8,4 +8,4 @@ featured_image: "/images/2012/06/height.jpeg"
 draft: false
 ---
 
-[![](/images/2012/06/height.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/height.jpeg)Is you child tall enough to qualify for admission in junior KG?
+[![](/images/2012/06/height.jpeg)](/images/2012/06/height.jpeg)Is you child tall enough to qualify for admission in junior KG?

@@ -8,4 +8,4 @@ featured_image: "/images/2011/11/ht_twitter_break_up_cc_111109_wblog.jpg"
 draft: false
 ---
 
-[![](/images/2011/11/ht_twitter_break_up_cc_111109_wblog-300x168.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/ht_twitter_break_up_cc_111109_wblog.jpg)Breaking up is hard to do.
+[![](/images/2011/11/ht_twitter_break_up_cc_111109_wblog-300x168.jpg)](/images/2011/11/ht_twitter_break_up_cc_111109_wblog.jpg)Breaking up is hard to do.

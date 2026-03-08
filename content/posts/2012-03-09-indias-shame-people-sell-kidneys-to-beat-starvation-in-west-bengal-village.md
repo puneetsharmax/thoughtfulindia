@@ -9,7 +9,7 @@ draft: false
 ---
 
 BINDOL (NORTH DINAJPUR): In these arid, impoverished parts, Bindol has another name - kidney village. The wasted, skeletal men and women you would see slumped under the shade of trees are awaiting death with feeble breaths. This is the kidney sale capital of the state, perhaps of the country. Every second home here has someone who has sold his kidney to escape starvation. Many die within years.
-[![](/images/2012/03/kidney-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/kidney.jpg)
+[![](/images/2012/03/kidney-300x200.jpg)](/images/2012/03/kidney.jpg)
 Now, the dying men have started forcing their wives to give up a kidney.
 
 Bindol's infamy has spread by word of mouth. Dusty tracks trail of the eastern highway to Bangladesh to take you to this village, barely 35km from the district headquarters of Raiganj. The greenery of Dinajpur changes into an arid landscape. Here and there in the dry, sandy waste there are patches of green maize plants. No trace of paddy or wheat. The villagers, mostly tribals, lie dozing off the effects of homemade liquor.

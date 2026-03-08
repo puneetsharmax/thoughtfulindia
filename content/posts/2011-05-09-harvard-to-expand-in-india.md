@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/harvA.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/harvA.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/harvA.jpg)Harvard Business School is expanding its executive education offerings in China to meet growing demand for management instruction there, says David Yoffie, senior associate dean of executive education at Harvard.
+[![](/images/2011/05/harvA.jpg)](/images/2011/05/harvA.jpg)Harvard Business School is expanding its executive education offerings in China to meet growing demand for management instruction there, says David Yoffie, senior associate dean of executive education at Harvard.
 
 The school has rapidly expanded overseas in the last four years, focusing on China, India and Europe with programs that teach everything from venture capital to strategy execution. China has seen the quickest growth.
 

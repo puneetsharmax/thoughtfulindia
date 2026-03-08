@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/child-abuse1.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/child-abuse1-275x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/child-abuse1.jpg)The Parliament today approved a Bill to protect children below 18 from sexual abuse, set up special courts for speedy trial of cases against them and provide stringent punishment extending up to life term for offenders.
+[![](/images/2012/05/child-abuse1-275x300.jpg)](/images/2012/05/child-abuse1.jpg)The Parliament today approved a Bill to protect children below 18 from sexual abuse, set up special courts for speedy trial of cases against them and provide stringent punishment extending up to life term for offenders.
 
 "The Bill is gender neutral. It seeks to protect children from sexual offences... the burden of proof will be on the accused," Women and Child Development Minister Krishna Tirath said winding up the debate in the Lok Sabha on the Protection of Children from Sexual Offences Bill, 2011.
 

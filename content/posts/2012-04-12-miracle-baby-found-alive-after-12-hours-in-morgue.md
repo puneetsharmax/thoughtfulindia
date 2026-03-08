@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/Argentina-Baby-2.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/Argentina-Baby-2-300x168.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/Argentina-Baby-2.jpg)A baby found alive in a coffin in an Argentine morgue nearly 12 hours after the girl had been declared dead is improving, but questions remain for the hospital responsible for the near-fatal mistake.
+[![](/images/2012/04/Argentina-Baby-2-300x168.jpg)](/images/2012/04/Argentina-Baby-2.jpg)A baby found alive in a coffin in an Argentine morgue nearly 12 hours after the girl had been declared dead is improving, but questions remain for the hospital responsible for the near-fatal mistake.
 
 The mother, Analia Bouter, says she fell to her knees in shock after finding her baby alive in a coffin.
 

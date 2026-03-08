@@ -8,4 +8,4 @@ featured_image: "/images/2011/08/IMG_3136.jpg"
 draft: false
 ---
 
-[![](/images/2011/08/IMG_3136-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/IMG_3136.jpg)Yes it is and that's not a typo error . The fine
+[![](/images/2011/08/IMG_3136-300x225.jpg)](/images/2011/08/IMG_3136.jpg)Yes it is and that's not a typo error . The fine

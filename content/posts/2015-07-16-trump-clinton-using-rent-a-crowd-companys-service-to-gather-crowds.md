@@ -8,7 +8,7 @@ featured_image: "/images/2015/07/rent-a-crowd-london.jpg"
 draft: false
 ---
 
-![](http://www.rentacrowduk.co.uk/wp-content/uploads/2013/11/rent-a-crowd-london.jpg)Look no further than a company called *“[Crowds on Demand](http://crowdsondemand.com/services/political-services/)“*, a company who [hires multi-talented actors](http://speakingofwealth.com/sow-124-crowds-on-demand-with-adam-swart/) who are experts of [improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre) to provide the illusion of support for a candidate. Nothing draws a crowd, [like a crowd](http://speakingofwealth.com/sow-124-crowds-on-demand-with-adam-swart/).
+![](http://www.rentacrowduk.co.uk/images/2013/11/rent-a-crowd-london.jpg)Look no further than a company called *“[Crowds on Demand](http://crowdsondemand.com/services/political-services/)“*, a company who [hires multi-talented actors](http://speakingofwealth.com/sow-124-crowds-on-demand-with-adam-swart/) who are experts of [improvisational theatre](https://en.wikipedia.org/wiki/Improvisational_theatre) to provide the illusion of support for a candidate. Nothing draws a crowd, [like a crowd](http://speakingofwealth.com/sow-124-crowds-on-demand-with-adam-swart/).
 
 The company who has provided its services for athletes, artists and fashion people has recently [admitted](http://www.libertychat.com/2015/06/rent-a-crowd-company-admits-politicians-are-using-their-service/) to providing services for both Republican and Democrat candidates.
 

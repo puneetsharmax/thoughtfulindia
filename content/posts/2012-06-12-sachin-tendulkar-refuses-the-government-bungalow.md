@@ -8,6 +8,6 @@ featured_image: "/images/2012/06/Sachin_PTI.jpg"
 draft: false
 ---
 
-**[![](/images/2012/06/Sachin_PTI-300x186.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/Sachin_PTI.jpg)**
+**[![](/images/2012/06/Sachin_PTI-300x186.jpg)](/images/2012/06/Sachin_PTI.jpg)**
 
 Sachin Tendulkar, who took oath as a Rajya Sabha MP on Monday, decided against taking possession of a government bungalow allotted to him in the national capital.

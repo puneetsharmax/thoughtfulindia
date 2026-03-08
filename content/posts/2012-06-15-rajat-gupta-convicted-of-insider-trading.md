@@ -8,4 +8,4 @@ featured_image: "/images/2012/06/rajatgupta.jpg"
 draft: false
 ---
 
-[![](/images/2012/06/rajatgupta-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/rajatgupta.jpg)Rajat K. Gupta, the retired head of the consulting firm McKinsey & Company and a former
+[![](/images/2012/06/rajatgupta-300x200.jpg)](/images/2012/06/rajatgupta.jpg)Rajat K. Gupta, the retired head of the consulting firm McKinsey & Company and a former

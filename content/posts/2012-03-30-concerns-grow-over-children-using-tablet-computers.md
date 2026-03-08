@@ -8,7 +8,7 @@ featured_image: "/images/2012/03/ipad-programs-for-kids.jpg"
 draft: false
 ---
 
-[![](/images/2012/03/ipad-programs-for-kids-300x201.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/ipad-programs-for-kids.jpg)Electronic tablets like the iPad are a revolutionary educational tool and are becoming part of childhood, but should be watched carefully so that overuse doesn't lead to learning or behavioral problems, experts say.
+[![](/images/2012/03/ipad-programs-for-kids-300x201.jpg)](/images/2012/03/ipad-programs-for-kids.jpg)Electronic tablets like the iPad are a revolutionary educational tool and are becoming part of childhood, but should be watched carefully so that overuse doesn't lead to learning or behavioral problems, experts say.
 
 "It's a topic that really emerged in the last two years. You can't pull it from their hands," Warren Buckleitner, editor of Children's Technology Review, said this week at a New York panel titled "Baby Brains and Video Games."
 

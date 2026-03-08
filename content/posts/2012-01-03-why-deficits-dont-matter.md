@@ -8,4 +8,4 @@ featured_image: "/images/2012/01/Federal_Debt_1901-2010.jpg"
 draft: false
 ---
 
-[![Federal_Debt_1901-2010](/images/2012/01/Federal_Debt_1901-2010-1024x518.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/01/Federal_Debt_1901-2010.jpg)(By
+[![Federal_Debt_1901-2010](/images/2012/01/Federal_Debt_1901-2010-1024x518.jpg)](/images/2012/01/Federal_Debt_1901-2010.jpg)(By

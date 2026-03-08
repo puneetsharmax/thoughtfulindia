@@ -8,4 +8,4 @@ featured_image: "/images/2011/05/Poster-Final1.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/Poster-Final1-682x1024.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/Poster-Final1.jpg)
+[![](/images/2011/05/Poster-Final1-682x1024.jpg)](/images/2011/05/Poster-Final1.jpg)

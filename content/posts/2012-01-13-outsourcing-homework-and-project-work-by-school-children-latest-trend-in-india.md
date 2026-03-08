@@ -8,7 +8,7 @@ featured_image: "/images/2012/01/zakat-Children-Studying_col.jpg"
 draft: false
 ---
 
-[![](/images/2012/01/zakat-Children-Studying_col-300x217.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/01/zakat-Children-Studying_col.jpg)MUMBAI: While parents struggle to pay annual school fees between Rs 12,000 and 18,000, a south Mumbai family outsourced a single Std X project for Rs 26,000.
+[![](/images/2012/01/zakat-Children-Studying_col-300x217.jpg)](/images/2012/01/zakat-Children-Studying_col.jpg)MUMBAI: While parents struggle to pay annual school fees between Rs 12,000 and 18,000, a south Mumbai family outsourced a single Std X project for Rs 26,000.
 
 The cost of outsourcing projects has skyrocketed over the years. Regular project work is now compelling parents to send their children for tutorials, giving rise to a new cottage industry.
 

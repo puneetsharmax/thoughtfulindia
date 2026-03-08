@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia4.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia4.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia4.jpg)
+[![](/images/2010/11/thoughtfulindia4.jpg)](/images/2010/11/thoughtfulindia4.jpg)
 
 Various Key people talk about the best advice they have received.
 

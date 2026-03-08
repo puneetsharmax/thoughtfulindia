@@ -8,4 +8,4 @@ featured_image: "/images/2011/08/redchair_opt.jpg"
 draft: false
 ---
 
-[![](/images/2011/08/redchair_opt-276x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/redchair_opt.jpg)If a fashionable closet were to be quartered into segments by
+[![](/images/2011/08/redchair_opt-276x300.jpg)](/images/2011/08/redchair_opt.jpg)If a fashionable closet were to be quartered into segments by

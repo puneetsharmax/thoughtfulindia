@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/YAHOO-articleLarge.jpg"
 draft: false
 ---
 
-### [![](/images/2011/09/YAHOO-articleLarge-300x152.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/YAHOO-articleLarge.jpg)Once a Leader, Yahoo Now Struggles to Find Its Way
+### [![](/images/2011/09/YAHOO-articleLarge-300x152.jpg)](/images/2011/09/YAHOO-articleLarge.jpg)Once a Leader, Yahoo Now Struggles to Find Its Way
 
 
 

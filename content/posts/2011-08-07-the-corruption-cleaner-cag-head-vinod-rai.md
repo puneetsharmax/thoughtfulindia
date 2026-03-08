@@ -8,7 +8,7 @@ featured_image: "/images/2011/08/vinod_rai.jpg"
 draft: false
 ---
 
-[![](/images/2011/08/vinod_rai-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/vinod_rai.jpg)Vinod Rai has a good first serve. He takes full advantage of his over six-foot frame to smash the ball across the court. The opponent, a colleague of his, has to receive the ball at an uncomfortable height. It is not competitive tennis; it is a match that is almost like evening banter. But the players are at it with enthusiasm. The venue is an abandoned parking lot converted into a tennis court at the old office of the Comptroller and Auditor General (CAG) in Delhi, a few hundred meters away from the spanking new Dholpur stone structure that is the new CAG office complex.
+[![](/images/2011/08/vinod_rai-300x200.jpg)](/images/2011/08/vinod_rai.jpg)Vinod Rai has a good first serve. He takes full advantage of his over six-foot frame to smash the ball across the court. The opponent, a colleague of his, has to receive the ball at an uncomfortable height. It is not competitive tennis; it is a match that is almost like evening banter. But the players are at it with enthusiasm. The venue is an abandoned parking lot converted into a tennis court at the old office of the Comptroller and Auditor General (CAG) in Delhi, a few hundred meters away from the spanking new Dholpur stone structure that is the new CAG office complex.
 
 Rai has just inaugurated the court and is playing the first match with his colleagues. "After we got a new office, we decided to convert this space into a tennis court," says 62-year-old Rai, who has been playing tennis and climbing mountains since he was in college. But it is not the aces he serves on the tennis court that have made him famous.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2012/07/anderson-and-his-boyfriend.jpeg"
 draft: false
 ---
 
-[caption id="attachment_7188" align="alignleft" width="200"][![](/images/2012/07/anderson-and-his-boyfriend-200x300.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/07/anderson-and-his-boyfriend.jpeg) Anderson and Ben[/caption]
+[caption id="attachment_7188" align="alignleft" width="200"][![](/images/2012/07/anderson-and-his-boyfriend-200x300.jpeg)](/images/2012/07/anderson-and-his-boyfriend.jpeg) Anderson and Ben[/caption]
 
 **The CNN reporter and daytime talk show host says he's always been open with his family, friends and colleagues**
 

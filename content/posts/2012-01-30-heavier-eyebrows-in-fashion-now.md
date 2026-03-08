@@ -8,7 +8,7 @@ featured_image: "/images/2012/01/dailymail3.jpeg"
 draft: false
 ---
 
-[![](/images/2012/01/dailymail3.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/01/dailymail3.jpeg)[![](/images/2012/01/dailymail1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/01/dailymail1.jpg)Step away from the tweezers.
+[![](/images/2012/01/dailymail3.jpeg)](/images/2012/01/dailymail3.jpeg)[![](/images/2012/01/dailymail1.jpg)](/images/2012/01/dailymail1.jpg)Step away from the tweezers.
 
 
 Right now. Women who pluck their eyebrows are within a hair

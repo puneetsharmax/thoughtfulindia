@@ -8,4 +8,4 @@ featured_image: "/images/2012/06/Gauri-Khan-it-was-reported-had-problems-with-Pr
 draft: false
 ---
 
-[![](/images/2012/06/Gauri-Khan-it-was-reported-had-problems-with-Priyanka-Chopra-But-the-star-wife-has-resolved-her-temporary-issues-with-Priyanka-Chopra-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/Gauri-Khan-it-was-reported-had-problems-with-Priyanka-Chopra-But-the-star-wife-has-resolved-her-temporary-issues-with-Priyanka-Chopra.jpg)Gauri Khan, it was reported, had problems with
+[![](/images/2012/06/Gauri-Khan-it-was-reported-had-problems-with-Priyanka-Chopra-But-the-star-wife-has-resolved-her-temporary-issues-with-Priyanka-Chopra-300x225.jpg)](/images/2012/06/Gauri-Khan-it-was-reported-had-problems-with-Priyanka-Chopra-But-the-star-wife-has-resolved-her-temporary-issues-with-Priyanka-Chopra.jpg)Gauri Khan, it was reported, had problems with

@@ -8,4 +8,4 @@ featured_image: "/images/2010/12/thoughtfulindia46.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia46-300x246.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia46.jpg)Citing an anonymous Chinese source, Japanese Apple enthusiast site
+[![](/images/2010/12/thoughtfulindia46-300x246.jpg)](/images/2010/12/thoughtfulindia46.jpg)Citing an anonymous Chinese source, Japanese Apple enthusiast site

@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/yahoo-ceo-scott-thompson.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/yahoo-ceo-scott-thompson-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/yahoo-ceo-scott-thompson.jpg)A look at who played key roles as Yahoo CEO Scott Thompson departs amid resume controversy:
+[![](/images/2012/05/yahoo-ceo-scott-thompson-300x225.jpg)](/images/2012/05/yahoo-ceo-scott-thompson.jpg)A look at who played key roles as Yahoo CEO Scott Thompson departs amid resume controversy:

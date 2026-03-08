@@ -8,7 +8,7 @@ featured_image: "/images/2012/02/Whole-Grain_Meals.jpeg"
 draft: false
 ---
 
-[![](/images/2012/02/Whole-Grain_Meals-300x229.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/Whole-Grain_Meals.jpeg)Knowing what to eat, and in what quantities, is becoming a real challenge, as nutritional scientists continue to study the healing powers of certain foods.
+[![](/images/2012/02/Whole-Grain_Meals-300x229.jpg)](/images/2012/02/Whole-Grain_Meals.jpeg)Knowing what to eat, and in what quantities, is becoming a real challenge, as nutritional scientists continue to study the healing powers of certain foods.
 
  
 

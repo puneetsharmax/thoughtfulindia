@@ -8,7 +8,7 @@ featured_image: "/images/2011/11/newhome.jpg"
 draft: false
 ---
 
-[![](/images/2011/11/newhome-300x199.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/newhome.jpg)The new American home is taking shape.
+[![](/images/2011/11/newhome-300x199.jpg)](/images/2011/11/newhome.jpg)The new American home is taking shape.
 
 Tough recent years are leaving their mark on home design, just as the housing-boom years sent square footage soaring and stamped a distinctive "McMansion" style on neighborhoods across the country. Big home builders, smaller architecture firms and even bathroom-fixture makers are adjusting to the shift toward more practical features and away from the aspirational.
 

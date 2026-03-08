@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/House-prices-are-falling..jpg"
 draft: false
 ---
 
-[![](/images/2011/01/House-prices-are-falling..jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/House-prices-are-falling..jpg)
+[![](/images/2011/01/House-prices-are-falling..jpg)](/images/2011/01/House-prices-are-falling..jpg)
 Home prices slipped in nearly every major metropolitan area in November, with a few cities hitting their lowest levels since prices peaked about four years ago, according to a closely watched index released Tuesday.
 From October to November, prices fell in 19 of the 20 metro areas tracked by the Standard & Poor's/Case-Shiller index, widely considered a gauge of the housing market's health. The only exception was San Diego, where prices were basically unchanged.
 Only four areas posted year-over-year gains in November, including Los Angeles, San Diego, San Francisco and the Washington region. But in the aggregate, prices dipped 1.6 percent in November from the same time a year earlier, falling in 16 cities.

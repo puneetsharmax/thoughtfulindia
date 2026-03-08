@@ -8,6 +8,6 @@ featured_image: ""
 draft: false
 ---
 
-**[![](/images/2011/08/rick-perry.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/rick-perry.jpeg)Is Rick Perry dumb?**
+**[![](/images/2011/08/rick-perry.jpeg)](/images/2011/08/rick-perry.jpeg)Is Rick Perry dumb?**
 
 Another Texas governor who drops his

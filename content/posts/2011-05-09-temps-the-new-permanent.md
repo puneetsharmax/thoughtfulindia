@@ -8,4 +8,4 @@ featured_image: "/images/2011/05/temp1.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/temp.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/temp.jpg)The rise of the permanently temporary
+[![](/images/2011/05/temp.jpg)](/images/2011/05/temp.jpg)The rise of the permanently temporary

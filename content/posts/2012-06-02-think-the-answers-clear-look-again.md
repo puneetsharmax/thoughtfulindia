@@ -8,7 +8,7 @@ featured_image: "/images/2012/06/Dr-Donald-Redelmeier_12_04_11.jpg"
 draft: false
 ---
 
-[caption id="attachment_6806" align="alignleft" width="300" caption="Dr-Donald-Redelmeier"][![](/images/2012/06/Dr-Donald-Redelmeier_12_04_11-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/Dr-Donald-Redelmeier_12_04_11.jpg)[/caption]
+[caption id="attachment_6806" align="alignleft" width="300" caption="Dr-Donald-Redelmeier"][![](/images/2012/06/Dr-Donald-Redelmeier_12_04_11-300x200.jpg)](/images/2012/06/Dr-Donald-Redelmeier_12_04_11.jpg)[/caption]
 
  
 

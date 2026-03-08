@@ -10,7 +10,7 @@ draft: false
 
 [
 
-](https://www.thoughtfulindia.com/wp-content/uploads/2013/09/Travel2.jpg)
+](/images/2013/09/Travel2.jpg)
 
 [caption id="attachment_10627" align="alignleft" width="139"]![Sweta Lal is a Melbourne Based Writer/ Editor. An Engineer turned writer passionately following this profession as a Freelancer. Her works include Blogs, Poetry, Non-fiction and Children’s stories. Much of her work can be seen listed on her Facebook Page “Words ForThe Days”.](/images/2013/09/sweta.jpeg) Sweta Lal is a Melbourne Based Writer/ Editor. An Engineer turned writer passionately following this profession as a Freelancer. Her works include Blogs, Poetry, Non-fiction and Children’s stories. Much of her work can be seen listed on her Facebook Page “Words ForThe Days”.[/caption]
 

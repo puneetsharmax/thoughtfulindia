@@ -8,4 +8,4 @@ featured_image: "/images/2011/06/botox.jpg"
 draft: false
 ---
 
-**[![](/images/2011/06/botox-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/botox.jpg)THE GIST** Using
+**[![](/images/2011/06/botox-300x225.jpg)](/images/2011/06/botox.jpg)THE GIST** Using

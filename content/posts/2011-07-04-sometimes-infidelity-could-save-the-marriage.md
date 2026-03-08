@@ -8,7 +8,7 @@ featured_image: "/images/2011/07/cracked-relationship.jpg"
 draft: false
 ---
 
-#### [![](/images/2011/07/cracked-relationship1-300x228.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/cracked-relationship1.jpg)Married, With Infidelities
+#### [![](/images/2011/07/cracked-relationship1-300x228.jpg)](/images/2011/07/cracked-relationship1.jpg)Married, With Infidelities
 
 
 

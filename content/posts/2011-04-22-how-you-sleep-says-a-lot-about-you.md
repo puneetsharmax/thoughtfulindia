@@ -13,7 +13,7 @@ draft: false
 
 
 
-**[![](/images/2011/04/sleep-300x282.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/sleep.jpg)You spend about 1/3 of your life sleeping**- are you sleeping the right way that facilitates the best sleep possible? Are you waking up stiff with neck and shoulder pain every morning? What is the best position for sleep that will place the least stress on your neck and lower back area? Well a lot has to do with the position that you sleep in. Studies have been done that show that your [sleeping position says a lot about your personality](http://arc4life.blogspot.com/2008/06/what-your-sleeping-postion-reveals.html). You can sleep on your back, on your side or on your stomach. What is the best and what is the worst sleeping position? Well let’s discuss the 3 sleeping positions and how each affects you:
+**[![](/images/2011/04/sleep-300x282.jpg)](/images/2011/04/sleep.jpg)You spend about 1/3 of your life sleeping**- are you sleeping the right way that facilitates the best sleep possible? Are you waking up stiff with neck and shoulder pain every morning? What is the best position for sleep that will place the least stress on your neck and lower back area? Well a lot has to do with the position that you sleep in. Studies have been done that show that your [sleeping position says a lot about your personality](http://arc4life.blogspot.com/2008/06/what-your-sleeping-postion-reveals.html). You can sleep on your back, on your side or on your stomach. What is the best and what is the worst sleeping position? Well let’s discuss the 3 sleeping positions and how each affects you:
 
  
 

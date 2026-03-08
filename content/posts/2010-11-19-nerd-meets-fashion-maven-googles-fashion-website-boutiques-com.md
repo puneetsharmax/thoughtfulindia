@@ -8,6 +8,6 @@ featured_image: "/images/2010/11/thoughtfulindia.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia.jpg)
+[![](/images/2010/11/thoughtfulindia.jpg)](/images/2010/11/thoughtfulindia.jpg)
 
 YOU know how remote and strange the fashion world is when you go to

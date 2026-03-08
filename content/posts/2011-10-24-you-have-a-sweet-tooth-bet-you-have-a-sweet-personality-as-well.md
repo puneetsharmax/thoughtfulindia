@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/womeneatingchocolate.jpg"
 draft: false
 ---
 
-### [![](/images/2011/10/womeneatingchocolate.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/womeneatingchocolate.jpg)Sweet Tooth, Sweet Personality
+### [![](/images/2011/10/womeneatingchocolate.jpg)](/images/2011/10/womeneatingchocolate.jpg)Sweet Tooth, Sweet Personality
 
 
 

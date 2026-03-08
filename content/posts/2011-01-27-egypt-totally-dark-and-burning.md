@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/egypt.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/egypt.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/egypt.jpg)
+[![](/images/2011/01/egypt.jpg)](/images/2011/01/egypt.jpg)
 
 Web activists called for mass protests across Egypt on Friday to end President Hosni Mubarak's three-decade rule after protesters clashed with security forces late into the night in the eastern city of Suez.
 

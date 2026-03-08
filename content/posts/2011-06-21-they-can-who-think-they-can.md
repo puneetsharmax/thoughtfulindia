@@ -11,7 +11,7 @@ draft: false
 # 
 
 
-[caption id="attachment_3138" align="alignleft" width="180" caption="Sweta Lal is a Melbourne Based Writer, an Entrepreneur & Business Consultant helping people to set up their ecommerce Projects. An Engineer turned writer passionately following this profession as a Freelancer. Her works include poetry, fiction and children&#39;s stories. Much of her work can be seen listed on her Facebook Page "Words ForThe Days". "][![](/images/2011/06/sweta2-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/sweta2.jpg)[/caption]
+[caption id="attachment_3138" align="alignleft" width="180" caption="Sweta Lal is a Melbourne Based Writer, an Entrepreneur & Business Consultant helping people to set up their ecommerce Projects. An Engineer turned writer passionately following this profession as a Freelancer. Her works include poetry, fiction and children&#39;s stories. Much of her work can be seen listed on her Facebook Page "Words ForThe Days". "][![](/images/2011/06/sweta2-300x225.jpg)](/images/2011/06/sweta2.jpg)[/caption]
 
 When life throws peaches at you, you expect strawberries instead. This was the dilemma that haunted me right from the beginning of my career. Technical education, corporate background and a promising career ahead did not make life easier for me. Instead I kept falling into the trap of choosing between options in my personal and professional life. Having choices is good but making decisions is really tough.
 

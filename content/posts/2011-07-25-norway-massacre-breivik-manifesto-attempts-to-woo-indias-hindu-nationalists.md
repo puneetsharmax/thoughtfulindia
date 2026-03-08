@@ -8,4 +8,4 @@ featured_image: "/images/2011/07/Anders-Behring-Breivik-se-0071.jpg"
 draft: false
 ---
 
-[![](/images/2011/07/Anders-Behring-Breivik-se-0071-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/Anders-Behring-Breivik-se-0071.jpg)Norway massacre suspect Anders Behring Breivik
+[![](/images/2011/07/Anders-Behring-Breivik-se-0071-150x150.jpg)](/images/2011/07/Anders-Behring-Breivik-se-0071.jpg)Norway massacre suspect Anders Behring Breivik

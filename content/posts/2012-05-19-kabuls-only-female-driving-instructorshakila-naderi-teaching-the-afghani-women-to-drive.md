@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/Screen-shot-2012-05-16-at-6.25.35-PM.png"
 draft: false
 ---
 
-*[![](/images/2012/05/Screen-shot-2012-05-16-at-6.25.35-PM-300x192.png)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/Screen-shot-2012-05-16-at-6.25.35-PM.png)Afghan*
+*[![](/images/2012/05/Screen-shot-2012-05-16-at-6.25.35-PM-300x192.png)](/images/2012/05/Screen-shot-2012-05-16-at-6.25.35-PM.png)Afghan*

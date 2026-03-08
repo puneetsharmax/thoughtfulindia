@@ -8,4 +8,4 @@ featured_image: "/images/2011/09/freddie-mercury.jpeg"
 draft: false
 ---
 
-[![](/images/2011/09/freddie-mercury.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/freddie-mercury.jpeg)Google is celebrating Freddie Mercury's b'day (Queen) via its logo. He has an Indian connection. His real name is Farrokh Bulsara. Excerpt from Wikipedia: "Mercury, who was a
+[![](/images/2011/09/freddie-mercury.jpeg)](/images/2011/09/freddie-mercury.jpeg)Google is celebrating Freddie Mercury's b'day (Queen) via its logo. He has an Indian connection. His real name is Farrokh Bulsara. Excerpt from Wikipedia: "Mercury, who was a

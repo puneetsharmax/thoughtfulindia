@@ -8,7 +8,7 @@ featured_image: ""
 draft: false
 ---
 
-![](https://media.freemalaysiatoday.com/wp-content/uploads/2025/02/1ccebfc7-robert-f-kennedy-jr.jpg)
+![](https://media.freemalaysiatoday.com/images/2025/02/1ccebfc7-robert-f-kennedy-jr.jpg)
 
 Robert F. Kennedy Jr., recently appointed as the U.S. Secretary of Health and Human Services under President Donald Trump, has swiftly initiated a series of controversial health policy reforms. His actions encompass a critical stance on widely used antidepressants, skepticism towards established vaccination protocols, and a reevaluation of the Food and Drug Administration's (FDA) regulatory practices. These initiatives echo historical instances where medical mavericks challenged prevailing health paradigms, often facing significant opposition before their ideas were validated.
 

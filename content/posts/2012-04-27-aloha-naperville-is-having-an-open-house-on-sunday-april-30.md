@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/AlohaBolingbrook.jpeg"
 draft: false
 ---
 
-[![](/images/2012/04/AlohaBolingbrook.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/AlohaBolingbrook.jpeg)**The program is for kids 5 - 11yrs old.**
+[![](/images/2012/04/AlohaBolingbrook.jpeg)](/images/2012/04/AlohaBolingbrook.jpeg)**The program is for kids 5 - 11yrs old.**
 
 This free session runs for about 2 hrs. Your child will be introduced to the abacus and our math program in first hour. The second hour will be an information session for the parents. At this time you can also register for the program for classes beginning in May.
 

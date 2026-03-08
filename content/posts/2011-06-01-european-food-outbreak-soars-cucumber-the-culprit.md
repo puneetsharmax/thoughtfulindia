@@ -8,7 +8,7 @@ featured_image: "/images/2011/06/ecoli.jpg"
 draft: false
 ---
 
-[![](/images/2011/06/ecoli.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/ecoli.jpg)The number of people hit by a massive European outbreak of foodborne bacterial infections is a third bigger than previously known and a stunningly high number of patients suffer from a potentially deadly complication than can shut down their kidneys, officials said Wednesday.
+[![](/images/2011/06/ecoli.jpg)](/images/2011/06/ecoli.jpg)The number of people hit by a massive European outbreak of foodborne bacterial infections is a third bigger than previously known and a stunningly high number of patients suffer from a potentially deadly complication than can shut down their kidneys, officials said Wednesday.
 
 The death toll rose to 17, with German authorities reporting that an 84-year-old woman with the complication had died on Sunday.
 

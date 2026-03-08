@@ -11,7 +11,7 @@ draft: false
 ---
 
 
-[caption id="attachment_3682" align="alignleft" width="119" caption="Suren is an armchair enthusiast and omnivorous reader. He uses time away from his day job as a software engineer to explore and read up about history, mythology and religion. He irritates his wife with clumsy help in the kitchen and his two sons with clumsy help with their homework. He lives in Chennai, India."][![](/images/2011/09/suren.png)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/suren.png)[/caption]
+[caption id="attachment_3682" align="alignleft" width="119" caption="Suren is an armchair enthusiast and omnivorous reader. He uses time away from his day job as a software engineer to explore and read up about history, mythology and religion. He irritates his wife with clumsy help in the kitchen and his two sons with clumsy help with their homework. He lives in Chennai, India."][![](/images/2011/09/suren.png)](/images/2011/09/suren.png)[/caption]
 
 Recent discoveries of Tamil Brahmi writing in Tamil Nadu could force experts to revisit their theories of how writing arose in India.
 

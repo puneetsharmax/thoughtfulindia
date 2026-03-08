@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/thoughtfulindia24.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia24.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia24.jpg)
+[![](/images/2010/12/thoughtfulindia24.jpg)](/images/2010/12/thoughtfulindia24.jpg)
 Part travelogue, part love letter, part autobiography, Shantaram is a vivid, entertaining but slightly grandiose tale of Lin, an ex-junkie and convicted robber who escapes from an Australian prison then hides in the most alien of places: the hot, filthy, decadent, seaside metropolis of Bombay.
 
 Shantaram is no wide-eyed backpacker's Lonely Planet travel guide. Instead, it could double as a guidebook for a fugitive who needs to disappear, counterfeit passport in hand.

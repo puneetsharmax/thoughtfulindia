@@ -8,6 +8,6 @@ featured_image: "/images/2010/12/smoking1.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/smoking1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/smoking1.jpg)
+[![](/images/2010/12/smoking1.jpg)](/images/2010/12/smoking1.jpg)
 
 Smokers, you don't likely need more reasons to stub out your cigarettes, but here's some encouraging news:

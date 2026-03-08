@@ -8,5 +8,5 @@ featured_image: ""
 draft: false
 ---
 
-![](http://www.healthrelatedinfos.com/wp-content/uploads/2010/07/diet.jpg)
+![](http://www.healthrelatedinfos.com/images/2010/07/diet.jpg)
 To lose weight effectively, you must lose a lot of weight and quickly. Studies presented during the International Congress on Obesity in Stockholm destroyed a myth:

@@ -8,4 +8,4 @@ featured_image: "/images/2012/04/Mitt-Romney-and-Ann-Romney-Poor-In-Spirit.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/ann-romney-2-sized.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/ann-romney-2-sized.jpg)Ann Romney
+[![](/images/2012/04/ann-romney-2-sized.jpg)](/images/2012/04/ann-romney-2-sized.jpg)Ann Romney

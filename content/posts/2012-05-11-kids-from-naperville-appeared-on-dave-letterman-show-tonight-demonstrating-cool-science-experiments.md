@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/cfiles15767.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/cfiles15767-300x224.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/cfiles15767.jpg)Zack Pradel from Lincoln Junior High,Jack Brandt and
+[![](/images/2012/05/cfiles15767-300x224.jpg)](/images/2012/05/cfiles15767.jpg)Zack Pradel from Lincoln Junior High,Jack Brandt and

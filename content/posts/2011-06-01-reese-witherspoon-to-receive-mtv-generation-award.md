@@ -9,7 +9,7 @@ draft: false
 ---
 
 [
-](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/Reese-Witherspoon.jpg)Reese Witherspoon better make some room on her trophy shelf.
+](/images/2011/06/Reese-Witherspoon.jpg)Reese Witherspoon better make some room on her trophy shelf.
 
 MTV says Witherspoon will receive its Generation Award at Sunday's MTV Movie Awards.
 

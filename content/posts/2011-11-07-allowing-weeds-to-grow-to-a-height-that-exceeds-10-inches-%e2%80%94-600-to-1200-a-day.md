@@ -8,7 +8,7 @@ featured_image: "/images/2011/11/MayorRahmEmanuel.jpg"
 draft: false
 ---
 
-### [caption id="attachment_4340" align="alignleft" width="300" caption="I will make life harder for the people"][![](/images/2011/11/MayorRahmEmanuel-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/MayorRahmEmanuel.jpg)[/caption]
+### [caption id="attachment_4340" align="alignleft" width="300" caption="I will make life harder for the people"][![](/images/2011/11/MayorRahmEmanuel-300x200.jpg)](/images/2011/11/MayorRahmEmanuel.jpg)[/caption]
 
 City fines and fees double, triple for minor and major offenses
 

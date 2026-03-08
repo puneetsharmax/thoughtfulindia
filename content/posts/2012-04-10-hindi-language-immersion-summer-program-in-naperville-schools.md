@@ -8,6 +8,6 @@ featured_image: "/images/2012/04/learn-hindi.jpg"
 draft: false
 ---
 
-**[![](/images/2012/04/hindi-300x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/hindi.jpg)Back by Popular Demand-Once Again Learn Hindi this Summer in the Naperville School Districts!**
+**[![](/images/2012/04/hindi-300x300.jpg)](/images/2012/04/hindi.jpg)Back by Popular Demand-Once Again Learn Hindi this Summer in the Naperville School Districts!**
 
 A non-credit language learning opportunity that provides a vigorous, enriching and enjoyable learning experience.

@@ -8,4 +8,4 @@ featured_image: "/images/2011/04/obamas-parents1.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/obamas-parents1-300x210.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/obamas-parents1.jpg)President Barack Obama
+[![](/images/2011/04/obamas-parents1-300x210.jpg)](/images/2011/04/obamas-parents1.jpg)President Barack Obama

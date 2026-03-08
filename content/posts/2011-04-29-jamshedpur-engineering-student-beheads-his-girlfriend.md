@@ -8,4 +8,4 @@ featured_image: "/images/2011/04/endoflove.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/endoflove-280x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/endoflove.jpg)Bijendra Kumar alias Golu, 23, an engineering diploma student of Jamshedpur, On Wednesday, a student of St Xavier
+[![](/images/2011/04/endoflove-280x300.jpg)](/images/2011/04/endoflove.jpg)Bijendra Kumar alias Golu, 23, an engineering diploma student of Jamshedpur, On Wednesday, a student of St Xavier

@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/SexOffenderDanger.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/SexOffenderDanger.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/SexOffenderDanger.jpg)Imagine a really busy day at your favorite caf
+[![](/images/2012/05/SexOffenderDanger.jpg)](/images/2012/05/SexOffenderDanger.jpg)Imagine a really busy day at your favorite caf

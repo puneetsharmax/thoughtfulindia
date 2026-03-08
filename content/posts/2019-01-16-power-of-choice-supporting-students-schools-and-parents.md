@@ -8,9 +8,9 @@ featured_image: ""
 draft: false
 ---
 
-![](https://i2.wp.com/thoughtfulindia.com/wp-content/uploads/2019/01/HS-NEWSLETTER-FALL2018-TOSEND2-1.jpg?fit=620%2C877)
+![](https://i2.wp.com/thoughtfulindia.com/images/2019/01/HS-NEWSLETTER-FALL2018-TOSEND2-1.jpg?fit=620%2C877)
 
-![](https://i0.wp.com/thoughtfulindia.com/wp-content/uploads/2019/01/HS-NEWSLETTER-FALL2018-TOSEND2-2.jpg?fit=620%2C877)
+![](https://i0.wp.com/thoughtfulindia.com/images/2019/01/HS-NEWSLETTER-FALL2018-TOSEND2-2.jpg?fit=620%2C877)
 
 **TEENS DRINK LESS THAN EVER, SURVEY FINDS**
 

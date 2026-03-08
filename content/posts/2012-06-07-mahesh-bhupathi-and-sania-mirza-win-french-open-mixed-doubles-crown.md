@@ -8,4 +8,4 @@ featured_image: "/images/2012/06/ap-201206071422517584551.jpg"
 draft: false
 ---
 
-[![](/images/2012/06/ap-201206071422517584551-196x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/ap-201206071422517584551.jpg)Mahesh Bhupathi
+[![](/images/2012/06/ap-201206071422517584551-196x300.jpg)](/images/2012/06/ap-201206071422517584551.jpg)Mahesh Bhupathi

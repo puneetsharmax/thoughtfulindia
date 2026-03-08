@@ -8,4 +8,4 @@ featured_image: "/images/2012/03/Osama-Bin-Laden-Wives-Picture1.jpg"
 draft: false
 ---
 
-[![](/images/2012/03/Osama-Bin-Laden-Wives-Picture-300x187.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/Osama-Bin-Laden-Wives-Picture.jpg)
+[![](/images/2012/03/Osama-Bin-Laden-Wives-Picture-300x187.jpg)](/images/2012/03/Osama-Bin-Laden-Wives-Picture.jpg)

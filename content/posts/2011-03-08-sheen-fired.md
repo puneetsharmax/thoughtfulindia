@@ -8,6 +8,6 @@ featured_image: "/images/2011/03/charlie-sheen-fired_440x317.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/charlie-sheen-fired_440x317-300x216.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/charlie-sheen-fired_440x317.jpg)
+[![](/images/2011/03/charlie-sheen-fired_440x317-300x216.jpg)](/images/2011/03/charlie-sheen-fired_440x317.jpg)
 
 It's over for Charlie Sheen on the hit CBS comedy

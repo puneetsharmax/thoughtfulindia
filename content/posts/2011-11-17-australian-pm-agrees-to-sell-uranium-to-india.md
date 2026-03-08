@@ -8,4 +8,4 @@ featured_image: "/images/2011/11/uranium.jpg"
 draft: false
 ---
 
-[![](/images/2011/11/uranium.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/uranium.jpg)SYDNEY
+[![](/images/2011/11/uranium.jpg)](/images/2011/11/uranium.jpg)SYDNEY

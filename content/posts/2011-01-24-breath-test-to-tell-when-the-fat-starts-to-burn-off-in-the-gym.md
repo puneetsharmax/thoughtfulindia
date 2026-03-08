@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/exercise2.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/exercise2.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/exercise2.jpg)
+[![](/images/2011/01/exercise2.jpg)](/images/2011/01/exercise2.jpg)
 
 Professor Hancock began working on the breathalyser technology in the hope of developing a way of screening patients for diabetes, a disease which creates elevated levels of acetone in breath.
 

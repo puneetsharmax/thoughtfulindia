@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/fivestar.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/fivestar-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/fivestar.jpg)Few people think of Plainfield, Illinois as a hotbed for competitive youth tennis, but two area pros are out to quickly change that.
+[![](/images/2011/05/fivestar-300x225.jpg)](/images/2011/05/fivestar.jpg)Few people think of Plainfield, Illinois as a hotbed for competitive youth tennis, but two area pros are out to quickly change that.
 
 The Five Star Tennis summer camp began in June of 2008 with a total of 35 players from the Naperville area. By 2010 the enrollment had grown to nearly 200 young tennis players of all ages and abilities. The rapid growth of the program can be attributed to a loyal base of young players who love to spend their summer days on the 12 hard courts of Plainfield East High School, where they get a chance to join a slew of other players looking for a place to hone their skills. Players of all abilities, from beginners to some of the top talent in the Midwest share the same home and learn from some of the best and most dedicated pros in the country.
 

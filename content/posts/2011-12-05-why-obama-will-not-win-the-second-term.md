@@ -8,4 +8,4 @@ featured_image: "/images/2011/12/barak.jpg"
 draft: false
 ---
 
-[![](/images/2011/12/barak-300x214.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/barak.jpg)
+[![](/images/2011/12/barak-300x214.jpg)](/images/2011/12/barak.jpg)

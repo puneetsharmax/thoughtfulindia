@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/ratan-tata-630-new.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/ratan-tata-630-new-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/ratan-tata-630-new.jpg)
+[![](/images/2011/04/ratan-tata-630-new-300x200.jpg)](/images/2011/04/ratan-tata-630-new.jpg)
 
 Tata Sons chairman Ratan Tata and Niira Radia were on Monday quizzed in connection with 2G spectrum scam by Parliament's PAC whose head MM Joshi said the panel found the industrialist candid and the corporate lobbyist "evasive".
 The PAC will tomorrow question Reliance Communications chairman Anil Ambani, as also Etisalat DB Telecom CEO Atul Jhamb, S-Tel ceo Shamik Das and Unitech Wireless Managing Director Sigve Brekke on the same issue.

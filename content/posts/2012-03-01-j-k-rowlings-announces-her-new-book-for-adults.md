@@ -8,4 +8,4 @@ featured_image: "/images/2012/03/J.K.-Rowling-Biography.jpg"
 draft: false
 ---
 
-[![](/images/2012/03/J.K.-Rowling-Biography-300x295.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/J.K.-Rowling-Biography.jpg)Harry Potter has grown up, and so have J.K. Rowling
+[![](/images/2012/03/J.K.-Rowling-Biography-300x295.jpg)](/images/2012/03/J.K.-Rowling-Biography.jpg)Harry Potter has grown up, and so have J.K. Rowling

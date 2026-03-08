@@ -8,4 +8,4 @@ featured_image: "/images/2011/09/funny-obama-12.jpg"
 draft: false
 ---
 
-[![](/images/2011/09/funny-obama-12.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/funny-obama-12.jpg)It
+[![](/images/2011/09/funny-obama-12.jpg)](/images/2011/09/funny-obama-12.jpg)It

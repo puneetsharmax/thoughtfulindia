@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/matalan.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/matalan-300x203.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/matalan.jpg)
+[![](/images/2011/03/matalan-300x203.jpg)](/images/2011/03/matalan.jpg)
 
 Discount clothes retailer Matalan was under fire today after it was revealed to be selling padded bras to children as young as eight.
 

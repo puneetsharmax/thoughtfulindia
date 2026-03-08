@@ -8,4 +8,4 @@ featured_image: "/images/2011/04/school1.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/school1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/school1.jpg)Back when our only daughter, now seven, was almost two years old, we went to Arizona for business and fun, part of which was reconnecting with an older married couple we really liked, who had retired to Scottsdale . During the visit talk turned to bringing up our daughter, which I do more of day-to-day because I
+[![](/images/2011/04/school1.jpg)](/images/2011/04/school1.jpg)Back when our only daughter, now seven, was almost two years old, we went to Arizona for business and fun, part of which was reconnecting with an older married couple we really liked, who had retired to Scottsdale . During the visit talk turned to bringing up our daughter, which I do more of day-to-day because I

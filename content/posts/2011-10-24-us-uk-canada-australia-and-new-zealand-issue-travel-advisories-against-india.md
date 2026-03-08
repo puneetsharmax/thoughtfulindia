@@ -8,4 +8,4 @@ featured_image: "/images/2011/10/india-travel.jpg"
 draft: false
 ---
 
-[![](/images/2011/10/india-travel.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/india-travel.jpg)One after another, five countries - US, UK,
+[![](/images/2011/10/india-travel.jpg)](/images/2011/10/india-travel.jpg)One after another, five countries - US, UK,

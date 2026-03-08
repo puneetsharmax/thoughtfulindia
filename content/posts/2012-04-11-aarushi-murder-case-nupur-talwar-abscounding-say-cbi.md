@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/Aarushi-Talwar.jpg"
 draft: false
 ---
 
-[caption id="attachment_6116" align="alignleft" width="250" caption="Image Source: PTI"][![](/images/2012/04/Aarushi-Talwar.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/Aarushi-Talwar.jpg)[/caption]
+[caption id="attachment_6116" align="alignleft" width="250" caption="Image Source: PTI"][![](/images/2012/04/Aarushi-Talwar.jpg)](/images/2012/04/Aarushi-Talwar.jpg)[/caption]
 
  
 

@@ -8,5 +8,5 @@ featured_image: "/images/2011/01/breastcancer.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/breastcancer.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/breastcancer.jpg)
+[![](/images/2011/01/breastcancer.jpg)](/images/2011/01/breastcancer.jpg)
 There's

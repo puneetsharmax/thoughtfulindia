@@ -8,6 +8,6 @@ featured_image: "/images/2011/06/groupon.png"
 draft: false
 ---
 
-[![](/images/2011/06/groupon-300x116.png)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/groupon.png)A leading analyst has claimed any investor considering buying into[Groupon](http://www.guardian.co.uk/technology/groupon), the loss-making discounts website preparing to float in the US, is a "fool".
+[![](/images/2011/06/groupon-300x116.png)](/images/2011/06/groupon.png)A leading analyst has claimed any investor considering buying into[Groupon](http://www.guardian.co.uk/technology/groupon), the loss-making discounts website preparing to float in the US, is a "fool".
 
 Sucharita Mulpuru, an analyst at Forrester Research, weighed into

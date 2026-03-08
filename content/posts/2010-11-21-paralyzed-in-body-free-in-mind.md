@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia8.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia8.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia8.jpg)
+[![](/images/2010/11/thoughtfulindia8.jpg)](/images/2010/11/thoughtfulindia8.jpg)
 
 Don't expect Rachelle Friedman to have a pity party for Thanksgiving Day just because it will be her first in a wheelchair.
 

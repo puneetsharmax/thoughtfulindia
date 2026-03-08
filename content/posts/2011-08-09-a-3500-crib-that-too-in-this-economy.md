@@ -8,4 +8,4 @@ featured_image: "/images/2011/08/Vetro_Crib_Front_L.jpg"
 draft: false
 ---
 
-[![](/images/2011/08/Vetro_Crib_Front_L-300x201.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/Vetro_Crib_Front_L.jpg)
+[![](/images/2011/08/Vetro_Crib_Front_L-300x201.jpg)](/images/2011/08/Vetro_Crib_Front_L.jpg)

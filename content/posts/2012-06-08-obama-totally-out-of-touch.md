@@ -8,7 +8,7 @@ featured_image: "/images/2012/06/Reelect-Captain.jpg"
 draft: false
 ---
 
-[![](/images/2012/06/Reelect-Captain-300x233.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/Reelect-Captain.jpg)It was just six words from a 29-minute news conference, but President Barack Obama's assertion that "the private sector is doing fine" looks primed to play a starring role in this already-fevered campaign season.
+[![](/images/2012/06/Reelect-Captain-300x233.jpg)](/images/2012/06/Reelect-Captain.jpg)It was just six words from a 29-minute news conference, but President Barack Obama's assertion that "the private sector is doing fine" looks primed to play a starring role in this already-fevered campaign season.
 
 
 [![](http://m.wsj.net/video/20120608/060812marketshubobama/060812marketshubobama_512x288.jpg)](http://online.wsj.com/article/SB10001424052702303665904577454624044933902.html?mod=WSJ_hppMIDDLENexttoWhatsNewsSecond#)

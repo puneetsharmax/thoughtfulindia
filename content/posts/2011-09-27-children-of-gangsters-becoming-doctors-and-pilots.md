@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/changing.jpeg"
 draft: false
 ---
 
-[![](/images/2011/09/changing.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/changing.jpeg)The kingpins of the city's underworld have either fled, been killed in encounters or called it aday. But GenX is stepping out of their parents' feared shadows in search of a new identity in Mumbai as bankers, doctors, engineers, pilots and developers.
+[![](/images/2011/09/changing.jpeg)](/images/2011/09/changing.jpeg)The kingpins of the city's underworld have either fled, been killed in encounters or called it aday. But GenX is stepping out of their parents' feared shadows in search of a new identity in Mumbai as bankers, doctors, engineers, pilots and developers.
 
 Police officers who have closely seen the underworld say families of these gangsters are well acquainted with the pitfalls of their lives and choose not to follow their footsteps. "Times have changed. The youngsters today want respect in society and a bright future. They don't want to be termed as 'underworld heirs' but are trying to make their own identity," says a senior police official who headed the encounter squad for a decade.
 

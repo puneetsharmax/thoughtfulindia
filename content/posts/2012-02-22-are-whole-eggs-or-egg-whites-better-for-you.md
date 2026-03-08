@@ -8,5 +8,5 @@ featured_image: "/images/2012/02/eggs.jpg"
 draft: false
 ---
 
-[![](/images/2012/02/eggs-240x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/eggs.jpg)by Mike Geary, Certified Nutrition Specialist, Certified Personal Trainer
+[![](/images/2012/02/eggs-240x300.jpg)](/images/2012/02/eggs.jpg)by Mike Geary, Certified Nutrition Specialist, Certified Personal Trainer
 Author -

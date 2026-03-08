@@ -8,4 +8,4 @@ featured_image: ""
 draft: false
 ---
 
-![](http://buzzg.com/wp-content/uploads/2009/10/victoria-beckham-david-beckham.jpg)[read more](http://news.in.msn.com/international/article.aspx?cp-documentid=4555544)
+![](http://buzzg.com/images/2009/10/victoria-beckham-david-beckham.jpg)[read more](http://news.in.msn.com/international/article.aspx?cp-documentid=4555544)

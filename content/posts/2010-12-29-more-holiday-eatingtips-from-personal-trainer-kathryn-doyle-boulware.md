@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/kathrynthoughtfulindia3.jpg"
 draft: false
 ---
 
-[caption id="attachment_1111" align="alignleft" width="221" caption="Kathryn is a fitness enthusiast and lives in Naperville with her husband and three kids."][![](/images/2010/12/kathrynthoughtfulindia3.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/kathrynthoughtfulindia3.jpg)[/caption]
+[caption id="attachment_1111" align="alignleft" width="221" caption="Kathryn is a fitness enthusiast and lives in Naperville with her husband and three kids."][![](/images/2010/12/kathrynthoughtfulindia3.jpg)](/images/2010/12/kathrynthoughtfulindia3.jpg)[/caption]
 
 ### Eat the Right Things
 

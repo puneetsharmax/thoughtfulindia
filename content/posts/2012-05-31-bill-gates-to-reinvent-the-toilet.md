@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/bill-gates-toilet.jpg"
 draft: false
 ---
 
-[caption id="attachment_6794" align="alignleft" width="300" caption="Image Source :http://articles.businessinsider.com/"][![](/images/2012/05/bill-gates-toilet-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/bill-gates-toilet.jpg)[/caption]
+[caption id="attachment_6794" align="alignleft" width="300" caption="Image Source :http://articles.businessinsider.com/"][![](/images/2012/05/bill-gates-toilet-300x225.jpg)](/images/2012/05/bill-gates-toilet.jpg)[/caption]
 
 The Bill & Melinda Gates Foundation today announced the launch of a strategy to help bring safe, clean sanitation services to millions of poor people in the developing world.
 

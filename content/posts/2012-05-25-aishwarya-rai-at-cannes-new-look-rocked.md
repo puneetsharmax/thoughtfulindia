@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/277205-aishwarya-rai-cannes.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/277205-aishwarya-rai-cannes.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/277205-aishwarya-rai-cannes.jpg)The whole tinsel town wanted to see
+[![](/images/2012/05/277205-aishwarya-rai-cannes.jpg)](/images/2012/05/277205-aishwarya-rai-cannes.jpg)The whole tinsel town wanted to see

@@ -8,4 +8,4 @@ featured_image: "/images/2011/12/The_India_Way_book_cover.jpg"
 draft: false
 ---
 
-[![](/images/2011/12/The_India_Way_book_cover.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/The_India_Way_book_cover.jpg)The popular wisdom is that a great manager can go anywhere and get results. But a new book by Wharton School professors, Peter Capelli, Harbir Singh, Jitendra Singh
+[![](/images/2011/12/The_India_Way_book_cover.jpg)](/images/2011/12/The_India_Way_book_cover.jpg)The popular wisdom is that a great manager can go anywhere and get results. But a new book by Wharton School professors, Peter Capelli, Harbir Singh, Jitendra Singh

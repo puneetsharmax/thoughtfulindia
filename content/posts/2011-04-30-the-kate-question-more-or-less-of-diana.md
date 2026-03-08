@@ -8,4 +8,4 @@ featured_image: "/images/2011/04/kate.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/kate-middleton.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/kate-middleton.jpg)Kate Middleton seems like a nice girl from a solid middle-class background. She's jolly sensible and keeps her mouth shut, and as far as we can tell, Prince William has found a keeper. That seems to be the consensus, perhaps comforting, certainly less than sensational. So have the media just confected interest in Kate, hoping to sell newspapers and magazines? Or does the endless coverage
+[![](/images/2011/04/kate-middleton.jpg)](/images/2011/04/kate-middleton.jpg)Kate Middleton seems like a nice girl from a solid middle-class background. She's jolly sensible and keeps her mouth shut, and as far as we can tell, Prince William has found a keeper. That seems to be the consensus, perhaps comforting, certainly less than sensational. So have the media just confected interest in Kate, hoping to sell newspapers and magazines? Or does the endless coverage

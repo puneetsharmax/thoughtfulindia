@@ -8,5 +8,5 @@ featured_image: "/images/2010/12/thoughtfulindia25.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia25.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia25.jpg)
+[![](/images/2010/12/thoughtfulindia25.jpg)](/images/2010/12/thoughtfulindia25.jpg)
 How often have we heard

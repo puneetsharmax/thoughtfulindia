@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/shawn.jpg"
 draft: false
 ---
 
-[caption id="attachment_3985" align="alignleft" width="224" caption="you will be convicted "][![](/images/2011/09/shawn.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/shawn.jpg)[/caption]
+[caption id="attachment_3985" align="alignleft" width="224" caption="you will be convicted "][![](/images/2011/09/shawn.jpg)](/images/2011/09/shawn.jpg)[/caption]
 
 A convicted child molester who is one of America's most wanted sex criminals has been secretly living in London.
 

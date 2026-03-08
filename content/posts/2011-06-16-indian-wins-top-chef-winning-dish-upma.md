@@ -8,4 +8,4 @@ featured_image: "/images/2011/06/floyd-cardoz.jpg"
 draft: false
 ---
 
-[![](/images/2011/06/floyd-cardoz.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/floyd-cardoz.jpg)You've got to give it up for
+[![](/images/2011/06/floyd-cardoz.jpg)](/images/2011/06/floyd-cardoz.jpg)You've got to give it up for

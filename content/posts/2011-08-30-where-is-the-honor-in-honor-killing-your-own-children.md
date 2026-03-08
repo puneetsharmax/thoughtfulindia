@@ -8,7 +8,7 @@ featured_image: "/images/2011/08/libya.jpg"
 draft: false
 ---
 
-## [![](/images/2011/08/libya-300x199.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/libya.jpg)Father slit throats of three daughters in 'honour killing' after they were raped by Gaddafi's troops
+## [![](/images/2011/08/libya-300x199.jpg)](/images/2011/08/libya.jpg)Father slit throats of three daughters in 'honour killing' after they were raped by Gaddafi's troops
 
 
 

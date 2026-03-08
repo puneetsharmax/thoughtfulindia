@@ -8,6 +8,6 @@ featured_image: "/images/2011/05/fat.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/fat.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/fat.jpg)
+[![](/images/2011/05/fat.jpg)](/images/2011/05/fat.jpg)
 
 THE woman

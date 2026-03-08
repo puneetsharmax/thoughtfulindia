@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/fruit_vs_junkfood.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/fruit_vs_junkfood.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/fruit_vs_junkfood.jpg)We know it has long been bad for your waistline.
+[![](/images/2012/04/fruit_vs_junkfood.jpg)](/images/2012/04/fruit_vs_junkfood.jpg)We know it has long been bad for your waistline.
 
 But fast food can also be bad for your mental health, according to a new study.
 

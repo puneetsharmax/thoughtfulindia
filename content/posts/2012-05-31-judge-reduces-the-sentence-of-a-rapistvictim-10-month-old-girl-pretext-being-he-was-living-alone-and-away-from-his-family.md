@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/justice-a-shame.jpg"
 draft: false
 ---
 
-### [![](/images/2012/05/justice-a-shame-300x199.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/justice-a-shame.jpg)HC reduces prison term for man who sodomised baby
+### [![](/images/2012/05/justice-a-shame-300x199.jpg)](/images/2012/05/justice-a-shame.jpg)HC reduces prison term for man who sodomised baby
 
 The Bombay High Court has reduced punishment for a man convicted of sodomising a 10-month-old girl child, accepting his contention that he lost control over himself as he was living away from his family.
 

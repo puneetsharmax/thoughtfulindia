@@ -8,4 +8,4 @@ featured_image: "/images/2011/09/snacktruck.jpeg"
 draft: false
 ---
 
-[![](/images/2011/09/snacktruck.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/snacktruck.jpeg)School Cafeteria
+[![](/images/2011/09/snacktruck.jpeg)](/images/2011/09/snacktruck.jpeg)School Cafeteria

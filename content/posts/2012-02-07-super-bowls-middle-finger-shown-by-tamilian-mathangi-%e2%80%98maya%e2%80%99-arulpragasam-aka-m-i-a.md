@@ -8,7 +8,7 @@ featured_image: "/images/2012/02/MIA.jpg"
 draft: false
 ---
 
-[![](/images/2012/02/MIA-692x1024.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/MIA.jpg)
+[![](/images/2012/02/MIA-692x1024.jpg)](/images/2012/02/MIA.jpg)
 
 M.I.A., the rapper-singer who has now gained global notoriety by flipping her middle-finger during her performance with Madonna at the half-time show of the Super Bowl, has one of the most unusual and improbable backgrounds of any present-day entertainer.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/Todd.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/Todd-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/Todd.jpg)Suspect William Todd allegedly committed 10 felonies in just 9 hours
+[![](/images/2012/04/Todd-150x150.jpg)](/images/2012/04/Todd.jpg)Suspect William Todd allegedly committed 10 felonies in just 9 hours
 
 One man traveling through Tennessee allegedly completed a crime spree with such urgency that even local police say they'd never seen anything like it.
 

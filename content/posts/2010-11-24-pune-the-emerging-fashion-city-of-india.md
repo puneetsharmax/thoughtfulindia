@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia21.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia21.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia21.jpg)
+[![](/images/2010/11/thoughtfulindia21.jpg)](/images/2010/11/thoughtfulindia21.jpg)
 
 "Pune is a hotbed of cultural activity and it is a perfect destination for a fashion city. So we decided to bring season two of Pune Fashion Week (PFW)," Badal Saboo, its managing director, told IANS.
 

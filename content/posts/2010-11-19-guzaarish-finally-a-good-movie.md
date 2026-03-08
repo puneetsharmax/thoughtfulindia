@@ -8,6 +8,6 @@ featured_image: "/images/2010/11/thoughtfulindia2.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia2.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia2.jpg)All reviews at one place
+[![](/images/2010/11/thoughtfulindia2.jpg)](/images/2010/11/thoughtfulindia2.jpg)All reviews at one place
 
 [Read More](http://bollymoviereviewz.blogspot.com/2010/11/guzaarish-reviews.html)

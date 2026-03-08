@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/wildfire.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/wildfire-300x210.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/wildfire.jpg)
+[![](/images/2012/05/wildfire-300x210.jpg)](/images/2012/05/wildfire.jpg)

@@ -8,7 +8,7 @@ featured_image: "/images/2011/06/facebook.jpg"
 draft: false
 ---
 
-[![](/images/2011/06/facebook-300x219.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/facebook.jpg)Better check your Facebook settings before posting a party invitation online.
+[![](/images/2011/06/facebook-300x219.jpg)](/images/2011/06/facebook.jpg)Better check your Facebook settings before posting a party invitation online.
 
 A teenage girl in Germany who forgot to mark her birthday invitation as private on Facebook fled her own party when more than 1,500 guests showed up and around 100 police officers, some on horses, were needed to keep the crowd under control.
 

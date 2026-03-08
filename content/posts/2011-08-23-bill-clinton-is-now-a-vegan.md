@@ -8,7 +8,7 @@ featured_image: "/images/2011/08/bill-clinton-vegan.jpg"
 draft: false
 ---
 
-[![](/images/2011/08/bill-clinton-vegan-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/bill-clinton-vegan.jpg)By the time he reached the White House, Bill Clinton's appetite was legend. He loved hamburgers, steaks, chicken enchiladas, barbecue and french fries but wasn't too picky. At one campaign stop in New Hampshire, he reportedly bought a dozen doughnuts and was working his way through the box until an aide stopped him.
+[![](/images/2011/08/bill-clinton-vegan-300x225.jpg)](/images/2011/08/bill-clinton-vegan.jpg)By the time he reached the White House, Bill Clinton's appetite was legend. He loved hamburgers, steaks, chicken enchiladas, barbecue and french fries but wasn't too picky. At one campaign stop in New Hampshire, he reportedly bought a dozen doughnuts and was working his way through the box until an aide stopped him.
 
 Former President Clinton now considers himself a vegan. He's dropped more than 20 pounds, and he says he's healthier than ever. His dramatic dietary transformation took almost two decades and came about only after a pair of heart procedures and some advice from a trusted doctor.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/osama-son2.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/osama-son2-217x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/osama-son2.jpg)An Al Qaeda chief has described how he was ordered to find a 'pious, dutiful and very patient' wife for Osama Bin Laden.
+[![](/images/2011/05/osama-son2-217x300.jpg)](/images/2011/05/osama-son2.jpg)An Al Qaeda chief has described how he was ordered to find a 'pious, dutiful and very patient' wife for Osama Bin Laden.
 
 In an extraordinary phone call in September 1999, Rashad Mohammed Saeed Ismael claimed the terror chief laid out a list of requirements for his fifth bride.
 

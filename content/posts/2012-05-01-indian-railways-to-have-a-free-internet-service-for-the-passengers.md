@@ -8,6 +8,6 @@ featured_image: "/images/2012/05/indian-railways-wifi.jpg"
 draft: false
 ---
 
-**[![](/images/2012/05/indian-railways-wifi-199x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/indian-railways-wifi.jpg)Internet in trains gets ISRO clearance**
+**[![](/images/2012/05/indian-railways-wifi-199x300.jpg)](/images/2012/05/indian-railways-wifi.jpg)Internet in trains gets ISRO clearance**
 
 Surfing the internet in trains without using data card seems to be a distinct possibility now as the Railways have got the much-awaited clearance from space agency ISRO for using the

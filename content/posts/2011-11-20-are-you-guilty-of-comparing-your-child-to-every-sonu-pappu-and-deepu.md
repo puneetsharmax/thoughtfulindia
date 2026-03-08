@@ -8,4 +8,4 @@ featured_image: "/images/2011/11/ht1.jpg"
 draft: false
 ---
 
-[caption id="attachment_4491" align="alignleft" width="1002" caption="http://epaper.hindustantimes.com/PUBLICATIONS/HT/HD/2011/11/20/ArticleHtmls/A-CALMER-YOU-An-open-letter-to-inch-20112011108004.shtml?Mode=1 -- "][![](/images/2011/11/ht1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/ht1.jpg)[/caption]
+[caption id="attachment_4491" align="alignleft" width="1002" caption="http://epaper.hindustantimes.com/PUBLICATIONS/HT/HD/2011/11/20/ArticleHtmls/A-CALMER-YOU-An-open-letter-to-inch-20112011108004.shtml?Mode=1 -- "][![](/images/2011/11/ht1.jpg)](/images/2011/11/ht1.jpg)[/caption]

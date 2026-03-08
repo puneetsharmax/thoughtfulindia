@@ -8,6 +8,6 @@ featured_image: "/images/2010/12/books.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/bookthief-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/bookthief.jpg)
+[![](/images/2010/12/bookthief-150x150.jpg)](/images/2010/12/bookthief.jpg)
 
 Authored by Markus Zusak

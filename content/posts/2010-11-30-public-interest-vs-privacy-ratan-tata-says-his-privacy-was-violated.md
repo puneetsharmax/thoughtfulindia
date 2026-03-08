@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia42.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia42.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia42.jpg)
+[![](/images/2010/11/thoughtfulindia42.jpg)](/images/2010/11/thoughtfulindia42.jpg)
 Mr Ratan Tata, Chairman of Tata Group, on Monday moved the Supreme Court claiming that his right to privacy was violated due to the leakage of his alleged discussions with corporate lobbyist Ms Niira Radia and others.
 Mr Tata demanded a probe into the leakage of the tapes allegedly containing his conversations, adding it should be ensured that there is no further leakage of tapes, if any, with the Government.
 Ms Radia's public relations firm has been handling corporate communications for the Tata Group. The conversations, already reported by a section of the media, allegedly also relate to the 2G spectrum allocation imbroglio.

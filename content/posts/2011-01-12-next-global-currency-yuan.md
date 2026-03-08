@@ -14,7 +14,7 @@ Timing it for the upcoming visit of Hu, WSJ reports on how China has taken a maj
 
 China has launched trading in its currency in the U.S. for the first time, an explicit endorsement by Beijing of the fast-growing market in the yuan and a significant step in the country's plan to foster global trading in its currency.
 
-[![yuan](/images/2011/01/yuan.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/yuan.jpg)
+[![yuan](/images/2011/01/yuan.jpg)](/images/2011/01/yuan.jpg)
 
 The state-controlled Bank of China Ltd. is allowing customers to trade the yuan, also known as the renminbi, in the U.S., expanding the nascent offshore market for the currency which began last year in Hong Kong.
 

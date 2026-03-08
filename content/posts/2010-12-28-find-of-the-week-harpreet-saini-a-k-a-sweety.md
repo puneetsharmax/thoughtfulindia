@@ -12,7 +12,7 @@ draft: false
 
 
 
-[caption id="attachment_1099" align="alignleft" width="111" caption="Sweety lives in Aurora with her husband and three kids"][![](/images/2010/12/sweety.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/sweety.jpg)[/caption]
+[caption id="attachment_1099" align="alignleft" width="111" caption="Sweety lives in Aurora with her husband and three kids"][![](/images/2010/12/sweety.jpg)](/images/2010/12/sweety.jpg)[/caption]
 
 * Llmage - A day spa that will make your day!*
 

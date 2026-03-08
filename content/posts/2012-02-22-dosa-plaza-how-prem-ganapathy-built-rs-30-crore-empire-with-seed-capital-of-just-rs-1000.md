@@ -8,4 +8,4 @@ featured_image: "/images/2012/02/dosa.jpeg"
 draft: false
 ---
 
-[![](/images/2012/02/dosa.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/dosa.jpeg)A class X passout with no particular skill set, I was lured to Mumbai, only to be robbed. It was an inauspicious start to my
+[![](/images/2012/02/dosa.jpeg)](/images/2012/02/dosa.jpeg)A class X passout with no particular skill set, I was lured to Mumbai, only to be robbed. It was an inauspicious start to my

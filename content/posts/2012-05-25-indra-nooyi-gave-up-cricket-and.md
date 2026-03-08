@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/michael-pepsi.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/michael-pepsi-300x197.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/michael-pepsi.jpg)[PepsiCo](http://economictimes.indiatimes.com/topic/PepsiCo)
+[![](/images/2012/05/michael-pepsi-300x197.jpg)](/images/2012/05/michael-pepsi.jpg)[PepsiCo](http://economictimes.indiatimes.com/topic/PepsiCo)

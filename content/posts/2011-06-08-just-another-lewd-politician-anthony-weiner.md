@@ -8,7 +8,7 @@ featured_image: "/images/2011/06/weiner.gif"
 draft: false
 ---
 
-[![](/images/2011/06/weiner.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/weiner.jpg)
+[![](/images/2011/06/weiner.jpg)](/images/2011/06/weiner.jpg)
 
 Serial-sexting Congressman Anthony Weiner headed off to rehab and will seek a leave of absence, as Nancy Pelosi and other Dems demanded he quit following his admission to sending private Twitter messages to a 17-year-old girl.
 

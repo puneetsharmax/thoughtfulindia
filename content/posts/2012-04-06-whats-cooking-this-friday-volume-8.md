@@ -8,6 +8,6 @@ featured_image: "/images/2012/04/nick.jpg"
 draft: false
 ---
 
-[caption id="attachment_6052" align="alignleft" width="150" caption="Nick Perri is a Personal Trainer.He brings the personal training to the comfort of your home.Whether you live in Naperville or Oakbrook or any of the surrounding areas -if you are looking to get fit -give him a call @ 630 479 3325.You could also email him @ nick@firstplacefitness.org"][![](/images/2012/04/nick-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/nick.jpg)[/caption]
+[caption id="attachment_6052" align="alignleft" width="150" caption="Nick Perri is a Personal Trainer.He brings the personal training to the comfort of your home.Whether you live in Naperville or Oakbrook or any of the surrounding areas -if you are looking to get fit -give him a call @ 630 479 3325.You could also email him @ nick@firstplacefitness.org"][![](/images/2012/04/nick-150x150.jpg)](/images/2012/04/nick.jpg)[/caption]
 
 If you're like me, you

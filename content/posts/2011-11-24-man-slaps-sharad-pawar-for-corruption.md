@@ -8,7 +8,7 @@ featured_image: "/images/2011/11/slap.jpg"
 draft: false
 ---
 
-[caption id="attachment_4574" align="alignleft" width="300" caption="Security men take away a youth, identified as Harvinder Singh after he slapped Sharad Pawar at NDMC centre in New Delhi. (PTI)"][![](/images/2011/11/slap-300x239.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/slap.jpg)[/caption]
+[caption id="attachment_4574" align="alignleft" width="300" caption="Security men take away a youth, identified as Harvinder Singh after he slapped Sharad Pawar at NDMC centre in New Delhi. (PTI)"][![](/images/2011/11/slap-300x239.jpg)](/images/2011/11/slap.jpg)[/caption]
 
 Union Agriculture Minister Sharad Pawar was today slapped at a public function by a young man who claimed he was angry with corruption and price rise.
 

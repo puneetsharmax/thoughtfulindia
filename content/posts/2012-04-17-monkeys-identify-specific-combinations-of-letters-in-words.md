@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/monkey_wideweb__470x3532.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/monkey_wideweb__470x3532-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/monkey_wideweb__470x3532.jpg)Learning to read is not just to do with speech, but also with the ability to recognize and memorize regular patterns among the letters that make up words, according to a new study on baboons. New results show that monkeys identify specific combinations of letters in words and detect anomalies -- a capacity that certainly existed before speech.
+[![](/images/2012/04/monkey_wideweb__470x3532-300x225.jpg)](/images/2012/04/monkey_wideweb__470x3532.jpg)Learning to read is not just to do with speech, but also with the ability to recognize and memorize regular patterns among the letters that make up words, according to a new study on baboons. New results show that monkeys identify specific combinations of letters in words and detect anomalies -- a capacity that certainly existed before speech.
 
 How do humans learn to distinguish between correctly and incorrectly spelt words? What mechanisms allow them to recognize, in just a few hundred milliseconds, that "animal" is a word but "azimal" is not? It was long thought that this capacity stemmed from spoken language because children learn spelling based on the oral language skills that they have already acquired, for example putting "m" and "a" together to make the sound "ma," "d" and "a" to make "da," etc. Understanding of spelling thus seems closely related to speech.
 

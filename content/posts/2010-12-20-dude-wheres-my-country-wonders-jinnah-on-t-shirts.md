@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/thoughtfulindia44.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia44.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia44.jpg)
+[![](/images/2010/12/thoughtfulindia44.jpg)](/images/2010/12/thoughtfulindia44.jpg)
 
 A new line of T-shirts, launched online just a few hours ago, has Founding Father of Pakistan Mohammed Ali Jinnah wondering: "Dude! Where's my country?"
 

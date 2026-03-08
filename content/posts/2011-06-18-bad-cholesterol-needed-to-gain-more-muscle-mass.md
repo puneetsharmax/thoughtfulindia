@@ -8,4 +8,4 @@ featured_image: "/images/2011/06/muscle.jpg"
 draft: false
 ---
 
-[![](/images/2011/06/muscle-300x199.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/muscle.jpg)The so-called "bad cholesterol"
+[![](/images/2011/06/muscle-300x199.jpg)](/images/2011/06/muscle.jpg)The so-called "bad cholesterol"

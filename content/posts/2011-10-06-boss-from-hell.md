@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/Cathay-Pacific-Commercial-Boss-from-Hell.jpg"
 draft: false
 ---
 
-[![](/images/2011/10/Cathay-Pacific-Commercial-Boss-from-Hell-300x254.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/Cathay-Pacific-Commercial-Boss-from-Hell.jpg)The owner of an Iowa convenience store chain has been called "the boss from hell" by a former worker who claims he offered prize money to employees who predicted which of their colleagues would be fired next.
+[![](/images/2011/10/Cathay-Pacific-Commercial-Boss-from-Hell-300x254.jpg)](/images/2011/10/Cathay-Pacific-Commercial-Boss-from-Hell.jpg)The owner of an Iowa convenience store chain has been called "the boss from hell" by a former worker who claims he offered prize money to employees who predicted which of their colleagues would be fired next.
 
 A judge deciding an unemployment benefits case involving William Ernst, the owner of a Bettandorf, Iowa-based chain of QC Marts, found his "contest" to be "egregious and deplorable."
 

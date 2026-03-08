@@ -8,4 +8,4 @@ featured_image: "/images/2011/11/STEM-204.jpg"
 draft: false
 ---
 
-[![](/images/2011/11/STEM-2041.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/STEM-2041.jpg)Where :
+[![](/images/2011/11/STEM-2041.jpg)](/images/2011/11/STEM-2041.jpg)Where :

@@ -8,5 +8,5 @@ featured_image: "/images/2012/04/photoappcenter.jpg"
 draft: false
 ---
 
-*[![](/images/2012/04/photoappcenter-300x193.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/photoappcenter.jpg)If you're armed with the right photo apps, editing tricks and shooting know-how, it just might be*
+*[![](/images/2012/04/photoappcenter-300x193.jpg)](/images/2012/04/photoappcenter.jpg)If you're armed with the right photo apps, editing tricks and shooting know-how, it just might be*
 **I, POINT-AND-SHOOT,**

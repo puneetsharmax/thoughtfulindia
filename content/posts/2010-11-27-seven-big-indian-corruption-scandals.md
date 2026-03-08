@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia30.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia30.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia30.jpg)
+[![](/images/2010/11/thoughtfulindia30.jpg)](/images/2010/11/thoughtfulindia30.jpg)
 
 India has been rocked this year by a series of corruption scandals that have embarrassed the ruling Congress party, rattled markets and delayed reform bills as the opposition stalls parliament.
 

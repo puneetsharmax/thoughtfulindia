@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/modular.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/modular-1024x679.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/modular.jpg)
+[![](/images/2011/01/modular-1024x679.jpg)](/images/2011/01/modular.jpg)
 
 The cheap housing method, whereby homes are built off-site and dropped into place, is once again the future of building, according to an independent report commissioned by the Royal Institution of Chartered Surveyors.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2012/06/27sachin-inside.jpg"
 draft: false
 ---
 
-### [![](/images/2012/06/27sachin-inside-300x245.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/27sachin-inside.jpg)Sachin Tendulkar to take oath as Rajya Sabha member today
+### [![](/images/2012/06/27sachin-inside-300x245.jpg)](/images/2012/06/27sachin-inside.jpg)Sachin Tendulkar to take oath as Rajya Sabha member today
 
 Master blaster Sachin Tendulkar will on Monday take oath as Rajya Sabha member in the chambers of RS Chairperson Hamid Ansari. Sachin was nominated to the Upper House along with film actress Rekha and industrialist Anu Aga in April, but had to wait to take his oath until the end of IPL season 5.
 

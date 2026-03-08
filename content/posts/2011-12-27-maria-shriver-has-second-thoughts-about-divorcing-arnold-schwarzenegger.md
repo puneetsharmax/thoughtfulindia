@@ -8,4 +8,4 @@ featured_image: "/images/2011/12/arnold-and-maria.jpg"
 draft: false
 ---
 
-[![](/images/2011/12/arnold-and-maria-251x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/arnold-and-maria.jpg)
+[![](/images/2011/12/arnold-and-maria-251x300.jpg)](/images/2011/12/arnold-and-maria.jpg)

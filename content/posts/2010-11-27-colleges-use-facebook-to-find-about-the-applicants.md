@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia26.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia26.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia26.jpg)
+[![](/images/2010/11/thoughtfulindia26.jpg)](/images/2010/11/thoughtfulindia26.jpg)
 
 **The risk: Hurting college and job prospects**
 

@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/shutdown1.jpeg"
 draft: false
 ---
 
-##### [![](/images/2011/04/shutdown1-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/shutdown1.jpeg)
+##### [![](/images/2011/04/shutdown1-300x225.jpg)](/images/2011/04/shutdown1.jpeg)
 
 
 ##### Time's up: Obama and GOP scramble to halt shutdown

@@ -8,6 +8,6 @@ featured_image: "/images/2011/08/toning-shoe-injury.jpeg"
 draft: false
 ---
 
-### [![](/images/2011/08/toning-shoe-injury.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/toning-shoe-injury.jpeg)Fitness Fail: Toning Shoe Hype Deflated
+### [![](/images/2011/08/toning-shoe-injury.jpeg)](/images/2011/08/toning-shoe-injury.jpeg)Fitness Fail: Toning Shoe Hype Deflated
 
 It wasn

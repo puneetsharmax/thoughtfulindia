@@ -10,7 +10,7 @@ draft: false
 
 **Hot topic on Twitter that nobody is willing to pay for Dada.**
 
-[caption id="attachment_1272" align="aligncenter" width="310" caption="Gautam Gambhir was the most expensive player in the 2011 IPL auction, going to Kolkata Knight Riders for $2.4m"][![gambir](/images/2011/01/gambhir.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/gambhir.jpg)[/caption]
+[caption id="attachment_1272" align="aligncenter" width="310" caption="Gautam Gambhir was the most expensive player in the 2011 IPL auction, going to Kolkata Knight Riders for $2.4m"][![gambir](/images/2011/01/gambhir.jpg)](/images/2011/01/gambhir.jpg)[/caption]
 
 Shaking off months of controversy, litigation and uncertainty, cricket's biggest, richest and most brassy domestic event, the Indian Premier League, sprang to life again, breaking records and banks on the first day of auction weekend in Bangalore.
 From the 88 players auctioned today, 15 new millionaires were created by the ten IPL franchises that will compete in season four, but there was another sorry bunch of 16 players who were left unsold when the auction finally ended at 6 pm.

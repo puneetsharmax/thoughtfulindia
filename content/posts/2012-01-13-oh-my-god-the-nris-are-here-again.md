@@ -8,4 +8,4 @@ featured_image: "/images/2012/01/NRIs.jpg"
 draft: false
 ---
 
-[![](/images/2012/01/NRIs-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/01/NRIs.jpg)It
+[![](/images/2012/01/NRIs-300x200.jpg)](/images/2012/01/NRIs.jpg)It

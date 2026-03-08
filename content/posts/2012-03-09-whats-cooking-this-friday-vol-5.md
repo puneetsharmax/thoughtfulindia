@@ -8,7 +8,7 @@ featured_image: "/images/2012/03/soumya1.jpg"
 draft: false
 ---
 
-[caption id="attachment_5635" align="alignleft" width="150" caption="Soumya is loved by her friends and family for the sweet person that she is. She lives in Seattle with her husband and two adorable kids."][![](/images/2012/03/soumya1-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/soumya1.jpg)[/caption]
+[caption id="attachment_5635" align="alignleft" width="150" caption="Soumya is loved by her friends and family for the sweet person that she is. She lives in Seattle with her husband and two adorable kids."][![](/images/2012/03/soumya1-150x150.jpg)](/images/2012/03/soumya1.jpg)[/caption]
 
  
 

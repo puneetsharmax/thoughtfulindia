@@ -8,4 +8,4 @@ featured_image: "/images/2012/06/state-taxes-credit-sesame.png"
 draft: false
 ---
 
-[![](/images/2012/06/state-taxes-credit-sesame-300x178.png)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/state-taxes-credit-sesame.png)
+[![](/images/2012/06/state-taxes-credit-sesame-300x178.png)](/images/2012/06/state-taxes-credit-sesame.png)

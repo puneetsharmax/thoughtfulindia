@@ -8,4 +8,4 @@ featured_image: "/images/2012/01/avn_zhangtaj_jpg_889494g.jpg"
 draft: false
 ---
 
-[![](/images/2012/01/avn_zhangtaj_jpg_889494g-300x224.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/01/avn_zhangtaj_jpg_889494g.jpg)Zhang Jun, a Chinese dancer who brought Bharatanatyam and Kathak to Mao
+[![](/images/2012/01/avn_zhangtaj_jpg_889494g-300x224.jpg)](/images/2012/01/avn_zhangtaj_jpg_889494g.jpg)Zhang Jun, a Chinese dancer who brought Bharatanatyam and Kathak to Mao

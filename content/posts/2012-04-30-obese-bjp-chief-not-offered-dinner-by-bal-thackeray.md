@@ -8,4 +8,4 @@ featured_image: "/images/2012/04/gadkari-1.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/gadkari-1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/gadkari-1.jpg)Recently, after much dilly-dallying, BJP President Nitin Gadkari met Shiv Sena Chief Bal Thackeray at the latter
+[![](/images/2012/04/gadkari-1.jpg)](/images/2012/04/gadkari-1.jpg)Recently, after much dilly-dallying, BJP President Nitin Gadkari met Shiv Sena Chief Bal Thackeray at the latter

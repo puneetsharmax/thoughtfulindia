@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/cd61c530420ab0f5df8221f927f9.jpg"
 draft: false
 ---
 
-## [![](/images/2012/05/cd61c530420ab0f5df8221f927f9-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/cd61c530420ab0f5df8221f927f9.jpg)Egypt to pick Islamist or military man as president
+## [![](/images/2012/05/cd61c530420ab0f5df8221f927f9-300x200.jpg)](/images/2012/05/cd61c530420ab0f5df8221f927f9.jpg)Egypt to pick Islamist or military man as president
 
 CAIRO- Egyptians must choose between a Muslim Brotherhood candidate or an ex-military man in a presidential run-off that highlights the stark rifts in a nation united in euphoria when Hosni Mubarak fell 15 months ago, first-round results indicated on Friday.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/hindu.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/hindu-300x165.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/hindu.jpg)It was just after dawn last Sunday when a pair of pilgrims lighted incense on the shore and dropped two coconuts into the sacred waters, otherwise known as Jamaica Bay.
+[![](/images/2011/04/hindu-300x165.jpg)](/images/2011/04/hindu.jpg)It was just after dawn last Sunday when a pair of pilgrims lighted incense on the shore and dropped two coconuts into the sacred waters, otherwise known as Jamaica Bay.
 
 The shells bobbed in the surf, not far from clay bowls, rotting limes and waterlogged rags that had washed back ashore, flotsam from previous Hindu ceremonies to mark festivals, births, deaths and everything in between.
 

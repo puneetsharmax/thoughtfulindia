@@ -8,7 +8,7 @@ featured_image: "/images/2012/03/original.jpg"
 draft: false
 ---
 
-[![](/images/2012/03/original-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/original.jpg)LOS ANGELES (AP) -- Authorities say a convicted killer who gained notoriety for having a murder scene tattooed on his chest received unemployment benefits while he was in jail.
+[![](/images/2012/03/original-300x225.jpg)](/images/2012/03/original.jpg)LOS ANGELES (AP) -- Authorities say a convicted killer who gained notoriety for having a murder scene tattooed on his chest received unemployment benefits while he was in jail.
 
 Sheriff's Capt. Mike Parker said Saturday that Anthony Garcia, nicknamed "Chopper," received more than $30,000 in fraudulent unemployment while in Los Angeles County jail from 2008 to 2010.
 

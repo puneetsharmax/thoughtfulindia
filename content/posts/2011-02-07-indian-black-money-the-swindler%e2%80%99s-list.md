@@ -10,7 +10,7 @@ draft: false
 
 It is almost two years since the German Government had passed on the names and bank account details of eighteen Indians who had stashed their alleged ill-gotten wealth in the LGT bank of Liechtenstein, a well-known tax haven nation, 190 km from Munich, Germany.
 
-[![Liechtenstein](/images/2011/02/Liechtenstein.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/02/Liechtenstein.jpg)Germany had officially handed over the list to the Indian Government on 18 March 2009. Prime Minister Manmohan Singh and Union Finance Minister Pranab Mukherjee have since said more than once that this list cannot be disclosed to the Indian people. Opposition parties like the BJP and the Left Front have repeatedly said the names must be disclosed. The BJP has been accusing the government of shielding the names of the tax evaders and not doing enough to bring back the crores of rupees stashed away in tax havens.
+[![Liechtenstein](/images/2011/02/Liechtenstein.jpg)](/images/2011/02/Liechtenstein.jpg)Germany had officially handed over the list to the Indian Government on 18 March 2009. Prime Minister Manmohan Singh and Union Finance Minister Pranab Mukherjee have since said more than once that this list cannot be disclosed to the Indian people. Opposition parties like the BJP and the Left Front have repeatedly said the names must be disclosed. The BJP has been accusing the government of shielding the names of the tax evaders and not doing enough to bring back the crores of rupees stashed away in tax havens.
 
 Thus, the list has become a subject of tremendous controversy and suspense.
 

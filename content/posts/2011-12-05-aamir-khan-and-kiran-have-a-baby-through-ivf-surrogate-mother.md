@@ -8,4 +8,4 @@ featured_image: "/images/2011/12/ak.jpg"
 draft: false
 ---
 
-[![](/images/2011/12/ak-300x220.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/ak.jpg)[Aamir Khan](http://timesofindia.indiatimes.com/topic/Aamir-Khan)
+[![](/images/2011/12/ak-300x220.jpg)](/images/2011/12/ak.jpg)[Aamir Khan](http://timesofindia.indiatimes.com/topic/Aamir-Khan)

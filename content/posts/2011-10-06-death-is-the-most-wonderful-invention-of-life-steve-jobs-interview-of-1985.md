@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/jobs.png"
 draft: false
 ---
 
-[![jobs](/images/2011/10/jobs.png)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/jobs.png)
+[![jobs](/images/2011/10/jobs.png)](/images/2011/10/jobs.png)
 
 
  

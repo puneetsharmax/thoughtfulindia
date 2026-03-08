@@ -8,7 +8,7 @@ featured_image: "/images/2011/02/Aarushi_Talwar_300.jpg"
 draft: false
 ---
 
-[![](/images/2011/02/Aarushi_Talwar_300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/02/Aarushi_Talwar_300.jpg)
+[![](/images/2011/02/Aarushi_Talwar_300.jpg)](/images/2011/02/Aarushi_Talwar_300.jpg)
 
 **CBI says it has no evidence to nail killers, files closure report in whodunnit**
 

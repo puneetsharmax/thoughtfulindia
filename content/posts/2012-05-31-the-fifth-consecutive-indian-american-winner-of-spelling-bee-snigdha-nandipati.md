@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/snigdha-nandipati-scripps-national-spelling-bee
 draft: false
 ---
 
-[![](/images/2012/05/snigdha-nandipati-scripps-national-spelling-bee-guetapens-300x201.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/snigdha-nandipati-scripps-national-spelling-bee-guetapens.jpg)She is 14 and from San Diego, Calif.
+[![](/images/2012/05/snigdha-nandipati-scripps-national-spelling-bee-guetapens-300x201.jpg)](/images/2012/05/snigdha-nandipati-scripps-national-spelling-bee-guetapens.jpg)She is 14 and from San Diego, Calif.

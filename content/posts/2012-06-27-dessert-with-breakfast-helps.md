@@ -8,4 +8,4 @@ featured_image: "/images/2012/06/breakfast-cute-delicious-desert-food-Favim.com-
 draft: false
 ---
 
-[![](/images/2012/06/breakfast-cute-delicious-desert-food-Favim.com-110518_large-300x199.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/breakfast-cute-delicious-desert-food-Favim.com-110518_large.jpg)Good news for dieters -
+[![](/images/2012/06/breakfast-cute-delicious-desert-food-Favim.com-110518_large-300x199.jpg)](/images/2012/06/breakfast-cute-delicious-desert-food-Favim.com-110518_large.jpg)Good news for dieters -

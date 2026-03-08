@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/snub.jpg"
 draft: false
 ---
 
-[caption id="attachment_4164" align="aligncenter" width="420" caption="Manmohan had accepted an invitation from Julia earlier"][![](/images/2011/10/snub.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/snub.jpg)[/caption]
+[caption id="attachment_4164" align="aligncenter" width="420" caption="Manmohan had accepted an invitation from Julia earlier"][![](/images/2011/10/snub.jpg)](/images/2011/10/snub.jpg)[/caption]
 
 When the Commonwealth heads of government meet in Australia later this month, one prominent leader is almost certain to be conspicuously absent: India's Prime Minister Manmohan Singh. India is a strong backer of the association of former British colonies (and some new entrants without that shared heritage, notably Mozambique and Rwanda), so no displeasure with the Commonwealth is implied. Instead, rumours in New Delhi suggest that the decision to send a delegation led by India's ceremonial vice-president, albeit an able former diplomat, might be a not-so-subtle rebuke to the summit's host, Australia.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/v-red.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/v-red-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/v-red.jpg)
+[![](/images/2011/03/v-red-150x150.jpg)](/images/2011/03/v-red.jpg)
 
 **Veena Villivalam - A Motivated Tutor who Gets Results**
 

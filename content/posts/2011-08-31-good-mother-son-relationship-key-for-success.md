@@ -8,4 +8,4 @@ featured_image: "/images/2011/08/motherson.jpeg"
 draft: false
 ---
 
-[![](/images/2011/08/motherson.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/motherson.jpeg)Changing ties with mums influence teenage boys
+[![](/images/2011/08/motherson.jpeg)](/images/2011/08/motherson.jpeg)Changing ties with mums influence teenage boys

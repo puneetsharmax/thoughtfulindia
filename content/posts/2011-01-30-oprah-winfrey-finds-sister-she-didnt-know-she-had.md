@@ -8,6 +8,6 @@ featured_image: "/images/2011/01/oprah-and-her-sister-ap-543.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/oprah-and-her-sister-ap-543.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/oprah-and-her-sister-ap-543.jpg)
+[![](/images/2011/01/oprah-and-her-sister-ap-543.jpg)](/images/2011/01/oprah-and-her-sister-ap-543.jpg)
 
 Oprah Winfrey recently learned she has a half-sister

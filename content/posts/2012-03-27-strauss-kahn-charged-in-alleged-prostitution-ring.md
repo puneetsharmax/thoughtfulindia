@@ -8,7 +8,7 @@ featured_image: "/images/2012/03/photo_1329573236628-1-0.jpeg"
 draft: false
 ---
 
-[![](/images/2012/03/photo_1329573236628-1-0-300x216.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/photo_1329573236628-1-0.jpeg)Former International Monetary Fund chief Dominique Strauss-Kahn was charged in France on Monday with "aggravated pimping" for his alleged participation in a prostitution ring, prosecutors said.
+[![](/images/2012/03/photo_1329573236628-1-0-300x216.jpg)](/images/2012/03/photo_1329573236628-1-0.jpeg)Former International Monetary Fund chief Dominique Strauss-Kahn was charged in France on Monday with "aggravated pimping" for his alleged participation in a prostitution ring, prosecutors said.
 
 He is not allowed to have contact with other people involved in the investigation, nor is he permitted to talk to the media about the case. Strauss-Kahn was released under a 100,000-euro bail, according to prosecutors.
 

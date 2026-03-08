@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/girlswithglasses.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/girlswithglasses-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/girlswithglasses.jpg)Scientists say an epidemic of myopia, or nearsightedness, is sweeping through Asian children, and is likely due to students' spending too much time indoors studying and not enough time outside in the sunlight.
+[![](/images/2012/05/girlswithglasses-300x225.jpg)](/images/2012/05/girlswithglasses.jpg)Scientists say an epidemic of myopia, or nearsightedness, is sweeping through Asian children, and is likely due to students' spending too much time indoors studying and not enough time outside in the sunlight.
 
  
 

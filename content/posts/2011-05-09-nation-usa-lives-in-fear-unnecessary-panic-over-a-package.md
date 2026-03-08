@@ -8,4 +8,4 @@ featured_image: "/images/2011/05/dart.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/dart.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/dart.jpg)Too Much Fear? Package Threat Forces Evacuation Of Dallas DART
+[![](/images/2011/05/dart.jpg)](/images/2011/05/dart.jpg)Too Much Fear? Package Threat Forces Evacuation Of Dallas DART

@@ -8,4 +8,4 @@ featured_image: "/images/2012/06/WF-Cookbook-cover.jpg"
 draft: false
 ---
 
-[![](/images/2012/06/WF-Cookbook-cover-245x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/WF-Cookbook-cover.jpg)I know I
+[![](/images/2012/06/WF-Cookbook-cover-245x300.jpg)](/images/2012/06/WF-Cookbook-cover.jpg)I know I

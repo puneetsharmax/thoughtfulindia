@@ -8,4 +8,4 @@ featured_image: "/images/2012/03/400px-Angkor.jpg"
 draft: false
 ---
 
-[![](/images/2012/03/400px-Angkor-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/400px-Angkor.jpg)Replicating the world largest Hindu temple in Combodia's Angkor Wat, the
+[![](/images/2012/03/400px-Angkor-300x225.jpg)](/images/2012/03/400px-Angkor.jpg)Replicating the world largest Hindu temple in Combodia's Angkor Wat, the

@@ -8,7 +8,7 @@ featured_image: "/images/2012/03/ot5.jpg"
 draft: false
 ---
 
-[![](/images/2012/03/ot5-264x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/ot5.jpg)The last time I renewed my driver's license, the clerk at the DMV asked if she should check me off as an organ donor. I said no. She looked at me and asked again. I said, "No. Just check the box that says, 'I am a heartless, selfish bastard.'"
+[![](/images/2012/03/ot5-264x300.jpg)](/images/2012/03/ot5.jpg)The last time I renewed my driver's license, the clerk at the DMV asked if she should check me off as an organ donor. I said no. She looked at me and asked again. I said, "No. Just check the box that says, 'I am a heartless, selfish bastard.'"
 
 
 

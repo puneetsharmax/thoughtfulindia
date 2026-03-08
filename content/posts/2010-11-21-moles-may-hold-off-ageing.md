@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia12.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia12.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia12.jpg)
+[![](/images/2010/11/thoughtfulindia12.jpg)](/images/2010/11/thoughtfulindia12.jpg)
 
 They are usually associated with a heightened chance of skin cancer.
 

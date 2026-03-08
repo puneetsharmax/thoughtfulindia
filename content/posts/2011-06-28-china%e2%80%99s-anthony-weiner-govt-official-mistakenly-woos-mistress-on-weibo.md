@@ -8,4 +8,4 @@ featured_image: "/images/2011/06/weibo.jpg"
 draft: false
 ---
 
-[![](/images/2011/06/weibo-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/weibo.jpg)Anthony Weiner, you
+[![](/images/2011/06/weibo-150x150.jpg)](/images/2011/06/weibo.jpg)Anthony Weiner, you

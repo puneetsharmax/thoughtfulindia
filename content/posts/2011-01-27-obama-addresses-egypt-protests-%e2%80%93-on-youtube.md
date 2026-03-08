@@ -8,6 +8,6 @@ featured_image: "/images/2011/01/obama-youtube_full_3801.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/obama-youtube_full_3801.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/obama-youtube_full_3801.jpg)
+[![](/images/2011/01/obama-youtube_full_3801.jpg)](/images/2011/01/obama-youtube_full_3801.jpg)
 
 President Obama spoke up for the first time publicly Thursday on the

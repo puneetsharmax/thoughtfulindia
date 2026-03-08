@@ -8,4 +8,4 @@ featured_image: "/images/2011/11/facial_mark_111.jpg"
 draft: false
 ---
 
-[![](/images/2011/11/facial_mark_11-300x204.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/facial_mark_11.jpg)It's no secret that keeping up appearances -- e.g. arriving clean-shaven and well-dressed for interviews -- is critical to success in a job hunt. However, what about the features out of your control? A
+[![](/images/2011/11/facial_mark_11-300x204.jpg)](/images/2011/11/facial_mark_11.jpg)It's no secret that keeping up appearances -- e.g. arriving clean-shaven and well-dressed for interviews -- is critical to success in a job hunt. However, what about the features out of your control? A

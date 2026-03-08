@@ -8,4 +8,4 @@ featured_image: "/images/2011/09/jewishpresident.jpg"
 draft: false
 ---
 
-[![](/images/2011/09/jewishpresident.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/jewishpresident.jpg)In
+[![](/images/2011/09/jewishpresident.jpg)](/images/2011/09/jewishpresident.jpg)In

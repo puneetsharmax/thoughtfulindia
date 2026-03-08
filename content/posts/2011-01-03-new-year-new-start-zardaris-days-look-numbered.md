@@ -12,7 +12,7 @@ draft: false
 *
 *
 
-*[![zardari](/images/2011/01/zardari.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/zardari.jpg)*
+*[![zardari](/images/2011/01/zardari.jpg)](/images/2011/01/zardari.jpg)*
 
 **The faltering PPP-led coalition government received on Sunday what may prove to be a fatal push when its major coalition partner MQM decided to sit on the opposition benches in parliament, leaving Prime Minister Yousuf Raza Gilani as Leader of the House without a majority.**
 

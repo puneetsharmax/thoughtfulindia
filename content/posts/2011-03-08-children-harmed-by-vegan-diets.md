@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/vegan-pyramid-800x600.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/vegan-pyramid-800x600-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/vegan-pyramid-800x600.jpg)
+[![](/images/2011/03/vegan-pyramid-800x600-300x225.jpg)](/images/2011/03/vegan-pyramid-800x600.jpg)
 
  
 

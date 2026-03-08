@@ -14,6 +14,6 @@ draft: false
 #### Why Some People Can Run on Little Sleep and Get So Much Done
 
 
-#### [![](/images/2011/04/short-300x240.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/short.jpg)
+#### [![](/images/2011/04/short-300x240.jpg)](/images/2011/04/short.jpg)
 
 For a small group of people

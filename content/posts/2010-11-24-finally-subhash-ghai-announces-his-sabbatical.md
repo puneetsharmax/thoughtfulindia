@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia22.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia22.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia22.jpg)
+[![](/images/2010/11/thoughtfulindia22.jpg)](/images/2010/11/thoughtfulindia22.jpg)
 
 He is the veteran 'Showman' of Bollywood but Subhash Ghai is taking a sabbatical from showbiz and will make his return to direction post the break. Ghai said that he will be on an extended holiday for a year and hopes to recharge himself for a fresh beginning.
 

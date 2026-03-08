@@ -8,7 +8,7 @@ featured_image: "/images/2011/06/Food-on-Plate.jpg"
 draft: false
 ---
 
-[![](/images/2011/06/Food-on-Plate-300x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/Food-on-Plate.jpg)A colorful four-part plate, with a side dish of dairy, has replaced the 19-year-old food pyramid as the icon of the new U.S. Dietary Guidelines.
+[![](/images/2011/06/Food-on-Plate-300x300.jpg)](/images/2011/06/Food-on-Plate.jpg)A colorful four-part plate, with a side dish of dairy, has replaced the 19-year-old food pyramid as the icon of the new U.S. Dietary Guidelines.
 
 The new icon, called "My Plate," is split into four sections -- red for fruits, green for vegetables, orange for grains, and purple for protein -- with a separate blue section for dairy on the side.
 

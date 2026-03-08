@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/socialvoting2.jpg"
 draft: false
 ---
 
-????![](file:///C:/Users/puneetsharma.ITLINFOSYS/Pictures/socialvoting.jpg)![](file:///C:/Users/puneetsharma.ITLINFOSYS/Pictures/socialvoting.jpg)![](file:///C:/Users/puneetsharma.ITLINFOSYS/Pictures/socialvoting.jpg)[![](/images/2010/11/socialvoting1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/socialvoting1.jpg)
+????![](file:///C:/Users/puneetsharma.ITLINFOSYS/Pictures/socialvoting.jpg)![](file:///C:/Users/puneetsharma.ITLINFOSYS/Pictures/socialvoting.jpg)![](file:///C:/Users/puneetsharma.ITLINFOSYS/Pictures/socialvoting.jpg)[![](/images/2010/11/socialvoting1.jpg)](/images/2010/11/socialvoting1.jpg)
 
 **Recent polling preferences in Bihar **
 

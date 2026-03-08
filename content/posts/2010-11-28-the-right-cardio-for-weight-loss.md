@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia32.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia32.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia32.jpg)
+[![](/images/2010/11/thoughtfulindia32.jpg)](/images/2010/11/thoughtfulindia32.jpg)
 
 Did you know there's more than one way to do cardio in order to lose weight?
 

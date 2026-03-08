@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/You-re-Fired-Trump-1.jpg"
 draft: false
 ---
 
-#### [![](/images/2011/04/You-re-Fired-Trump-1-300x211.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/You-re-Fired-Trump-1.jpg)
+#### [![](/images/2011/04/You-re-Fired-Trump-1-300x211.jpg)](/images/2011/04/You-re-Fired-Trump-1.jpg)
 
 
 #### WSJ/NBC Poll: A Donald Trump Surprise

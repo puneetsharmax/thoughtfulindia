@@ -8,4 +8,4 @@ featured_image: "/images/2012/06/corruption.jpg"
 draft: false
 ---
 
-[![](/images/2012/06/corruption-300x149.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/corruption.jpg)Fitch downgrades India
+[![](/images/2012/06/corruption-300x149.jpg)](/images/2012/06/corruption.jpg)Fitch downgrades India

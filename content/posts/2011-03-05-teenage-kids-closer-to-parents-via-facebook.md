@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/Facebook.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/Facebook-300x298.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/Facebook.jpg)
+[![](/images/2011/03/Facebook-300x298.jpg)](/images/2011/03/Facebook.jpg)
 **Arianna Raymond** takes you through the changing social canvas where children once scared of sharing anything with their parents now openly update them on the tiniest details of their lives...on facebook!
 
 

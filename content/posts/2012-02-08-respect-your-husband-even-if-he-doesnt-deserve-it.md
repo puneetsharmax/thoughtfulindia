@@ -8,4 +8,4 @@ featured_image: "/images/2012/02/husband1.jpg"
 draft: false
 ---
 
-[![](/images/2012/02/husband2-300x192.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/husband2.jpg)My husband, Ron, admits that he used to be jerk, but I discovered a secret formula that turned him into a loving husband: I started treating him like a VIP! Ron always wanted me to respect him, but I thought he had to
+[![](/images/2012/02/husband2-300x192.jpg)](/images/2012/02/husband2.jpg)My husband, Ron, admits that he used to be jerk, but I discovered a secret formula that turned him into a loving husband: I started treating him like a VIP! Ron always wanted me to respect him, but I thought he had to

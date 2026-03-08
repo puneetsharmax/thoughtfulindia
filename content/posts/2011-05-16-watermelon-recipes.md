@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/Watermelon-Salad-recipe.jpg"
 draft: false
 ---
 
-**[![](/images/2011/05/mae-298x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/mae.jpg)Frozen Watermelon Margarita**
+**[![](/images/2011/05/mae-298x300.jpg)](/images/2011/05/mae.jpg)Frozen Watermelon Margarita**
 *adapted from Gourmet*
 
 1 large watermelon
@@ -28,4 +28,4 @@ Rub lime juice around the rims of the serving glasses or bowls. Press the rims i
 
 Combine by grinding together with a mortar and pestle.
 
-[![](/images/2011/05/mae1-300x295.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/mae1.jpg)Spicy Watermelon & Corn
+[![](/images/2011/05/mae1-300x295.jpg)](/images/2011/05/mae1.jpg)Spicy Watermelon & Corn

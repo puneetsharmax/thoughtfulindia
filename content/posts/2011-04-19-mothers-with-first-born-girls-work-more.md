@@ -8,6 +8,6 @@ featured_image: "/images/2011/04/babies.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/babies.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/babies.jpg)Want to stimulate the labor market? Start by having girls.
+[![](/images/2011/04/babies.jpg)](/images/2011/04/babies.jpg)Want to stimulate the labor market? Start by having girls.
 
 A trio of European economists concludes in

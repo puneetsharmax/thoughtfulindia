@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/cruise.jpeg"
 draft: false
 ---
 
-[![](/images/2011/09/cruise.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/cruise.jpeg)On the evening of April 6 this year, John Halford packed his suitcase and left it outside the door of his cabin on the cruise liner Thomson Spirit. It was the last day of a week-long Egyptian cruise and the ship was due to dock at Sharm-el-Sheikh the following morning. 
+[![](/images/2011/09/cruise.jpeg)](/images/2011/09/cruise.jpeg)On the evening of April 6 this year, John Halford packed his suitcase and left it outside the door of his cabin on the cruise liner Thomson Spirit. It was the last day of a week-long Egyptian cruise and the ship was due to dock at Sharm-el-Sheikh the following morning. 
 
 Mr Halford, 63, texted his wife Ruth, who was at home in Britain, to say he would see her at the airport the next day, then went off to dinner. At about 12.30?am, he was seen by other passengers drinking cocktails in an upper-deck bar. He then vanished.
 

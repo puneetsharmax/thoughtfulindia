@@ -8,7 +8,7 @@ featured_image: "/images/2012/03/panetta-1.jpg"
 draft: false
 ---
 
-[![](/images/2012/03/panetta-1-300x215.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/panetta-1.jpg)A vehicle got on to the runway and burst into flames as Mr Panetta's plane landed in Afghanistan this morning.
+[![](/images/2012/03/panetta-1-300x215.jpg)](/images/2012/03/panetta-1.jpg)A vehicle got on to the runway and burst into flames as Mr Panetta's plane landed in Afghanistan this morning.
 
 The suspected attack also hurt a British squaddie but the extent of the injuries are currently unknown.
 

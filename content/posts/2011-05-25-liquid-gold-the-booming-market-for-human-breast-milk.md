@@ -8,4 +8,4 @@ featured_image: "/images/2011/05/Breast-milk.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/Breast-milk-300x191.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/Breast-milk.jpg)It started with a bleary-eyed Google search:
+[![](/images/2011/05/Breast-milk-300x191.jpg)](/images/2011/05/Breast-milk.jpg)It started with a bleary-eyed Google search:

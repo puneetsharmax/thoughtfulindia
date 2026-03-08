@@ -8,4 +8,4 @@ featured_image: "/images/2011/07/simbhullar.jpg"
 draft: false
 ---
 
-[![](/images/2011/07/simbhullar-214x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/simbhullar.jpg)When the 7-foot-4 center Sim Bhullar walks through airports, people flock to him and ask him to pose for pictures. When he recently visited India, where his parents were born, so many approached him at the
+[![](/images/2011/07/simbhullar-214x300.jpg)](/images/2011/07/simbhullar.jpg)When the 7-foot-4 center Sim Bhullar walks through airports, people flock to him and ask him to pose for pictures. When he recently visited India, where his parents were born, so many approached him at the

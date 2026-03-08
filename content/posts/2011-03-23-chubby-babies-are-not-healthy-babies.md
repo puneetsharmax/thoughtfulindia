@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/web-parents.jpg"
 draft: false
 ---
 
-#### [![](/images/2011/03/web-parents-160x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/web-parents.jpg)
+#### [![](/images/2011/03/web-parents-160x300.jpg)](/images/2011/03/web-parents.jpg)
 
 
 #### Parenting an overweight child can be difficult

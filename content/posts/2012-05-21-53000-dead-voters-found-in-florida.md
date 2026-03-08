@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/cemetery.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/cemetery-300x224.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/cemetery.jpg)I have learned that Florida
+[![](/images/2012/05/cemetery-300x224.jpg)](/images/2012/05/cemetery.jpg)I have learned that Florida

@@ -8,6 +8,6 @@ featured_image: "/images/2011/03/smile_web_design-7495461.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/smile_web_design-7495461-300x283.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/smile_web_design-7495461.jpg)
+[![](/images/2011/03/smile_web_design-7495461-300x283.jpg)](/images/2011/03/smile_web_design-7495461.jpg)
 
 Recently I made an interesting discovery while running

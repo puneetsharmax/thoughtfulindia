@@ -8,6 +8,6 @@ featured_image: "/images/2011/07/dsk.jpg"
 draft: false
 ---
 
-#### [![](/images/2011/07/dsk-300x209.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/dsk.jpg)Dominique Strauss-Kahn trial reaction: French backers want ex-IMF chief to resume presidential run
+#### [![](/images/2011/07/dsk-300x209.jpg)](/images/2011/07/dsk.jpg)Dominique Strauss-Kahn trial reaction: French backers want ex-IMF chief to resume presidential run
 
 Supporters of French politician

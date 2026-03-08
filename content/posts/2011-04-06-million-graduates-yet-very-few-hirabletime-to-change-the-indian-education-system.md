@@ -10,7 +10,7 @@ draft: false
 
 Call-center company 24/7 Customer Pvt. Ltd. is desperate to find new recruits who can answer questions by phone and email. It wants to hire 3,000 people this year. Yet in this country of 1.2 billion people, that is beginning to look like an impossible goal.
 
-[![](/images/2011/04/EDUCAT-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/EDUCAT.jpg)
+[![](/images/2011/04/EDUCAT-300x200.jpg)](/images/2011/04/EDUCAT.jpg)
 
 So few of the high school and college graduates who come through the door can communicate effectively in English, and so many lack a grasp of educational basics such as reading comprehension, that the company can hire just three out of every 100 applicants.
 
@@ -24,7 +24,7 @@ In the nation that made offshoring a household word, 24/7 finds itself so short 
 
 India's economic expansion was supposed to create opportunities for millions to rise out of poverty, get an education and land good jobs. But as India liberalized its economy starting in 1991 after decades of socialism, it failed to reform its heavily regulated education system.
 
-Business executives say schools are hampered by overbearing bureaucracy and a focus on rote learning rather than critical thinking and comprehension. Government keeps tuition low, which makes schools accessible to more students, but also keeps teacher salaries and budgets low. What's more, say educators and business leaders, the curriculum in most places is outdated and disconnected from the real world.[![](/images/2011/04/EDUCAT1-237x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/EDUCAT1.jpg)
+Business executives say schools are hampered by overbearing bureaucracy and a focus on rote learning rather than critical thinking and comprehension. Government keeps tuition low, which makes schools accessible to more students, but also keeps teacher salaries and budgets low. What's more, say educators and business leaders, the curriculum in most places is outdated and disconnected from the real world.[![](/images/2011/04/EDUCAT1-237x300.jpg)](/images/2011/04/EDUCAT1.jpg)
 
 "If you pay peanuts, you get monkeys," says Vijay Thadani, chief executive of New Delhi-based NIIT Ltd. India, a recruitment firm that also runs job-training programs for college graduates lacking the skills to land good jobs.
 

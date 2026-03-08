@@ -28,4 +28,4 @@ It was noted that for women it could be entirely different. Women with high IQs 
 
 [ ](http://www.telegraph.co.uk/women/womens-health/7549959/Cleverest-women-are-the-heaviest-drinkers.html)
 
-![](http://cdn1.politicaloutcast.com/wp-content/uploads/2014/10/2-glasses-of-wine.jpg)So men if you want to appear learned and sophisticated think before you grab the third glass of drink and women yes that second glass of wine points out the erudite in you .
+![](http://cdn1.politicaloutcast.com/images/2014/10/2-glasses-of-wine.jpg)So men if you want to appear learned and sophisticated think before you grab the third glass of drink and women yes that second glass of wine points out the erudite in you .

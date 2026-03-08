@@ -8,5 +8,5 @@ featured_image: "/images/2011/02/Iit-Bombay.jpg"
 draft: false
 ---
 
-[![](/images/2011/02/Iit-Bombay.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/02/Iit-Bombay.jpg)
+[![](/images/2011/02/Iit-Bombay.jpg)](/images/2011/02/Iit-Bombay.jpg)
 The Indian Institute of Technology-Bombay could soon have a second address

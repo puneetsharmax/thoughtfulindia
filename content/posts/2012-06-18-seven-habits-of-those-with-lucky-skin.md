@@ -8,6 +8,6 @@ featured_image: "/images/2012/06/beautiful-skin_care.jpg"
 draft: false
 ---
 
-## [![](/images/2012/06/beautiful-skin_care.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/beautiful-skin_care.jpg)Think women with naturally beautiful skin are just lucky? Probably not!
+## [![](/images/2012/06/beautiful-skin_care.jpg)](/images/2012/06/beautiful-skin_care.jpg)Think women with naturally beautiful skin are just lucky? Probably not!
 
 We all know

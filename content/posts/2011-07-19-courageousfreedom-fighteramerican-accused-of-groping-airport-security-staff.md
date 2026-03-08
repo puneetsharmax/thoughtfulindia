@@ -8,4 +8,4 @@ featured_image: "/images/2011/07/security.jpg"
 draft: false
 ---
 
-[![](/images/2011/07/security-300x187.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/security.jpg)Yukari Mihamae was arrested last week after she allegedly squeezed the breasts of a Transportation Security Administration (TSA) officer at Phoenix
+[![](/images/2011/07/security-300x187.jpg)](/images/2011/07/security.jpg)Yukari Mihamae was arrested last week after she allegedly squeezed the breasts of a Transportation Security Administration (TSA) officer at Phoenix

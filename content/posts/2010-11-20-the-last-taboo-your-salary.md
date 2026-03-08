@@ -8,4 +8,4 @@ featured_image: "/images/2010/11/thoughtfulindia6.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia6.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia6.jpg)The phrase "the last taboo" is a criminally overused media clich
+[![](/images/2010/11/thoughtfulindia6.jpg)](/images/2010/11/thoughtfulindia6.jpg)The phrase "the last taboo" is a criminally overused media clich

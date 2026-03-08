@@ -8,6 +8,6 @@ featured_image: "/images/2011/07/into-adulthood.jpg"
 draft: false
 ---
 
-### [![](/images/2011/07/into-adulthood-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/into-adulthood.jpg)The Sleepover Question
+### [![](/images/2011/07/into-adulthood-150x150.jpg)](/images/2011/07/into-adulthood.jpg)The Sleepover Question
 
 NOT under my roof. That

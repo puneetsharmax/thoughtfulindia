@@ -8,4 +8,4 @@ featured_image: "/images/2011/07/ashourie.jpg"
 draft: false
 ---
 
-[![](/images/2011/07/ashourie.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/ashourie.jpg)Arun Shourie writes about bringing up his son Aditya, afflicted with cerebral palsy for many years now, in his new book, Does He know a mother
+[![](/images/2011/07/ashourie.jpg)](/images/2011/07/ashourie.jpg)Arun Shourie writes about bringing up his son Aditya, afflicted with cerebral palsy for many years now, in his new book, Does He know a mother

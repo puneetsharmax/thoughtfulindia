@@ -27,7 +27,7 @@ I would argue that's precisely why we should talk about it. We should get comfor
 
 The reasons why a woman should start learning and understanding and planning her finances are umpteen. Some of them I have listed below.
 
-![](https://i2.wp.com/thoughtfulindia.com/wp-content/uploads/2019/03/womenmoney_Feb4_2015.png?fit=640%2C432&ssl=1)
+![](https://i2.wp.com/thoughtfulindia.com/images/2019/03/womenmoney_Feb4_2015.png?fit=640%2C432&ssl=1)
 
 **Reason 1: Life is uncertain and one never knows when a time may come when she has to handle all her financial matters by herself**
 

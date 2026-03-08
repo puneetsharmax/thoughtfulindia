@@ -8,7 +8,7 @@ featured_image: "/images/2011/11/learn.jpg"
 draft: false
 ---
 
-[caption id="attachment_4465" align="alignleft" width="461" caption="Image Source :http://mashable.com/2011/05/26/children-online-safety/"][![](/images/2011/11/learn.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/learn.jpg)[/caption]
+[caption id="attachment_4465" align="alignleft" width="461" caption="Image Source :http://mashable.com/2011/05/26/children-online-safety/"][![](/images/2011/11/learn.jpg)](/images/2011/11/learn.jpg)[/caption]
 
 Not as hard as you may think.
 

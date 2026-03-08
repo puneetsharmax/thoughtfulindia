@@ -8,6 +8,6 @@ featured_image: "/images/2012/03/bully1331662653_6768479576.jpg"
 draft: false
 ---
 
-### [![](/images/2012/03/bully1331662653_6768479576-300x219.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/bully1331662653_6768479576.jpg)Bullying Starts in Preschool
+### [![](/images/2012/03/bully1331662653_6768479576-300x219.jpg)](/images/2012/03/bully1331662653_6768479576.jpg)Bullying Starts in Preschool
 
 A colleague at Care.com recently had an issue with her son

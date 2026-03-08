@@ -10,7 +10,7 @@ draft: false
 
 Mosques in four cities observed the Namaz-e-Janaza or funeral prayers for the liquidated al-Qaida chief Osama bin Laden on Friday, but not all Muslims agreed with the idea behind such invocations. Tagged with jumma, the day that sees the largest congregations of the devouts in mosques, many Muslims asked by imams to stay back if they wished to for the Osama prayers, did so. But while one such namaz was cancelled in Lucknow, it was far from crowded in Hyderabad.
 
-[caption id="attachment_2735" align="aligncenter" width="512" caption="Kashmiri Muslims shout anti-US and pro-freedom slogans after offering funeral prayers for Osama bin Laden (AFP, Tauseef Mustafa)"][![](/images/2011/05/payer.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/payer.jpg)[/caption]
+[caption id="attachment_2735" align="aligncenter" width="512" caption="Kashmiri Muslims shout anti-US and pro-freedom slogans after offering funeral prayers for Osama bin Laden (AFP, Tauseef Mustafa)"][![](/images/2011/05/payer.jpg)](/images/2011/05/payer.jpg)[/caption]
 
 In Srinagar, however, Hurriyat hardliner Syed Ali Shah Geelani called for the special Osama prayers as well, and observers said many people may have heeded his call. "Muslim clergy should organise funeral prayers in their mosques for peace to the soul of Osama bin Laden," Geelani said, and added, "Osama was not just a person but also an ideology against occupation of Muslim lands by foreigners. Western countries must realise that suppression of Muslims in their lands will result in resistance."
 

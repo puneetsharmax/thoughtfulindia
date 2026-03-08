@@ -8,4 +8,4 @@ featured_image: "/images/2012/04/romney-family2-e1334243675942.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/romney-family2-e1334243675942-300x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/romney-family2-e1334243675942.jpg)Ann Romney Fights Back: Debuts on Twitter to Counter DNC Advisor
+[![](/images/2012/04/romney-family2-e1334243675942-300x300.jpg)](/images/2012/04/romney-family2-e1334243675942.jpg)Ann Romney Fights Back: Debuts on Twitter to Counter DNC Advisor

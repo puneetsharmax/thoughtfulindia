@@ -8,4 +8,4 @@ featured_image: "/images/2011/10/turmeric.jpg"
 draft: false
 ---
 
-[![](/images/2011/10/turmeric.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/turmeric.jpg)The Doctor
+[![](/images/2011/10/turmeric.jpg)](/images/2011/10/turmeric.jpg)The Doctor

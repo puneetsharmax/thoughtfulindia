@@ -8,4 +8,4 @@ featured_image: "/images/2012/03/superstickies.png"
 draft: false
 ---
 
-[![](/images/2012/03/superstickies.png)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/superstickies.png)Years ago, Charlie, a highly respected orthopedist and a mentor of mine, found a lump in his stomach. It was diagnosed as pancreatic cancer by one of the best surgeons in the country, who had developed a procedure that could triple a patient's five-year-survival odds
+[![](/images/2012/03/superstickies.png)](/images/2012/03/superstickies.png)Years ago, Charlie, a highly respected orthopedist and a mentor of mine, found a lump in his stomach. It was diagnosed as pancreatic cancer by one of the best surgeons in the country, who had developed a procedure that could triple a patient's five-year-survival odds

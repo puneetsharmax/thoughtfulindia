@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/toilet.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/toilet.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/toilet.jpg)
+[![](/images/2011/01/toilet.jpg)](/images/2011/01/toilet.jpg)
 
 Japanese toilets are famed for functions such as posterior shower jets and perfume bursts, but entertainment company Sega has gone a step further by installing urine-controlled games in Tokyo urinals.
 

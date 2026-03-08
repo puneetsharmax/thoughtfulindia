@@ -8,4 +8,4 @@ featured_image: "/images/2011/06/chhotu.jpg"
 draft: false
 ---
 
-[![](/images/2011/06/chhotu.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/chhotu.jpg)SINDANGAN, Philippines
+[![](/images/2011/06/chhotu.jpg)](/images/2011/06/chhotu.jpg)SINDANGAN, Philippines

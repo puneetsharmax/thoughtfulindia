@@ -8,4 +8,4 @@ featured_image: "/images/2011/09/fakequit.jpeg"
 draft: false
 ---
 
-[![](/images/2011/09/fakequit.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/fakequit.jpeg)Guess what, America? Bill O
+[![](/images/2011/09/fakequit.jpeg)](/images/2011/09/fakequit.jpeg)Guess what, America? Bill O

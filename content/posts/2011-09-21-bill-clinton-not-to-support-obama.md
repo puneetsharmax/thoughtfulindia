@@ -8,4 +8,4 @@ featured_image: "/images/2011/09/billobama.jpg"
 draft: false
 ---
 
-[![](/images/2011/09/billobama.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/billobama.jpg)Former President Bill Clinton tells Newsmax that Washington should not raise taxes until the slumping economy is turned around
+[![](/images/2011/09/billobama.jpg)](/images/2011/09/billobama.jpg)Former President Bill Clinton tells Newsmax that Washington should not raise taxes until the slumping economy is turned around

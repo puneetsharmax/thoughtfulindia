@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia16.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia16.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia16.jpg)
+[![](/images/2010/11/thoughtfulindia16.jpg)](/images/2010/11/thoughtfulindia16.jpg)
 
 I wanted to fight with Jawed Naqvi on reading his article. Who was he ? It was like kettle calling the pot black. Pakistan is known worldwide as the most corrupt nation on Earth -yet Mr Jawed Naqvi goes on and on calling India and its system corrupt. But whatever he wrote about is true and thats what made me even more sad.
 

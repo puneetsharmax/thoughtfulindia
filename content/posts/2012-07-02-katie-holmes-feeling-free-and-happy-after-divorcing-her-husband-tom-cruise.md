@@ -10,7 +10,7 @@ draft: false
 
 ## Living in separate bedrooms the reason for divorce
 
-[![](/images/2012/07/article-2167825-13E58745000005DC-366_634x870-218x300.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/07/article-2167825-13E58745000005DC-366_634x870.jpeg)Katie Holmes today emerged for the first time since filing for divorce from her husband Tom Cruise last week. The 33-year-old actress, who has looked decidedly tense and unkempt in recent weeks (as seen pictured right with daughter Suri), cut a stylish and polished figure as she headed to film a guest spot on Project Runway: All Stars in New York today. She even managed a small smile, suggesting she may be relieved to be free from her marriage to the powerful Scientologist.
+[![](/images/2012/07/article-2167825-13E58745000005DC-366_634x870-218x300.jpeg)](/images/2012/07/article-2167825-13E58745000005DC-366_634x870.jpeg)Katie Holmes today emerged for the first time since filing for divorce from her husband Tom Cruise last week. The 33-year-old actress, who has looked decidedly tense and unkempt in recent weeks (as seen pictured right with daughter Suri), cut a stylish and polished figure as she headed to film a guest spot on Project Runway: All Stars in New York today. She even managed a small smile, suggesting she may be relieved to be free from her marriage to the powerful Scientologist.
 
 [Source://www.dailymail.co.uk](http://www.dailymail.co.uk/ushome/index.html)
 

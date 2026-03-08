@@ -8,7 +8,7 @@ featured_image: "/images/2012/03/crimes-against-children.jpg"
 draft: false
 ---
 
-[![](/images/2012/03/crimes-against-children-300x270.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/crimes-against-children.jpg)Police in Honolulu are asking for the public's help in finding the answers to a horrible mystery: How did the fingers of a child end up in a trash bin at a housing complex?
+[![](/images/2012/03/crimes-against-children-300x270.jpg)](/images/2012/03/crimes-against-children.jpg)Police in Honolulu are asking for the public's help in finding the answers to a horrible mystery: How did the fingers of a child end up in a trash bin at a housing complex?
 
 The fingers were found a month ago, according to a Honolulu Police Department news release.
 

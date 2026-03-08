@@ -8,4 +8,4 @@ featured_image: "/images/2011/07/girlchild.jpg"
 draft: false
 ---
 
-[![](/images/2011/07/girlchild-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/girlchild.jpg)Yet another male bastion has been decisively breached. It's a long-held myth that
+[![](/images/2011/07/girlchild-300x225.jpg)](/images/2011/07/girlchild.jpg)Yet another male bastion has been decisively breached. It's a long-held myth that

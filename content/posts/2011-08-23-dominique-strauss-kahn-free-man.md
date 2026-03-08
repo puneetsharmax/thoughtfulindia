@@ -8,7 +8,7 @@ featured_image: "/images/2011/08/Dominique-Strauss-Kahn-bailed.jpg"
 draft: false
 ---
 
-### [![](/images/2011/08/Dominique-Strauss-Kahn-bailed-300x208.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/Dominique-Strauss-Kahn-bailed.jpg)The smirk of a free man: Dominique Strauss-Kahn freed from sexual assault charges as protesters chant for a 'fair trial'
+### [![](/images/2011/08/Dominique-Strauss-Kahn-bailed-300x208.jpg)](/images/2011/08/Dominique-Strauss-Kahn-bailed.jpg)The smirk of a free man: Dominique Strauss-Kahn freed from sexual assault charges as protesters chant for a 'fair trial'
 
 
 

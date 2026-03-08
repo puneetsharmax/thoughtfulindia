@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/snigdha.png"
 draft: false
 ---
 
-[caption id="attachment_3848" align="alignleft" width="150"][![](/images/2011/09/snigdha.png)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/snigdha.png) Snigdha is a researcher, interested in knowledge industries & regional development, labor markets, and human development. She enjoys writing and has written several papers, including journal articles, book chapters, and policy briefs. She currently lives in Naperville with her husband and two children.[/caption]
+[caption id="attachment_3848" align="alignleft" width="150"][![](/images/2011/09/snigdha.png)](/images/2011/09/snigdha.png) Snigdha is a researcher, interested in knowledge industries & regional development, labor markets, and human development. She enjoys writing and has written several papers, including journal articles, book chapters, and policy briefs. She currently lives in Naperville with her husband and two children.[/caption]
 
  
 

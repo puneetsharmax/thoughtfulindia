@@ -8,4 +8,4 @@ featured_image: "/images/2011/12/code.jpg"
 draft: false
 ---
 
-[![](/images/2011/12/soap.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/soap.jpg)PARIS
+[![](/images/2011/12/soap.jpg)](/images/2011/12/soap.jpg)PARIS

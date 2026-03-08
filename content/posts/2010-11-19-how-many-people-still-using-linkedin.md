@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia3.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia3.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia3.jpg)
+[![](/images/2010/11/thoughtfulindia3.jpg)](/images/2010/11/thoughtfulindia3.jpg)
 
 LinkedIn CEO Jeff Weiner spilled some new statistics Wednesday highlighting the business networking site's rapid global growth.
 

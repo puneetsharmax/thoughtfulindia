@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/skype1.jpg"
 draft: false
 ---
 
-###### [![](/images/2011/05/skype-158x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/skype.jpg)Skype-Style Calls Force Wireless Carriers to Adapt
+###### [![](/images/2011/05/skype-158x300.jpg)](/images/2011/05/skype.jpg)Skype-Style Calls Force Wireless Carriers to Adapt
 
 
 

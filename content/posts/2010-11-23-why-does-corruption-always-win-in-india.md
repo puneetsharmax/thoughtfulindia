@@ -8,6 +8,6 @@ featured_image: "/images/2010/11/thoughtfulindia17.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia17.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia17.jpg)
+[![](/images/2010/11/thoughtfulindia17.jpg)](/images/2010/11/thoughtfulindia17.jpg)
 
 All of us especially we NRIs

@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/thoughtfulindia30.jpg"
 draft: false
 ---
 
-[caption id="attachment_857" align="alignleft" width="150" caption="Sharon Mundy is a Dental Hygienist and a fitness enthusiast. She lives in Naperville"][![](/images/2010/12/thoughtfulindia30-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia30.jpg)[/caption]
+[caption id="attachment_857" align="alignleft" width="150" caption="Sharon Mundy is a Dental Hygienist and a fitness enthusiast. She lives in Naperville"][![](/images/2010/12/thoughtfulindia30-150x150.jpg)](/images/2010/12/thoughtfulindia30.jpg)[/caption]
 
 **Part 2 of 4**
 

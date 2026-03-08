@@ -8,7 +8,7 @@ featured_image: "/images/2012/03/movie-theater-cinema-food-snack-bar.jpg"
 draft: false
 ---
 
-[![](/images/2012/03/movie-theater-cinema-food-snack-bar-300x206.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/movie-theater-cinema-food-snack-bar.jpg)Joshua Thompson loves the movies.
+[![](/images/2012/03/movie-theater-cinema-food-snack-bar-300x206.jpg)](/images/2012/03/movie-theater-cinema-food-snack-bar.jpg)Joshua Thompson loves the movies.
 
 But he hates the prices theaters charge for concessions like pop and candy.
 

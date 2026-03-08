@@ -12,7 +12,7 @@ draft: false
 
 * *
 =====================================================================================
-[![](/images/2011/01/london.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/london.jpg)Pakistani-origin men in Britain are grooming white girls aged between 11 and 16 for sex with Asian men, a media report said Wednesday.
+[![](/images/2011/01/london.jpg)](/images/2011/01/london.jpg)Pakistani-origin men in Britain are grooming white girls aged between 11 and 16 for sex with Asian men, a media report said Wednesday.
 Police and social services were silent on the exploitation because of fear that it would be termed a racial issue, The Daily Mail reported.
 Researchers from University College London's Jill Dando Institute of Security and Crime Science said the victims were "typically white girls" while "most central offenders are Pakistani".
 The offenders were not viewed as paedophiles but had picked the girls because of their "malleability".

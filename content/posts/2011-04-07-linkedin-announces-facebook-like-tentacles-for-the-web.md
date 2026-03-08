@@ -8,4 +8,4 @@ featured_image: "/images/2011/04/Screen-shot.png"
 draft: false
 ---
 
-[![](/images/2011/04/Screen-shot-300x131.png)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/Screen-shot.png)LinkedIn announced a new platform Wednesday for its business-focused social networking site
+[![](/images/2011/04/Screen-shot-300x131.png)](/images/2011/04/Screen-shot.png)LinkedIn announced a new platform Wednesday for its business-focused social networking site

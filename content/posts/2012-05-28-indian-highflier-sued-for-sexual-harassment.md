@@ -8,6 +8,6 @@ featured_image: "/images/2012/05/Ajit-Nazre.jpg"
 draft: false
 ---
 
-[caption id="attachment_6718" align="alignleft" width="300" caption="Ellen Pao"][![](/images/2012/05/EPaoLowRes-300x224.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/EPaoLowRes.jpg)[/caption]
+[caption id="attachment_6718" align="alignleft" width="300" caption="Ellen Pao"][![](/images/2012/05/EPaoLowRes-300x224.jpg)](/images/2012/05/EPaoLowRes.jpg)[/caption]
 
 [Kleiner Perkins Caulfield and Byers](http://www.kpcb.com/), one of the most storied and well-respected venture capital firms in Silicon Valley, has been sued by

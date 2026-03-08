@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/Bill_Gates_David_Rockefeller_Slow_Kill_Super_He
 draft: false
 ---
 
-[![](/images/2012/05/Bill_Gates_David_Rockefeller_Slow_Kill_Super_Heroes-300x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/Bill_Gates_David_Rockefeller_Slow_Kill_Super_Heroes.jpg)Bill Gates
+[![](/images/2012/05/Bill_Gates_David_Rockefeller_Slow_Kill_Super_Heroes-300x300.jpg)](/images/2012/05/Bill_Gates_David_Rockefeller_Slow_Kill_Super_Heroes.jpg)Bill Gates

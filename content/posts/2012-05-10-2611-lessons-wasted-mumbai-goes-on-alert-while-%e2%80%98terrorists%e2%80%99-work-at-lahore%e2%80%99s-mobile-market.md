@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/indiatoday.jpg"
 draft: false
 ---
 
-[caption id="attachment_6419" align="aligncenter" width="640" caption="This screenshot from India Today shows the news and pictures of three of the five suspected terrorists who had allegedly sneaked into Mumbai. PHOTO: INDIA TODAY SCREENSHOT"][![](/images/2012/05/indiatoday.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/indiatoday.jpg)[/caption]
+[caption id="attachment_6419" align="aligncenter" width="640" caption="This screenshot from India Today shows the news and pictures of three of the five suspected terrorists who had allegedly sneaked into Mumbai. PHOTO: INDIA TODAY SCREENSHOT"][![](/images/2012/05/indiatoday.jpg)](/images/2012/05/indiatoday.jpg)[/caption]
 
 **Mumbai Police on Wednesday released photographs of three alleged terrorists, out of five, that it claimed belonged to banned outfit Lashkar-e-Taiba (LeT) and had entered Mumbai.**
 

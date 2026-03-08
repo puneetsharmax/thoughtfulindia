@@ -8,4 +8,4 @@ featured_image: "/images/2012/06/dadson.jpg"
 draft: false
 ---
 
-[![](/images/2012/06/dadson.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/dadson.jpg)Fathers are entering a new era in which they matter just as much as mothers when it comes to shaping their children
+[![](/images/2012/06/dadson.jpg)](/images/2012/06/dadson.jpg)Fathers are entering a new era in which they matter just as much as mothers when it comes to shaping their children

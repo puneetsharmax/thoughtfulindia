@@ -10,7 +10,7 @@ draft: false
 
 AUGUSTA, Ga. -- For the second year in a row, the Masters was decided in the woods lining the 10th fairway. Last year on Sunday it was Rory McIlroy's disastrous drive into the trees left of the fairway that knocked him out of contention and opened the door for Charl Schwartzel. This year, it was Bubba Watson's Hail Mary wedge shot from deep in the trees on the other side that somehow, against all right and reason, wound up 15 feet from the pin. Two putts later, he had defeated Louis Oosthuizen in a playoff and won the green jacket.
 
-[caption id="attachment_6071" align="aligncenter" width="553" caption="Bubba Watson hugs his caddie Ted Scott after winning the Masters golf tournament following a sudden-death playoff on the 10th hole Sunday"][![](/images/2012/04/bubba.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/bubba.jpg)[/caption]
+[caption id="attachment_6071" align="aligncenter" width="553" caption="Bubba Watson hugs his caddie Ted Scott after winning the Masters golf tournament following a sudden-death playoff on the 10th hole Sunday"][![](/images/2012/04/bubba.jpg)](/images/2012/04/bubba.jpg)[/caption]
 
 "I had to keep it under 15 feet under a tree, then it started rising and hooked about 40 yards. Pretty easy," Watson said, describing the 160-yard shot.
 

@@ -11,6 +11,6 @@ draft: false
 **
 **
 
-[![](/images/2011/01/thoughtfulindia1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/thoughtfulindia1.jpg)
+[![](/images/2011/01/thoughtfulindia1.jpg)](/images/2011/01/thoughtfulindia1.jpg)
 
 Though clich

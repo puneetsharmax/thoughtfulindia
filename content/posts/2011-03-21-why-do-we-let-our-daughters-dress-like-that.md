@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/wsj.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/wsj-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/wsj.jpg)
+[![](/images/2011/03/wsj-300x200.jpg)](/images/2011/03/wsj.jpg)
 
 In the pale-turquoise ladies' room, they congregate in front of the mirror, re-applying mascara and lip gloss, brushing their hair, straightening panty hose and gossiping: This one is "skanky," that one is "really cute," and so forth. Dressed in minidresses, perilously high heels, and glittery, dangling earrings, their eyes heavily shadowed in black-pearl and jade, they look like a flock of tropical birds. A few minutes later, they return to the dance floor, where they shake everything they've got under the party lights.
 

@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/lmfao-sexy-and-i-know-it-lyric.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/lmfao-sexy-and-i-know-it-lyric-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/lmfao-sexy-and-i-know-it-lyric.jpg)A 6-year-old boy was suspended from his suburban Denver school for three days after school officials said he told a girl
+[![](/images/2012/05/lmfao-sexy-and-i-know-it-lyric-300x200.jpg)](/images/2012/05/lmfao-sexy-and-i-know-it-lyric.jpg)A 6-year-old boy was suspended from his suburban Denver school for three days after school officials said he told a girl

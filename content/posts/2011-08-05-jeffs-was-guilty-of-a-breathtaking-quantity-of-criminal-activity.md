@@ -8,7 +8,7 @@ featured_image: "/images/2011/08/Warren-Jeffs.jpg"
 draft: false
 ---
 
-## [](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/Warren-Jeffs.jpg)[![](/images/2011/08/Warren-Jeffs1-300x168.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/Warren-Jeffs1.jpg)
+## [](/images/2011/08/Warren-Jeffs.jpg)[![](/images/2011/08/Warren-Jeffs1-300x168.jpg)](/images/2011/08/Warren-Jeffs1.jpg)
 
 
 ## 

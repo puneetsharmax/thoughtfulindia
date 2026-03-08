@@ -8,7 +8,7 @@ featured_image: "/images/2012/03/shloksharma.jpeg"
 draft: false
 ---
 
-[caption id="attachment_5881" align="alignleft" width="150" caption="Shlok Sharma is a student of grade 5 in Welch Elementary School in Naperville.He loves to read and write.These days his favorite author is Rick Riordan and He can be reached at shlokzartsharma@gmail.com"][![](/images/2012/03/shloksharma-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/shloksharma.jpeg)[/caption]
+[caption id="attachment_5881" align="alignleft" width="150" caption="Shlok Sharma is a student of grade 5 in Welch Elementary School in Naperville.He loves to read and write.These days his favorite author is Rick Riordan and He can be reached at shlokzartsharma@gmail.com"][![](/images/2012/03/shloksharma-150x150.jpg)](/images/2012/03/shloksharma.jpeg)[/caption]
 
 As I sat down to face my mom, I sensed she was unhappy about something. "Joe, I am disappointed in you.Your writing scores are terribly low.You need to work on this. I have bought a diary for you. I want you to write a journal at the end of everyday. It doesn't matter what you write about but I want you to write something each day."
 

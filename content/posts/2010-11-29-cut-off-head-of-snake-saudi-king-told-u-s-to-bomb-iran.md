@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia34.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia34.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia34.jpg)
+[![](/images/2010/11/thoughtfulindia34.jpg)](/images/2010/11/thoughtfulindia34.jpg)
 
 King Abdullah of Saudi Arabia repeatedly exhorted the United States to "cut off the head of the snake" by launching military strikes to destroy Iran's nuclear program, according to leaked U.S. diplomatic cables.
 

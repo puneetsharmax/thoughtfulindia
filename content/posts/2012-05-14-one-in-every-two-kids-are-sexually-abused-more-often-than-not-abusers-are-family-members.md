@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/child-abuse.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/child-abuse-300x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/child-abuse.jpg)It was an eye opener-this Sunday's Satyamev Jayate. 53% of kids are sexually abused. We have to hear our kids -when they are saying something-about being uncomfortable, about not wanting to interact with certain individuals-instead of dismissing their concerns as useless rants , the duty of the parent is to listen. Kudos to Aamir Khan for addressing such delicate issues .
+[![](/images/2012/05/child-abuse-300x150.jpg)](/images/2012/05/child-abuse.jpg)It was an eye opener-this Sunday's Satyamev Jayate. 53% of kids are sexually abused. We have to hear our kids -when they are saying something-about being uncomfortable, about not wanting to interact with certain individuals-instead of dismissing their concerns as useless rants , the duty of the parent is to listen. Kudos to Aamir Khan for addressing such delicate issues .
 
 We, as parents often trust relatives and friends more than our little kids. Please trust your kids and their concerns , however childish it is .
 

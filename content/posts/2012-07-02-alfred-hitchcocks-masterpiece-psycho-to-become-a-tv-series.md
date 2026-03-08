@@ -8,4 +8,4 @@ featured_image: "/images/2012/07/psycho1.jpeg"
 draft: false
 ---
 
-[![](/images/2012/07/psycho1-300x199.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/07/psycho1.jpeg)A&E has ordered a drama series inspired by Alfred Hitchcock
+[![](/images/2012/07/psycho1-300x199.jpeg)](/images/2012/07/psycho1.jpeg)A&E has ordered a drama series inspired by Alfred Hitchcock

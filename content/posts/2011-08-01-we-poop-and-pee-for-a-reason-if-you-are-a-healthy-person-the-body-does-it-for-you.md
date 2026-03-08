@@ -8,7 +8,7 @@ featured_image: "/images/2011/08/colon1.jpg"
 draft: false
 ---
 
-### [![](/images/2011/08/colon.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/colon.jpg)[Colon cleansing: Not so healthy, analysis says](http://thechart.blogs.cnn.com/2011/08/01/colon-cleansing-not-so-healthy-analysis-says/)
+### [![](/images/2011/08/colon.jpg)](/images/2011/08/colon.jpg)[Colon cleansing: Not so healthy, analysis says](http://thechart.blogs.cnn.com/2011/08/01/colon-cleansing-not-so-healthy-analysis-says/)
 
 It has been touted as a natural way to improve your heath and cleanse the soul. But doctors are now finding the procedure known as colon cleansing can cause dangerous side effects.
 

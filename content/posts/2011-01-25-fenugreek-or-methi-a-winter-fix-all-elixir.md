@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/fenugreek.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/fenugreek.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/fenugreek.jpg)
+[![](/images/2011/01/fenugreek.jpg)](/images/2011/01/fenugreek.jpg)
 Curry has long been among the Britain's favourite dishes - but now there's one more reason to eat your vindaloo as a vital ingredient may be the key to fending off the cold virus.
 Fenugreek has been used by mothers for centuries to stimulate the production of breast milk during pregnancy and following childbirth.
 But now the herb, found in most British supermarkets, has been hailed as an unlikely "fix-all elixir" thanks to its powerful antiviral properties.

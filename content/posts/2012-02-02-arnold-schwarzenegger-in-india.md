@@ -8,4 +8,4 @@ featured_image: "/images/2012/02/s.jpg"
 draft: false
 ---
 
-[![](/images/2012/02/s-225x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/s.jpg)The Terminator is here. The 1980s
+[![](/images/2012/02/s-225x300.jpg)](/images/2012/02/s.jpg)The Terminator is here. The 1980s

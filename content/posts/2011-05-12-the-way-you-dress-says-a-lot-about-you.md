@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/dress.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/dress-255x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/dress.jpg)Last week I went to some bank to seek some services when I was met by a customer care lady who was almost half naked.
+[![](/images/2011/05/dress-255x300.jpg)](/images/2011/05/dress.jpg)Last week I went to some bank to seek some services when I was met by a customer care lady who was almost half naked.
 
 This beautiful young lady was wearing a see through blouse plus a very short and tight skirt. Her jewellery and makeup was too loud for office.
 

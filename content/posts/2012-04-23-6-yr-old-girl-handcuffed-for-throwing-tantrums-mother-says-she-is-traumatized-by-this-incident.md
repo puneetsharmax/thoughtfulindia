@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/AX101_1365217l.jpg"
 draft: false
 ---
 
-[caption id="attachment_6266" align="alignleft" width="203" caption="Salecia Johnson"][![](/images/2012/04/AX101_1365217l.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/AX101_1365217l.jpg)[/caption]
+[caption id="attachment_6266" align="alignleft" width="203" caption="Salecia Johnson"][![](/images/2012/04/AX101_1365217l.jpg)](/images/2012/04/AX101_1365217l.jpg)[/caption]
 
 ## Kindergartner throws tantrum at school, is handcuffed by police
 

@@ -8,7 +8,7 @@ featured_image: "/images/2011/02/Shilpa-shetty-yoga.jpg"
 draft: false
 ---
 
-[![](/images/2011/02/yoga.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/02/yoga.jpg)
+[![](/images/2011/02/yoga.jpg)](/images/2011/02/yoga.jpg)
 
 Jennifer Aniston does it. Reports are that Liv Tyler, Halle Berry, Madonna, David Duchovny and supermodel Christy Turlington do it, too. Many professional athletes are said to be doing it in an effort to improve their games.
 

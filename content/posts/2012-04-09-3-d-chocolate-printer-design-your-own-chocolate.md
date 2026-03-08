@@ -8,6 +8,6 @@ featured_image: "/images/2012/04/3dchocolateprinter-2.jpg"
 draft: false
 ---
 
-**[![](/images/2012/04/3dchocolateprinter-2-300x199.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/3dchocolateprinter-2.jpg)The Delicious Future: 3D Chocolate Printer Finally Available for Purchase**
+**[![](/images/2012/04/3dchocolateprinter-2-300x199.jpg)](/images/2012/04/3dchocolateprinter-2.jpg)The Delicious Future: 3D Chocolate Printer Finally Available for Purchase**
 
 As the world shifts to an increasingly paperless existence, the lowly computer printer catches fleeting glimpses of its glory days in the rear-view mirror.

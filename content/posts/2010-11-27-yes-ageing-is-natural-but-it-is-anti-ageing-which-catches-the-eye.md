@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia29.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia29.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia29.jpg)
+[![](/images/2010/11/thoughtfulindia29.jpg)](/images/2010/11/thoughtfulindia29.jpg)
 
 Anti Aging tips helps us to know what the effective ways to slow down aging process are. Who likes graying and reducing hairline, wrinkled face , protruded belly and above all flawed memory?
 

@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/longlife.jpg"
 draft: false
 ---
 
-#### [![](/images/2011/03/longlife.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/longlife.jpg)
+#### [![](/images/2011/03/longlife.jpg)](/images/2011/03/longlife.jpg)
 
 
 #### Keys to Long Life? Not What You Might Expect

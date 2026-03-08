@@ -8,4 +8,4 @@ featured_image: "/images/2011/04/ceo.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/ceo.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/ceo.jpg)Distilling the Wisdom of C.E.O.
+[![](/images/2011/04/ceo.jpg)](/images/2011/04/ceo.jpg)Distilling the Wisdom of C.E.O.

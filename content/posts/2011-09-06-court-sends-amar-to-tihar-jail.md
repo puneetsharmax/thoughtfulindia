@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/amar.jpeg"
 draft: false
 ---
 
-[![](/images/2011/09/amar.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/amar.jpeg)If the July 2008 cash-for-vote scam was sensational, the arrest of former Samajwadi Party leader Amar Singh in the case was even more dramatic.
+[![](/images/2011/09/amar.jpeg)](/images/2011/09/amar.jpeg)If the July 2008 cash-for-vote scam was sensational, the arrest of former Samajwadi Party leader Amar Singh in the case was even more dramatic.
 
 When special judge Sangita Dhingra Sehgal began the hearing at 10am in a jam-packed court, Singh's lawyer said his client was too ill to personally appear.
 

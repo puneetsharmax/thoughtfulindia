@@ -8,4 +8,4 @@ featured_image: "/images/2011/05/2G-scam.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/wives.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/wives.jpg)They used to holiday in Europe with their husbands this time of the year, staying in top-class hotels and shopping for the finest that money could buy, far away from India
+[![](/images/2011/05/wives.jpg)](/images/2011/05/wives.jpg)They used to holiday in Europe with their husbands this time of the year, staying in top-class hotels and shopping for the finest that money could buy, far away from India

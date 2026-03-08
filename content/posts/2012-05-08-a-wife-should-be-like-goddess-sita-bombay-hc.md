@@ -8,4 +8,4 @@ featured_image: "/images/2012/05/marriage_child.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/marriage_child-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/marriage_child.jpg)The Bombay high court today observed that married
+[![](/images/2012/05/marriage_child-300x200.jpg)](/images/2012/05/marriage_child.jpg)The Bombay high court today observed that married
