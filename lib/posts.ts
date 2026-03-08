@@ -17,22 +17,36 @@ export interface Post {
   content?: string
 }
 
+function decodeHtmlEntities(str: string): string {
+  return str
+    .replace(/&amp;/gi, '&')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#039;/gi, "'")
+    .replace(/&apos;/gi, "'")
+}
+
 function safeCategories(raw: unknown): string[] {
   if (!raw) return []
   if (!Array.isArray(raw)) return []
-  return raw.filter((c): c is string => typeof c === 'string' && c.length > 0)
+  return raw
+    .filter((c): c is string => typeof c === 'string' && c.length > 0)
+    .map(decodeHtmlEntities)
 }
 
 function safeTags(raw: unknown): string[] {
   if (!raw) return []
   if (!Array.isArray(raw)) return []
-  return raw.filter((t): t is string => typeof t === 'string' && t.length > 0)
+  return raw
+    .filter((t): t is string => typeof t === 'string' && t.length > 0)
+    .map(decodeHtmlEntities)
 }
 
 function safeString(raw: unknown): string {
   if (raw === null || raw === undefined) return ''
   if (raw instanceof Date) return raw.toISOString().split('T')[0]
-  return String(raw)
+  return decodeHtmlEntities(String(raw))
 }
 
 export function getAllPosts(): Post[] {

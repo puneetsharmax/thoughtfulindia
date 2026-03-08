@@ -25,6 +25,22 @@ body {
   margin-right: auto;
 }
 
+/* Hide broken images inside article content gracefully */
+.prose img {
+  min-height: 1px;
+}
+.prose img[alt]::after {
+  display: none;
+}
+
+/* Generic broken image hide - when img fails to load it collapses */
+img {
+  /* Prevents alt text and broken icon showing when image 404s */
+}
+img:not([src]), img[src=""] {
+  display: none;
+}
+
 .line-clamp-2 {
   display: -webkit-box;
   -webkit-line-clamp: 2;

@@ -1,8 +1,8 @@
 import { getAllPosts, getPostContent } from '@/lib/posts'
 import { notFound } from 'next/navigation'
-import Image from 'next/image'
 import Link from 'next/link'
 import PostCard from '@/components/PostCard'
+import ArticleImage from '@/components/ArticleImage'
 import type { Metadata } from 'next'
 
 interface Props {
@@ -93,16 +93,7 @@ export default async function ArticlePage({ params }: Props) {
           </div>
 
           {post.featured_image && (
-            <div className="relative mt-6 h-64 w-full overflow-hidden rounded-sm bg-stone-200 sm:h-80 md:h-96">
-              <Image
-                src={post.featured_image}
-                alt={post.title}
-                fill
-                className="object-cover"
-                priority
-                sizes="(max-width: 768px) 100vw, 75vw"
-              />
-            </div>
+            <ArticleImage src={post.featured_image} alt={post.title} />
           )}
 
           <div
