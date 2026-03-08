@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
 export const metadata = {
-  title: 'For Students | Thoughtful India',
+  title: 'For Students',
   description: 'Thoughtful India for students — written by students, for students.',
 }
 
