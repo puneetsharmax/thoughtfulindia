@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/bottle.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/bottle-300x201.jpg)](/images/2011/03/bottle.jpg)
+[![](/images/2011/03/bottle-300x201.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/bottle.jpg)
 
 A 13-year-old Russian boy found a message in a bottle on a beach and was reunited with its German author, who wrote the note 24 years ago, tabloid Komsomolskaya Pravda has reported.
 

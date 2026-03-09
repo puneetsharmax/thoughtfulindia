@@ -8,7 +8,7 @@ featured_image: "/images/2011/08/Homes-For-Sale-250x181.jpg"
 draft: false
 ---
 
-### [![](/images/2011/08/Homes-For-Sale-250x181.jpg)](/images/2011/08/Homes-For-Sale-250x181.jpg)Housing prices - done dirt cheap: The three-bedroom homes that can be yours for as little as $5,000
+### [![](/images/2011/08/Homes-For-Sale-250x181.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/Homes-For-Sale-250x181.jpg)Housing prices - done dirt cheap: The three-bedroom homes that can be yours for as little as $5,000
 
 For a prospective homebuyer, $5,000 may not buy much, but in one U.S. city, a dream home can be yours for just that amount.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2011/08/baby.jpg"
 draft: false
 ---
 
-[![](/images/2011/08/baby-300x224.jpg)](/images/2011/08/baby.jpg)Newborn babies tend to have more fat in their bodies, including in their liver, if their mothers had a higher body mass index (BMI) prior to falling pregnant, new research has found.
+[![](/images/2011/08/baby-300x224.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/baby.jpg)Newborn babies tend to have more fat in their bodies, including in their liver, if their mothers had a higher body mass index (BMI) prior to falling pregnant, new research has found.
 
 "This study demonstrates that a woman's BMI affects the amount of fat in her baby at birth. Fatter women have fatter babies and there is more fat in the babies' livers. If these effects persist through childhood and beyond, they could put the child at risk of lifelong metabolic health problems," explained lead researcher, Prof Neena Modi, of Imperial College London.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/unhappy.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/unhappy-300x200.jpg)](/images/2011/05/unhappy.jpg)Sleeping problems are thought to affect brain development and lead to other problems later in life.
+[![](/images/2011/05/unhappy-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/unhappy.jpg)Sleeping problems are thought to affect brain development and lead to other problems later in life.
 
 The study, published in the journal Child Development, looked at 357 adopted children and their families in the US.
 

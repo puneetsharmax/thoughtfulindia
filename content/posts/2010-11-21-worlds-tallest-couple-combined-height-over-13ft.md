@@ -8,8 +8,12 @@ featured_image: "/images/2010/11/thoughtfulindia10.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia10.jpg)](/images/2010/11/thoughtfulindia10.jpg)
+The Guinness World Records recognition of a couple as the world's tallest — with a combined height that exceeded thirteen feet — generated the kind of human interest coverage that record books exist to produce: photographs, interviews, accounts of the logistical challenges of daily life at extreme height, the universal question of how they met.
 
-Their height made Wayne and Laurie Hallquist seem like an ideal match when they met seven years ago, and on Thursday they were matched with something else -- the title of world's tallest living married couple.
+Tall people who end up with other tall people often describe the courtship as having an element of inevitability — the social dynamics that draw people of similar height together in a society built for average height. Beds too short, cars too small, doorframes that require ducking, clothing that requires custom tailoring: these challenges are either easier or more entertaining when shared with someone facing the same obstacles.
 
-[Read More](http://news.yahoo.com/s/nm/20101118/od_nm/us_tallest_couple;_ylt=Ag5_RmjUCuBdQDZvYvXw9_HtiBIF;_ylu=X3oDMTJtdmFobDdnBGFzc2V0A25tLzIwMTAxMTE4L3VzX3RhbGxlc3RfY291cGxlBHBvcwM2BHNlYwN5bl9hcnRpY2xlX3N1bW1hcnlfbGlzdARzbGsDY2FsaWZvcm5pYWNv)
+The medical dimensions of extreme height are less cheerful. Gigantism, the condition that produces heights significantly above the statistical norm, typically results from a pituitary tumor that produces excess growth hormone, and the condition is associated with serious health complications: cardiovascular problems, joint deterioration, and reduced life expectancy. The people who hold height records are not simply large; they are managing a medical condition with significant long-term consequences.
+
+The Guinness recognition tends to focus on the impressive number — the height, the combined measurement — while the medical reality receives less attention. This is consistent with the record book's general approach to human extremes, which celebrates the unusual without dwelling on the circumstances that produce it.
+
+What the coverage of the world's tallest couple offers the reader is a window into a life organized around a physical difference significant enough to shape almost every aspect of daily experience, lived by people who have apparently found in each other the most practical and affectionate response to that difference: companionship.

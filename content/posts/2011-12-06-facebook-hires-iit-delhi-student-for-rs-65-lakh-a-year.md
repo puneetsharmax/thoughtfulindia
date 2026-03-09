@@ -8,7 +8,7 @@ featured_image: "/images/2011/12/ankur.jpg"
 draft: false
 ---
 
-[![](/images/2011/12/ankur.jpg)](/images/2011/12/ankur.jpg)Social networking site Facebook will now have an employee from the Indian Institute of Technology-Delhi.
+[![](/images/2011/12/ankur.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/ankur.jpg)Social networking site Facebook will now have an employee from the Indian Institute of Technology-Delhi.
 
 After trying - and failing - to recruit students from the institute last year, Facebook came back to the campus this year and chose 21-year-old Ankur Dahiya, a student of computer science engineering.
 

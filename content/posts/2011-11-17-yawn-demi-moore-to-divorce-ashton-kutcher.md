@@ -14,7 +14,7 @@ The couple's relationship became tabloid fodder in recent months as rumors swirl
 
 "It is with great sadness and a heavy heart that I have decided to end my six-year marriage to Ashton. As a woman, a mother and a wife there are certain values and vows that I hold sacred, and it is in this spirit that I have chosen to move forward with my life. This is a trying time for me and my family, and so I would ask for the same compassion and privacy that you would give to anyone going through a similar situation," she said in her statement to the AP.
 
-[![](/images/2011/11/demi-219x300.jpg)](/images/2011/11/demi.jpg)The pair frequently used Twitter to communicate with each other as millions of fans followed along.
+[![](/images/2011/11/demi-219x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/demi.jpg)The pair frequently used Twitter to communicate with each other as millions of fans followed along.
 
 "I will forever cherish the time I spent with Demi," Kutcher tweeted Thursday. "Marriage is one of the most difficult things in the world and unfortunately sometimes they fail."
 

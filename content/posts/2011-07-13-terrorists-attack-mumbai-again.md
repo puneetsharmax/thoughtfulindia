@@ -10,7 +10,7 @@ draft: false
 
 # 3 bomb blasts in Mumbai; 17 killed, 81 injured
 
-[![](/images/2011/07/mumbai-july-20111.jpg)](/images/2011/07/mumbai-july-20111.jpg)At least 17 people have been killed and 81 others injured in three bomb blasts that rocked Mumbai on Wednesday evening in the crowded Dadar, Opera House and Zaveri Bazar areas. Maharashtra Chief Minister Prithviraj Chavan confirmed that the 13 deaths reported include casualties from all the three locations hit by the blasts.Union Home Ministry confirmed that the blasts are terror strikes and added that Improvised Explosive Devices were used at all the three locations.
+[![](/images/2011/07/mumbai-july-20111.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/mumbai-july-20111.jpg)At least 17 people have been killed and 81 others injured in three bomb blasts that rocked Mumbai on Wednesday evening in the crowded Dadar, Opera House and Zaveri Bazar areas. Maharashtra Chief Minister Prithviraj Chavan confirmed that the 13 deaths reported include casualties from all the three locations hit by the blasts.Union Home Ministry confirmed that the blasts are terror strikes and added that Improvised Explosive Devices were used at all the three locations.
 
 "We have information of three blasts. We have rushed teams of NSG (National Security Guards) and NIA (National Investigating Agency) to Mumbai. One blast has taken place in a Maruti Esteem car and one in a motorcycle," said Union Home Secretary RK Singh said.The blast at Dadar took place in Kabootar Khana, in the two-storey JK Building at Tata Road No. 1 in Opera House and at Khaul Gali in Zaveri Bazar.
 

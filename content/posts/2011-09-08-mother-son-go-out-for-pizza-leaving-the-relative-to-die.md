@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/hospital.jpeg"
 draft: false
 ---
 
-[![](/images/2011/09/hospital-300x160.jpg)](/images/2011/09/hospital.jpeg)When Mary Coleman died in May 2009, two days after she fell to the floor at her sister's house, her sister and nephew decided there was nothing they could do about it and went out for pizza.
+[![](/images/2011/09/hospital-300x160.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/hospital.jpeg)When Mary Coleman died in May 2009, two days after she fell to the floor at her sister's house, her sister and nephew decided there was nothing they could do about it and went out for pizza.
 
 Then, according to a criminal complaint filed Tuesday, Veronica King and her son, Steven King, kept Coleman's death a secret, hiding her body in the basement and then the garage of the house on Whenona Drive until Madison police found her mummified remains more than three months later.
 

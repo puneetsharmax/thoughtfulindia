@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/strauss.jpeg"
 draft: false
 ---
 
-[![](/images/2012/05/strauss.jpeg)](/images/2012/05/strauss.jpeg)A French prosecutor on Monday opened a preliminary investigation into allegations of rape in a Washington hotel by former IMF chief and one-time French presidential hopeful Dominique Strauss-Kahn.
+[![](/images/2012/05/strauss.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/strauss.jpeg)A French prosecutor on Monday opened a preliminary investigation into allegations of rape in a Washington hotel by former IMF chief and one-time French presidential hopeful Dominique Strauss-Kahn.
 
 The move by the prosecutor in Lille in northern France followed a request by investigating judges earlier this month to broaden a suspected prostitution probe to examine the claims of rape in December 2010.
 

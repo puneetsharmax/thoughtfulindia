@@ -8,7 +8,7 @@ featured_image: "/images/2011/06/mexican.jpg"
 draft: false
 ---
 
-### [![](/images/2011/06/mexican-300x225.jpg)](/images/2011/06/mexican.jpg)Mexican teenage girls train as drug cartel killers
+### [![](/images/2011/06/mexican-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/mexican.jpg)Mexican teenage girls train as drug cartel killers
 
 
 ### 

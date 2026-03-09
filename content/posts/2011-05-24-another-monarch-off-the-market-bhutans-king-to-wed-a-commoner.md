@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/bhutan.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/bhutan-218x300.jpg)](/images/2011/05/bhutan.jpg)King Jigme Khesar Namgyel Wangchuck of the small South Asian state of Bhutan has embraced the royal fad and found himself a commoner.
+[![](/images/2011/05/bhutan-218x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/bhutan.jpg)King Jigme Khesar Namgyel Wangchuck of the small South Asian state of Bhutan has embraced the royal fad and found himself a commoner.
 
 The beloved 31-year-old, Oxford-educated monarch announced his engagement to Jetsun Pema, 21 and a student at Regents College in London, during the opening session of parliament on Friday in the capital Thimphu. The address, which was broadcast on national television, was attended by members of the royal family and elected representatives.
 

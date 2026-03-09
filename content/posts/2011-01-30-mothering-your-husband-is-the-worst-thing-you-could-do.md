@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/art.mom_.hubby_.lw_.gi_.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/art.mom_.hubby_.lw_.gi_.jpg)](/images/2011/01/art.mom_.hubby_.lw_.gi_.jpg)Over-the-top behavior? Rounds says no way. "He loves to be taken care of."
+[![](/images/2011/01/art.mom_.hubby_.lw_.gi_.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/art.mom_.hubby_.lw_.gi_.jpg)Over-the-top behavior? Rounds says no way. "He loves to be taken care of."
 
 It's a scenario familiar to many relationship experts, who say that first comes love, then comes marriage, and then comes the husband in the baby carriage.
 

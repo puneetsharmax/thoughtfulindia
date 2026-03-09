@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/surrender-indian-passport-united-states-800X800
 draft: false
 ---
 
-##### [![](/images/2011/04/surrender-indian-passport-united-states-800X800-300x200.jpg)](/images/2011/04/surrender-indian-passport-united-states-800X800.jpg)Indian Americans unhappy with passport surrender rules
+##### [![](/images/2011/04/surrender-indian-passport-united-states-800X800-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/surrender-indian-passport-united-states-800X800.jpg)Indian Americans unhappy with passport surrender rules
 
 A large number of Indian Americans are very unhappy over the new rules imposed by Govt. of[India](http://timesofindia.indiatimes.com/topic/India) for surrendering the old Indian passport and delays in issuance of visa to visit India.
 

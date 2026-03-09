@@ -14,7 +14,7 @@ Senior White House officials said early Monday that the trail that led to Osama 
 
 "From the time that we first recognized bin Laden as a threat, the U.S. gathered information on people in bin Laden's circle, including his personal couriers," a senior official in the Obama administration said in a background briefing from the White House.
 
-[![](/images/2011/05/abbota-300x180.png)](/images/2011/05/abbota.png)After the terror attacks of Sept. 11, 2001, "detainees gave us information on couriers. One courier in particular had our constant attention. Detainees gave us his nom de guerre, his pseudonym, and also identified this man as one of the few couriers trusted by bin Laden."
+[![](/images/2011/05/abbota-300x180.png)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/abbota.png)After the terror attacks of Sept. 11, 2001, "detainees gave us information on couriers. One courier in particular had our constant attention. Detainees gave us his nom de guerre, his pseudonym, and also identified this man as one of the few couriers trusted by bin Laden."
 
 In 2007, the U.S. learned the man's name.In 2009, "we identified areas in Pakistan where the courier and his brother operated. They were very careful, reinforcing belief we were on the right track."In August 2010, "we found their home in Abbatabad," in an isolated area.
 

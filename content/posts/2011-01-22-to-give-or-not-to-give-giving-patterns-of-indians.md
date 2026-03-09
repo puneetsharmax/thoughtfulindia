@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/Charity.jpg"
 draft: false
 ---
 
-[caption id="attachment_1476" align="alignleft" width="150"][![](/images/2011/01/snigdhathoughtfulindia.png)](/images/2011/01/snigdhathoughtfulindia.png) Snigdha is a researcher, interested in knowledge industries & regional development, labor markets, and human development. She enjoys writing and has written several papers, including journal articles, book chapters, and policy briefs. She currently lives in Naperville with her husband and two children.[/caption]
+[caption id="attachment_1476" align="alignleft" width="150"][![](/images/2011/01/snigdhathoughtfulindia.png)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/snigdhathoughtfulindia.png) Snigdha is a researcher, interested in knowledge industries & regional development, labor markets, and human development. She enjoys writing and has written several papers, including journal articles, book chapters, and policy briefs. She currently lives in Naperville with her husband and two children.[/caption]
 
 While browsing the web recently, I got interested in the World Giving Index reportpublished by the Charities Aid Foundation, which provided information on charitable giving patterns across the world through a survey conducted by Gallup. The survey covered 153 countries and provided ranking of the countries based on how charitable they were. I eagerly turned the pages to see how India ranked. To my dismay and somewhat disbelief, India ranked a dismal 134 out of the 153 countries surveyed. Other South Asian countries, including Pakistan, Bangladesh, and Nepal were upwards of 100in ranking. Interestingly, Sri Lanka was the only South Asian country to rank within thetop ten – it ranked 8th.
 

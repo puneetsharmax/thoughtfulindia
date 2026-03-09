@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia13.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia13.jpg)](/images/2010/11/thoughtfulindia13.jpg)
+[![](/images/2010/11/thoughtfulindia13.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia13.jpg)
 
 MYTH: **The longer and harder my exercise sessions are, the more weight I will lose.**
 

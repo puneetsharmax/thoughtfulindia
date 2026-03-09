@@ -8,7 +8,7 @@ featured_image: ""
 draft: false
 ---
 
-![](https://i1.wp.com/thoughtfulindia.com/images/2019/04/Screenshot_20190422-112051-1024x576.png?fit=640%2C360&ssl=1)
+![](https://i1.wp.com/thoughtfulindia.com/wp-content/uploads/2019/04/Screenshot_20190422-112051-1024x576.png?fit=640%2C360&ssl=1)
 
 When I first saw [the video](https://nasdaily.com/videos) on Nas Daily about this vegan village in Israel, I was intrigued. It is so difficult to follow any specific diet, but if the whole village is adhering to a diet, it’s a chosen lifestyle.
 

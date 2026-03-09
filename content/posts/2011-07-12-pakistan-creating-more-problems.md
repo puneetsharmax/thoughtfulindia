@@ -8,7 +8,7 @@ featured_image: "/images/2011/07/pakistan.jpg"
 draft: false
 ---
 
-#### [![](/images/2011/07/pakistan-228x300.jpg)](/images/2011/07/pakistan.jpg)Pakistan could "pull troops Afghan from border" if U.S. cuts aid
+#### [![](/images/2011/07/pakistan-228x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/pakistan.jpg)Pakistan could "pull troops Afghan from border" if U.S. cuts aid
 
 ISLAMABAD (Reuters) - Pakistan could pull back troops fighting Islamist militants near the Afghan border if the United States cuts off aid, the defense minister said on Tuesday in an interview with Pakistani media.
 

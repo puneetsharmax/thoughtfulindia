@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/layoff-greeting-card.jpg"
 draft: false
 ---
 
-## [![](/images/2011/09/layoff-greeting-card.jpg)](/images/2011/09/layoff-greeting-card.jpg)Friend lose a job? Hallmark wants to help
+## [![](/images/2011/09/layoff-greeting-card.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/layoff-greeting-card.jpg)Friend lose a job? Hallmark wants to help
 
 With unemployment numbers staying high, there's a new way to reach out to someone who may have lost their job.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/goldie-and-kate-420x0.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/goldie-and-kate-420x0.jpg)](/images/2011/01/goldie-and-kate-420x0.jpg)
+[![](/images/2011/01/goldie-and-kate-420x0.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/goldie-and-kate-420x0.jpg)
 
 Goldie Hawn's ex-husband is planning to write a tell-all book about his former partner and their famous daughter Kate Hudson.
 

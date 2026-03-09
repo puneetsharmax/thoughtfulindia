@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/kirpan.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/kirpan.jpg)](/images/2011/01/kirpan.jpg)
+[![](/images/2011/01/kirpan.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/kirpan.jpg)
 
 A school in Michigan's Canton township has barred students from bringing a 'kirpan' to the premises after a fourth grader was found carrying the religious symbol and parents of other students objected to it.
 The move has troubled the small Sikh community in the township near Detroit, prompting them to launch a public awareness campaign to make people realise that 'kirpan' is only a religious symbol that is completely non-threatening.

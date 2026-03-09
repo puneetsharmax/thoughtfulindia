@@ -8,7 +8,7 @@ featured_image: "/images/2012/06/600_magnotta_shirt_off_120531.jpg"
 draft: false
 ---
 
-### [![](/images/2012/06/600_magnotta_shirt_off_120531-300x168.jpg)](/images/2012/06/600_magnotta_shirt_off_120531.jpg)Canadian dismemberment suspect arrested in Germany
+### [![](/images/2012/06/600_magnotta_shirt_off_120531-300x168.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/600_magnotta_shirt_off_120531.jpg)Canadian dismemberment suspect arrested in Germany
 
 The international manhunt for the porn actor accused of killing and dismembering a man in Canada ended Monday in a Berlin Internet cafe with the arrest of Luka Rocco Magnotta, according to Canadian authorities.
 

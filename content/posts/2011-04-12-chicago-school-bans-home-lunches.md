@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/school.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/school-225x300.jpg)](/images/2011/04/school.jpg)Fernando Dominguez cut the figure of a young revolutionary leader during a recent lunch period at his elementary school.
+[![](/images/2011/04/school-225x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/school.jpg)Fernando Dominguez cut the figure of a young revolutionary leader during a recent lunch period at his elementary school.
 
 "Who thinks the lunch is not good enough?" the seventh-grader shouted to his lunch mates in Spanish and English.
 

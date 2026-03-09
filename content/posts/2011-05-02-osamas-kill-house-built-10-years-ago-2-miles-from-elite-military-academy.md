@@ -12,7 +12,7 @@ The compound is a few hundred metres from the the Pakistan Military Academy, an 
 
 Earlier reports put the distance at about 200 yards (182 metres). Pakistan's military says the compound is 4km (2.4 miles) away from the academy.
 
-[![](/images/2011/05/academy-196x300.gif)](/images/2011/05/academy.gif)But it lies well within Abbottabad's military cantonment - it is likely the area would have had a constant and significant military presence and checkpoints.
+[![](/images/2011/05/academy-196x300.gif)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/academy.gif)But it lies well within Abbottabad's military cantonment - it is likely the area would have had a constant and significant military presence and checkpoints.
 
 **Pakistan's army chief is a regular visitor to the academy for graduation parades.**
 
@@ -38,7 +38,7 @@ The walls were topped by barbed wire and contained cameras.
 
 There were two security gates at the house and no phone or internet lines running into the compound, the Associated Press (AP) reports.
 
-**'Waziristan Mansion'[![](/images/2011/05/compound-300x151.jpg)](/images/2011/05/compound.jpg)**
+**'Waziristan Mansion'[![](/images/2011/05/compound-300x151.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/compound.jpg)**
 
 After the operation witnesses said all they could see was flames snaking up from inside the house.
 

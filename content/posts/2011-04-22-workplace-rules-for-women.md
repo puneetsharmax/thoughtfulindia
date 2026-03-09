@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/working_women.jpg"
 draft: false
 ---
 
-##### [![](/images/2011/04/working_women-300x235.jpg)](/images/2011/04/working_women.jpg)Hey Baby, Want to Go to the Strip Club?
+##### [![](/images/2011/04/working_women-300x235.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/working_women.jpg)Hey Baby, Want to Go to the Strip Club?
 
 Every organization has a set of unwritten rules. Which executives to butter up, how late to stay at night, or whether it's okay hit on your co-workers. While such quandaries apply to men and women equally, there a few situations women face that underscore their "otherness."
 

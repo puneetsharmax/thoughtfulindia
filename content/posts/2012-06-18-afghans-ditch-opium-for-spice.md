@@ -8,7 +8,7 @@ featured_image: "/images/2012/06/opium-hmed-12phmedium.jpg"
 draft: false
 ---
 
-[![](/images/2012/06/opium-hmed-12phmedium.jpg)](/images/2012/06/opium-hmed-12phmedium.jpg)In several Afghan provinces the fight to curb the growing of opium poppies seems to be a losing battle.
+[![](/images/2012/06/opium-hmed-12phmedium.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/opium-hmed-12phmedium.jpg)In several Afghan provinces the fight to curb the growing of opium poppies seems to be a losing battle.
 
 In 2011 a United Nations Office on Drugs and Crime survey said opium poppy cultivation rose by 7% overall from the prior year. Opium poppy has been one of the main sources of funding for the Taliban especially since the U.S. invasion of Afghanistan in 2001. Poppy cultivation is expected to grow partly because the opium poppy's prices are rising and because farmers are having a hard time deriving as much profit from alternative crops.
 

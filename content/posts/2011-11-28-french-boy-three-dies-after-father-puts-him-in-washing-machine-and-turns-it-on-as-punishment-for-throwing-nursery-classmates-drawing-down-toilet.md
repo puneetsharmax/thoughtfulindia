@@ -8,7 +8,7 @@ featured_image: "/images/2011/11/dailyma.jpg"
 draft: false
 ---
 
-[![](/images/2011/11/dailyma-255x300.jpg)](/images/2011/11/dailyma.jpg)The child, whom neighbours described as blond and angelic, died of head injuries on Friday night, French police said.
+[![](/images/2011/11/dailyma-255x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/dailyma.jpg)The child, whom neighbours described as blond and angelic, died of head injuries on Friday night, French police said.
 
 
 His mother Charlene, 25, recovered him from the machine, according to Le Parisien newspaper.She then ran to her neighbour, known only as Alice, and told her that Bastien had 'fallen down the stairs'.

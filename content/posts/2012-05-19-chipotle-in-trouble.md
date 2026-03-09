@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/Chipotle-Sign-chipotle-418546_576_3741.jpg"
 draft: false
 ---
 
-### [![](/images/2012/05/Chipotle-Sign-chipotle-418546_576_3741-300x194.jpg)](/images/2012/05/Chipotle-Sign-chipotle-418546_576_3741.jpg)SEC subpoenas Chipotle in hiring probe
+### [![](/images/2012/05/Chipotle-Sign-chipotle-418546_576_3741-300x194.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/Chipotle-Sign-chipotle-418546_576_3741.jpg)SEC subpoenas Chipotle in hiring probe
 
 Chipotle Mexican Grill Inc on Friday said it received a subpoena from the Securities and Exchange Commission as part of that agency's investigation into the burrito chain's hiring practices.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/opinion1.png"
 draft: false
 ---
 
-?[![](/images/2010/12/opinion1.png)](/images/2010/12/opinion1.png)
+?[![](/images/2010/12/opinion1.png)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/opinion1.png)
 
 **Opinion**
 

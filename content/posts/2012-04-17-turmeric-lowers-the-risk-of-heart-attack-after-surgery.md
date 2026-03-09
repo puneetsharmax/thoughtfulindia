@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/turmeric-powder.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/turmeric-powder-246x300.jpg)](/images/2012/04/turmeric-powder.jpg)Extracts from turmeric spice, known for their antioxidant and anti-inflammatory properties, may help ward off heart attacks in people who have had recent bypass surgery, according to a study from Thailand.
+[![](/images/2012/04/turmeric-powder-246x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/turmeric-powder.jpg)Extracts from turmeric spice, known for their antioxidant and anti-inflammatory properties, may help ward off heart attacks in people who have had recent bypass surgery, according to a study from Thailand.
 
 During bypass surgery the heart muscle can be damaged by prolonged lack of blood flow, increasing the patient's risk of heart attack. But the new findings, published in the peer-reviewed American Journal of Cardiology, suggest that curcumins - the yellow pigment in turmeric - may ease those risks when added to traditional drug treatment.
 

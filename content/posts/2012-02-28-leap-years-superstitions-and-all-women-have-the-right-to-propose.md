@@ -8,7 +8,7 @@ featured_image: "/images/2012/02/woman-proposing.jpg"
 draft: false
 ---
 
-[caption id="attachment_5544" align="alignleft" width="300"][![](/images/2012/02/woman-proposing-300x281.jpg)](/images/2012/02/woman-proposing.jpg) http://www.sodahead.com/[/caption]
+[caption id="attachment_5544" align="alignleft" width="300"][![](/images/2012/02/woman-proposing-300x281.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/woman-proposing.jpg) http://www.sodahead.com/[/caption]
 
 ### Ladies, Get Ready: Its a Leap Year!
 

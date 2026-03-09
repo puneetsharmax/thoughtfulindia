@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/cereal.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/cereal-300x300.jpg)](/images/2011/03/cereal.jpg)
+[![](/images/2011/03/cereal-300x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/cereal.jpg)
 
 Tried everything, from long walks to Atkins diet, but still not able to squeeze into your college pants? Well, take heart, for it has been claimed that eating two bowls of cereal a day could help obese people lose weight.
 

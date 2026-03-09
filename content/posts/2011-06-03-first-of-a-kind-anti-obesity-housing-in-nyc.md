@@ -8,7 +8,7 @@ featured_image: "/images/2011/06/melody.jpg"
 draft: false
 ---
 
-[![](/images/2011/06/fat.jpg)](/images/2011/06/fat.jpg)A new Bronx co-op apartment building is designed to help combat obesity.
+[![](/images/2011/06/fat.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/fat.jpg)A new Bronx co-op apartment building is designed to help combat obesity.
 
 
 The building, called the Melody, has a backyard with brightly colored exercise equipment for adults, and climbing equipment for children. It also has both indoor and outdoor fitness centers.

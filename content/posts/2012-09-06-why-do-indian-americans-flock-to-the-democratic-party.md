@@ -8,10 +8,16 @@ featured_image: "/images/2012/09/pen.jpg"
 draft: false
 ---
 
-![](/images/2012/09/pen-300x225.jpg)As the US gets ready for elections later this year, Washington-based journalist Seema Sirohi explores why many Indian-Americans support the Democratic Party.
+Indian-Americans vote Democratic at rates that would seem puzzling on the surface. Here is a community that is, by most measures, economically successful — among the highest-earning ethnic groups in the United States, with high rates of small business ownership and a cultural emphasis on educational achievement and family stability. And yet, survey after survey shows Indian-Americans supporting Democratic candidates by margins of 70 to 80 percent.
 
-A young Indian-American recounted recently that his mother, who is working hard on President Barack Obama's re-election campaign in the tough swing state of Florida, had told him flatly not to come home if he decided to vote for Mitt Romney, the Republican rival.
+The conventional wisdom would predict otherwise. Affluent minority groups with strong entrepreneurial traditions often migrate toward the Republican Party, which has historically positioned itself as the party of business, lower taxes, and individual achievement.
 
-He laughed but said his mother was not exactly joking when she issued the warning.
+So what explains the Indian-American political alignment?
 
-He is still undecided but is leaning towards Mr Obama for a variety of reasons - ranging from empathy for the immigrants to policy decisions the president has made in favour of the middle class and students.
+Immigration policy is the single most powerful factor. The overwhelming majority of Indian-Americans are either immigrants themselves or the children of immigrants, and the Republican Party's increasingly restrictive stance on immigration — from visa backlogs to proposed cuts to H-1B visas — has registered as an existential threat to a community that came to the United States through exactly those channels.
+
+Beyond immigration, researchers point to the diversity of the community itself. Indian-Americans are not monolithic. They encompass Hindus, Muslims, Sikhs, Christians, and atheists; they come from every state and every socioeconomic background; they hold views across the political spectrum on issues from abortion to foreign policy. What unifies them politically is less ideology than a shared perception of which party's cultural tone is more welcoming.
+
+The Republican Party's alignment with certain strands of Christian nationalism, its rhetorical hostility toward immigrants and minorities more broadly, and the rise of Islamophobia within some corners of the conservative movement have all contributed to an environment that many Indian-Americans — regardless of their personal religious or economic views — experience as unwelcoming.
+
+As the community continues to grow in size and political influence, both parties are beginning to pay closer attention to its concerns.

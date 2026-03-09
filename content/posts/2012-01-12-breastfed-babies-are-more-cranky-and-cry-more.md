@@ -8,7 +8,7 @@ featured_image: "/images/2012/01/baby.jpg"
 draft: false
 ---
 
-[![](/images/2012/01/baby-300x199.jpg)](/images/2012/01/baby.jpg)New mums please take note: If your baby becomes cranky frequently, don't panic as it is normalfor breastfed babies to cry more, experts say.
+[![](/images/2012/01/baby-300x199.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/01/baby.jpg)New mums please take note: If your baby becomes cranky frequently, don't panic as it is normalfor breastfed babies to cry more, experts say.
 
 Scientists at the Medical Research Council in the UK found that breastfed babies easily get irritated and cry more compared to formula-fed babies, who appear to be more content and easier to pacify.
 

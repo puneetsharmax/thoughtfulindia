@@ -8,7 +8,7 @@ featured_image: "/images/2011/07/winklevoss-facebook_gi_top.jpg"
 draft: false
 ---
 
-[![](/images/2011/07/winklevoss-facebook_gi_top-300x193.jpg)](/images/2011/07/winklevoss-facebook_gi_top.jpg) What did Larry Summers really think of the Winklevoss twins? 
+[![](/images/2011/07/winklevoss-facebook_gi_top-300x193.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/winklevoss-facebook_gi_top.jpg) What did Larry Summers really think of the Winklevoss twins? 
 
 "Rarely, have I encountered such swagger, and I tried to respond in kind," the former president of Harvard said in an interview at Fortune's Brainstorm Tech conference. 
 

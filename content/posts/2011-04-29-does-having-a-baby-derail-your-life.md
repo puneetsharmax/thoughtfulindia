@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/baby1.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/baby1-300x200.jpg)](/images/2011/04/baby1.jpg)Along with shopping for sippy cups and strollers, expectant parents may want to consider another task for their to-do list: honing their marriage skills.
+[![](/images/2011/04/baby1-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/baby1.jpg)Along with shopping for sippy cups and strollers, expectant parents may want to consider another task for their to-do list: honing their marriage skills.
 
 Numerous studies have shown that a couples' satisfaction with their marriage takes a nose dive after the first child is born. Sleepless nights and fights over whose turn it is to change diapers can leach the fun out of a relationship.
 

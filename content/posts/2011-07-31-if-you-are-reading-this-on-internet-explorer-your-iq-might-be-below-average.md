@@ -8,7 +8,7 @@ featured_image: "/images/2011/07/graph1.jpg"
 draft: false
 ---
 
-[![](/images/2011/07/graph1.jpg)](/images/2011/07/graph1.jpg)
+[![](/images/2011/07/graph1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/graph1.jpg)
 
 If you use Internet Explorer, your IQ might be below average--at least, according to one study.
 
@@ -16,7 +16,7 @@ AptiQuant, a "psychometric consulting" firm that provides hiring exams for busin
 
 On average, Internet Explorer users fared the worst, with IE6 users at the bottom of the pile and IE8 users performing slightly better. Firefox, Chrome and Safari fell in the middle with little difference between them. IE with Chrome Frame and Camino landed on top, along with Opera, whose users scored the highest (on average).
 
-[![](/images/2011/07/graph-300x171.jpg)](/images/2011/07/graph.jpg)
+[![](/images/2011/07/graph-300x171.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/graph.jpg)
 
 "The study showed a substantial relationship between an individual's cognitive ability and their choice of web browser," AptiQuant concluded. "From the test results, it is a clear indication that individuals on the lower side of the IQ scale tend to resist a change/upgrade of their browsers."
 

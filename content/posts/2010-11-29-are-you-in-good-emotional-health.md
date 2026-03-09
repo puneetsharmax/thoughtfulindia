@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia40.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia40.jpg)](/images/2010/11/thoughtfulindia40.jpg)
+[![](/images/2010/11/thoughtfulindia40.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia40.jpg)
 
 ### What is good emotional health?
 

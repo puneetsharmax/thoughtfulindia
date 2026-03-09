@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/nita-ambani-beauty-in-the-mirror.jpg"
 draft: false
 ---
 
-[![](/images/2012/05/ambani-300x238.jpg)](/images/2012/05/ambani.jpeg)Billionaire Indian industrialist Mukesh Ambani's wife Nita describes their 27-storey Mumbai house Antilla as a "modern home with an Indian heart" and the "only home we have in the world."
+[![](/images/2012/05/ambani-300x238.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/ambani.jpeg)Billionaire Indian industrialist Mukesh Ambani's wife Nita describes their 27-storey Mumbai house Antilla as a "modern home with an Indian heart" and the "only home we have in the world."
 
 The ultra-luxurious 400,000 sq feet Ambani mansion and its contents continue to fascinate people not only in India but also abroad. Vanity Fair, which interviewed Nita last November, will publish a few pictures from inside Antilla in its June edition, giving a sneak peek into what has been described as 'The Taj Mahal meets flash Gordon."
 
@@ -30,7 +30,7 @@ Another picture shows her reading a book in one of the expansive and exquisitely
 
 The other shows large statues of Hindu gods Ganesha and Shiva and perfectly manicured gardens. The house also has multi-storey garage, ballroom, spa, theatre, guests' suites and terraced gardens.
 
-[![](/images/2012/05/nita-ambani-beauty-in-the-mirror-300x199.jpg)](/images/2012/05/nita-ambani-beauty-in-the-mirror.jpg)Vanity Fair said like any Indian housewife Nita keeps a track of the weekly kitchen spending and waits for her husband "with candles lit and supper ready" to come home from office which is typically at 11 at night.
+[![](/images/2012/05/nita-ambani-beauty-in-the-mirror-300x199.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/nita-ambani-beauty-in-the-mirror.jpg)Vanity Fair said like any Indian housewife Nita keeps a track of the weekly kitchen spending and waits for her husband "with candles lit and supper ready" to come home from office which is typically at 11 at night.
 
 "I like to have everything smiley and happy for my husband. Men don't want to see a grumpy face at the end of a hard day," it quotes Nita as saying.
 

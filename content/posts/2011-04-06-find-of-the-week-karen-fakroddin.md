@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/karen.jpg"
 draft: false
 ---
 
-[caption id="attachment_2186" align="alignleft" width="150" caption="Karen lives in the Chicago area with her husband and two kids."][![](/images/2011/04/karen-150x150.jpg)](/images/2011/04/karen.jpg)[/caption]
+[caption id="attachment_2186" align="alignleft" width="150" caption="Karen lives in the Chicago area with her husband and two kids."][![](/images/2011/04/karen-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/karen.jpg)[/caption]
 
  
 

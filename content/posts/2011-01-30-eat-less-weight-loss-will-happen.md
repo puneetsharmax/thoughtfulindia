@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/medical-weight-loss-program.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/medical-weight-loss-program.jpg)](/images/2011/01/medical-weight-loss-program.jpg)
+[![](/images/2011/01/medical-weight-loss-program.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/medical-weight-loss-program.jpg)
 Remember those resolutions in the beginning of the year -- you were going to get in shape, exercise regularly and take fitness classes?
 It's now the end of January. Are you still doing it?
 It's cold -- there's snow outside. Work and family demands are too much. There's no time to squeeze in a workout.

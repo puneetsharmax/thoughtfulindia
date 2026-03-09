@@ -8,7 +8,7 @@ featured_image: "/images/2011/07/600_magnet_boy_110709.jpg"
 draft: false
 ---
 
-#### [![](/images/2011/07/600_magnet_boy_110709-300x168.jpg)](/images/2011/07/600_magnet_boy_110709.jpg)An 11-year-old boy in Brazil has been dubbed "Magnet Boy" because metal objects apparently stick to his skin.
+#### [![](/images/2011/07/600_magnet_boy_110709-300x168.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/600_magnet_boy_110709.jpg)An 11-year-old boy in Brazil has been dubbed "Magnet Boy" because metal objects apparently stick to his skin.
 
 Paulo David Amorim, from Rio Grande do Norte state, can carry spoons, scissors and even casserole pots on his body, according to footage shown on TV Globo.
 

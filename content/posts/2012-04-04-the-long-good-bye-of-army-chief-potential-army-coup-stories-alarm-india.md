@@ -12,6 +12,6 @@ Defence Secretary Shashi Kant Sharma and the vice-chiefs of the three services t
 
  
 
-[caption id="attachment_6036" align="aligncenter" width="635" caption="Indian Army Chief General V.K. Singh (L), Navy Chief Admiral Nirmal Verma (C), and Chief of Air Staff Air Chief Marshal N.A.K. Browne (R) ."][![](/images/2012/04/army.jpg)](/images/2012/04/army.jpg)[/caption]
+[caption id="attachment_6036" align="aligncenter" width="635" caption="Indian Army Chief General V.K. Singh (L), Navy Chief Admiral Nirmal Verma (C), and Chief of Air Staff Air Chief Marshal N.A.K. Browne (R) ."][![](/images/2012/04/army.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/army.jpg)[/caption]
 
 At least two members of the Parliamentary Standing Committee on Defence

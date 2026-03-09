@@ -16,7 +16,7 @@ So what exactly happened? The students had just finished attending their farew
 
 When the girls went back to confront him, a bigger crowd had gathered and while the girls tried to explain the situation to the police, a media crew from a local station turned up.  From then on things took a downturn with media crew recording the girls, despite them explicitly asking the media persons to not record. In fact the crew didn’t even allow them to leave. Says Prachi, “The cameraman thrust his camera into the cab and we couldn’t even the shut door while trying to leave the place.”
 
-[![Representational Image. AFP ](http://www.firstpost.com/images/2013/04/pubsmumbai-afp.jpg)](http://www.firstpost.com/living/hyderabad-shame-how-the-media-framed-innocent-women-699360.html/attachment/india-lifestyle-pubs-5)
+[![Representational Image. AFP ](http://www.firstpost.com/wp-content/uploads/2013/04/pubsmumbai-afp.jpg)](http://www.firstpost.com/living/hyderabad-shame-how-the-media-framed-innocent-women-699360.html/attachment/india-lifestyle-pubs-5)
 
  
 

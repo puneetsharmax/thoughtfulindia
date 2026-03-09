@@ -10,7 +10,7 @@ draft: false
 
 AT 92, Clara Tang is accused of bludgeoning, suffocating and stabbing her 98-year-old husband to death. Now she has become the oldest woman in Australia to be committed to stand trial for murder.
 
-[caption id="attachment_2139" align="alignleft" width="420" caption="Poison fear ... alleged killer Clara Tang and her husband."][![](/images/2011/04/Clara-Tang-420x0.jpg)](/images/2011/04/Clara-Tang-420x0.jpg)[/caption]
+[caption id="attachment_2139" align="alignleft" width="420" caption="Poison fear ... alleged killer Clara Tang and her husband."][![](/images/2011/04/Clara-Tang-420x0.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/Clara-Tang-420x0.jpg)[/caption]
 
 After almost 70 years of marriage, Mrs Tang - suffering dementia - allegedly killed Ching Yung Tang in their plush sixth-floor unit in the Connaught apartment complex overlooking Sydney's Hyde Park on March 12, 2010.
 

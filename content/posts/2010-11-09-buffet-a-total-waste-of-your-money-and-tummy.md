@@ -8,5 +8,12 @@ featured_image: ""
 draft: false
 ---
 
-![](http://t2.gstatic.com/images?q=tbn:ANd9GcTtiuO5Up0rKUPKeYNyCW_rcC_xUdjEN3te6ek8KAQYuC82M28&t=1&usg=__q1bKtz4UrKrnEUNvEyC2Qe-9RtE=)
-For many years in the 70s my family went on holiday to a Dorset hotel where, on Friday nights, there was a buffet laid out in the dining room. The centrepiece would always be a huge poached salmon, glazed with mayonnaise, and decorated with lobster shell appendages for colour and detail, as if the two creatures had met near some radioactive waste outlet and mutated.[read more](http://www.guardian.co.uk/lifeandstyle/2010/oct/17/jay-rayner-on-buffets)
+The economics of the all-you-can-eat buffet are an elegant illustration of behavioral psychology being weaponized against consumers, and the consumers cooperating enthusiastically in their own exploitation.
+
+The buffet's business model depends on a fundamental miscalculation that diners reliably make: the belief that eating more constitutes better value. In reality, the marginal utility of food declines sharply with consumption. The third plate of fried rice provides a fraction of the satisfaction of the first, while contributing identical calories to the total. Buffet operators understand this and price accordingly — the upfront fee is set high enough to capture profit from moderate eaters while remaining low enough to attract the heavy eaters who believe they will somehow defeat the house.
+
+The research on buffet consumption reveals a series of predictable cognitive failures. Diners systematically overestimate how much they will enjoy food later in the meal, leading them to fill plates at the beginning with foods they are less hungry for by the time they reach them. The visual abundance of the buffet triggers what researchers call an "eating occasion" that persists long after hunger has been satisfied — the presence of food options creates an ongoing psychological permission to eat that does not exist in a restaurant setting where ordering must be actively initiated.
+
+The quality argument against buffets is equally compelling. Maintaining food at safe temperatures while keeping it visually appealing over a multi-hour service period requires compromises that work against good cooking. Hot foods are held at temperatures that continue cooking them; cold dishes are subjected to repeated temperature fluctuations as serving implements move in and out. The freshness that makes a meal delicious is precisely what buffet logistics cannot deliver.
+
+For the price of a typical buffet, a thoughtful order at a regular restaurant produces better food, better portion control, and a meal that you actually remember eating.

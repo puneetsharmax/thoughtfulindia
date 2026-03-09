@@ -8,12 +8,14 @@ featured_image: "/images/2012/03/IMG_0067.jpg"
 draft: false
 ---
 
-[caption id="attachment_5957" align="alignleft" width="150" caption="Whats Cooking This Friday - is all about food. Finding the recipes you love ...talking about the restaurants around the world and sharing your grandma&#39;s recipes. Please share your culinary adventures !"][![](/images/2012/03/IMG_0067-150x150.jpg)](/images/2012/03/IMG_0067.jpg)[/caption]
+The third installment arrives with a menu built for a rainy spring Friday — the kind of evening where you want something that requires actual cooking, that fills the kitchen with good smells, and that rewards the attention you give it.
 
-### 
+The main is a lamb keema — ground lamb cooked with aromatics and spices into something that's neither curry nor meat sauce but sits happily between them. Start with whole spices in hot oil: a bay leaf, a couple of cloves, a small piece of cinnamon, some whole peppercorns. Then onions, really browned, not rushed. Then ginger and garlic, then the lamb itself, broken up and cooked until the fat renders and the meat begins to color. Coriander powder, cumin, a little chili, turmeric, garam masala at the end. Peas added with the last five minutes of cooking — frozen peas are fine, actually good here. Finish with fresh cilantro.
 
+Serve with chapati made by hand if you're in the mood, or with whatever flatbread you have.
 
-### Inchin's Bamboo Garden
+A raita, always. Tonight's version: yogurt, roasted cumin, black salt, grated raw carrot for sweetness and color.
 
-4442 E New York St
-Aurora,
+The keema is one of those dishes that seems more complicated than it is. The ingredient list is long but the technique is simple: heat, patience with the onions, the right spices in the right order. Make it once and you'll make it many times. It improves each time — not the recipe, but your understanding of where it wants to go.
+
+Pour a glass of something cold. It's Friday.

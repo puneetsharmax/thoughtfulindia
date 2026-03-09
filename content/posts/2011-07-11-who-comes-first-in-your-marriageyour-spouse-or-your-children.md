@@ -8,7 +8,7 @@ featured_image: "/images/2011/07/parents-angry.jpg"
 draft: false
 ---
 
-#### [![](/images/2011/07/parents-angry.jpg)](/images/2011/07/parents-angry.jpg)The Divorce Generation
+#### [![](/images/2011/07/parents-angry.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/parents-angry.jpg)The Divorce Generation
 
 Every generation has its life-defining moments. If you want to find out what it was for a member of the Greatest Generation, you ask: "Where were you on D-Day?" For baby boomers, the questions are: "Where were you when Kennedy was shot?" or "What were you doing when Nixon resigned?"
 

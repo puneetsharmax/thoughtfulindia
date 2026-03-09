@@ -11,7 +11,7 @@ draft: false
 ### Salmonella outbreak linked to sprouts has sickened nearly 100 people
 
 
-[![](/images/2010/12/alfafaroots.jpg)](/images/2010/12/alfafaroots.jpg)
+[![](/images/2010/12/alfafaroots.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/alfafaroots.jpg)
 
 A salmonella outbreak linked to alfalfa sprouts has sickened some 94 people in 16 states and the District of Columbia, the Centers for Disease Control and Prevention reported Tuesday.
 

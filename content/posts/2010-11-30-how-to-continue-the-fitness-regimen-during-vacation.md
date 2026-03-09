@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia48.jpg"
 draft: false
 ---
 
-# [![](/images/2010/11/thoughtfulindia48.jpg)](/images/2010/11/thoughtfulindia48.jpg)
+# [![](/images/2010/11/thoughtfulindia48.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia48.jpg)
 
 If you have spent many hours in the gym or pounding the roads should all of the hard work come to an abrupt halt for a two week vacation?
 

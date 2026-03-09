@@ -8,7 +8,7 @@ featured_image: "/images/2012/01/Jeff-Bezos.jpg"
 draft: false
 ---
 
-***[![](/images/2012/01/Jeff-Bezos-300x208.jpg)](/images/2012/01/Jeff-Bezos.jpg)"We are What We Choose"***
+***[![](/images/2012/01/Jeff-Bezos-300x208.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/01/Jeff-Bezos.jpg)"We are What We Choose"***
 ***Remarks by Jeff Bezos, as delivered to the Class of 2010***
 ***Baccalaureate***
 ***May 30, 2010***

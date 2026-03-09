@@ -69,6 +69,59 @@ function safeString(raw: unknown): string {
   return decodeHtmlEntities(String(raw))
 }
 
+function generateExcerpt(content: string): string {
+  let text = content
+
+  // 1. Strip markdown images FIRST — before any bracket cleanup destroys the patterns
+  //    Handles: ![alt](url), ![[bracketed alt]](url), [![nested](src)](link)
+  //    Tolerant pattern allows brackets inside alt text
+  text = text.replace(/!\[(?:[^\][]|\[[^\]]*\])*\]\([^)]*\)/g, '')
+  text = text.replace(/!\[(?:[^\][]|\[[^\]]*\])*\]\([^)]*\)/g, '') // 2nd pass for nested
+
+  // 2. Strip WordPress block shortcodes (with content between open/close tags)
+  text = text.replace(/\[caption[^\]]*\][\s\S]*?\[\/caption\]/gi, '')
+  text = text.replace(/\[youtube[^\]]*\][\s\S]*?\[\/youtube\]/gi, '')
+  text = text.replace(/\[video[^\]]*\][\s\S]*?\[\/video\]/gi, '')
+  text = text.replace(/\[audio[^\]]*\][\s\S]*?\[\/audio\]/gi, '')
+  text = text.replace(/\[embed[^\]]*\][\s\S]*?\[\/embed\]/gi, '')
+  // Self-closing / single shortcodes
+  text = text.replace(/\[gallery[^\]]*\]/gi, '')
+  text = text.replace(/\[\/?[a-z_-]+[^\]]*\]/gi, '')  // all remaining [shortcode] tags
+
+  // 3. Strip markdown links: [text](url) → keep text only; [](url) → drop
+  text = text.replace(/\[([^\]]*)\]\([^)]*\)/g, (_, linkText) => {
+    const t = linkText.trim()
+    return t ? t : ''
+  })
+
+  // 4. Strip any bare URLs (http/https) left over
+  text = text.replace(/https?:\/\/\S+/g, '')
+
+  // 5. Strip HTML tags
+  text = text.replace(/<[^>]+>/g, '')
+
+  // 6. Strip markdown formatting
+  text = text.replace(/^#{1,6}\s+/gm, '')        // headers
+  text = text.replace(/\*\*([^*]+)\*\*/g, '$1')  // bold **
+  text = text.replace(/\*([^*]+)\*/g, '$1')       // italic *
+  text = text.replace(/__([^_]+)__/g, '$1')       // bold __
+  text = text.replace(/_([^_]+)_/g, '$1')         // italic _
+  text = text.replace(/`([^`]+)`/g, '$1')         // inline code
+  text = text.replace(/^[\s>*\-+|]+/gm, '')       // blockquotes, bullets, table pipes
+
+  // 7. Collapse whitespace
+  text = text.replace(/\s+/g, ' ').trim()
+
+  // 8. Advance past any leading non-letter junk to find the first real word
+  const match = text.match(/[A-Za-z0-9\u0900-\u097F]/)
+  if (match && match.index && match.index > 0) {
+    text = text.slice(match.index)
+  }
+
+  if (!text || text.length < 10) return ''
+  return text.slice(0, 220).trim() + '...'
+}
+
 export function getAllPosts(): Post[] {
   if (!fs.existsSync(postsDirectory)) return []
   const fileNames = fs.readdirSync(postsDirectory)
@@ -79,11 +132,7 @@ export function getAllPosts(): Post[] {
         const fullPath = path.join(postsDirectory, fileName)
         const fileContents = fs.readFileSync(fullPath, 'utf8')
         const { data, content } = matter(fileContents)
-        const excerpt = content
-          .replace(/!\[.*?\]\(.*?\)/g, '')
-          .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
-          .replace(/[#*_>`]/g, '')
-          .trim().slice(0, 200) + '...'
+        const excerpt = generateExcerpt(content)
         return {
           slug: safeString(data.slug) || fileName.replace(/\.md$/, ''),
           title: safeString(data.title),

@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/wmsick.jpg"
 draft: false
 ---
 
-[![](/images/2011/09/whatmomsdo-300x148.jpg)](/images/2011/09/whatmomsdo.jpg)Working mothers regularly send children to school sick - because they don't feel able to take time off looking after them, it emerged yesterday.
+[![](/images/2011/09/whatmomsdo-300x148.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/whatmomsdo.jpg)Working mothers regularly send children to school sick - because they don't feel able to take time off looking after them, it emerged yesterday.
 
 Researchers found four out of ten employed mums have sent their child to school when he or she wasn't feeling well because they felt unable to take the day off.
 
@@ -50,6 +50,6 @@ Nutritionist Dr Emma Derbyshire said: 'As the winter months approach it is the t
 
 'Children can be especially vulnerable so maintaining a healthy immune system is particularly important.
 
-'For parents who may have children who are fussy eaters, they may want to consider a multivitamin supplement to ensure they are getting all the vitamins and minerals they need to stay fit and well.'[![](/images/2011/09/wmsick.jpg)](/images/2011/09/wmsick.jpg)
+'For parents who may have children who are fussy eaters, they may want to consider a multivitamin supplement to ensure they are getting all the vitamins and minerals they need to stay fit and well.'[![](/images/2011/09/wmsick.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/wmsick.jpg)
 
 [Source://www.dailymail.co.uk/](http://www.dailymail.co.uk/news/article-2034735/Working-mothers-regularly-send-sick-children-school-look-them.html#ixzz1YVgL5o9j)

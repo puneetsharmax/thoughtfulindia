@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia41.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia41.jpg)](/images/2010/11/thoughtfulindia41.jpg)
+[![](/images/2010/11/thoughtfulindia41.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia41.jpg)
 Five years ago, Shop.org published a press release:
 "While traditional retailers will be monitoring store traffic and sales on Black Friday (the day after Thanksgiving), online retailers have set their sights on something different: Cyber Monday, the Monday after Thanksgiving, which is quickly becoming one of the biggest online shopping days of the year."
 Ta-dah! The term "Cyber Monday" was born.

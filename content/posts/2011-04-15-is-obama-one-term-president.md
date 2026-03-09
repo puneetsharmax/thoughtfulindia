@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/obama.jpg"
 draft: false
 ---
 
-#### [![](/images/2011/04/obama-276x300.jpg)](/images/2011/04/obama.jpg)Obama -- brilliant politician, timid leader
+#### [![](/images/2011/04/obama-276x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/obama.jpg)Obama -- brilliant politician, timid leader
 
 In his budget speech yesterday, President Obama showed once again that he is a more masterful politician but less courageous leader than we might have imagined. What that will mean for the country's economic future remains deeply uncertain.
 

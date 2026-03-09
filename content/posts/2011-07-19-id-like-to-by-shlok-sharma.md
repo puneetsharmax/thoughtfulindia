@@ -11,7 +11,7 @@ draft: false
 #### **I'd Like To**
 
 
-#### [caption id="attachment_3287" align="alignleft" width="300" caption="Shlok Sharma is a student of grade 5 in Welch Elementary School in Naperville.He loves to read and write.These days his favorite author is Rick Riordon.He can be reached at shlokzartsharma@gmail.com"][![](/images/2011/07/shloksharma-300x225.jpg)](/images/2011/07/shloksharma.jpg)[/caption]
+#### [caption id="attachment_3287" align="alignleft" width="300" caption="Shlok Sharma is a student of grade 5 in Welch Elementary School in Naperville.He loves to read and write.These days his favorite author is Rick Riordon.He can be reached at shlokzartsharma@gmail.com"][![](/images/2011/07/shloksharma-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/shloksharma.jpg)[/caption]
 
 Teach my dog some Kung Fu, turn all the bullies blue
 

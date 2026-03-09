@@ -8,7 +8,7 @@ featured_image: "/images/2011/11/dubai-jails-tourists-for-kissing.jpeg"
 draft: false
 ---
 
-[![](/images/2011/11/dubai-jails-tourists-for-kissing.jpeg)](/images/2011/11/dubai-jails-tourists-for-kissing.jpeg)At the quayside in the centre of Dubai, mountains of goods are left unguarded for days as they wait to be loaded onto boats bound for Iran.
+[![](/images/2011/11/dubai-jails-tourists-for-kissing.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/dubai-jails-tourists-for-kissing.jpeg)At the quayside in the centre of Dubai, mountains of goods are left unguarded for days as they wait to be loaded onto boats bound for Iran.
 
 The goods - including boxes of Panasonic flat-screen televisions and Whirlpool refrigerators - sit next to the Dubai Creek wharf without anyone present to keep an eye on them.
 

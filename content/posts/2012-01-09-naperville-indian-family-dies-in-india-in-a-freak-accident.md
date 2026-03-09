@@ -8,7 +8,7 @@ featured_image: "/images/2012/01/dt.common.streams.StreamServer.jpeg"
 draft: false
 ---
 
-[![](/images/2012/01/dt.common.streams.StreamServer-200x300.jpg)](/images/2012/01/dt.common.streams.StreamServer.jpeg)A Naperville family of four lost their lives Friday while on vacation in India.
+[![](/images/2012/01/dt.common.streams.StreamServer-200x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/01/dt.common.streams.StreamServer.jpeg)A Naperville family of four lost their lives Friday while on vacation in India.
 
 The family, active members of the Ismaili Muslim community in Naperville, were killed after the vehicle they were traveling in lost control, according to family members.
 

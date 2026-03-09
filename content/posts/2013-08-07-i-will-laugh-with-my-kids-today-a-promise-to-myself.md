@@ -10,7 +10,7 @@ draft: false
 
 ### Have we forgotten how to live in the present?*
 
-Image Source : [momitforward.com](http://momitforward.com/images/2012/03/are-you-listening.jpg)
+Image Source : [momitforward.com](http://momitforward.com/wp-content/uploads/2012/03/are-you-listening.jpg)
 
 School reopens (USA) in a few weeks time –for some next week and for others much later. By September, though all the kids will be in school –I know many moms are looking forward to it –believe it or not many kids are also looking forward to it!
 

@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/thoughtfulindia39.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia39-300x224.jpg)](/images/2010/12/thoughtfulindia39.jpg)
+[![](/images/2010/12/thoughtfulindia39-300x224.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia39.jpg)
 
 **India and its Muslims get a thumbs up from US**
 

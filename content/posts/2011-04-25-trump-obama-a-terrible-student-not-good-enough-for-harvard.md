@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/obamatrump21.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/obamatrump21-300x168.jpg)](/images/2011/04/obamatrump21.jpg)Manhattan real estate mogul Donald Trump suggested in an interview Monday that President Barack Obama had been a poor student who did not deserve to be admitted to the Ivy League universities he attended. Trump, who is mulling a bid for the Republican presidential nomination, offered no proof for his claim but said he would continue to press the matter as he has the legitimacy of the president's birth certificate.
+[![](/images/2011/04/obamatrump21-300x168.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/obamatrump21.jpg)Manhattan real estate mogul Donald Trump suggested in an interview Monday that President Barack Obama had been a poor student who did not deserve to be admitted to the Ivy League universities he attended. Trump, who is mulling a bid for the Republican presidential nomination, offered no proof for his claim but said he would continue to press the matter as he has the legitimacy of the president's birth certificate.
 
 
 "I heard he was a terrible student, terrible. How does a bad student go to Columbia and then to Harvard?" Trump said in an interview with The Associated Press. "I'm thinking about it, I'm certainly looking into it. Let him show his records."

@@ -8,7 +8,7 @@ featured_image: "/images/2011/11/ehsaan.jpg"
 draft: false
 ---
 
-[![](/images/2011/11/ehsaan-146x300.jpg)](/images/2011/11/ehsaan.jpg)
+[![](/images/2011/11/ehsaan-146x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/ehsaan.jpg)
 **Dinner with Ehsaan Noorani **
 
 

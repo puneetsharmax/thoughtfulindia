@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/Kids-Humanism.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/Kids-Humanism-300x231.jpg)](/images/2012/04/Kids-Humanism.jpg)A small change in how teachers and parents read aloud to preschoolers may provide a big boost to their reading skills later on, a new study found.
+[![](/images/2012/04/Kids-Humanism-300x231.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/Kids-Humanism.jpg)A small change in how teachers and parents read aloud to preschoolers may provide a big boost to their reading skills later on, a new study found.
 
 That small change involves making specific references to print in books while reading to children -- such as pointing out letters and words on the pages, showing capital letters, and showing how you read from left to right and top to bottom on the page.
 

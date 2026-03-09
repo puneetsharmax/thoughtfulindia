@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/burma1.jpg"
 draft: false
 ---
 
-[caption id="attachment_3929" align="aligncenter" width="496" caption="Chairman of the Chinese People&#39;s Political Consultative Conference Jia Qinglin arrives at the Shwedagon pagoda during his visit to Rangoon on April 4. Qinglin was on an official visit a few days after Burma&#39;s military made way for a nominally civilian government after almost half a century in power"][![](/images/2011/09/burma1.jpg)](/images/2011/09/burma1.jpg)[/caption]
+[caption id="attachment_3929" align="aligncenter" width="496" caption="Chairman of the Chinese People&#39;s Political Consultative Conference Jia Qinglin arrives at the Shwedagon pagoda during his visit to Rangoon on April 4. Qinglin was on an official visit a few days after Burma&#39;s military made way for a nominally civilian government after almost half a century in power"][![](/images/2011/09/burma1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/burma1.jpg)[/caption]
 
 When geography changes -- as when the Suez Canal joined Europe to the Indian Ocean, or when the railroads transformed the American West and the Russian East -- old patterns of contact disappear and new ones take hold, turning strangers into neighbors and transforming backwaters into zones of new strategic significance. Entire groups decline or vanish; others rise in importance.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2011/06/ipad2.png"
 draft: false
 ---
 
-[![](/images/2011/06/ipad2-300x245.png)](/images/2011/06/ipad2.png)A teenager in Huaishan, Anhui Province has sold one of his kidneys to buy an iPad2 tablet computer, as reported by SZTV on June 1.
+[![](/images/2011/06/ipad2-300x245.png)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/ipad2.png)A teenager in Huaishan, Anhui Province has sold one of his kidneys to buy an iPad2 tablet computer, as reported by SZTV on June 1.
 
 The 17-year-old man surnamed Zheng, a freshman in high school, got connected with a kidney-selling agent through the internet, who pledged to pay him 20,000 yuan ($3,084.45 ) for one of his kidneys.
 

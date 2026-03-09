@@ -8,7 +8,7 @@ featured_image: "/images/2011/06/salad.jpg"
 draft: false
 ---
 
-[![](/images/2011/06/salad-300x200.jpg)](/images/2011/06/salad.jpg)Racing to curb the spread of a killer food bug, Germany set up a national task force on Friday to hunt down the source of a highly toxic strain of E.coli that killed 17 people and sounded alarms around the world.
+[![](/images/2011/06/salad-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/salad.jpg)Racing to curb the spread of a killer food bug, Germany set up a national task force on Friday to hunt down the source of a highly toxic strain of E.coli that killed 17 people and sounded alarms around the world.
 
 Russian Prime Minister Vladimir Putin, engaged in a trade row with the European Union after Moscow banned imports of raw fruit and vegetables from the bloc, heightened the drama, saying he would not "poison" Russians by lifting the embargo.
 

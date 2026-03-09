@@ -10,13 +10,13 @@ draft: false
 
 Mark Zuckerberg claims he's being stalked by a man who's been sending him creepy messages through Facebook and threatening his safety
 
-[![stalker](/images/2011/02/stalker.jpg)](/images/2011/02/stalker.jpg)
+[![stalker](/images/2011/02/stalker.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/02/stalker.jpg)
 Zuckerberg has obtained a restraining order against 31-year-old Pradeep Manukonda -- after Mark filed legal papers claiming the guy has tried to "follow, surveil and contact Mr. Zuckerberg using language threatening his personal safety" ... and the safety of his girlfriend and his sister.
 Law enforcement sources tell us Pradeep had gone to several Facebook offices in Palo Alto attempting to contact Mark to ask for money for his financially-strapped family.
 Zuckerberg has obtained a restraining order against 31-year-old Pradeep Manukonda -- after Mark filed legal papers claiming the guy has tried to "follow, surveil and contact Mr. Zuckerberg using language threatening his personal safety" ... and the safety of his girlfriend and his sister.
 Law enforcement sources tell us Pradeep had gone to several Facebook offices in Palo Alto attempting to contact Mark to ask for money for his financially-strapped family.
 
-[![stalker1](/images/2011/02/stalker1.jpg)](/images/2011/02/stalker1.jpg)
+[![stalker1](/images/2011/02/stalker1.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/02/stalker1.jpg)
 
 According to the legal docs, Facebook security also intercepted Pradeep at Mark's home on January 24 just as he was about to walk up the front steps.
 

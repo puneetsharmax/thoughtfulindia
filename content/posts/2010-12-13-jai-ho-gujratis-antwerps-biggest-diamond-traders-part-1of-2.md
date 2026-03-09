@@ -8,9 +8,9 @@ featured_image: "/images/2010/12/thoughtfulindia28.jpg"
 draft: false
 ---
 
-[caption id="attachment_832" align="alignleft" width="193" caption="Gujrati businessmen in Antwerp"][![](/images/2010/12/ANTWERP.jpg)](/images/2010/12/ANTWERP.jpg)[/caption]
+[caption id="attachment_832" align="alignleft" width="193" caption="Gujrati businessmen in Antwerp"][![](/images/2010/12/ANTWERP.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/ANTWERP.jpg)[/caption]
 
-[![](/images/2010/12/gujrati.jpg)](/images/2010/12/gujrati.jpg)
+[![](/images/2010/12/gujrati.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/gujrati.jpg)
 In what was once a predominantly Jewish neighborhood near Antwerp's central station, young Indians in Armani suits haggle with Hasidic diamond buyers in long black coats, side curls and skullcaps. Hoveniersstraat, a street once celebrated for its kosher restaurants, now offers the best curry in town.
 
 The orthodox European Jews who established the world's most famous diamond district are being supplanted by Indians -- who, among other things, aren't required by their religion to close their businesses from sundown Friday to sundown Saturday.

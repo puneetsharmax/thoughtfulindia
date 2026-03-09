@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/CRbride.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/CRbride-300x210.jpg)](/images/2012/04/CRbride.jpg)Brides-to-be looking to shed that final 10, 15 or 20 pounds in order to fit into their dream wedding gown have taken a controversial approach to crash dieting that involves inserting a feeding tube into their noses for up to 10 days for a quick fix to rapid weight loss.
+[![](/images/2012/04/CRbride-300x210.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/CRbride.jpg)Brides-to-be looking to shed that final 10, 15 or 20 pounds in order to fit into their dream wedding gown have taken a controversial approach to crash dieting that involves inserting a feeding tube into their noses for up to 10 days for a quick fix to rapid weight loss.
 
 The K-E diet, which boasts promises of shedding 20 pounds in 10 days, is an increasingly popular alternative to ordinary calorie-counting programs. The program has dieters inserting a feeding tube into their nose that runs to the stomach. They're fed a constant slow drip of protein and fat, mixed with water, which contains zero carbohydrates and totals 800 calories a day. Body fat is burned off through a process called ketosis, which leaves muscle intact, Dr. Oliver Di Pietro of Bay Harbor Islands, Fla., said.
 

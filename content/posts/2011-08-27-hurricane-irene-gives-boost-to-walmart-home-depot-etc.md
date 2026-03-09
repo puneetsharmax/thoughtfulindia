@@ -8,7 +8,7 @@ featured_image: "/images/2011/08/irene.jpeg"
 draft: false
 ---
 
-[![](/images/2011/08/irene-300x194.jpg)](/images/2011/08/irene.jpeg)Hurricane Irene sent East Coast shoppers into stores to stock up on essentials this week, instead of the clothes, notebooks and other supplies that retailers were counting on selling as children get ready to go back to school.
+[![](/images/2011/08/irene-300x194.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/irene.jpeg)Hurricane Irene sent East Coast shoppers into stores to stock up on essentials this week, instead of the clothes, notebooks and other supplies that retailers were counting on selling as children get ready to go back to school.
 
 Chains such as Home Depot Inc (HD.N) and Wal-Mart Stores Inc (WMT.N) were doing brisk business on Friday, selling water, flashlights, batteries and other goods in states standing in Irene's potential track from the Carolinas to Massachusetts.
 

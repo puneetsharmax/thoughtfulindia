@@ -8,7 +8,7 @@ featured_image: "/images/2010/11/thoughtfulindia5.jpg"
 draft: false
 ---
 
-[![](/images/2010/11/thoughtfulindia5.jpg)](/images/2010/11/thoughtfulindia5.jpg)
+[![](/images/2010/11/thoughtfulindia5.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/11/thoughtfulindia5.jpg)
 
 **If the company invites you to an interview, that means the job is still open.**
 

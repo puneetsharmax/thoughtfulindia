@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/thoughtfulindia10.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia10.jpg)](/images/2010/12/thoughtfulindia10.jpg)
+[![](/images/2010/12/thoughtfulindia10.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia10.jpg)
 
 **New York (CNN)** -- The mansion and four-acre estate featured in Francis Ford Coppola's 1972 film "The Godfather" is up for sale for a whopping $2.9 million.
 

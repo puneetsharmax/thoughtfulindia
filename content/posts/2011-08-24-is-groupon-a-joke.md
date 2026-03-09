@@ -8,7 +8,7 @@ featured_image: "/images/2011/08/groupon-red.png"
 draft: false
 ---
 
-#### [![](/images/2011/08/groupon-red-300x132.png)](/images/2011/08/groupon-red.png)Groupon Stumbles in China, Closes Some Offices
+#### [![](/images/2011/08/groupon-red-300x132.png)](https://www.thoughtfulindia.com/wp-content/uploads/2011/08/groupon-red.png)Groupon Stumbles in China, Closes Some Offices
 
 SHANGHAI - A wave of layoffs at Gaopeng.com, the Chinese arm of US-based Groupon Inc, signals a dramatic turnaround for a company that just months ago aimed to dominate China's online group-buying market.
 

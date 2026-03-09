@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/witherspoon.jpg"
 draft: false
 ---
 
-[![](/images/2011/04/witherspoon-230x300.jpg)](/images/2011/04/witherspoon.jpg)
+[![](/images/2011/04/witherspoon-230x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/witherspoon.jpg)
 
 Here comes the bride, all dressed in . . . pink!
 When Reese Witherspoon walked down the aisle to wed Jim Toth on Saturday, the second-time bride ditched traditional white for her dress.

@@ -8,5 +8,12 @@ featured_image: ""
 draft: false
 ---
 
-![](http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/depression_slideshow/photolibrary_rf_photo_of_thoughtful_young_woman.jpg)
-As a cancer survivor, you probably have good days and bad days when it comes to feeling well, having energy and a good sense of well-being.[read more](http://www.mayoclinic.com/health/cancer-and-depression/MY01567)
+The relationship between cancer and depression is more medically significant than either condition's treatment protocols typically acknowledge. Oncologists focus on tumors; psychiatrists focus on mood. The patient with both, which is to say a substantial percentage of cancer patients, often falls into the gap between specialties.
+
+Research published over the past decade has complicated the long-standing assumption that depression following a cancer diagnosis is simply an appropriate emotional response to difficult news — grief, rather than illness. Studies have found that depression in cancer patients is associated with worse treatment adherence, longer hospital stays, higher rates of post-treatment recurrence, and significantly reduced survival times across multiple cancer types. The mechanism is not fully understood, but researchers believe that the neurobiological changes associated with depression may directly affect immune function and the body's ability to respond to cancer treatment.
+
+This evidence has prompted calls to integrate mental health screening into standard oncology practice, treating depression not as an unfortunate but inevitable companion to cancer but as a complication that requires its own clinical attention. Several major cancer centers have moved in this direction, embedding psychiatrists and psychologists within oncology teams and systematically screening patients for depression at diagnosis and throughout treatment.
+
+The challenge is partly cultural. Many cancer patients resist psychiatric diagnosis, feeling that acknowledging depression is somehow weak, or that it detracts from the physical reality of fighting cancer. Oncologists, trained in an era when the mind-body connection was treated skeptically by mainstream medicine, sometimes share this resistance.
+
+The data is increasingly difficult to dismiss. A patient battling both cancer and untreated depression is fighting two diseases simultaneously. Treating only one is not, by any reasonable measure, comprehensive care.

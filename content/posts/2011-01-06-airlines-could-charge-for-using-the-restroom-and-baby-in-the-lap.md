@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/airline.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/airline.jpg)](/images/2011/01/airline.jpg)
+[![](/images/2011/01/airline.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/airline.jpg)
 It may seem like airlines have thought of every possible way to squeeze more money out of air travelers, charging extra for everything from early boarding to checking bags.
 But hold on to your wallet: There's probably room for more fees. Might you eventually pay for holding your baby on your lap during a flight? Or talking to an airline employee during check in?
 The trend of a la carte pricing -- charging rock bottom prices for base fares, then adding fees for anything extra -- helped domestic airlines deliver the biggest profits in a decade last year.

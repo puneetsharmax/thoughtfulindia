@@ -12,7 +12,7 @@ They don't regard Ravana as a negative figure. On the contrary, some people in f
 
 In some places of Vidisha, Mandsuar, Ratlam and Indore districts, the effigy of Ravana is not burnt but the people welcome the 10-headed demon king.
 
-[![](/images/2011/10/ravan.jpeg)](/images/2011/10/ravan.jpeg)
+[![](/images/2011/10/ravan.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/ravan.jpeg)
 
 Ravana is worshipped in Vidisha district as he is personified as a symbol of prosperity and regarded as a saviour by Kanyakubja Brahmins, a Brahmin sub-sect to which Ravana is believed to belong. A village in Vidisha district is called Ravangram.
 

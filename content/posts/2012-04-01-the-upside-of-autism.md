@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/Young-adolescent-Boy-Autism.jpg"
 draft: false
 ---
 
-[![](/images/2012/04/Young-adolescent-Boy-Autism.jpg)](/images/2012/04/Young-adolescent-Boy-Autism.jpg)When it comes to disorders of the mind, our society has a tendency to seek out the safety of clear-cut categories. We want there to be a bright line separating normal from abnormal, health from sickness.
+[![](/images/2012/04/Young-adolescent-Boy-Autism.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/Young-adolescent-Boy-Autism.jpg)When it comes to disorders of the mind, our society has a tendency to seek out the safety of clear-cut categories. We want there to be a bright line separating normal from abnormal, health from sickness.
 
 Alas, the human brain is a category buster, an organ so complicated that it continues to surprise and confound.
 

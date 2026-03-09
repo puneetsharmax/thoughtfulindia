@@ -8,7 +8,7 @@ featured_image: "/images/2011/04/girlchild.jpeg"
 draft: false
 ---
 
-#### [![](/images/2011/04/girlchild.jpeg)](/images/2011/04/girlchild.jpeg)
+#### [![](/images/2011/04/girlchild.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/girlchild.jpeg)
 
 
 #### Census 2011: Survey in Delhi, Noida reveals male child preferred by 44%

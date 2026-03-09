@@ -53,7 +53,7 @@ The Power of Choice also includes a junior high/middle school communications cam
 
 **Parents of High School Students:**
 
-**[Positive Ways to Cope](http://thepowerofchoice.info/highschool/images/sites/2/2016/11/Newsletter-Dec-2016.pdf)**
+**[Positive Ways to Cope](http://thepowerofchoice.info/highschool/wp-content/uploads/sites/2/2016/11/Newsletter-Dec-2016.pdf)**
 
 Many teens report feeling overwhelmed. Students stress during the school year has been reported at levels higher than those experienced by adults. Check out this month’s Power of Choice newsletter for tips on how to help your teen cope.
 
@@ -61,12 +61,12 @@ Many teens report feeling overwhelmed. Students stress during the school year ha
 
 **Parents of Middle School Students:**
 
-**[We are not alone…and that’s a good thing!](http://thepowerofchoice.info/images/2016/12/December-2016-I-am-not-alone...and-thats-a-good-thing.pdf)**
+**[We are not alone…and that’s a good thing!](http://thepowerofchoice.info/wp-content/uploads/2016/12/December-2016-I-am-not-alone...and-thats-a-good-thing.pdf)**
 
 Studies show that a feeling of connection to family builds resilience. When we have connection to those who care about us, we find strength to face life’s challenges. What can we do to connect with our adolescents even when it seems like they don’t want to connect with us? [This month’s newsletter](http://thepowerofchoice.info/6-8/parents/newsletters/parents-use-your-power-newsletters/) provides some tips!
 
  
 
-**[Our Family Story](http://thepowerofchoice.info/6-8/images/sites/3/2016/11/PowerTalk-4-Our-Family-Story.pdf)**
+**[Our Family Story](http://thepowerofchoice.info/6-8/wp-content/uploads/sites/3/2016/11/PowerTalk-4-Our-Family-Story.pdf)**
 
 Family history helps to create our story and connects us.  Understanding that history helps adolescents as they begin to understand who they are and how they fit into the world.  Use this [PowerTalk](http://thepowerofchoice.info/6-8/parents/powertalk-for-families/) activity to create your family’s story.

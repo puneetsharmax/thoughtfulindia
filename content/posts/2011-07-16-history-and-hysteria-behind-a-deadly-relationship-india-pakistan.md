@@ -8,7 +8,7 @@ featured_image: "/images/2011/07/indiapak.jpg"
 draft: false
 ---
 
-[![](/images/2011/07/indiapak-300x218.jpg)](/images/2011/07/indiapak.jpg)Ten days before he was assassinated in January, my father, Salman Taseer, sent out a tweet about an Indian rocket that had come down over the Bay of Bengal: "Why does India make fools of themselves messing in space technology? Stick 2 bollywood my advice."
+[![](/images/2011/07/indiapak-300x218.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/indiapak.jpg)Ten days before he was assassinated in January, my father, Salman Taseer, sent out a tweet about an Indian rocket that had come down over the Bay of Bengal: "Why does India make fools of themselves messing in space technology? Stick 2 bollywood my advice."
 
 My father was the governor of Punjab, Pakistan's largest province, and his tweet, with its taunt at India's misfortune, would have delighted his many thousands of followers. It fed straight into Pakistan's unhealthy obsession with India, the country from which it was carved in 1947.
 

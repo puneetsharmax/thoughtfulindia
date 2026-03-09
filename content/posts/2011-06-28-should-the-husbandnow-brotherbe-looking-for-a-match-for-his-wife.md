@@ -8,7 +8,7 @@ featured_image: "/images/2011/06/indian-wedding.jpg"
 draft: false
 ---
 
-#### [![](/images/2011/06/indian-wedding-150x150.jpg)](/images/2011/06/indian-wedding.jpg)Boy dumps girl who tied rakhi to husband to reunite with him
+#### [![](/images/2011/06/indian-wedding-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/indian-wedding.jpg)Boy dumps girl who tied rakhi to husband to reunite with him
 
 MEERUT: The ajab prem ki ghazab kahani that rocked this western Uttar Pradesh town last fortnight has taken a sad twist. Remember the young husband who had asked his bride to tie him a rakhi so that she could reunite with her lover! Now it turns out that the girl's lover — actually her first husband, since the two had allegedly earlier got married in a secret ceremony — has dumped her and is avoiding contact with her.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/thoughtfulindia48.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia48.jpg)](/images/2010/12/thoughtfulindia48.jpg)
+[![](/images/2010/12/thoughtfulindia48.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia48.jpg)
 Google said that it has purchased an 18-story building in New York to house its more than 2,000-strong workforce in the city.
 Google did not announce a purchase price for the building at 111 Eighth Avenue in the Chelsea neighborhood but the New York Post put the cost at $1.77 billion.
 The newspaper said the final price, including transfer taxes and assorted other fees, could be 1.9 billion dollars.

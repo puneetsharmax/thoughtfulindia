@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/shloksharma.jpeg"
 draft: false
 ---
 
-[caption id="attachment_6449" align="alignleft" width="150" caption="Shlok Sharma is a student of grade 5 in Welch Elementary School in Naperville.He loves to read and write.These days his favorite author is Rick Riordan and He can be reached at shlokzartsharma@gmail.com"][![](/images/2012/05/shloksharma-150x150.jpg)](/images/2012/05/shloksharma.jpeg)[/caption]
+[caption id="attachment_6449" align="alignleft" width="150" caption="Shlok Sharma is a student of grade 5 in Welch Elementary School in Naperville.He loves to read and write.These days his favorite author is Rick Riordan and He can be reached at shlokzartsharma@gmail.com"][![](/images/2012/05/shloksharma-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/shloksharma.jpeg)[/caption]
 
 Mom, you are an eagle,
 

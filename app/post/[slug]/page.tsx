@@ -97,14 +97,29 @@ export default async function ArticlePage({ params }: Props) {
             <ArticleImage src={post.featured_image} alt={post.title} />
           )}
 
-          <div
-            className="prose prose-stone prose-lg mt-8 max-w-none
-              prose-headings:font-serif prose-headings:font-bold
-              prose-a:text-red-700 prose-a:no-underline hover:prose-a:underline
-              prose-img:rounded-sm
-              prose-blockquote:border-l-red-700 prose-blockquote:italic"
-            dangerouslySetInnerHTML={{ __html: htmlContent }}
-          />
+          {htmlContent.trim() ? (
+            <>
+              <div
+                className="prose prose-stone prose-lg mt-8 max-w-none
+                  prose-headings:font-serif prose-headings:font-bold
+                  prose-a:text-red-700 prose-a:no-underline hover:prose-a:underline
+                  prose-img:rounded-sm
+                  prose-blockquote:border-l-red-700 prose-blockquote:italic"
+                dangerouslySetInnerHTML={{ __html: htmlContent }}
+              />
+              {htmlContent.replace(/<[^>]+>/g, '').trim().length < 150 && (
+                <p className="mt-6 text-stone-400 text-sm italic border-t border-stone-100 pt-4">
+                  This was a brief note or link originally published on Thoughtful India.
+                </p>
+              )}
+            </>
+          ) : (
+            <div className="mt-8 border-l-4 border-stone-200 pl-4 py-2">
+              <p className="text-stone-400 text-sm italic">
+                This article was originally published on Thoughtful India. The full content is no longer available in our archives.
+              </p>
+            </div>
+          )}
 
           {post.tags && post.tags.length > 0 && (
             <div className="mt-8 border-t border-stone-200 pt-6">

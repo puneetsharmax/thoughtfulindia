@@ -11,7 +11,7 @@ draft: false
 # Youth
 
 
-## [![](/images/2011/10/steve-jobs.jpg)](/images/2011/10/steve-jobs.jpg)The Jobs family
+## [![](/images/2011/10/steve-jobs.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/steve-jobs.jpg)The Jobs family
 
 Steve Jobs was born on February 24, 1955, in the city of San Francisco. His biological mother was an unwed graduate student named Joanne Simpson, and his biological father was a political science or mathematics professor, a native Syrian named Abdulfattah John Jandali.
 

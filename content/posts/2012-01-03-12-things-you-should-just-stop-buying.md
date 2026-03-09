@@ -8,7 +8,7 @@ featured_image: "/images/2012/01/shopping_bags.jpg"
 draft: false
 ---
 
-#### [![](/images/2012/01/shopping_bags-300x225.jpg)](/images/2012/01/shopping_bags.jpg)
+#### [![](/images/2012/01/shopping_bags-300x225.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/01/shopping_bags.jpg)
 
 
 

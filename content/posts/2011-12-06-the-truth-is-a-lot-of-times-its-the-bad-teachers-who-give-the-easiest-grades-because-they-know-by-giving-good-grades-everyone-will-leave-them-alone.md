@@ -8,7 +8,7 @@ featured_image: "/images/2011/12/parent-teacher.gif"
 draft: false
 ---
 
-[![](/images/2011/12/parent-teacher.gif)](/images/2011/12/parent-teacher.gif)This summer, I met a principal who was recently named as the administrator of the year in her state. She was loved and adored by all, but she told me she was leaving the profession.
+[![](/images/2011/12/parent-teacher.gif)](https://www.thoughtfulindia.com/wp-content/uploads/2011/12/parent-teacher.gif)This summer, I met a principal who was recently named as the administrator of the year in her state. She was loved and adored by all, but she told me she was leaving the profession.
 
 I screamed, "You can't leave us," and she quite bluntly replied, "Look, if I get an offer to lead a school system of orphans, I will be all over it, but I just can't deal with parents anymore; they are killing us."
 

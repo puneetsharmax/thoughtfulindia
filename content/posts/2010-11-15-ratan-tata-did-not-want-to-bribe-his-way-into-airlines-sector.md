@@ -8,10 +8,12 @@ featured_image: ""
 draft: false
 ---
 
-![](http://www.dnaindia.com/img/710/1467033_410.jpg)
+Ratan Tata's decision to go public with his account of being asked for bribes in exchange for an airline license — and his decision not to pay them — arrived in the middle of the 2G spectrum scandal and gave the corruption debate in India a specific, named, credible face.
 
-Tata Group chairperson Ratan Tata today said he did not enter the airline business as he was not comfortable with the idea of bribing Rs15 crore to a minister, as had been suggested by an industrialist.
+Tata, who had been chairman of the Tata Group since 1991 and was one of the most respected figures in Indian business, told journalists that he had been explicitly asked for money by people in a position to influence the allocation of airline operating licenses. He refused. Air India and Jet Airways, he implied without quite stating directly, had faced no such principled hesitation. He did not receive the license.
 
-He regretted that despite being a pioneer in the airline industry, the group faced enormous problems in setting up a domestic airlines in collaboration with Singapore Airlines.
+The statement's power came from its source. Tata was not a reformist outsider making abstract arguments about corruption in Indian business. He was an insider, a member of the establishment, someone who had navigated Indian business successfully for decades and had chosen this particular moment, on this particular issue, to say publicly what many people knew privately: that certain licenses and contracts in India were available for purchase, that the cost was understood by all parties involved, and that the alternative — competing on merit without paying — sometimes meant losing.
 
-[Read More](http://www.dnaindia.com/india/report_didn-t-want-to-bribe-my-way-into-airline-business-ratan-tata_1467032)
+The political response was largely evasive. The companies implicated denied the allegations. The government expressed concern and promised investigations. The investigations produced little of consequence.
+
+What Tata's statement accomplished was to put a number and a name on something that had been discussed in generalities — to make the conversation about corruption less abstract and therefore harder to dismiss. His credibility meant that the dismissal had to work harder than usual. Whether it ultimately changed anything is a different question.

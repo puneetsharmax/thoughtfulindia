@@ -8,7 +8,7 @@ featured_image: "/images/2012/02/20120228_083728_casino_500.jpg"
 draft: false
 ---
 
-[![](/images/2012/02/20120228_083728_casino_500-300x210.jpg)](/images/2012/02/20120228_083728_casino_500.jpg)Debit cards issued to provide assistance to welfare recipients were used to withdraw cash at ATMs in strip clubs, casinos, bingo halls and amusement parks, a 9News investigation found.
+[![](/images/2012/02/20120228_083728_casino_500-300x210.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/20120228_083728_casino_500.jpg)Debit cards issued to provide assistance to welfare recipients were used to withdraw cash at ATMs in strip clubs, casinos, bingo halls and amusement parks, a 9News investigation found.
 
 As a result, more than $1 million in welfare funds goes to ATM owners and banks through transaction fees every year.
 

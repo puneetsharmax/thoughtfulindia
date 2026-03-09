@@ -8,7 +8,7 @@ featured_image: "/images/2012/06/shirin-farhad.jpg"
 draft: false
 ---
 
-[![](/images/2012/06/shirin-farhad-300x214.jpg)](/images/2012/06/shirin-farhad.jpg)"It is such a pleasure to be here today. My association with Sanjayji (Sanjay Leela Bhansali) goes back to 'Devdas'. I have interacted with Belaji too. It is such an unusual story. When you think of Shirin and Farhad, you think of a classic love story. But here they are two very cute characters and I think it will do really well. I wish it all the best," Madhuri, who unveiled the first look of the film, said.
+[![](/images/2012/06/shirin-farhad-300x214.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/shirin-farhad.jpg)"It is such a pleasure to be here today. My association with Sanjayji (Sanjay Leela Bhansali) goes back to 'Devdas'. I have interacted with Belaji too. It is such an unusual story. When you think of Shirin and Farhad, you think of a classic love story. But here they are two very cute characters and I think it will do really well. I wish it all the best," Madhuri, who unveiled the first look of the film, said.
 
 Co-produced by Bhansali and a production company, the film will see Farah Khan and Boman Irani as the lead pair.
 

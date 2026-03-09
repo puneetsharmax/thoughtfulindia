@@ -8,7 +8,7 @@ featured_image: "/images/2011/01/kabaddi.jpg"
 draft: false
 ---
 
-[![](/images/2011/01/kabaddi.jpg)](/images/2011/01/kabaddi.jpg)
+[![](/images/2011/01/kabaddi.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/kabaddi.jpg)
 An Indian school teacher has brought his country's culture into the classrooms of American students by introducing kabaddi.
 Ajay Kumar Nair, who teaches English language and literature, has come to Johnsburg , a town with a population of 2,450 in the mountains of the Adirondacks, on a six-month-long Fullbright Teacher Exchange grant programme.
 In his class, the students, a mix of sophomores, juniors and seniors at Johnsburg Central School, remove their shoes, watch their instructor and try to grab the rules of kabaddi, a popular team sport in India.

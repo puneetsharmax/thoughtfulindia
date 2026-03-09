@@ -8,7 +8,7 @@ featured_image: "/images/2011/11/sandusky.jpg"
 draft: false
 ---
 
-[![](/images/2011/11/sandusky-300x202.jpg)](/images/2011/11/sandusky.jpg)An explosive sex abuse scandal and allegations of a cover-up rocked Happy Valley after former[Penn State](http://msn.foxsports.com/collegefootball/team/penn-state-nittany-lions-football/86064) defensive coordinator Jerry Sandusky, once considered Joe Paterno's heir apparent, was charged with sexually assaulting eight boys over 15 years. Among the allegations was that a graduate assistant saw Sandusky assault a boy in the shower at the team's practice center in 2002.
+[![](/images/2011/11/sandusky-300x202.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/sandusky.jpg)An explosive sex abuse scandal and allegations of a cover-up rocked Happy Valley after former[Penn State](http://msn.foxsports.com/collegefootball/team/penn-state-nittany-lions-football/86064) defensive coordinator Jerry Sandusky, once considered Joe Paterno's heir apparent, was charged with sexually assaulting eight boys over 15 years. Among the allegations was that a graduate assistant saw Sandusky assault a boy in the shower at the team's practice center in 2002.
 
 
 

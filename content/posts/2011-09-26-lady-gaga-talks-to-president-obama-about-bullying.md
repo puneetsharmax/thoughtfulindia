@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/OBAMA_GAGAX390.jpg"
 draft: false
 ---
 
-[![](/images/2011/09/OBAMA_GAGAX390-300x219.jpg)](/images/2011/09/OBAMA_GAGAX390.jpg)Lady Gaga attended a fundraiser with the president on Sunday night, according to a White House pool report, and she raised the issue of suicide and bullying of gay teens.
+[![](/images/2011/09/OBAMA_GAGAX390-300x219.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/OBAMA_GAGAX390.jpg)Lady Gaga attended a fundraiser with the president on Sunday night, according to a White House pool report, and she raised the issue of suicide and bullying of gay teens.
 
 The report describes her as wearing enormous heels that had her towering over President Obama as she made her way through a photo line with her manager, having a polite exchange with the leader of the free world. Gaga reportedly wore a lacy black dress, with her hair gathered atop her head with a black veil.
 

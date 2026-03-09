@@ -8,7 +8,7 @@ featured_image: "/images/2011/06/cosleeping.jpg"
 draft: false
 ---
 
-[![](/images/2011/06/cosleeping.jpg)](/images/2011/06/cosleeping.jpg)One of Britain’s leading experts on children’s mental health has advised parents to reject years of convention and allow children to sleep next to them until the age of five.
+[![](/images/2011/06/cosleeping.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/cosleeping.jpg)One of Britain’s leading experts on children’s mental health has advised parents to reject years of convention and allow children to sleep next to them until the age of five.
 
 Margot Sunderland, director of education at the [Centre for Child Mental Health](http://www.childmentalhealthcentre.org/) in London, says the practice, known as cosleeping, makes children more likely to grow up as calm, healthy adults. Sunderland, scientist and author of 20 books, outlines her advice in [The Science of Parenting.](http://astore.amazon.com/peacefparent-20/detail/075663993X)
 

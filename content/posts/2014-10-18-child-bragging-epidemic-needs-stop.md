@@ -14,7 +14,7 @@ Yes, parents are proud of their kids and their achievements, nothing wrong in th
 
 Achievements of kids should be shared but with the right audience. The right audience is grandparents, spouse and perhaps a friend or two (if you are lucky) who will genuinely be happy about your child’s achievements. Others, the so called friends on Facebook will just feel bad, super competitive about their own children but, yes will definitely “Like “ your status because everyone around is trying to be the pleasant person who “Likes” people’s status.
 
-![](http://cdn2.mommyish.com/images/2011/11/our-kids-are-smart1.jpg)
+![](http://cdn2.mommyish.com/wp-content/uploads/2011/11/our-kids-are-smart1.jpg)
 
 Every single person would agree that a person who brags about himself is a totally obnoxious person; a bragging parent is no different. Plus, give your children a break; they are still young and impressionable. As a parent you are quietly teaching him/her that anything they do is only good when others appreciate it.
 

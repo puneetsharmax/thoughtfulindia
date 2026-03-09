@@ -8,7 +8,7 @@ featured_image: "/images/2011/10/tokyo.jpg"
 draft: false
 ---
 
-[caption id="attachment_4173" align="aligncenter" width="400" caption="Man in Tokyo"][![](/images/2011/10/tokyo.jpg)](/images/2011/10/tokyo.jpg)[/caption]
+[caption id="attachment_4173" align="aligncenter" width="400" caption="Man in Tokyo"][![](/images/2011/10/tokyo.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/10/tokyo.jpg)[/caption]
 
 **LONDON -** Protesters inspired by the growing 'Occupy Wall Street' movement in the U.S have today taken over the City of London.
 

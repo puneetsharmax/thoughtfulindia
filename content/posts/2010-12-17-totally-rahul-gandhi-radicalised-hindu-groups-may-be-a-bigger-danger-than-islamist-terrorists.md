@@ -8,7 +8,7 @@ featured_image: "/images/2010/12/thoughtfulindia40.jpg"
 draft: false
 ---
 
-[![](/images/2010/12/thoughtfulindia40.jpg)](/images/2010/12/thoughtfulindia40.jpg)
+[![](/images/2010/12/thoughtfulindia40.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia40.jpg)
 A WikiLeaks cable quoting Rahul Gandhi as saying that 'radicalised Hindu groups' may be a bigger danger than Islamist terrorists fetched a quick clarification from the Congress general secretary Friday that both 'terrorism and communalism of all kinds' posed major threats to India. The BJP and RSS were scathing in their criticism of his reported comment.
 According to leaks of diplomatic cables released by WikiLeaks, Gandhi, son of Congress president Sonia Gandhi and a Lok Sabha member, made his remarks last year to US Ambassador Timothy Roemer.
 He reportedly told Roemer that though 'there was evidence of some support for LeT (Islamic terrorist group) Lashkar-e-Taiban among certain elements in India's indigenous Muslim community, the bigger threat may be the growth of radicalised Hindu groups'.

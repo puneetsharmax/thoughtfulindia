@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/cccpp4.jpg"
 draft: false
 ---
 
-[![](/images/2011/05/cccpp4-300x246.jpg)](/images/2011/05/cccpp4.jpg)The United Arab Emirates has begun issuing "stapled visas" to Pakistan administered Kashmir (PaK) residents, including its "Prime Minister" Sardar Attique Ahmed, a media report said on Thursday.
+[![](/images/2011/05/cccpp4-300x246.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/cccpp4.jpg)The United Arab Emirates has begun issuing "stapled visas" to Pakistan administered Kashmir (PaK) residents, including its "Prime Minister" Sardar Attique Ahmed, a media report said on Thursday.
 
 The practice of issuing "stapled visas" is new and previously visas were stamped as usual on the passports, the Pakistan Observer newspaper reported on Thursday.
 

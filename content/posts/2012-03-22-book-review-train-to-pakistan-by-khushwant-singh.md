@@ -8,7 +8,7 @@ featured_image: "/images/2012/03/shubhli2.jpeg"
 draft: false
 ---
 
-[caption id="attachment_5809" align="alignleft" width="150"][![](/images/2012/03/shubhli2-150x150.jpg)](/images/2012/03/shubhli2.jpeg) Shubhli is an avid reader and loves to recommend books to friends and family.Besides her love for books she also enjoys music and cooking.She believes in living life to the fullest and standing up for what she knows is right.A homemaker based in Delhi , Reiki channel whose life begins and ends on the note '' divine will be done[/caption]
+[caption id="attachment_5809" align="alignleft" width="150"][![](/images/2012/03/shubhli2-150x150.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/shubhli2.jpeg) Shubhli is an avid reader and loves to recommend books to friends and family.Besides her love for books she also enjoys music and cooking.She believes in living life to the fullest and standing up for what she knows is right.A homemaker based in Delhi , Reiki channel whose life begins and ends on the note '' divine will be done[/caption]
 
 TRAIN TO PAKISTAN
 

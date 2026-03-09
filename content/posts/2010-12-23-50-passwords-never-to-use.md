@@ -25,7 +25,7 @@ Twitter, LinkedIn, World of Warcraft and Yahoo are amongst the popular websites 
 The issue is that many people (33% in our research) use the same password on every single website. That means that if your password gets stolen in one place (like Gawker's Gizmodo or Lifehacker websites), it can be used to unlock access to other sites too.
 Unfortunately, an analysis of the passwords stolen in the Gawker incident show that many people are choosing very poor passwords, that are easy for intruders to guess:
 
-[![](/images/2010/12/thoughtfulindia50-175x300.jpg)](/images/2010/12/thoughtfulindia50.jpg)
+[![](/images/2010/12/thoughtfulindia50-175x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2010/12/thoughtfulindia50.jpg)
 
 Disturbing isn't it? Too many of us are choosing risible passwords - and trust me, the hackers know about the most commonly chosen passwords and are quick to try them out when trying to break into your accounts. Malware like the infamous Conficker worm have even had lists of commonly-used passwords built into them - and have used them to try to spread further.
 So, clearly people need to get out of the habit of using the same password everywhere, and they also need to ensure that their passwords are not easy to guess or crack.

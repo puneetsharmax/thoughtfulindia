@@ -8,7 +8,7 @@ featured_image: "/images/2012/04/girls-school.jpg"
 draft: false
 ---
 
-[caption id="attachment_6209" align="alignleft" width="300" caption="Source : http://blog.amnestyusa.org/"][![](/images/2012/04/girls-school-300x199.jpg)](/images/2012/04/girls-school.jpg)[/caption]
+[caption id="attachment_6209" align="alignleft" width="300" caption="Source : http://blog.amnestyusa.org/"][![](/images/2012/04/girls-school-300x199.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/04/girls-school.jpg)[/caption]
 
 About 150 Afghan schoolgirls were poisoned on Tuesday after drinking contaminated water at a high school in the country's north, officials said, blaming it on conservative radicals opposed to female education.
 

@@ -8,7 +8,7 @@ featured_image: "/images/2012/06/article-2154868-13767133000005DC-863_233x340.jp
 draft: false
 ---
 
-[![](/images/2012/06/article-2154868-13767133000005DC-863_233x340-205x300.jpg)](/images/2012/06/article-2154868-13767133000005DC-863_233x340.jpg)[![](/images/2012/06/article-2154868-13767133000005DC-863_233x3401-300x216.jpg)](/images/2012/06/article-2154868-13767133000005DC-863_233x3401.jpg)Barnes & Noble has apologised to a 73-year-old man who was kicked out of one of its stores for browsing the children's section on his own.
+[![](/images/2012/06/article-2154868-13767133000005DC-863_233x340-205x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/article-2154868-13767133000005DC-863_233x340.jpg)[![](/images/2012/06/article-2154868-13767133000005DC-863_233x3401-300x216.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/article-2154868-13767133000005DC-863_233x3401.jpg)Barnes & Noble has apologised to a 73-year-old man who was kicked out of one of its stores for browsing the children's section on his own.
 
 Dr. Omar Amin, from Scottsdale, Arizona, said he was asked to leave after a female shopper told a worker she felt uneasy about his presence.
 

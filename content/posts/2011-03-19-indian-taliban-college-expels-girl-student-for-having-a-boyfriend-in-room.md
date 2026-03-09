@@ -10,7 +10,7 @@ draft: false
 
 A BTech final year girl student at MMM Engineering College, Gorakhpur, was rusticated by the college administration on Tuesday for keeping her boyfriend in her hostel room during night. The boy is a student of IIT-Delhi.
 
-[![](/images/2011/03/mmm.jpg)](/images/2011/03/mmm.jpg)The college has also asked IIT-Delhi to initiate action against the boy.
+[![](/images/2011/03/mmm.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/mmm.jpg)The college has also asked IIT-Delhi to initiate action against the boy.
 
 According to reports, the girl was residing at Saraswati Mahila Hostel of the MMM Engineering College along with her roommate.
 On March 7 when her roommate was not present in the hostel, the girl brought her boyfriend during the night in girl's dress. Next morning, the boy left the room in the same dress.

@@ -8,18 +8,14 @@ featured_image: "/images/2012/09/apple-maps.jpg"
 draft: false
 ---
 
-Tim Cook finally [responded ](http://www.apple.com/letter-from-tim-cook-on-maps/)to the problem with Apple Maps.
+Tim Cook's open letter apologizing for Apple Maps — published in September 2012 following the disastrous launch of iOS 6, which replaced Google Maps with Apple's own mapping application — became a minor classic of the corporate apology genre. It was genuine, specific, and included the unusual step of directing users to competitors' products while Apple's own offering improved.
 
-Apple introduced its Maps as "Take a turn for the better"
+The Maps fiasco was real. Users who updated to iOS 6 found an application that misplaced cities, created phantom roads, generated aerial imagery that showed melting bridges and strange topographical distortions, and in some cases provided directions that could have been dangerous. The problem was global but particularly acute in countries that had received less thorough mapping coverage in Apple's data.
 
-![](/images/2012/09/maps0.png)
+Cook's letter acknowledged the problem directly: "We launched Maps initially with the first version of iOS. Maps is a major feature and we have put a great deal of resources toward making it better." He directed users, with notable openness for a company that typically avoided acknowledging competitors, to Google Maps, Bing Maps, and Waze while Apple's application improved.
 
-![](/images/2012/09/maps1.png)
+The letter's combination of genuine accountability and practical alternatives was, by the standards of corporate crisis communications, unusually effective. It did not minimize the problem, did not deflect blame, and gave users a concrete path forward rather than simply asking for patience.
 
-![](/images/2012/09/apple-maps.jpg)
+The context of the "boasting" reference — that Cook had separately been discussing Apple's growth to 100 million iOS users — created an ironic juxtaposition. The company simultaneously at peak scale and publicly embarrassed by one of its flagship features.
 
- 
-
-After days of being the butt of jokes for serving a less than good product, Apple initially tried to brush away the concerns.
-
-[WSJ](http://professional.wsj.com/article/SB20000872396390443890304578008712527187512.html?mod=WSJPRO_hpp_LEFTTopStories)
+Apple Maps improved significantly over subsequent years through extensive data investment and acquisition.

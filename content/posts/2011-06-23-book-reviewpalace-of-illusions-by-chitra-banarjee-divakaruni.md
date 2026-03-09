@@ -10,7 +10,7 @@ draft: false
 
 #  
 
-[caption id="attachment_3146" align="alignleft" width="184"][![](/images/2011/06/shubhli1-263x300.jpg)](/images/2011/06/shubhli1.jpg) Shubhli is an avid reader and loves to recommend books to friends and family.Besides her love for books she also enjoys music and cooking.She believes in living life to the fullest and standing up for what she knows is right.A homemaker based in delhi , Reiki channel whose life begins and ends on the note '' divine will be done ''[/caption]
+[caption id="attachment_3146" align="alignleft" width="184"][![](/images/2011/06/shubhli1-263x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/06/shubhli1.jpg) Shubhli is an avid reader and loves to recommend books to friends and family.Besides her love for books she also enjoys music and cooking.She believes in living life to the fullest and standing up for what she knows is right.A homemaker based in delhi , Reiki channel whose life begins and ends on the note '' divine will be done ''[/caption]
 
 Just like the lotus flower which blooms and opens up its outer petals to reveal the inner whorl , this book also unfolds layers of the saga called Mahabharata in a form which acts as both a guide and an interpreter of life .The fact that the book is from a female perspective is what is most intriguing. For the first time the Mahabharata is not only about the war and the heroism of the pandavas but about what Draupadi (panchali) felt. The female voice adds to the narrative and makes for an interesting read . The title has been taken from the fantasy palace which the pandavas had build for themselves in Indraprastha .
 

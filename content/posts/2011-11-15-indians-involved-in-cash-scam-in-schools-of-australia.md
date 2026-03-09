@@ -8,7 +8,7 @@ featured_image: "/images/2011/11/fraud073a.gif"
 draft: false
 ---
 
-[caption id="attachment_4388" align="alignleft" width="300" caption="http://rickyahuja.com/2010/03/"][![](/images/2011/11/fraud073a-300x297.gif)](/images/2011/11/fraud073a.gif)[/caption]
+[caption id="attachment_4388" align="alignleft" width="300" caption="http://rickyahuja.com/2010/03/"][![](/images/2011/11/fraud073a-300x297.gif)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/fraud073a.gif)[/caption]
 
 NSW Police and the Fair Trading Department continue to seek the operators of a company organising school formals who have gone to ground owing a six-figure sum, most of it to school leavers.
 

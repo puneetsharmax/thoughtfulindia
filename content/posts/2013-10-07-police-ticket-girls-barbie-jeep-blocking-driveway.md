@@ -8,16 +8,14 @@ featured_image: "/images/2013/10/25230031.sf_.jpg"
 draft: false
 ---
 
-![25230031.sf](/images/2013/10/25230031.sf_.jpg)
+A lighthearted story from a suburban neighborhood captured national attention when a young girl's toy Barbie Jeep received an official-looking parking violation for blocking a neighbor's driveway — apparently not all play vehicles are exempt from neighborhood parking ordinances.
 
-Be sure to check that your children’s toy cars are not blocking any driveway –you could get a police-ticket.
+The note, attached to the miniature pink vehicle's windshield in the style of a genuine parking ticket, accused the diminutive driver of violating local driveway obstruction rules and warned of potential towing at the vehicle owner's expense. The citation even listed a fine amount, though whether it was actually official or a neighbor's idea of a joke was left deliberately ambiguous.
 
-In a town in Utah, two little girls reportedly left their Barbie Jeep on the street after driving around the neighborhood. Next morning the father found “abandoned vehicle tag” on the jeep. There was no fine imposed, much to the relief of the parents.
+Photos of the citation spread rapidly on social media, generating hundreds of thousands of likes and a torrent of responses from parents amused by the absurdity of traffic enforcement being applied to a child's toy, as well as a smaller number of responses from people who wondered whether the underlying message — that the driveway was genuinely being blocked — was not entirely unreasonable.
 
-“We would hope that people would appreciate the fact that we’re there in their neighborhood and we’re looking out for them and their property,” police told [KUTV.](http://kutv.com/news/top-stories/stories/vid_7244.shtml)
+The story became a minor Rorschach test for neighborhood culture. Some saw it as charming evidence of a community playful enough to address minor irritants with humor rather than confrontation. Others read it as passive-aggressive, a sign that community bonds had frayed enough that a neighbor would rather issue a fake ticket to a child than simply knock on the door and ask politely.
 
- 
+The family took the whole thing in good humor, with the parents acknowledging that yes, their daughter did sometimes leave her Jeep in inconvenient places, and promising to talk to her about parking more thoughtfully — regardless of whether her vehicle had an engine or not.
 
- 
-
-The little girls have learnt their lesson and have promised to park their car in the garage from now on!
+In an era of neighborhood disputes that too often escalate into social media shaming or worse, a fake parking ticket for a Barbie Jeep stands as a refreshingly benign resolution.

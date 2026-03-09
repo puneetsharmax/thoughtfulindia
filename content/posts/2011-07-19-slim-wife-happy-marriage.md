@@ -8,7 +8,7 @@ featured_image: "/images/2011/07/fathusband.jpg"
 draft: false
 ---
 
-##### [![](/images/2011/07/fathusband-300x199.jpg)](/images/2011/07/fathusband.jpg)Happiness is based on wife being slimmer than husband, according to study
+##### [![](/images/2011/07/fathusband-300x199.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/07/fathusband.jpg)Happiness is based on wife being slimmer than husband, according to study
 
 
 

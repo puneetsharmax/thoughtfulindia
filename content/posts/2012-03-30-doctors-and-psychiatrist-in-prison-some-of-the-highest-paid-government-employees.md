@@ -8,6 +8,12 @@ featured_image: "/images/2012/03/prison.jpg"
 draft: false
 ---
 
-[caption id="attachment_5946" align="alignleft" width="300" caption="Prison Psychiatrist Earnings: $737,057 Where:Stockton, California Even in prison, shrinks rake it in. Of the $737,057 that Fong Lai received in 2010, $594,976 was for more than 2 1/2 years worth of unused sick time when he left the job in 2010. Still, in the last full year he worked, his base salary was $224,306 in addition to overtime pay of $72,308."][![](/images/2012/03/prison-300x201.jpg)](/images/2012/03/prison.jpg)[/caption]
+An analysis of government employee compensation data revealed that physicians and psychiatrists working in California's prison system were among the highest-paid public employees in the state — a finding that generated significant public attention and raised legitimate questions about the cost structures of correctional healthcare.
 
-When it comes to government employees, there
+The numbers were striking. Prison physicians and psychiatrists in California earned compensation packages that placed them not just at the top of state employee pay scales but well above what comparable specialists earned in many other settings. Some earned more than $400,000 annually in total compensation.
+
+The context is essential for understanding the numbers. California's prison healthcare system had been placed under federal oversight following a lawsuit that found unconstitutional deficiencies in medical care for prisoners. The federal receiver appointed to fix the system had significant authority and resources, and used them — including the authority to set compensation at levels sufficient to attract and retain qualified medical staff in an institutional setting that many physicians prefer to avoid.
+
+Prison medicine is genuinely difficult. Patients have complex medical histories, high rates of mental illness and substance use disorder, limited health literacy, and often profound distrust of medical systems. The institutional environment constrains clinical practice. Safety concerns are real. Many physicians simply won't work in these conditions at ordinary compensation levels.
+
+The public reaction was predictably focused on the headline numbers, less on the underlying story of what it takes to provide constitutionally adequate healthcare in the nation's largest prison system. Both reactions are understandable. Neither alone tells the full story.

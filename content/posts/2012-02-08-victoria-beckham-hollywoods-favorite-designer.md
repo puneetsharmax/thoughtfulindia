@@ -8,9 +8,9 @@ featured_image: "/images/2012/02/article-2098065-11753400000005DC-41_196x6843.jp
 draft: false
 ---
 
-[![](/images/2012/02/article-2098065-11753400000005DC-41_196x6842-85x300.jpg)](/images/2012/02/article-2098065-11753400000005DC-41_196x6842.jpg)
+[![](/images/2012/02/article-2098065-11753400000005DC-41_196x6842-85x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/article-2098065-11753400000005DC-41_196x6842.jpg)
 
-[![](/images/2012/02/article-2098065-11753400000005DC-41_196x684-85x300.jpg)](/images/2012/02/article-2098065-11753400000005DC-41_196x684.jpg)[![](/images/2012/02/article-2098065-11753400000005DC-41_196x6841-85x300.jpg)](/images/2012/02/article-2098065-11753400000005DC-41_196x6841.jpg)**Victoria Beckham 'working round the clock' as Cameron Diaz, Gwyneth Paltrow and Charlize Theron request Oscars gowns**
+[![](/images/2012/02/article-2098065-11753400000005DC-41_196x684-85x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/article-2098065-11753400000005DC-41_196x684.jpg)[![](/images/2012/02/article-2098065-11753400000005DC-41_196x6841-85x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/article-2098065-11753400000005DC-41_196x6841.jpg)**Victoria Beckham 'working round the clock' as Cameron Diaz, Gwyneth Paltrow and Charlize Theron request Oscars gowns**
 
 For a fashion designer to be handpicked by the world's top stars to be worn at one of the most important events of the year is an unmistakeable mark of success.
 

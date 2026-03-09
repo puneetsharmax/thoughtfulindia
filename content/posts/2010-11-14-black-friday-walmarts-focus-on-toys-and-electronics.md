@@ -8,10 +8,10 @@ featured_image: ""
 draft: false
 ---
 
-![](http://www.zhuzhupets.com/images/stories/2010hamsters.jpg)
+Walmart's Black Friday strategy has evolved from a simple discount event into a precisely engineered exercise in consumer psychology, and the company's annual decision about which product categories to emphasize in its loss-leader promotions functions as an unusually legible window into how the world's largest retailer thinks about shopper behavior.
 
-Wal-Mart's highly awaited Black Friday ad promises hot deals on high-definition TVs, Blu-ray players, laptops and holiday gift favorites such as toys and DVDs, according to a copy of the retailer's circular obtained by CNNMoney.com on Saturday.
+The focus on toys and electronics is not accidental. Both categories share structural characteristics that make them ideal for Black Friday loss-leading. Electronics purchases are highly visible to shoppers — the headline price of a television or laptop is easy to compare across retailers, and a dramatic discount creates the impression of exceptional value even when the specific model being discounted is not the model the shopper would ordinarily have chosen. Toys, meanwhile, combine high emotional stakes with limited product knowledge: a parent buying a toy for a child often cannot evaluate whether the discounted version is actually a good product, and tends to rely on brand recognition and price as proxies for quality.
 
-The world's largest retailer promised last month that it would do whatever was necessary to be the most competitive on prices during the year-end holiday shopping season.
+The deeper strategy behind the loss-leaders is foot traffic. Walmart's internal data has consistently shown that shoppers who enter a store for a discounted television leave with a cart full of higher-margin items. The advertised discount on the featured product is effectively a marketing expense, paid to capture a shopping occasion that generates profit through the rest of the basket.
 
-[Read More](http://money.cnn.com/2010/11/13/news/companies/walmart_black_friday_ad_2010/?iref=NS1)
+The shift to online Black Friday deals has complicated this calculation. Without the physical foot traffic, the impulse-purchase effect that makes loss-leading profitable is harder to engineer. Retailers have responded by stretching the event across days and weeks, by using scarcity mechanics to create urgency, and by designing website experiences that replicate — imperfectly but effectively — the serendipitous discovery of in-store browsing.

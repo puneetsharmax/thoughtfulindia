@@ -8,12 +8,14 @@ featured_image: "/images/2014/09/IIT-Bombay-campus-17.jpg"
 draft: false
 ---
 
-![Spite House Seattle](/images/2014/09/IIT-Bombay-campus-17-300x200.jpg)MentalFloss.com listed nine houses that were built just for spite. Once in a while all of us have taken our anger to the undeserving new levels, but building houses just for spite-well that’s raising the bar. Most houses were built by the spiteful owners to either block the sunlight or beautiful view of their foes abode.
+Some of history's most peculiar structures were built not for shelter, beauty, or profit, but for revenge. Spite houses — homes constructed specifically to annoy, inconvenience, or harm a neighbor — represent one of architecture's most entertainingly petty subgenres, and they have been appearing in cities and towns around the world for centuries.
 
- 
+The spite house tradition often emerges from property disputes, inheritance conflicts, or sheer neighbor-to-neighbor animosity that hardens into something permanent and brick-built. When legal recourse fails or simply isn't satisfying enough, some people pour their grievances into concrete.
 
-Most people buy houses because they love the property, or their beloved has fallen for the property, emperors like Shah Jahan built a house (Taj Mahal), which became one of the wonders of the world.
+Among the most famous examples is the Skinny House in Boston's North End — a four-story structure barely nine feet wide at its narrowest point, reportedly built by a man who returned from military service to find that his brother had taken most of the family land and left only a thin strip. Rather than let his brother profit by blocking access, he built a house specifically designed to deprive the brother of light and air.
 
- 
+In Marblehead, Massachusetts, stands another narrow wonder — a structure so thin that a person can stand in the center and touch both walls simultaneously. Local legend holds it was built by a man whose neighbor refused to sell him a strip of land, so he built a structure on it that blocked the neighbor's view and light.
 
-Yes, not all houses are built for love – take a look at the nine houses built to assuage anger on [mentalfloss.com.](http://mentalfloss.com/article/49039/9-houses-built-just-spite)
+The Plum Island Spite Tower in New York was allegedly erected to block a neighbor's water view after a land dispute went unresolved. In Washington, D.C., a house was reportedly built to sit at such an angle that it permanently blocked a neighbor's carriageway.
+
+Spite houses continue to be built today, though modern zoning laws and neighbor dispute resolution mechanisms have made them rarer. They endure as monuments to the extraordinary lengths to which people will go to make a point — and as proof that sometimes the most enduring structures are the ones built from pure, unadulterated stubbornness.

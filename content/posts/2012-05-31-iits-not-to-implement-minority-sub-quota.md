@@ -8,7 +8,7 @@ featured_image: "/images/2012/05/Pushpak-The-Great-Indian-Reservation-System_thu
 draft: false
 ---
 
-[caption id="attachment_6790" align="alignleft" width="300" caption="Image Source :Pushpak - The Great Indian Reservation System"][![](/images/2012/05/Pushpak-The-Great-Indian-Reservation-System_thumb1-300x225.png)](/images/2012/05/Pushpak-The-Great-Indian-Reservation-System_thumb1.png)[/caption]In the wake of the Andhra Pradesh High Court order striking down the 4.5 per cent sub-quota to minorities within OBC reservation, IITs have decided to abide by the ruling, "ignoring" the quota provision till further legal developments.
+[caption id="attachment_6790" align="alignleft" width="300" caption="Image Source :Pushpak - The Great Indian Reservation System"][![](/images/2012/05/Pushpak-The-Great-Indian-Reservation-System_thumb1-300x225.png)](https://www.thoughtfulindia.com/wp-content/uploads/2012/05/Pushpak-The-Great-Indian-Reservation-System_thumb1.png)[/caption]In the wake of the Andhra Pradesh High Court order striking down the 4.5 per cent sub-quota to minorities within OBC reservation, IITs have decided to abide by the ruling, "ignoring" the quota provision till further legal developments.
 
 With this, candidates who benefited under the sub-quota and shortlisted for counselling have been advised to register the choice of courses accordingly under the ongoing counselling process, IIT-JEE 2012 organising chairman G B Reddy said.
 

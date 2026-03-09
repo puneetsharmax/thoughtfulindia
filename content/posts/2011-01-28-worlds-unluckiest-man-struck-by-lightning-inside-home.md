@@ -20,7 +20,7 @@ Her father, who was admitted to Tampa General Hospital on Tuesday evening, said 
 
 According to several news reports, the 47-year-old was complaining of soreness and ringing in his ear as he lay in his hospital bed on Wednesday.
 
-[![](/images/2011/01/world-s-unluckiest-man-struck-lightning-inside-home.jpg)](/images/2011/01/world-s-unluckiest-man-struck-lightning-inside-home.jpg)
+[![](/images/2011/01/world-s-unluckiest-man-struck-lightning-inside-home.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/world-s-unluckiest-man-struck-lightning-inside-home.jpg)
 
 Some remain sceptical of the extent of Agan's misfortunes, and have alleged he is either exaggerating in order to receive pain medication or possibly seeking attention.
 

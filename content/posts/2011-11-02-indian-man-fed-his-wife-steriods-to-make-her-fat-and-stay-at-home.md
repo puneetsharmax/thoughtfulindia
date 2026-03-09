@@ -8,7 +8,7 @@ featured_image: "/images/2011/11/fatwife.jpg"
 draft: false
 ---
 
-[![](/images/2011/11/fatwife.jpg)](/images/2011/11/fatwife.jpg)An Indian-origin man has been given a suspended jail term in Britain for secretly feeding his wife steroids so that she becomes overweight and stays at home to cook and look after their children.
+[![](/images/2011/11/fatwife.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/11/fatwife.jpg)An Indian-origin man has been given a suspended jail term in Britain for secretly feeding his wife steroids so that she becomes overweight and stays at home to cook and look after their children.
 
 In the bizarre case, Leicester--based Dalwara Singh, secretly laced his wife's food and drink with the drug between November last year and January, which caused her to sprout hair on her face and back and made her skin itchy and spotty. When the wife said she needed to see a doctor, Singh told her she was worrying over nothing. At the Leicester Crown Court on Tuesday, Singh admitted administering a noxious substance with intent to injure, aggrieve or annoy.
 

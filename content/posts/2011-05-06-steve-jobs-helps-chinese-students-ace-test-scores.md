@@ -8,7 +8,7 @@ featured_image: "/images/2011/05/cccpp.jpg"
 draft: false
 ---
 
-##### [![](/images/2011/05/cccpp-300x200.jpg)](/images/2011/05/cccpp.jpg)China's Test Prep Juggernaut
+##### [![](/images/2011/05/cccpp-300x200.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/05/cccpp.jpg)China's Test Prep Juggernaut
 
 *Test preparation company New Oriental Education is helping a rising generation of Chinese students to ace U.S. college entrance exams*
 

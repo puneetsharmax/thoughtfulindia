@@ -8,7 +8,7 @@ featured_image: "/images/2012/02/exercise-photo.jpg"
 draft: false
 ---
 
-[![](/images/2012/02/exercise-photo-300x199.jpg)](/images/2012/02/exercise-photo.jpg)People who are more physically active report greater levels of excitement and enthusiasm than people who are less physically active, according to Penn State researchers. People also are more likely to report feelings of excitement and enthusiasm on days when they are more physically active than usual.
+[![](/images/2012/02/exercise-photo-300x199.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/02/exercise-photo.jpg)People who are more physically active report greater levels of excitement and enthusiasm than people who are less physically active, according to Penn State researchers. People also are more likely to report feelings of excitement and enthusiasm on days when they are more physically active than usual.
 
 "You don't have to be the fittest person who is exercising every day to receive the feel-good benefits of exercise," said David Conroy, professor of kinesiology. "It's a matter of taking it one day at a time, of trying to get your activity in, and then there's this feel-good reward afterwards."
 

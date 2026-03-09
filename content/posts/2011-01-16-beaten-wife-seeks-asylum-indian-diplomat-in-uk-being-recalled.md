@@ -10,7 +10,7 @@ draft: false
 
 The story of Indian diplomat in UK, Anil Verma- IAS, and his wife Paromita Verma is getting more ugly by each passing day. The daily mail reports that Anil used to boast to his wife about his diplomatic status and how no one could touch him because of this. While Indian government is recalling the diplomat, Paromita has now applied for asylum citing fear of persecution in India.
 
-[![paromita](/images/2011/01/paromita.jpg)](/images/2011/01/paromita.jpg)
+[![paromita](/images/2011/01/paromita.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/01/paromita.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 

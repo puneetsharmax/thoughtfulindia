@@ -8,14 +8,16 @@ featured_image: "/images/2014/09/seattle.jpg"
 draft: false
 ---
 
-*The City Council of Seattle passed a new law which will prohibit residents and business owner from wasting food.
+Seattle became one of the first major American cities to formally penalize residents and businesses for throwing away food scraps when compostable material was required to be separated for composting rather than sent to landfill.
 
-Under the new law, the garbage collectors would have rights to go through the trash and inspect if food was wasted. Residents would be charged $1 and businesses $50 for wasting food.
+Under the ordinance enacted by the Seattle Public Utilities department, households and businesses that fail to separate food waste and compostable materials from regular garbage face fines of up to $50 per violation. Inspectors check garbage bins, and a visual contamination rate above 10 percent is sufficient to trigger a warning or fine.
 
- 
+The policy reflects Seattle's broader commitment to waste reduction and its ambitious zero-waste goals. Food waste is a particularly significant environmental problem: when organic material decomposes in landfills without oxygen, it produces methane, a greenhouse gas approximately 25 times more potent than carbon dioxide over a 100-year period.
 
-[From Seattle Times](http://seattletimes.com/html/localnews/2024604656_citycompost1xml.html)
+According to the U.S. Environmental Protection Agency, food is the single largest category of material placed in municipal landfills, accounting for approximately 22 percent of all solid waste. Nationally, Americans waste roughly 30 to 40 percent of the food supply — an estimated 133 billion pounds and $161 billion worth of food each year.
 
-Under the new rules, collectors can take a cursory look each time they dump trash into a garbage truck.*
+Seattle's composting infrastructure has expanded significantly to support the new requirements. The city operates large-scale composting facilities that convert food waste into nutrient-rich compost sold back to farmers and gardeners, creating a circular economy around organic material.
 
-*If they see compostable items make up 10 percent or more of the trash, they’ll enter the violation into a computer system their trucks already carry, and will leave a ticket on the garbage bin that says to expect a $1 fine on the next garbage bill.*
+Reaction from residents has been mixed. Many environmentally conscious Seattleites have embraced the requirement, while others have pushed back against what they see as government overreach into household behavior. Business owners in the food service industry have noted the operational challenges of maintaining separation systems in high-volume environments.
+
+Critics and supporters alike acknowledge that Seattle's approach represents one of the more aggressive municipal experiments in behavioral change around waste — and that its success or failure will be closely watched by other cities considering similar measures.

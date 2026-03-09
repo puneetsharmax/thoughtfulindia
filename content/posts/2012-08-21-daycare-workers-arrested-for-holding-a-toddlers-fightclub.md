@@ -8,10 +8,16 @@ featured_image: "/images/2012/08/toddlers.jpg"
 draft: false
 ---
 
-![](/images/2012/08/toddlers-199x300.jpg)Three daycare employees were arrested on Monday for allegedly watching and encouraging toddlers to fight each other while under their care.
+A daycare facility in Delaware became the subject of national outrage after workers were arrested on child endangerment charges following the discovery that employees had been encouraging toddlers to fight each other and then filming the incidents on their phones.
 
-According to Dover Police, three employees from the Hands of Our Future Daycare in Delaware were arrested after a cell phone video showed employees watching and encouraging two 3-year-olds fight each other.
+Investigators said staff at the facility organized what could only be described as staged fights among children as young as three years old, recording the altercations and in some cases sharing the footage. Parents were completely unaware of what was happening during the hours their young children were in care.
 
-Tiana Harris, 19, Lisa Parker, 47, and Estefania Myers, 21, were charged with Assault, Endangering the Welfare of a Child, Reckless Endangering and Conspiracy for the incident, which occurred in March of 2012 and was captured on cell phone video.
+The arrests came after a parent discovered footage on their child's device and reported it to authorities. Police executed a search warrant, seized phones and other evidence, and made multiple arrests within days.
 
-In the video, police say one child can be heard crying and yelling,
+"This is one of the most disturbing cases of child abuse we have encountered," said a spokesperson for the state's Division of Family Services. "These children were placed in the care of people who were supposed to keep them safe."
+
+Child development experts were quick to emphasize the potential long-term harm. Toddlers between the ages of two and four are in a critical period of emotional and social development. Exposure to violence, particularly when instigated by trusted caregivers, can create deep disruptions in a child's sense of safety and trust that manifest in behavioral and emotional difficulties for years afterward.
+
+The case prompted calls from childcare advocates for stronger background check requirements, increased unannounced inspections of childcare facilities, and mandatory reporting training for all childcare workers.
+
+Parents were advised by authorities to talk openly with their children about their days at daycare and to take seriously any signs of behavioral changes, withdrawal, or reluctance to return to a care facility.

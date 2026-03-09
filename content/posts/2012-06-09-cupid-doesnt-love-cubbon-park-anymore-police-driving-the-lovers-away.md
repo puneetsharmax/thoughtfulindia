@@ -8,7 +8,7 @@ featured_image: "/images/2012/06/Cubbon-Park-Bangalore.jpg"
 draft: false
 ---
 
-**[![](/images/2012/06/Cubbon-Park-Bangalore-300x205.jpg)](/images/2012/06/Cubbon-Park-Bangalore.jpg)Removed from the maddening roads and the moral police, Cubbon Park once offered love-struck couples unbeatable serenity, privacy and a refreshing silence.**
+**[![](/images/2012/06/Cubbon-Park-Bangalore-300x205.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/06/Cubbon-Park-Bangalore.jpg)Removed from the maddening roads and the moral police, Cubbon Park once offered love-struck couples unbeatable serenity, privacy and a refreshing silence.**
 
 But then, the City’s explosive growth invaded the green expanse, noisy vehicles occupying with abandon every inch of the roads that crisscrossed the Park.
 

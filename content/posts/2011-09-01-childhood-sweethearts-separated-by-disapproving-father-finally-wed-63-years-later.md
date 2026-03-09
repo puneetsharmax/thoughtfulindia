@@ -8,7 +8,7 @@ featured_image: "/images/2011/09/peggy-and-bill1.jpg"
 draft: false
 ---
 
-[![](/images/2011/09/peggy-and-bill.jpg)](/images/2011/09/peggy-and-bill.jpg)Like something from a film childhood sweethearts from Southampton are finally tying the knot after 63 years apart.
+[![](/images/2011/09/peggy-and-bill.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/09/peggy-and-bill.jpg)Like something from a film childhood sweethearts from Southampton are finally tying the knot after 63 years apart.
 
 After decades of being separated by disapproving parents Bill Labram and Peggy Fryer, both 80 will be getting married this weekend.
 

@@ -8,7 +8,7 @@ featured_image: ""
 draft: false
 ---
 
-![](https://i1.wp.com/thoughtfulindia.com/images/2019/01/hb-marie-kondo-002-1534442038.jpg?fit=640%2C360&ssl=1)
+![](https://i1.wp.com/thoughtfulindia.com/wp-content/uploads/2019/01/hb-marie-kondo-002-1534442038.jpg?fit=640%2C360&ssl=1)
 
 If you have watched Marie Kondo getting America organized on Netflix, I am sure you would have cleaned at least one drawer ( I sure did).
 

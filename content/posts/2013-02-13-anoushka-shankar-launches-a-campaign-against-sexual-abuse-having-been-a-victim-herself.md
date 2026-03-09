@@ -12,7 +12,7 @@ Anoushka Shankar, daughter of legendary sitarist Ravi Shankar, has thrown her we
 
 The 31-year-old sitarist has invited one billion women and those who love them, via the website Change.org, to walk out, “Dance, rise up, and demand” an end to this violence this Valentine’s Day, February 14.
 
-“The campaign ‘One Billion Rising’ is a promise that we will rise up with women and men worldwide to say, ‘Enough! The violence ends now’,” the website said. It also contains a video of Anoushka speaking out for women who have been victims of abuse and asking people to join the campaign.![anoushka-shankar-4f0efee6c8b8e](http://cache3.thoughtfulindia.com/images/2013/02/anoushka-shankar-4f0efee6c8b8e-300x168.jpg)
+“The campaign ‘One Billion Rising’ is a promise that we will rise up with women and men worldwide to say, ‘Enough! The violence ends now’,” the website said. It also contains a video of Anoushka speaking out for women who have been victims of abuse and asking people to join the campaign.![anoushka-shankar-4f0efee6c8b8e](http://cache3.thoughtfulindia.com/wp-content/uploads/2013/02/anoushka-shankar-4f0efee6c8b8e-300x168.jpg)
 
 “As a child I suffered sexual and emotional abuse for several years at the hands of a man my parents trusted implicitly. Growing up, like most women I know, I suffered various forms of groping, touching, verbal abuse and other things I didn’t know how to deal with, I didn’t know I could change,” said the Indian composer, now living in London.
 

@@ -8,7 +8,7 @@ featured_image: ""
 draft: false
 ---
 
-*[![](/images/2011/04/MLRMILL.jpeg)](/images/2011/04/MLRMILL.jpeg)Coming out as being gay is easier than admitting to a mental health condition, study shows*
+*[![](/images/2011/04/MLRMILL.jpeg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/04/MLRMILL.jpeg)Coming out as being gay is easier than admitting to a mental health condition, study shows*
 
 People are more reluctant to reveal they have a mental illness than to come out as gay, according to a new study that reaffirms warnings from campaigners that mental illness still faces a persistent social taboo.
 

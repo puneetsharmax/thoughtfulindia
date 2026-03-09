@@ -8,7 +8,7 @@ featured_image: "/images/2012/01/Asha_Bhosle_5.jpg"
 draft: false
 ---
 
-[![](/images/2012/01/Asha_Bhosle_5-205x300.jpg)](/images/2012/01/Asha_Bhosle_5.jpg)Veteran playback singer Asha Bhosle will be felicitated with lifetime achievement award at an award ceremony.
+[![](/images/2012/01/Asha_Bhosle_5-205x300.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/01/Asha_Bhosle_5.jpg)Veteran playback singer Asha Bhosle will be felicitated with lifetime achievement award at an award ceremony.
 
 The 78-year-old singer, who recently entered the Guinness World Records for the most number of single studio recordings, will be honoured with the award at Colors Screen Awards to mark her contribution to Indian music.
 

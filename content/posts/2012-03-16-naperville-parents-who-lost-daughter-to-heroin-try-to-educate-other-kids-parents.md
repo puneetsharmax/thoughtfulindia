@@ -8,7 +8,7 @@ featured_image: "/images/2012/03/68745029.jpg"
 draft: false
 ---
 
-[![](/images/2012/03/68745029.jpg)](/images/2012/03/68745029.jpg)The light was on in Megan Miller's bedroom late that January night inside her family's Naperville home.
+[![](/images/2012/03/68745029.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2012/03/68745029.jpg)The light was on in Megan Miller's bedroom late that January night inside her family's Naperville home.
 
 Paul Miller walked in and was startled to find his 18-year-old daughter curled into a ball, face down in front of her dresser. He feared the worst when he felt the rigidity of her shoulders and saw the discoloration in her face. There was foam around her mouth, but no breath escaping.
 

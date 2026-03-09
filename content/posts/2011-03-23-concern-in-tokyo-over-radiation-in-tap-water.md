@@ -8,7 +8,7 @@ featured_image: "/images/2011/03/japan_bottled.jpg"
 draft: false
 ---
 
-[![](/images/2011/03/japan_bottled-300x168.jpg)](/images/2011/03/japan_bottled.jpg)
+[![](/images/2011/03/japan_bottled-300x168.jpg)](https://www.thoughtfulindia.com/wp-content/uploads/2011/03/japan_bottled.jpg)
 
 A spike in radiation levels in Tokyo tap water spurred new fears about food safety Wednesday as rising black smoke forced another evacuation of workers trying to stabilize Japan's radiation-leaking nuclear plant.
 
