@@ -4,6 +4,12 @@
 :root {
   --font-serif: Georgia, 'Times New Roman', serif;
   --font-sans: system-ui, -apple-system, sans-serif;
+  --color-saffron: #C8540A;
+  --color-navy: #1A1A2E;
+  --color-gold: #F4A620;
+  --color-off-white: #FAFAF7;
+  --color-text: #1C1C1C;
+  --color-red: #B91C1C;
 }
 
 html {
@@ -11,8 +17,8 @@ html {
 }
 
 body {
-  background-color: #fafaf9;
-  color: #1c1917;
+  background-color: var(--color-off-white);
+  color: var(--color-text);
   font-family: var(--font-sans);
 }
 

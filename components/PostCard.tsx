@@ -72,7 +72,7 @@ export default function PostCard({ post, variant = 'default' }: PostCardProps) {
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
             <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
               {categorySlug && firstCat && (
-                <span className="mb-2 inline-block bg-red-700 px-2 py-0.5 text-xs font-semibold uppercase tracking-widest">
+                <span className="mb-2 inline-block px-2 py-0.5 text-xs font-semibold uppercase tracking-widest text-white" style={{ backgroundColor: '#C8540A' }}>
                   {formatCategoryName(firstCat)}
                 </span>
               )}
@@ -100,13 +100,14 @@ export default function PostCard({ post, variant = 'default' }: PostCardProps) {
           {categorySlug && firstCat && (
             <Link
               href={`/category/${categorySlug}`}
-              className="text-xs font-semibold uppercase tracking-widest text-red-700 hover:text-red-900"
+              className="text-xs font-semibold uppercase tracking-widest hover:opacity-80 transition-opacity"
+              style={{ color: '#C8540A' }}
             >
               {formatCategoryName(firstCat)}
             </Link>
           )}
           <Link href={`/post/${post.slug}`}>
-            <h3 className="mt-0.5 font-serif text-base font-semibold leading-snug text-stone-900 group-hover:text-red-800 line-clamp-2">
+            <h3 className="mt-0.5 font-serif text-base font-semibold leading-snug line-clamp-2 transition-colors" style={{ color: '#1C1C1C' }} onMouseEnter={(e) => (e.currentTarget.style.color = '#C8540A')} onMouseLeave={(e) => (e.currentTarget.style.color = '#1C1C1C')}>
               {post.title}
             </h3>
           </Link>
@@ -128,7 +129,7 @@ export default function PostCard({ post, variant = 'default' }: PostCardProps) {
           </Link>
         )}
         <Link href={`/post/${post.slug}`}>
-          <h3 className="mt-0.5 font-serif text-sm font-semibold leading-snug text-stone-900 group-hover:text-red-800 line-clamp-2">
+          <h3 className="mt-0.5 font-serif text-sm font-semibold leading-snug line-clamp-2 transition-colors" style={{ color: '#1C1C1C' }} onMouseEnter={(e) => (e.currentTarget.style.color = '#C8540A')} onMouseLeave={(e) => (e.currentTarget.style.color = '#1C1C1C')}>
             {post.title}
           </h3>
         </Link>
@@ -151,7 +152,7 @@ export default function PostCard({ post, variant = 'default' }: PostCardProps) {
           </Link>
         )}
         <Link href={`/post/${post.slug}`}>
-          <h2 className="mt-1 font-serif text-lg font-bold leading-snug text-stone-900 group-hover:text-red-800 line-clamp-3">
+          <h2 className="mt-1 font-serif text-lg font-bold leading-snug line-clamp-3 transition-colors" style={{ color: '#1C1C1C' }} onMouseEnter={(e) => (e.currentTarget.style.color = '#C8540A')} onMouseLeave={(e) => (e.currentTarget.style.color = '#1C1C1C')}>
             {post.title}
           </h2>
         </Link>
