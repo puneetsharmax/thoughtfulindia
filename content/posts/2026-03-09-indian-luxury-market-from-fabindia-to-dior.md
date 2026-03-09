@@ -16,6 +16,8 @@ A decade ago, Indian luxury meant curated traditional: Fabindia, handcrafted tex
 
 That market still exists. But it's increasingly displaced by global luxury: Louis Vuitton, Gucci, Hermès, Cartier. High-net-worth Indians buy foreign luxury not for any special Indian quality but precisely because it's global, expensive, and recognizable everywhere as a status marker.
 
+![Luxury boutiques in India](https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1200&h=600&q=80)
+
 The shift reveals something about aspiration. Traditional Indian luxury implied rootedness: I'm wealthy and I celebrate my cultural heritage through curated consumption. Global luxury implies opposite: I'm wealthy and I participate in global consumption norms. I want what rich people everywhere want—not what signals I'm culturally embedded.
 
 This reflects broader pattern of Indian middle-class transformation: education, English, global consumption, distancing from traditional markers. A wealthy Bangalore family vacations in Europe, not Rajasthan. They buy Italian leather not Indian silk. They consume globally and treat India as one market among many rather than as home base for identity.
