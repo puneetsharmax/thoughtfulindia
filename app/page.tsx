@@ -23,15 +23,13 @@ export default function HomePage() {
   return (
     <main className="mx-auto max-w-7xl px-4 py-6">
       {/* Category nav bar */}
-      <div className="mb-6 flex flex-wrap gap-x-4 gap-y-2 py-3" style={{ borderTop: '2px solid #C8540A', borderBottom: '2px solid #C8540A' }}>
+      <div className="mb-6 flex flex-wrap gap-x-4 gap-y-2 py-3 border-t-2 border-b-2 border-saffron" style={{ borderColor: '#C8540A' }}>
         {categories.map((cat) => (
           <Link
             key={cat.name}
             href={`/category/${slugifyCategory(cat.name)}/`}
-            className="text-xs font-semibold uppercase tracking-widest transition-colors"
+            className="text-xs font-semibold uppercase tracking-widest transition-colors hover:opacity-70"
             style={{ color: '#C8540A' }}
-            onMouseEnter={(e) => (e.currentTarget.style.color = '#B91C1C')}
-            onMouseLeave={(e) => (e.currentTarget.style.color = '#C8540A')}
           >
             {formatCategoryName(cat.name)}
           </Link>
@@ -88,15 +86,7 @@ export default function HomePage() {
             <Link
               href="/category/featured-stories/"
               className="inline-block px-8 py-2.5 text-sm font-semibold uppercase tracking-widest transition hover:opacity-80"
-              style={{ border: '2px solid #C8540A', color: '#C8540A', backgroundColor: 'transparent' }}
-              onMouseEnter={(e) => {
-                (e.currentTarget as HTMLAnchorElement).style.backgroundColor = '#C8540A'
-                ;(e.currentTarget as HTMLAnchorElement).style.color = 'white'
-              }}
-              onMouseLeave={(e) => {
-                (e.currentTarget as HTMLAnchorElement).style.backgroundColor = 'transparent'
-                ;(e.currentTarget as HTMLAnchorElement).style.color = '#C8540A'
-              }}
+              style={{ border: '2px solid #C8540A', color: '#C8540A' }}
             >
               View All Stories
             </Link>
