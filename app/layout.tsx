@@ -1,8 +1,11 @@
 import type { Metadata } from 'next'
 import { Merriweather, Source_Serif_4, Inter } from 'next/font/google'
+import Script from 'next/script'
 import './globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
+
+const GA_ID = 'G-5B11LF3RG5'
 
 const merriweather = Merriweather({
   weight: ['300', '400', '700', '900'],
@@ -46,6 +49,20 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${merriweather.variable} ${sourceSerif.variable} ${inter.variable}`}>
+      <head>
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_ID}', { page_path: window.location.pathname });
+          `}
+        </Script>
+      </head>
       <body className="bg-stone-50 font-sans text-stone-900 antialiased">
         <Header />
         <div className="min-h-screen">{children}</div>
