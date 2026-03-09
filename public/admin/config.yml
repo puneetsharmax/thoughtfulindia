@@ -2,19 +2,12 @@ backend:
   name: github
   repo: puneetsharmax/thoughtfulindia
   branch: main
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
+  base_url: https://thoughtfulindia-oauth.puneetsharmax.workers.dev
 
-# Media files will be stored in Firebase Storage
-# Local path for development — update after Firebase Storage is set up
-media_folder: public/images
-public_folder: /images
-
-# Site URL for preview
+media_folder: public/images/uploads
+public_folder: /images/uploads
 site_url: https://thoughtfulindia.com
 display_url: https://thoughtfulindia.com
-
-# Locale
 locale: en
 
 collections:
@@ -23,68 +16,36 @@ collections:
     label_singular: Article
     folder: content/posts
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: /post/{{slug}}
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.slug}}"
+    preview_path: /post/{{fields.slug}}
     fields:
-      - label: Title
-        name: title
-        widget: string
-        required: true
-
-      - label: Date
-        name: date
-        widget: datetime
-        format: "YYYY-MM-DDTHH:mm:ssZ"
-        date_format: "DD MMMM YYYY"
-        time_format: "HH:mm"
-        required: true
-
-      - label: Slug
-        name: slug
-        widget: string
-        required: true
-        hint: "URL slug, e.g. my-article-title (no spaces, lowercase)"
-        pattern:
-          - "^[a-z0-9-]+$"
-          - "Lowercase letters, numbers, and hyphens only"
-
-      - label: Featured Image
-        name: featured_image
-        widget: image
-        required: false
-        allow_multiple: false
-        hint: "Upload a featured image for this article"
-
+      - {label: Title, name: title, widget: string, required: true}
+      - {label: Date, name: date, widget: datetime, format: "YYYY-MM-DD", time_format: false}
+      - {label: Slug, name: slug, widget: string, pattern: ["^[a-z0-9-]+$", "Only lowercase letters, numbers, and hyphens"]}
+      - {label: Featured Image, name: featured_image, widget: image, required: false}
       - label: Categories
         name: categories
-        widget: list
-        required: false
-        default: ["Featured Stories"]
-        hint: "Add one or more categories, e.g. Politics, Lifestyle"
-
-      - label: Tags
-        name: tags
-        widget: list
-        required: false
-        hint: "Add tags for this article"
-
-      - label: Excerpt
-        name: excerpt
-        widget: text
-        required: false
-        hint: "Short summary (shown in cards and social media previews)"
-
-      - label: Draft
-        name: draft
-        widget: boolean
-        default: false
-        hint: "If checked, this article won't appear on the site"
-
-      - label: Body
-        name: body
-        widget: markdown
-        required: true
-        hint: "Write your article here. Use the toolbar to format text, add images, and create links."
-        modes:
-          - rich_text
-          - raw
+        widget: select
+        multiple: true
+        options:
+          - BOLLYWOOD
+          - BOOKS
+          - BUSINESS
+          - CULTURE
+          - ENTERTAINMENT
+          - FASHION
+          - FEATURED STORIES
+          - FOOD
+          - HEALTH & SPIRITUALITY
+          - HOLLYWOOD
+          - INDIA POLITICS
+          - INTERESTING
+          - LIFESTYLE
+          - NAPERVILLE LIVING
+          - POLITICS
+          - RELATIONSHIPS
+          - TECH
+          - WORLD
+      - {label: Tags, name: tags, widget: list, required: false}
+      - {label: Draft, name: draft, widget: boolean, default: false}
+      - {label: Body, name: body, widget: markdown, modes: [rich_text, raw]}
