@@ -1,6 +1,5 @@
 import type { Metadata } from 'next'
 import { Merriweather, Source_Serif_4, Inter } from 'next/font/google'
-import Script from 'next/script'
 import './globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
@@ -50,18 +49,22 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${merriweather.variable} ${sourceSerif.variable} ${inter.variable}`}>
       <head>
-        <Script
+        {/* GA4 — plain script tags required for Next.js static export (output: 'export').
+            next/script with strategy="afterInteractive" does not render in static exports. */}
+        <script
+          async
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
-          strategy="afterInteractive"
         />
-        <Script id="ga4-init" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', '${GA_ID}', { page_path: window.location.pathname });
-          `}
-        </Script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', '${GA_ID}');
+            `,
+          }}
+        />
       </head>
       <body className="bg-stone-50 font-sans text-stone-900 antialiased">
         <Header />
