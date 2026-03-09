@@ -85,7 +85,7 @@ export default function Header() {
               placeholder="Search articles…"
               autoFocus
               className="flex-1 rounded px-3 py-1.5 text-sm focus:outline-none focus:ring-2"
-              style={{ borderColor: '#C8540A', focusRingColor: '#C8540A', color: '#1C1C1C', backgroundColor: '#FAFAF7' }}
+              style={{ borderColor: '#C8540A', color: '#1C1C1C', backgroundColor: '#FAFAF7' }}
             />
             <button type="submit" className="px-4 py-1.5 text-white text-sm rounded transition-colors" style={{ backgroundColor: '#C8540A' }}>
               Go
