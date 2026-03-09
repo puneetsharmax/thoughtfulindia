@@ -2,7 +2,7 @@
 title: "Indian Startups Going Global: International Expansion Strategies"
 date: "2026-03-09"
 slug: "indian-startups-going-global-international-expansion-strategies"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1559136555-9303baea8eae?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['TECH', 'BUSINESS']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

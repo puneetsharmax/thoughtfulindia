@@ -2,15 +2,17 @@
 title: "Indian Education System: Producing Engineers, Losing Thinkers"
 date: "2026-03-09"
 slug: "indian-education-system-producing-engineers,-losing-thinkers"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1427504494785-4a9914e51efa?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['LIFESTYLE', 'POLITICS', 'FEATURED STORIES']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false
 ---
 
-Walk into any Indian classroom and you notice something: students obsessed with the correct answer, terrified of the wrong answer, with no apparent space between. The question "why" is subordinated to "what." Conceptual understanding takes a backseat to test performance. The system produces engineers who can code but struggle to think independently, doctors who memorize but can't diagnose creatively, bureaucrats who follow procedure but can't innovate.
+A standard Class 11 physics class in a Kota coaching center runs like this: the teacher works through a problem on the board, the students copy it into notebooks, and at the end, one brave student asks whether there's another approach. The teacher — a former IIT graduate who has taught this module 400 times — pauses. There is another approach, technically. But it won't appear on the JEE. So the answer is: no. Not today. Maybe after the exam.
 
-This is not accidental. It's structural. India's education system was designed to sort children efficiently: identify the talented, prepare them for competitive exams, feed them into elite institutions. It works brilliantly for that purpose. By other measures—critical thinking, creativity, intellectual curiosity—it fails catastrophically.
+This scene, or something like it, plays out across millions of Indian classrooms every day. Students are obsessed with the correct answer, terrified of the wrong answer, with apparently no space between. The question "why" is subordinated to "what." Conceptual understanding takes a backseat to test performance. The system produces engineers who can code but struggle to think independently, doctors who memorize but diagnose conservatively, bureaucrats who follow procedure but rarely innovate.
+
+This is not accidental. It's structural. India's education system was designed to sort children efficiently — identify the talented, prepare them for competitive exams, feed them into elite institutions. It works brilliantly for that purpose. By other measures — critical thinking, creativity, intellectual curiosity — it fails in ways that compound over time.
 
 The incentives are clear: a student's life outcomes depend primarily on exam scores. Board exams at 10 and 12, then competitive entrances for college, then more exams for government jobs or professional credentials. Each exam is high-stakes, testing recall more than reasoning. The message is implicit: think but only within the allowed parameters.
 

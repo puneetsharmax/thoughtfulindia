@@ -2,7 +2,7 @@
 title: "How Indian Film Industry Conquered South Asia"
 date: "2026-03-09"
 slug: "how-indian-film-industry-conquered-south-asia"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['ENTERTAINMENT', 'CULTURE']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

@@ -2,7 +2,7 @@
 title: "The Indian Ocean: Strategic Importance in New Great Power Competition"
 date: "2026-03-09"
 slug: "the-indian-ocean-strategic-importance-in-new-great-power-competition"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['WORLD POLITICS', 'BUSINESS']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

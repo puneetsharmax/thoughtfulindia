@@ -2,7 +2,7 @@
 title: "India's Defence Exports: Quiet Revolution in Global Arms Market"
 date: "2026-03-09"
 slug: "indias-defence-exports-quiet-revolution-in-global-arms-market"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1553891778-a6b2e8741c90?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['BUSINESS', 'WORLD POLITICS']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

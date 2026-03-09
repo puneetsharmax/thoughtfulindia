@@ -2,7 +2,7 @@
 title: "NRI Remittances: The $125 Billion Lifeline"
 date: "2026-03-09"
 slug: "nri-remittances-the-$125-billion-lifeline"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1604594849809-dfedbc827105?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['BUSINESS', 'NRI']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

@@ -2,7 +2,7 @@
 title: "The Mahabharata Generation: Young Indians Rediscovering Dharma"
 date: "2026-03-09"
 slug: "the-mahabharata-generation-young-indians-rediscovering-dharma"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1584464491033-f628a3be096d?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['CULTURE', 'HEALTH & SPIRITUALITY']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

@@ -2,7 +2,7 @@
 title: "The Brain Drain Reversal: Why Top Talent Returns to India"
 date: "2026-03-09"
 slug: "the-brain-drain-reversal-why-top-talent-returns-to-india"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['BUSINESS', 'TECH']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

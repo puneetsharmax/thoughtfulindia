@@ -2,7 +2,7 @@
 title: "India's Space Programme: Chandrayaan Success and Beyond"
 date: "2026-03-09"
 slug: "indias-space-programme-chandrayaan-success-and-beyond"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['TECH', 'INDIA POLITICS', 'FEATURED STORIES']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

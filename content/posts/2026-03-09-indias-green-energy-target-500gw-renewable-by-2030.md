@@ -2,7 +2,7 @@
 title: "India's Green Energy Target: 500GW Renewable by 2030"
 date: "2026-03-09"
 slug: "indias-green-energy-target-500gw-renewable-by-2030"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1466611653911-0265b219cf7e?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['BUSINESS', 'WORLD']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

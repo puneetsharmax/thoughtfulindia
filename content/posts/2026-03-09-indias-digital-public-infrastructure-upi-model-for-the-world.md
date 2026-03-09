@@ -2,7 +2,7 @@
 title: "India's Digital Public Infrastructure: UPI Model for the World"
 date: "2026-03-09"
 slug: "indias-digital-public-infrastructure-upi-model-for-the-world"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['TECH', 'BUSINESS']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

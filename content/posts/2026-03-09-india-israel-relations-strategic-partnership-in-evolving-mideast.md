@@ -2,7 +2,7 @@
 title: "India-Israel Relations: Strategic Partnership in Evolving Mideast"
 date: "2026-03-09"
 slug: "india-israel-relations-strategic-partnership-in-evolving-mideast"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1529539000-c7b0c89c44a7?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['WORLD', 'POLITICS']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

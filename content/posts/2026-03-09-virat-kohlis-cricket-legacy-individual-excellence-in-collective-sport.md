@@ -2,7 +2,7 @@
 title: "Virat Kohli's Cricket Legacy: Individual Excellence in Collective Sport"
 date: "2026-03-09"
 slug: "virat-kohlis-cricket-legacy-individual-excellence-in-collective-sport"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1531415074968-036ba1b293da?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['ENTERTAINMENT', 'LIFESTYLE']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

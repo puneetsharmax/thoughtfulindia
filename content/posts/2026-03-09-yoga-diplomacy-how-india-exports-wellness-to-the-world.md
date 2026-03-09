@@ -2,7 +2,7 @@
 title: "Yoga Diplomacy: How India Exports Wellness to the World"
 date: "2026-03-09"
 slug: "yoga-diplomacy-how-india-exports-wellness-to-the-world"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['HEALTH & SPIRITUALITY', 'CULTURE']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

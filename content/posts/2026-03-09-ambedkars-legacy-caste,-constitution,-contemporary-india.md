@@ -2,7 +2,7 @@
 title: "Ambedkar's Legacy: Caste, Constitution, Contemporary India"
 date: "2026-03-09"
 slug: "ambedkars-legacy-caste,-constitution,-contemporary-india"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1548510928-fa53cd16df7d?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['POLITICS', 'CULTURE']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

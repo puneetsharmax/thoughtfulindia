@@ -2,7 +2,7 @@
 title: "India's Healthcare Paradox: World-Class Hospitals, Broken Primary Care"
 date: "2026-03-09"
 slug: "indias-healthcare-paradox-world-class-hospitals,-broken-primary-care"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1559884743-74e3f9b0d74a?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['HEALTH & SPIRITUALITY', 'POLITICS']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

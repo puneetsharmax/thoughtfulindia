@@ -2,7 +2,7 @@
 title: "Ageing India: Demographics Meeting Development"
 date: "2026-03-09"
 slug: "ageing-india-demographics-meeting-development"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['HEALTH & SPIRITUALITY', 'POLITICS']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

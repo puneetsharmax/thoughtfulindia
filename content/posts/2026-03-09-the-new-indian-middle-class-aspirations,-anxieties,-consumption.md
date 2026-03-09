@@ -2,7 +2,7 @@
 title: "The New Indian Middle Class: Aspirations, Anxieties, Consumption"
 date: "2026-03-09"
 slug: "the-new-indian-middle-class-aspirations,-anxieties,-consumption"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1567401893114-76d33fc89ef4?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['BUSINESS', 'LIFESTYLE', 'FEATURED STORIES']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

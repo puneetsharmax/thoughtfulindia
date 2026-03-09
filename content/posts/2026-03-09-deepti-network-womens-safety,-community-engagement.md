@@ -2,7 +2,7 @@
 title: "Deepti Network: Women's Safety, Community Engagement"
 date: "2026-03-09"
 slug: "deepti-network-womens-safety,-community-engagement"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['POLITICS', 'LIFESTYLE']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

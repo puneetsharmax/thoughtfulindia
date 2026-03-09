@@ -2,7 +2,7 @@
 title: "The Indian Rupee: Slow Internationalisation and Capital Controls"
 date: "2026-03-09"
 slug: "the-indian-rupee-slow-internationalisation-and-capital-controls"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['BUSINESS', 'WORLD']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

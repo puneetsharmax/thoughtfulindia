@@ -2,7 +2,7 @@
 title: "India-Pakistan Cricket: Why the Rivalry Still Captivates Billions"
 date: "2026-03-09"
 slug: "india-pakistan-cricket-why-the-rivalry-still-captivates-billions"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1531415074968-036ba1b293da?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['ENTERTAINMENT', 'WORLD']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

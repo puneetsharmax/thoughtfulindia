@@ -2,7 +2,7 @@
 title: "Indian Classical Music: Preservation vs Evolution in Digital Age"
 date: "2026-03-09"
 slug: "indian-classical-music-preservation-vs-evolution-in-digital-age"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['CULTURE', 'ENTERTAINMENT']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

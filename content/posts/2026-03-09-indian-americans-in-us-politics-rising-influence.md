@@ -2,7 +2,7 @@
 title: "Indian Americans in US Politics: Rising Influence"
 date: "2026-03-09"
 slug: "indian-americans-in-us-politics-rising-influence"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1589994965851-a8f479c573a9?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['WORLD', 'POLITICS']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

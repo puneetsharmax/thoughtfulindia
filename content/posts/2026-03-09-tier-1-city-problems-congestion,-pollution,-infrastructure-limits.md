@@ -2,7 +2,7 @@
 title: "Tier-1 City Problems: Congestion, Pollution, Infrastructure Limits"
 date: "2026-03-09"
 slug: "tier-1-city-problems-congestion,-pollution,-infrastructure-limits"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['LIFESTYLE', 'POLITICS']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false

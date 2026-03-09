@@ -2,7 +2,7 @@
 title: "Bangalore's Identity Crisis: Silicon Valley vs Garden City"
 date: "2026-03-09"
 slug: "bangalores-identity-crisis-silicon-valley-vs-garden-city"
-featured_image: "https://images.unsplash.com/photo-1527268261703-de3b34cff375?auto=format&fit=crop&w=1200&h=630&q=80"
+featured_image: "https://images.unsplash.com/photo-1486649178195-f9aa0e6fa2b1?auto=format&fit=crop&w=1200&h=630&q=80"
 categories: ['TECH', 'LIFESTYLE']
 tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false
