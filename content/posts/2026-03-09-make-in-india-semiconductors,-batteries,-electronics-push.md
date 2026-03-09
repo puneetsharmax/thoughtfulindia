@@ -8,22 +8,10 @@ tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false
 ---
 
-## Make in India: Semiconductors, Batteries, Electronics Push
+Make in India's electronics push focuses on three critical categories: semiconductors (chips), batteries (EV and energy storage), and general electronics manufacturing. Together, these represent high-value-add manufacturing that India lacks domestically.
 
-This article examines make in india: semiconductors, batteries, electronics push in contemporary India and its global implications.
+The government offered $20+ billion in incentives: production-linked incentives (PLI), infrastructure support, duty reductions. The bet is that subsidies will attract manufacturers enough to establish clusters and build supply chains.
 
-## Context and Overview
+Results are mixed. Some international companies announced facilities. Local companies ramped production. Yet incentive programs created controversies—companies accused of achieving targets through accounting tricks, subsidies benefiting large players, questions about ROI.
 
-Make in India: Semiconductors, Batteries, Electronics Push represents an important dimension of India's development trajectory. Understanding this topic provides insight into broader patterns of social, economic, and political change.
-
-## Key Developments
-
-Recent developments in this area reveal important trends. The situation continues evolving as India navigates modernization while preserving cultural foundations.
-
-## Impact and Implications
-
-The implications extend beyond immediate policy considerations to fundamental questions about India's identity, role in the world, and relationship with tradition and modernity.
-
-## Forward Outlook
-
-As India continues its development journey, this dimension will require thoughtful policy engagement and civic participation. The outcomes will reflect choices made by leaders, civil society, and citizens.
+The realistic outcome: India will develop meaningful electronics manufacturing capacity in specific categories but won't match China or become alternative to Taiwan in semiconductors. Success looks like 5-10% of global electronics production, not transformation. This is still valuable—represents employment, export revenue, and reduced import dependence.

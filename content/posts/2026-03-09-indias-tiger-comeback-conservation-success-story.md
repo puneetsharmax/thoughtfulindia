@@ -8,22 +8,12 @@ tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false
 ---
 
-## India's Tiger Comeback: Conservation Success Story
+Tiger poaching reduced India's tiger population from thousands to 1,400 by 2006. Then conservation efforts reversed the trend. Current tiger population is roughly 3,600—a 150% increase in two decades. India hosts 70% of world's wild tigers. This is rare success story: a charismatic megafauna comeback in a developing country balancing development and conservation.
 
-This article examines india's tiger comeback: conservation success story in contemporary India and its global implications.
+The recovery resulted from coordinated efforts: Project Tiger established dedicated reserves, armed anti-poaching patrols, community relocation from core habitats, compensation for livestock losses, and forest management. Success required political commitment and investment—both rare for conservation in developing countries.
 
-## Context and Overview
+Key insight: tiger recovery wasn't about locking humans out but about managing human-tiger coexistence. Reserves remain inhabited or adjacent to human settlements. Success meant reducing conflicts while enabling development. Communities living near tiger reserves actually benefited through tourism employment and wildlife compensation schemes.
 
-India's Tiger Comeback: Conservation Success Story represents an important dimension of India's development trajectory. Understanding this topic provides insight into broader patterns of social, economic, and political change.
+The elephant in the room is retaliation killing and habitat conflict. As tiger populations increase, attacks on livestock and occasional human attacks increase. This creates resentment from rural communities bearing costs. Conservation success isn't uniformly popular.
 
-## Key Developments
-
-Recent developments in this area reveal important trends. The situation continues evolving as India navigates modernization while preserving cultural foundations.
-
-## Impact and Implications
-
-The implications extend beyond immediate policy considerations to fundamental questions about India's identity, role in the world, and relationship with tradition and modernity.
-
-## Forward Outlook
-
-As India continues its development journey, this dimension will require thoughtful policy engagement and civic participation. The outcomes will reflect choices made by leaders, civil society, and citizens.
+Yet the achievement matters globally: it demonstrates that charismatic megafauna recovery is possible even in developing countries if political commitment and resources align. Tigers were nearly extinct. Now they're secure. This is genuine conservation success.

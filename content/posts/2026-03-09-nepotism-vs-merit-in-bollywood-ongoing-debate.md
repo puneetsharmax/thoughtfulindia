@@ -8,22 +8,12 @@ tags: ["india-2026", "analysis", "thoughtful-perspective"]
 draft: false
 ---
 
-## Nepotism vs Merit in Bollywood: Ongoing Debate
+Bollywood nepotism is real. Several producer families—Chopra, Khan, Kapoor—dominate lead roles and major productions. Star kids receive multiple chances; talent outside these networks struggles. Yet the narrative oversimplifies: some star kids fail; some outsiders succeed. Opportunity remains skewed but not deterministic.
 
-This article examines nepotism vs merit in bollywood: ongoing debate in contemporary India and its global implications.
+The industry dynamic is structural: filmmaking requires capital and industry knowledge. Families with established relationships to financiers, studios, and distribution have advantages. This isn't unique to Bollywood—it exists in Hollywood, European cinema. It's a feature of capital-intensive industries generally.
 
-## Context and Overview
+Yet Bollywood's concentration is starker than most industries because it's smaller and more family-controlled. Moreover, star power in casting directly drives box office. A star kid's existence creates bankability, which drives investment. This circularity reinforces advantage.
 
-Nepotism vs Merit in Bollywood: Ongoing Debate represents an important dimension of India's development trajectory. Understanding this topic provides insight into broader patterns of social, economic, and political change.
+The countervailing trend is OTT platforms, which don't rely on star power alone. Web series success can create pathways for talent without pedigree. This is gradually diversifying who gets opportunities.
 
-## Key Developments
-
-Recent developments in this area reveal important trends. The situation continues evolving as India navigates modernization while preserving cultural foundations.
-
-## Impact and Implications
-
-The implications extend beyond immediate policy considerations to fundamental questions about India's identity, role in the world, and relationship with tradition and modernity.
-
-## Forward Outlook
-
-As India continues its development journey, this dimension will require thoughtful policy engagement and civic participation. The outcomes will reflect choices made by leaders, civil society, and citizens.
+The honest assessment: Bollywood remains nepotistic, but less closed than a decade ago. Standards for star kids have also risen—mediocrity doesn't launch careers anymore. Success now requires combining advantage with genuine talent. That's not meritocracy, but it's not pure nepotism either.
