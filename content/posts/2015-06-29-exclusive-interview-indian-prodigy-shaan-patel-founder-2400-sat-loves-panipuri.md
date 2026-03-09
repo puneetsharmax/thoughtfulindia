@@ -4,7 +4,7 @@ date: "2015-06-29"
 slug: "exclusive-interview-indian-prodigy-shaan-patel-founder-2400-sat-loves-panipuri"
 categories: ["FEATURED STORIES"]
 tags: ["2400 SAT", "National Merit Scholar", "SAT", "Score higher in SAT", "Shaan Patel"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

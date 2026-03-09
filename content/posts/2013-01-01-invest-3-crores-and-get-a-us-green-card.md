@@ -4,7 +4,7 @@ date: "2013-01-01"
 slug: "invest-3-crores-and-get-a-us-green-card"
 categories: ["BUSINESS"]
 tags: ["Green Card", "money", "time", "United States"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

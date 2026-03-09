@@ -4,7 +4,7 @@ date: "2010-11-08"
 slug: "entertainment-david-and-victoria-beckham-keeping-their-marriage-running"
 categories: ["ENTERTAINMENT", "FEATURED STORIES", "HOLLYWOOD"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

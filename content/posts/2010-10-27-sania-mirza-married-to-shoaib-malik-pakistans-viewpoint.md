@@ -4,7 +4,7 @@ date: "2010-10-27"
 slug: "sania-mirza-married-to-shoaib-malik-pakistans-viewpoint"
 categories: ["POLITICS", "WORLD"]
 tags: ["sania mirza", "Sania Mirza married to Shoaib Malik", "Shoaib Malik cricketer"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: "2018-04-19"
 slug: "ya-ma-learning-offering-summer-camps-at-waubonsie-school-and-metea-valley-in-naperville"
 categories: ["FEATURED STORIES"]
 tags: ["Drop Off", "Everyday Camp Schedule", "Free Play", "Ogden Ave"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

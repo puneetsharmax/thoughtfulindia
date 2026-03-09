@@ -4,7 +4,7 @@ date: "2014-10-02"
 slug: "hindi-songs-reactions"
 categories: ["BOLLYWOOD", "ENTERTAINMENT", "INTERESTING"]
 tags: ["Australia", "Hindi Songs", "Sahil Shah", "USA"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

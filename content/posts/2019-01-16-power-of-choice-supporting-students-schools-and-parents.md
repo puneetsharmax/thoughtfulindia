@@ -4,7 +4,7 @@ date: "2019-01-16"
 slug: "power-of-choice-supporting-students-schools-and-parents"
 categories: ["FEATURED STORIES"]
 tags: ["health", "Illinois Youth Survey", "JUUL", "local"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

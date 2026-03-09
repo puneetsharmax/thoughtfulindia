@@ -4,7 +4,7 @@ date: "2025-05-14"
 slug: "the-hidden-power-of-almonds-why-soaked-almonds-are-essential-for-wholesome-living-and-modern-health"
 categories: ["FEATURED STORIES"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

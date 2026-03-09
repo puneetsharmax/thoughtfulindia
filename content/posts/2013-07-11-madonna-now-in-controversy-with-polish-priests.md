@@ -4,7 +4,7 @@ date: "2013-07-11"
 slug: "madonna-now-in-controversy-with-polish-priests"
 categories: ["ENTERTAINMENT", "HOLLYWOOD", "INTERESTING"]
 tags: ["Krucjata Mlodych", "Malawi", "people", "Poland"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

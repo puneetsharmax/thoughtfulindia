@@ -4,7 +4,7 @@ date: "2011-03-23"
 slug: "elizabeth-taylor-dies-of-heart-failure"
 categories: ["ENTERTAINMENT", "HOLLYWOOD"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: "2013-08-07"
 slug: "virgin-atlantics-domestic-airline-little-red-to-offer-live-comedy-and-entertainment"
 categories: ["BUSINESS"]
 tags: ["entertainment", "Little Red", "london", "Virgin Atlantic"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

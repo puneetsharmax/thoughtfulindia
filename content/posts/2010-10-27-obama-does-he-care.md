@@ -4,7 +4,7 @@ date: "2010-10-27"
 slug: "obama-does-he-care"
 categories: ["FEATURED STORIES", "POLITICS", "WORLD"]
 tags: ["Obama", "US Politics"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

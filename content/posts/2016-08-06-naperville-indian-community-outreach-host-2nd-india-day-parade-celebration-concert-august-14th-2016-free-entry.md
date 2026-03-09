@@ -4,7 +4,7 @@ date: "2016-08-06"
 slug: "naperville-indian-community-outreach-host-2nd-india-day-parade-celebration-concert-august-14th-2016-free-entry"
 categories: ["FEATURED STORIES"]
 tags: ["ICO", "India Day Parade", "Indian Americans", "Sunidhi Chauhan"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

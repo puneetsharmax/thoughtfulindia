@@ -4,7 +4,7 @@ date: "2025-05-14"
 slug: "the-raita-renaissance-10-cooling-recipes-to-elevate-every-summer-table"
 categories: ["FEATURED STORIES"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

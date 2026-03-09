@@ -4,7 +4,7 @@ date: "2013-06-11"
 slug: "jared-fogle-the-subway-man-has-kept-his-weight-off-by-eating-subway-sandwiches-for-the-last-15-years-and-is-now-worth-15-million"
 categories: ["INTERESTING", "LIFESTYLE"]
 tags: ["healthy", "Jared Fogle", "life", "lose weight", "Tony Pace"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

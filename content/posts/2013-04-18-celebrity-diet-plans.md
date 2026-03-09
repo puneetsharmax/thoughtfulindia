@@ -4,7 +4,7 @@ date: "2013-04-18"
 slug: "celebrity-diet-plans"
 categories: ["FOOD", "INTERESTING", "LIFESTYLE"]
 tags: ["Eva Mendes", "Jennifer Aniston", "Juice Cleanses", "Nicole Richie"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

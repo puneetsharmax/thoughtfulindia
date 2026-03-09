@@ -4,7 +4,7 @@ date: "2011-04-19"
 slug: "mental-health-is-strongest-taboo-says-research"
 categories: ["HEALTH &amp; SPIRITUALITY", "INTERESTING", "LIFESTYLE"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1524638431109-93d95c2f2f32?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: "2015-04-20"
 slug: "kumari-shibulal"
 categories: ["FEATURED STORIES", "HEALTH &amp; SPIRITUALITY"]
 tags: ["college", "education", "Kumari Shibulal", "Sarojini Damodaran Foundation"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

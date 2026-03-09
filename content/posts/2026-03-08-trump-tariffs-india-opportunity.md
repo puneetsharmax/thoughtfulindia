@@ -4,7 +4,7 @@ date: "2026-03-08"
 slug: "trump-tariffs-india-opportunity"
 categories: ["INDIA ECONOMY", "WORLD POLITICS", "TRADE"]
 tags: ["trump", "tariffs", "india manufacturing", "china", "vietnam", "supply chain"]
-featured_image: ""
+featured_image: "/images/2026/03/trump-tariffs-india-opportunity.jpg"
 draft: false
 ---
 

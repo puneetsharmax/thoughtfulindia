@@ -4,7 +4,7 @@ date: "2026-03-08"
 slug: "oil-at-110-india-exposure"
 categories: ["INDIA ECONOMY", "WORLD POLITICS", "ENERGY"]
 tags: ["oil", "iran", "india economy", "rupee", "rbi"]
-featured_image: ""
+featured_image: "/images/2026/03/oil-at-110-india-exposure.jpg"
 draft: false
 ---
 

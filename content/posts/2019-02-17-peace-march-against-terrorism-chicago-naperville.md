@@ -4,7 +4,7 @@ date: "2019-02-17"
 slug: "peace-march-against-terrorism-chicago-naperville"
 categories: ["FEATURED STORIES"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

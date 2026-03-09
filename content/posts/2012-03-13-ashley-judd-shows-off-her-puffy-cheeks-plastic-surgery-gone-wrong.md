@@ -4,7 +4,7 @@ date: "2012-03-13"
 slug: "ashley-judd-shows-off-her-puffy-cheeks-plastic-surgery-gone-wrong"
 categories: ["ENTERTAINMENT", "HOLLYWOOD", "INTERESTING"]
 tags: ["Ashley Judd", "CIA", "Europe", "High Crimes"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

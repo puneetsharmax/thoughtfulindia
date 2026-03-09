@@ -4,7 +4,7 @@ date: "2011-10-20"
 slug: "diwali-sweets-recipes"
 categories: ["FOOD", "INTERESTING", "NAPERVILLE DIARY"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1565299507177-b0ac66763828?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

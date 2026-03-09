@@ -4,7 +4,7 @@ date: "2014-02-26"
 slug: "bolly-volley-4"
 categories: ["FEATURED STORIES", "NAPERVILLE DIARY"]
 tags: ["Arup Raha", "Bolly Volley", "Gulaab Gang", "movies"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

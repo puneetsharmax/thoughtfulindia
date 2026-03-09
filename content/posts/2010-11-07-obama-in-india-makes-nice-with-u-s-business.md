@@ -4,7 +4,7 @@ date: "2010-11-07"
 slug: "obama-in-india-makes-nice-with-u-s-business"
 categories: ["WORLD"]
 tags: ["Congressional campaigns", "Mr Obama", "Obama in India"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1575751941-82cde6a36aa5?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

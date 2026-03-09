@@ -4,7 +4,7 @@ date: "2013-06-17"
 slug: "nigella-lawson-attacked-by-her-husband-in-public"
 categories: ["RELATIONSHIPS"]
 tags: ["Charles Satchi", "husband", "Nigella Lawson", "people"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

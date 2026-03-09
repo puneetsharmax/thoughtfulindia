@@ -4,7 +4,7 @@ date: "2010-11-03"
 slug: "living-next-door-to-whats-his-name"
 categories: ["ENTERTAINMENT"]
 tags: ["bangalore", "Good fences make good neighbours", "neighbors"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

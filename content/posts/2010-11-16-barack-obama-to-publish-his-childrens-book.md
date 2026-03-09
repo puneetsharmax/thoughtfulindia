@@ -4,7 +4,7 @@ date: "2010-11-16"
 slug: "barack-obama-to-publish-his-childrens-book"
 categories: ["BOOKS"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

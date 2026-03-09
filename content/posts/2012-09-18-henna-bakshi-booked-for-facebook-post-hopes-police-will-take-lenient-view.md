@@ -4,7 +4,7 @@ date: "2012-09-18"
 slug: "henna-bakshi-booked-for-facebook-post-hopes-police-will-take-lenient-view"
 categories: ["FEATURED STORIES", "INDIA POLITICS", "INDIAN ECONOMY", "POLITICS"]
 tags: ["Geeta Chopra", "Indian Police", "Information Technology Act", "UT"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

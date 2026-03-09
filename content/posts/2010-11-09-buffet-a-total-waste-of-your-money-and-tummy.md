@@ -4,7 +4,7 @@ date: "2010-11-09"
 slug: "buffet-a-total-waste-of-your-money-and-tummy"
 categories: ["FOOD"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

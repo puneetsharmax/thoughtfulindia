@@ -4,7 +4,7 @@ date: "2013-06-06"
 slug: "web-pundits-web-based-solutions-company"
 categories: ["FEATURED STORIES", "TECH"]
 tags: ["NIIT", "Pankaj Lakhani", "writing"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

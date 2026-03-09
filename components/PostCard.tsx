@@ -42,12 +42,15 @@ function PostImage({
 }
 
 export default function PostCard({ post, variant = 'default' }: PostCardProps) {
-  const safeDate = post.date ? new Date(post.date) : new Date()
-  const formattedDate = safeDate.toLocaleDateString('en-IN', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-  })
+  // Parse date as local (not UTC) to avoid server/client hydration mismatch
+  // "2026-03-08" → treat as local date, not UTC midnight
+  const formattedDate = post.date
+    ? (() => {
+        const [year, month, day] = post.date.split('-').map(Number)
+        const d = new Date(year, month - 1, day)
+        return d.toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' })
+      })()
+    : new Date().toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' })
 
   const firstCat = Array.isArray(post.categories) ? post.categories.find(c => typeof c === 'string') : undefined
   const categorySlug = firstCat ? slugifyCategory(firstCat) : null

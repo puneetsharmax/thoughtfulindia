@@ -4,7 +4,7 @@ date: "2013-06-12"
 slug: "salmans-breakfast-baasi-rotis-really-some-breakfast-tips"
 categories: ["FEATURED STORIES"]
 tags: ["energy", "Salman", "TV", "Water Don"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

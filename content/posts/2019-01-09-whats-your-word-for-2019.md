@@ -4,7 +4,7 @@ date: "2019-01-09"
 slug: "whats-your-word-for-2019"
 categories: ["FEATURED STORIES"]
 tags: ["exercise", "friends", "house", "SM"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

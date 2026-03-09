@@ -4,7 +4,7 @@ date: "2014-11-04"
 slug: "mom-wants-damaging-kardashian-kids-line-gone-babies-r-us"
 categories: ["BUSINESS", "FEATURED STORIES"]
 tags: ["Kardashian Kids", "mom", "people", "Yahoo Style"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

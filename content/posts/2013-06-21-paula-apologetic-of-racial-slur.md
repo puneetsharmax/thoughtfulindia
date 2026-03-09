@@ -4,7 +4,7 @@ date: "2013-06-21"
 slug: "paula-apologetic-of-racial-slur"
 categories: ["FEATURED STORIES", "FOOD"]
 tags: ["Bubba Hiers", "Chef Paula Deen", "Lisa Jackson", "Paula Deen"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: "2014-08-29"
 slug: "happened-intern-took-ceo-lunch"
 categories: ["BUSINESS"]
 tags: ["CEO", "office", "people", "time"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

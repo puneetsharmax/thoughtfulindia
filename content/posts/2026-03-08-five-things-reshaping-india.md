@@ -4,7 +4,7 @@ date: "2026-03-08"
 slug: "five-things-reshaping-india"
 categories: ["INDIA POLITICS", "INDIA ECONOMY", "WORLD POLITICS"]
 tags: ["india", "geopolitics", "oil", "AI", "soft power", "china", "rupee"]
-featured_image: ""
+featured_image: "/images/2026/03/five-things-reshaping-india.jpg"
 draft: false
 ---
 

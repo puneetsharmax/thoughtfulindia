@@ -4,7 +4,7 @@ date: "2013-08-29"
 slug: "14-year-old-jacob-barnett-nobel-prize-winner"
 categories: ["INTERESTING"]
 tags: ["Jacob Barnett", "Kristine Barnett", "Nobel Prize", "TED"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

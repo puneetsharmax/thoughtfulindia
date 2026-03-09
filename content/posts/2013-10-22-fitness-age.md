@@ -4,7 +4,7 @@ date: "2013-10-22"
 slug: "fitness-age"
 categories: ["INTERESTING", "LIFESTYLE"]
 tags: ["Demi Moore", "diet", "exercise", "fit"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

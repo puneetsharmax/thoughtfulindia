@@ -4,7 +4,7 @@ date: "2013-12-02"
 slug: "school-rock-naperville"
 categories: ["FEATURED STORIES", "NAPERVILLE DIARY"]
 tags: ["music", "Old Skool", "Rock Naperville", "School"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

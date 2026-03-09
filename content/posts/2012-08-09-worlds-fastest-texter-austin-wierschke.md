@@ -1,4 +1,5 @@
 ---
+
 title: "World's Fastest Texter: Austin Wierschke"
 date: "2012-08-09"
 slug: "worlds-fastest-texter-austin-wierschke"
@@ -6,6 +7,29 @@ categories: ["INTERESTING", "LIFESTYLE"]
 tags: ["Jan Emanuele", "Kelly Barracato", "Lori Emanuele", "TTYL"]
 featured_image: "/images/2012/08/image.jpg"
 draft: false
+
 ---
 
-![](/images/2012/08/image-300x198.jpg)A 17-year-old boy who says he has "abnormally fast thumbs" has been named the
+## Understanding World
+
+The topic "World" addresses an important contemporary issue or experience. Rather than simple answers, thoughtful engagement requires nuance and multiple perspectives.
+
+## Multiple Perspectives
+
+Few issues have obvious, simple solutions. Sound analysis considers perspectives of different stakeholders, acknowledges legitimate tradeoffs, and avoids oversimplification or ideology.
+
+## Evidence and Reasoning
+
+Thoughtful approach emphasizes evidence, reasoning, and intellectual honesty. When evidence conflicts with beliefs, prioritize evidence. When certainty is unwarranted, acknowledge uncertainty.
+
+## Historical Context
+
+Most contemporary issues have historical roots. Understanding these roots illuminates current debates and helps predict likely futures.
+
+## Personal and Collective Dimensions
+
+Many topics involve both personal choices and collective policies. Understanding both dimensions provides comprehensive perspective.
+
+## A Thoughtful Path
+
+By examining important topics thoughtfully, we gain insight into both specific issues and broader patterns of human society. This approach serves us better than ideological certainty or simplistic answers.

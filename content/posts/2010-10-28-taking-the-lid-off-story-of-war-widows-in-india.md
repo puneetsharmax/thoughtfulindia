@@ -4,7 +4,7 @@ date: "2010-10-28"
 slug: "taking-the-lid-off-story-of-war-widows-in-india"
 categories: ["POLITICS"]
 tags: ["Army Chief in india", "Corrupt India", "INDIA POLITICS", "war widows and housing", "war widows in india"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

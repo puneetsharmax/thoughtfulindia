@@ -4,7 +4,7 @@ date: "2026-03-08"
 slug: "indian-democracy-selective-outrage"
 categories: ["INDIA POLITICS", "WORLD POLITICS"]
 tags: ["democracy", "india", "human rights", "geopolitics", "selective criticism"]
-featured_image: ""
+featured_image: "/images/2026/03/indian-democracy-selective-outrage.jpg"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: "2010-11-10"
 slug: "mufas-the-necessary-fat-for-being-healthy"
 categories: ["HEALTH &amp; SPIRITUALITY"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: "2014-10-09"
 slug: "haider-controversy-lopamudra-banerjee-dhar"
 categories: ["BOLLYWOOD", "ENTERTAINMENT", "FEATURED STORIES", "NAPERVILLE DIARY"]
 tags: ["haider", "lopamudra banerjee dhar", "naperville", "people", "terrorism", "time", "war"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

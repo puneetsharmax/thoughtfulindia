@@ -4,7 +4,7 @@ date: "2026-03-08"
 slug: "india-education-blindspot"
 categories: ["INDIA POLITICS", "EDUCATION", "INDIA ECONOMY"]
 tags: ["IIT", "education", "india universities", "human capital", "state universities"]
-featured_image: ""
+featured_image: "/images/2026/03/india-education-blindspot.jpg"
 draft: false
 ---
 

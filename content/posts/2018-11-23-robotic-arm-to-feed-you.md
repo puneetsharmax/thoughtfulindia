@@ -4,7 +4,7 @@ date: "2018-11-23"
 slug: "robotic-arm-to-feed-you"
 categories: ["FEATURED STORIES"]
 tags: ["Australia", "food", "Robotic Arm", "time"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

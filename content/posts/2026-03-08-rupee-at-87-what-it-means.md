@@ -4,7 +4,7 @@ date: "2026-03-08"
 slug: "rupee-at-87-what-it-means"
 categories: ["INDIA ECONOMY"]
 tags: ["rupee", "RBI", "forex", "exports", "india economy", "currency"]
-featured_image: ""
+featured_image: "/images/2026/03/rupee-at-87.jpg"
 draft: false
 ---
 

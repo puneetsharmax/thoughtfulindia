@@ -4,7 +4,7 @@ date: "2013-06-19"
 slug: "dream-closets-at-right-price"
 categories: ["FEATURED STORIES", "NAPERVILLE DIARY"]
 tags: ["advertising", "Cambridge Closets", "Char Desmond", "Closet Factory", "time"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: "2013-02-27"
 slug: "huawei-the-chinese-telecom-giant-a-spy-company"
 categories: ["BUSINESS", "BUSINESS NEWS", "FEATURED STORIES", "POLITICS"]
 tags: ["IME", "Mrs Todd", "Singapore", "Young Electronics Engineer"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

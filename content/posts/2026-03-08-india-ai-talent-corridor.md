@@ -4,7 +4,7 @@ date: "2026-03-08"
 slug: "india-ai-talent-corridor"
 categories: ["INDIA ECONOMY", "TECHNOLOGY", "WORLD POLITICS"]
 tags: ["AI", "talent", "india tech", "silicon valley", "immigration", "H1B"]
-featured_image: ""
+featured_image: "/images/2026/03/india-ai-talent-corridor.jpg"
 draft: false
 ---
 

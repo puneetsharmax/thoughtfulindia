@@ -4,7 +4,7 @@ date: "2010-11-07"
 slug: "racing-obama-uk-schmoozing-china-in-a-copy-cat-trip"
 categories: ["WORLD"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: "2013-09-11"
 slug: "booties-hot-fall-season"
 categories: ["INTERESTING", "LIFESTYLE"]
 tags: ["Blowfish Women Razberry", "dress", "Lazer Buckle Shooties", "style"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1524638431109-93d95c2f2f32?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

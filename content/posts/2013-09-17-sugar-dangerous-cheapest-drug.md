@@ -4,7 +4,7 @@ date: "2013-09-17"
 slug: "sugar-dangerous-cheapest-drug"
 categories: ["FEATURED STORIES", "LIFESTYLE"]
 tags: ["Aart Jan", "Aart Jan Van", "addiction", "people"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

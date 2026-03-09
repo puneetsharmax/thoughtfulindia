@@ -4,7 +4,7 @@ date: "2014-09-10"
 slug: "dad-makes-bullied-goth-teen-daughter-feel-loved-amazing-way"
 categories: ["FEATURED STORIES", "LIFESTYLE"]
 tags: ["bullying", "child", "sports", "teachers"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1524638431109-93d95c2f2f32?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

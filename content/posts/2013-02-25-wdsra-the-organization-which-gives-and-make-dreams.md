@@ -4,7 +4,7 @@ date: "2013-02-25"
 slug: "wdsra-the-organization-which-gives-and-make-dreams"
 categories: ["FEATURED STORIES", "LIFESTYLE", "NAPERVILLE DIARY"]
 tags: ["ADHD", "Carol Stream", "Mentally Challenged", "people", "time", "WDSRA"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

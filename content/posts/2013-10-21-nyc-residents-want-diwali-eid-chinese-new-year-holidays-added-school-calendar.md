@@ -4,7 +4,7 @@ date: "2013-10-21"
 slug: "nyc-residents-want-diwali-eid-chinese-new-year-holidays-added-school-calendar"
 categories: ["INTERESTING"]
 tags: ["holiday", "Muslim", "NYC", "schools"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

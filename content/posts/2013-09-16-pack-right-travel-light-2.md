@@ -4,7 +4,7 @@ date: "2013-09-16"
 slug: "pack-right-travel-light-2"
 categories: ["INTERESTING", "LIFESTYLE", "POSTCARDS"]
 tags: ["pack", "people", "style", "travel"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

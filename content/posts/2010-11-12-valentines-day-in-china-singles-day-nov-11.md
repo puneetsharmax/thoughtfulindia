@@ -4,7 +4,7 @@ date: "2010-11-12"
 slug: "valentines-day-in-china-singles-day-nov-11"
 categories: ["WORLD"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1462206092226-f46025ffe607?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

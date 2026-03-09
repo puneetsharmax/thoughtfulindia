@@ -4,7 +4,7 @@ date: "2014-09-18"
 slug: "alleviate-foot-pain"
 categories: ["FEATURED STORIES", "LIFESTYLE"]
 tags: ["Gel Heel Cushions", "Golf Ball Massage", "pack", "Strassburg Sock"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

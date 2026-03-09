@@ -4,7 +4,7 @@ date: "2011-08-30"
 slug: "is-perry-all-hat-and-no-cattle"
 categories: ["POLITICS", "WORLD POLITICS"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: "2010-11-03"
 slug: "can-infosys-move-out-of-murthys-shadow"
 categories: ["TECH"]
 tags: ["infosys", "Narayan Murthy"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

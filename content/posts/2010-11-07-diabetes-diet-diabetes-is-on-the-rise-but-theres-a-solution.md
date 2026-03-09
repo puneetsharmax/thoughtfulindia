@@ -4,7 +4,7 @@ date: "2010-11-07"
 slug: "diabetes-diet-diabetes-is-on-the-rise-but-theres-a-solution"
 categories: ["FOOD", "HEALTH &amp; SPIRITUALITY"]
 tags: ["diabetes on rise", "type 2 diabetes"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

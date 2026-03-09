@@ -4,7 +4,7 @@ date: "2012-08-28"
 slug: "posing-as-spy-conman-from-bihar-arrested-for-keeping-six-wives"
 categories: ["INTERESTING"]
 tags: ["IB", "time", "Vijay Kumar Singh", "wife"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

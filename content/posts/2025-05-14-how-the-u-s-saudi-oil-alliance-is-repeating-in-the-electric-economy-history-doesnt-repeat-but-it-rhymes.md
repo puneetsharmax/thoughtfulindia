@@ -4,7 +4,7 @@ date: "2025-05-14"
 slug: "how-the-u-s-saudi-oil-alliance-is-repeating-in-the-electric-economy-history-doesnt-repeat-but-it-rhymes"
 categories: ["FEATURED STORIES"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

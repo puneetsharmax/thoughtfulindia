@@ -4,7 +4,7 @@ date: "2014-02-03"
 slug: "around-world-8-folk-tales-think-global-arts-naperville"
 categories: ["Events", "FEATURED STORIES", "NAPERVILLE DIARY"]
 tags: ["Arts Foundation", "EVENT", "local", "ORGANIZER"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

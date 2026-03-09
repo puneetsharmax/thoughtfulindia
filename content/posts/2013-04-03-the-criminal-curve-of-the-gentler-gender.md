@@ -4,7 +4,7 @@ date: "2013-04-03"
 slug: "the-criminal-curve-of-the-gentler-gender"
 categories: ["BOOKS", "ENTERTAINMENT", "INTERESTING", "LIFESTYLE"]
 tags: ["Kalpana Swaminathan", "Madhulika Liddle", "Ruth Rendell", "Swati Kaushal"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

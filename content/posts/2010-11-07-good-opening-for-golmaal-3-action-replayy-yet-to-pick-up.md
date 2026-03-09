@@ -4,7 +4,7 @@ date: "2010-11-07"
 slug: "good-opening-for-golmaal-3-action-replayy-yet-to-pick-up"
 categories: ["ENTERTAINMENT"]
 tags: ["BOLLYWOOD", "diwali releases", "Vipul Shah"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

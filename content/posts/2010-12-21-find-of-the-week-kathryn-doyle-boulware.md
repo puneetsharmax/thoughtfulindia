@@ -4,7 +4,7 @@ date: "2010-12-21"
 slug: "find-of-the-week-kathryn-doyle-boulware"
 categories: ["FRESH FINDS", "NAPERVILLE DIARY"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

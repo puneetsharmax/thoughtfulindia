@@ -4,7 +4,7 @@ date: "2017-10-03"
 slug: "children-dying-due-deadly-dentistry"
 categories: ["FEATURED STORIES"]
 tags: ["Children", "doctor", "Result Death", "Texas Teen"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

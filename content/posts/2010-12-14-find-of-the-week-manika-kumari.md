@@ -4,7 +4,7 @@ date: "2010-12-14"
 slug: "find-of-the-week-manika-kumari"
 categories: ["FRESH FINDS", "NAPERVILLE DIARY"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

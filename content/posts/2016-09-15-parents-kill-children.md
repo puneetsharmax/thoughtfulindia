@@ -4,7 +4,7 @@ date: "2016-09-15"
 slug: "parents-kill-children"
 categories: ["FEATURED STORIES"]
 tags: ["Illegitimate Child", "india", "John List", "life"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

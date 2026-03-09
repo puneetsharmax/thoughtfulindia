@@ -4,7 +4,7 @@ date: "2014-12-06"
 slug: "sikh-woman-becomes-first-us-elected-city-council"
 categories: ["FEATURED STORIES", "POLITICS"]
 tags: ["college"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

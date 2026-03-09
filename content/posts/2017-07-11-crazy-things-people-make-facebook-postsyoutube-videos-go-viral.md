@@ -4,7 +4,7 @@ date: "2017-07-11"
 slug: "crazy-things-people-make-facebook-postsyoutube-videos-go-viral"
 categories: ["FEATURED STORIES"]
 tags: ["friendship", "holiday", "Pedro Riuz", "people"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

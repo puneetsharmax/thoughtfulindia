@@ -4,7 +4,7 @@ date: "2013-05-20"
 slug: "javed-akhtar-and-shabana-azmi-in-the-chicago-area-on-june-8"
 categories: ["BOLLYWOOD", "ENTERTAINMENT", "FEATURED STORIES", "NAPERVILLE DIARY"]
 tags: ["Drury lane", "eye on India", "farhan akhtar", "Javed Akhtar", "marriage", "Oakbrook Terrace", "Shabana Azmi", "teamworks in USA"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

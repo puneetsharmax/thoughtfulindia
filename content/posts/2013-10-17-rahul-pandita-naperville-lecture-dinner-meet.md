@@ -4,7 +4,7 @@ date: "2013-10-17"
 slug: "rahul-pandita-naperville-lecture-dinner-meet"
 categories: ["BOOKS", "Events", "FEATURED STORIES", "INTERESTING", "LIFESTYLE", "NAPERVILLE DIARY"]
 tags: ["IL", "Rahul Pandita", "RSVP", "Soman Dhar"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

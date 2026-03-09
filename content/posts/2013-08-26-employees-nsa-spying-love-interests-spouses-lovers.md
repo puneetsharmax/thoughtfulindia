@@ -4,7 +4,7 @@ date: "2013-08-26"
 slug: "employees-nsa-spying-love-interests-spouses-lovers"
 categories: ["FEATURED STORIES", "WORLD", "WORLD POLITICS"]
 tags: ["Dianne Feinstein", "LOVEINT", "NSA", "US"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: "2013-06-17"
 slug: "charlie-trotter-is-being-sued-for-selling-fake-42k-bottles-of-wine"
 categories: ["FEATURED STORIES", "FOOD", "WORLD"]
 tags: ["Chef Charlie Trotter", "Chicago Charlie Trotters", "New York", "Two New Yorkers"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

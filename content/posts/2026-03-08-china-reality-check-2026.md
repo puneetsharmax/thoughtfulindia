@@ -4,7 +4,7 @@ date: "2026-03-08"
 slug: "china-reality-check-2026"
 categories: ["INDIA POLITICS", "WORLD POLITICS", "CHINA"]
 tags: ["china", "india china relations", "demographics", "geopolitics"]
-featured_image: ""
+featured_image: "/images/2026/03/china-reality-check-2026.jpg"
 draft: false
 ---
 

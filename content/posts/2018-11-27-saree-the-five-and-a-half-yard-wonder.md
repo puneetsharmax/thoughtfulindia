@@ -4,7 +4,7 @@ date: "2018-11-27"
 slug: "saree-the-five-and-a-half-yard-wonder"
 categories: ["FEATURED STORIES"]
 tags: ["indian", "Indus Valley Civilization", "read", "sridevi"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

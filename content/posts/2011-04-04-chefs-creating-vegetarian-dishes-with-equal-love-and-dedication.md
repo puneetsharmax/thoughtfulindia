@@ -4,7 +4,7 @@ date: "2011-04-04"
 slug: "chefs-creating-vegetarian-dishes-with-equal-love-and-dedication"
 categories: ["FEATURED STORIES", "INTERESTING", "LIFESTYLE"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

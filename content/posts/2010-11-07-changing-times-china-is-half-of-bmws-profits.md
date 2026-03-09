@@ -4,7 +4,7 @@ date: "2010-11-07"
 slug: "changing-times-china-is-half-of-bmws-profits"
 categories: ["BUSINESS NEWS"]
 tags: []
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

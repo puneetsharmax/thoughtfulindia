@@ -4,7 +4,7 @@ date: "2017-10-10"
 slug: "labs-hip-gym-naperville"
 categories: ["FEATURED STORIES"]
 tags: ["christopher cundari", "energy", "GINA", "gym in naperville", "labs", "people", "Unlimited Classes"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

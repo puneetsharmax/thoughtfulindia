@@ -4,7 +4,7 @@ date: "2026-03-08"
 slug: "india-soft-power-moment"
 categories: ["INDIA POLITICS", "CULTURE", "WORLD POLITICS"]
 tags: ["soft power", "india culture", "yoga", "bollywood", "ayurveda", "diplomacy"]
-featured_image: ""
+featured_image: "/images/2026/03/india-soft-power-moment.jpg"
 draft: false
 ---
 

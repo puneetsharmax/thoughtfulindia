@@ -4,7 +4,7 @@ date: "2010-11-01"
 slug: "healthy-foods-to-keep-you-in-shape"
 categories: ["HEALTH &amp; SPIRITUALITY"]
 tags: ["healthy foods keep you in shape"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

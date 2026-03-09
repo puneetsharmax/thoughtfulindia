@@ -4,7 +4,7 @@ date: "2013-08-27"
 slug: "72-year-old-godman-accused-sexually-molesting-15-year-old-girl"
 categories: ["FEATURED STORIES", "INDIA POLITICS", "POLITICS"]
 tags: ["Asaram Bapu", "Ashram Bapu", "india", "Indian Parliament", "people"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 

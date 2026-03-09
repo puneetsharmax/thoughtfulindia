@@ -4,7 +4,7 @@ date: "2013-06-12"
 slug: "amish-tripathi-author-of-the-shiva-trilogy-coming-to-naperville"
 categories: ["FEATURED STORIES", "NAPERVILLE DIARY"]
 tags: ["Amish Tripathi", "books", "Indian Publishing", "Lord Shiva His"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&h=630&q=80"
 draft: false
 ---
 
