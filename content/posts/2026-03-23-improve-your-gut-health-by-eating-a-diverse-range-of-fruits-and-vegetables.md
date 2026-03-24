@@ -76,4 +76,6 @@ The prescription is not complicated, but it requires a shift in habit. Stop eati
 
 Your gut bacteria are not a static feature of your biology. They are a living community that responds, adapts, and transforms based on what you feed them. Every meal is an opportunity to cultivate diversity, to strengthen the ecosystem inside you, and through it, to build the foundation for a longer, healthier, and more resilient life.
 
-The most sophisticated health intervention available to most people is also the most ancient: eat widely, eat seasonally, and never stop changing what you eat.
+The most sophisticated health intervention available to most people is also the most ancient: eat widely, 
+
+eat seasonally, and never stop changing what you eat.
